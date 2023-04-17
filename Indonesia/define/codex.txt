@@ -103,3 +103,57 @@
 3=Dia adalah ketua OSIS di sekolah yang kompeten dan menyenangkan dengan gaya pembicaraan yang lucu dan kebiasaan buruknya membuka pakaian saat dia bersemangat.
 4=Kyousuke awalnya muncul di game palsu April Mop, dan penampilan aslinya yang pertama adalah di QP Shooting - Dangerous!!
 5=Memiliki perasaan romantis untuk seorang laki-laki bernama Kyupita, Kyousuke terus-menerus mengejar QP yang merupakan gambaran menusuk dari laki-laki yang dia cintai.
+
+< LORE_KRILALARIS >
+1=Krilalaris is a 13-year old girl living in abject poverty, often seen suffering from pangs of hunger and carrying around plush toys.
+2=Likes: Stew\nDislikes: Pickled food
+3=She is blessed with a strong case of chuunibyou, AKA eighth-grade syndrome, and you can always find her garbed in a gothic lolita style dress.
+4=Krilalaris believes using words like "blood" and "darkness" makes her look cool. Her true self is just a goofy and awkward girl.
+5=Krilalaris is excellent at sewing, and the elaborate clothes she wears are of her own making.
+
+< LORE_KAE >
+1=A reckless and energetic girl who lives her life freely, Kae is one of the Shifu Brands, humans altered for fighting.
+2=Likes: Cake\nDislikes: Dark and closed spaces, spicy food
+3=Kae often uses onomatopoeias to express herself.
+4=As the result of her operation, her body temperature rises and her body blazes up when she uses her powers.
+5=Kae is 18 years old, but the reckless modification surgery performed on her caused her to regress to infancy, and afterwards she was locked up in a dark place until a certain incident.
+
+< LORE_ALTE >
+1=Hingga umur 24 tahun, Alte tergabung dalam pertempuran besar.
+2=Likes: Her fiancé's homemade food\nDislikes: Instant food
+3=She ultimately sacrificed herself in an explosion when cornered by Sora, leaving her fiancé behind.
+4=The hard-headed soldier dotes on her fiancé. However, she isn't very good at cooking, and wants to get better at it.
+
+< LORE_SHAM >
+1=Sham is a physically altered human, with a body designed for combat. She is in her mid-twenties.
+2=Likes: Chocolate, cute things\nDislikes: Fighting
+3=Sham is the operator who taught Sora the basics of combat. When off duty, she's usually such a ball of energy it can annoy people around her.
+4=Her war experience makes her uncompromising when in battle. After the end of the war, Sham has been looking to do something new.
+5=Sham doesn't care about the scar on her face, believing she's supremely cute even with it.
+
+< LORE_KYOKO >
+1=Being in her twenties, Kyoko is the oldest of the Shifu Brands, humans altered for fighting.
+2=Likes: Seasonal fruits\nDislikes: Pain
+3=Always appearing calm and balanced, Kyoko may look like an unapproachable ice queen, but in reality she's very caring and supportive.
+4=After a modification surgery, she gained the ability to manipulate ice crystals, but with a side effect of infrequent jolts of pains through her entire body.
+5=Because of that, she dislikes using the word "pain" to describe mere annoyances, and prefers to use the word "annoying." Consequently, when she says something is annoying, she may also mean it's painful.
+
+< LORE_SHERRY >
+1=A 23 year old female aviator, Sherry speaks in a calm, polite manner and hardly ever raises her voice. That makes her appear a very peaceful and aloof person, but she actually has a sensitive, thoughtful, and competitive nature underneath.
+2=Likes: Overhauling\nDislikes: Rules and regulations.
+3=She can lose herself in whatever she has decided to do, and that tendency is further amplified when she's holding the control stick.
+4=Sherry used to belong to the pilot organization called the Guild, but left it for the sake of flying in the sky freely. In her Guild days, she used to work with Islay - her friend and rival. They are still on good terms.
+5=Sherry's father is an aircraft mechanic. Helping her father with his job led her to decide she could become a better mechanic by becoming a pilot herself rather than simply asking pilots about their airplanes - and she did.
+
+< LORE_SWEETBREAKER >
+1=As one of the Six Sweet Gods, Sweet Breaker has the role of erasing all the records of sweets that have potential to cause chaos in the world. She once fought QP over the existence of pudding, and was defeated.
+2=Likes: Sweets that aren't too sweet, order\nDislikes: Extremely spicy food
+3=Sweet Breaker is a rigid moralist with an attitude similar to that of a school prefect. She does her job without letting her personal feelings get in the way.
+4=The real name of the 16-year-old girl is Amami.
+
+< LORE_STARBREAKER >
+1=Star Breaker berusia 16 tahun.
+2=Likes: Baking, fireworks\nDislikes: Losing
+3=She was originally an altered human produced by a certain country in an attempt to end a stalemated war by destroying the entire planet, which was by then heavily contaminated.
+4=Star Breaker was the detonator to a bomb able to destroy the entire planet. In the operation to turn her into a living fuse, Star Breaker died and was brought back to life so many times that she completely lost her sanity. In the end, Sora stopped her.
+5=In the peaceful world of 100% Orange Juice, Star Breaker still makes threatening comments, but is considerably mellower than the original.
