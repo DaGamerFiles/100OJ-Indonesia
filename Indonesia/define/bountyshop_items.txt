@@ -94,7 +94,6 @@ name=Red Bean Ice Cream
 descr=Efek Stock: Dapat +1 ATK. Efek ini akan hilang apabila KO. Tidak dapat ditumpuk.
 
 // Armory
-
 < ITEM_WOODENSHIELD >
 name=Perisai Kayu
 descr=Perisai yang melindingi dari Damage sebesar 1. Akan hilang setelah 2 hit, atau setelah 1 battle.
@@ -118,3 +117,47 @@ descr=Efek Stock: Pada saat battle berikutnya, musuh akan dapat -1 ATK, DEF dan 
 < ITEM_MERCENARY >
 name=Prajurit Bayaran
 descr=Memanggil prajurit bayaran. Dia akan menyerang siapapun (kecuali si pemanggil) ketika bertemu di Field. Jika unit KO oleh prajurit bayaran, 50% bintang akan hilang, dan sisanya diberikan ke prajurit bayaran.
+
+< ITEM_PHILOSOPHERSTONE >
+name=Philosopher's Stone
+descr=Dapat +4 stars per chapter, dan tambahan +1 bintang setiap 5 chapter. Hanya bisa dibeli sekali, untuk setiap biaya dari semua bintang milikmu (minimal 120).
+
+< ITEM_REC_BOOST_LV1 >
+name=Potion of Vigor
+descr=Mengurangi 1 REC saat KO berikutnya.
+
+< ITEM_REC_BOOST_LV2 >
+name=Potion of Vitality
+descr=Mengurangi 2 REC saat KO berikutnya.
+
+< ITEM_REC_BOOST_LV3 >
+name=Phoenix Essence
+descr=Mengurangi 3 REC saat KO berikutnya.
+
+< ITEM_ANTITIRED >
+name=Energizer
+descr=Mengurangi 1 REC secara permanen. Hanya bisa dibeli sekali.
+
+< ITEM_GUARDIAN >
+name=Guardian
+descr=Memanggil Guardian ke field. Akan mengintai dan melawan quest Bounty apa pun yang diambil. Tidak bisa menyerang pemain lain, tapi pemain lain bisa menyerang.\nLevel: Level kamu pada saat memanggil.\nStar yang dipegang: Biaya pemanggilan.\nKartu yang dipegang: Big Magnum, Rbits, Extension, Saki's Cookie
+
+< ITEM_FAE >
+name=Aurora
+descr=Summon Aurora on the field. She will heal your unit by 1 HP every even chapter. If you are KO'd, she will revive you instead with half your max HP. Cannot attack other players, but other players can attack her. No stars or cards held.
+
+< ITEM_LEATHERBOOTS >
+name=Leather Boots
+descr=+1 MOV, and another +1 if carrying no quest item. Purchasing this item will replace your current pair of shoes.
+
+< ITEM_GALESHOES >
+name=Gale Shoes
+descr=+1 MOV, and another +2 if carrying no quest item and having less than 2 cards. Purchasing this item will replace your current pair of shoes.
+
+< ITEM_SPIKEDSHIELD >
+name=Spiked Shield
+descr=A shield with spikes reducing incoming damage by 1. If your defense roll is greater than the opponent's attack roll, reflect damage equal to half of the attack value back to the opponent. Removed after 1 battle.
+
+< ITEM_BATTLEAXE >
+name=Executioner
+descr=Permanently gain +1 ATK, but also -1 EVD. This can only be purchased once.
