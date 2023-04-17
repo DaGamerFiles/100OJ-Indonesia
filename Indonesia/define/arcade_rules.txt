@@ -33,10 +33,10 @@ Jumlah Dart
 Kecepatan Poppo
 
 < ARCADE_MINIGAME_RULE_FAF_ABILITIES >
-Abilities
+Kemampuan
 
 
 < ARCADE_MINIGAME_OPTION_INFINITE >
-Infinite
+Tak Terbatas
 
 [EOF]
