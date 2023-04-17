@@ -12,11 +12,11 @@ descr=Tas berisi angin yang sangat dingin. Jika sembarangan memegangnya bisa ber
 
 < INVENTORY_FLOUR >
 name=Never-Ending Flour
-descr=Sekarung tepung yang tidak pernah habis. Ada ada di dalamnya ?
+descr=Sekarung tepung yang tidak pernah habis. Ada apa di dalamnya?
 
 < INVENTORY_BROKENBLADE >
 name=Broken Blade
-descr=.Senjata rusak yang terjatuh.
+descr=Senjata rusak yang terjatuh.
 
 < INVENTORY_TROLLITEHORN >
 name=Trollite Horn
