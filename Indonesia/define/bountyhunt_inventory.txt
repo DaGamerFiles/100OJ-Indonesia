@@ -1,6 +1,6 @@
 < INVENTORY_MEDICINALHERB >
 name=Medicinal Herb
-descr=Ramuan yang bisa memulihkan.
+descr=Ramuan yang bisa menyembuhkan.
 
 < INVENTORY_TURNISLIME >
 name=Turni-slime
