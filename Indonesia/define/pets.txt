@@ -1,0 +1,234 @@
+﻿< PET_BARREL >
+name=Red Barrel
+descr=Red Barrel siap untuk terbang! 
+
+< PET_CAT >
+name=Kucing
+descr=Makhluk yang sangat sulit di tangkap dengan tatapan sombong.
+
+
+< PET_CHICKEN >
+name=Chicken
+descr=Menghindar saat tidak ada lagi yang mendekat.
+
+
+< PET_FRUITBAT >
+name=Fruitbat
+descr=Kelelawar yang terobsesi dengan jeruk.
+
+
+< PET_GHOST >
+name=Hantu
+descr=Siapa itu di belakangmu?
+
+
+< PET_LEO >
+name=Leo
+descr=Binatang kegelapan yang suka menari.
+
+
+< PET_NAVI >
+name=Navi
+descr=Makhluk apa ini?
+
+< PET_PLANT >
+name=Plant
+descr=Menggigit tangan siapapun yang memberinya makan.
+
+
+< PET_RABBITPLUSH >
+name=Kelinci Mewah
+descr=Kemewahan ini mungkin dimiliki dia.
+
+
+< PET_RACCOON >
+name=Racoon
+descr=Apakah itu rakun? atau anjing? Bisakah itu berubah?
+
+
+< PET_RBIT >
+name=Rbit
+descr=Formasi Orbit!
+
+
+< PET_REDBLUE >
+name=Merah & Biru
+descr=White Christsmasher!
+
+
+< PET_ROBOBALL >
+name=Roboball
+descr=Mekanisme kecil di hati setiap orang.
+
+
+< PET_SB_BOMB >
+name=SB Bomb
+descr=Jangan jatuhkan ini.
+
+
+< PET_SEAGULL >
+name=Burung Camar
+descr=Nomor favoritnya adalah tujuh.
+
+< PET_SEARCHLIGHT >
+name=Lampu sorot
+descr=Terlihat sedang mencari seseorang.
+
+
+< PET_SHIBE >
+name=Shiba Inu
+descr=Setia pada suatu kesalahan.
+
+< PET_SNOWBUNNY >
+name=Kelinci salju
+descr=Jaga tetap dingin.
+
+
+< PET_THINKBUBBLE >
+name=Bubble Berpikir
+descr=Apa yang kamu pikirkan?
+
+< PET_EVENT_REIN >
+name=Rein
+descr=Pembantu Aru yang bisa dipercaya. Berlibur 364 hari dalam setahun.
+
+
+< PET_EVENT_PRESENT >
+name=Hadiah
+descr=Hadiah luar biasa yang menghangatkan hati.
+
+
+
+< PET_EVENT_PIG>
+name=Pig
+descr=Apakah babi bisa terbang?
+
+< PET_LIZARD >
+name=Lizard
+descr=Mungkin atau tidak bisa hidup di dasar bumi.
+
+< PET_DWARF>
+name=Dwarf
+descr=Sekarang benar-benar memenuhi namanya.
+
+< PET_PIYO_EGGSHELL>
+name=Piyo (Eggshell)
+descr=Yang mana yang lebih dulu - piyo atau telur?
+
+< PET_PIYO>
+name=Piyo
+descr=Piyo yang datang pertama.
+
+< PET_TORTOISE>
+name=Tortoise
+descr=Selalu memenangkan lomba... akhirnya.
+
+< PET_UFO>
+name=UFO
+descr=Selalu berusaha menangkap sesuatu yang langka. 
+
+< PET_SHARK>
+name=Shark
+descr=Rahangnya yang mengancam akan terlihat bagus di poster.
+
+< PET_FROG>
+name=Frog
+descr=Seekor katak yang tidak terlalu menyukai hujan.
+
+< PET_BIT>
+name=Bit
+descr=Sedikit energik.
+
+< PET_SLIME>
+name=Slime
+descr=Dikatakan memiliki rasa yang manis.
+
+< PET_GOLDENEGG >
+name=Telur Emas
+descr=Telur spesial yang bisa menetas lebih dari satu kali.
+
+< PET_M10EYE >
+name=M10 Eye
+descr=Itu bisa melihat angka imajinasi, kah ?
+
+< PET_STAR >
+name=Elusive Star
+descr=Datang dari galaksi yang berbeda.
+
+
+< PET_AIRSHIP >
+name=Airship
+descr=Datang untuk memberikan bantuan dari udara.
+
+< PET_BUTTERFLY >
+name=Kupu-kupu
+descr=50% Kupu, 50% Kupu.
+
+< PET_CUPCAKE >
+name=Cupcake
+descr=Di panggang dengan suhu 176 derajat Celcius (350 F).
+
+< PET_BOSS_HARUO >
+name=Haruo
+descr=Memiliki hati emas.
+
+< PET_BOSS_JONATHAN >
+name=Big the Jonathan
+descr=Tidak terlalu besar.
+
+< PET_BOSS_M10 >
+name=M10
+descr=Natural 7 keluar dari M10.
+
+< PET_BOSS_ROPOCHI >
+name=RoPoChi
+descr=GUPPIPOO!
+
+< PET_BOSS_STARDEV >
+name=Star Devourer
+descr=Mampu pindah ke mana saja di dunia.
+
+< PET_OCTOPUS >
+name=Octopus
+descr=Dapat menangani delapan tugas sekaligus.
+
+< PET_SEAL >
+name=Seal
+descr=Segel Kesepakatan.
+
+< PET_SQUID >
+name=Squid
+descr=Lepaskan kraken.
+
+< PET_MANDRAKE >
+name=Mandrake
+descr=Berurusan dengan beberapa masalah.
+
+< PET_SUN >
+name=Sun
+descr=Memancarkan radiasi.
+
+< PET_SEABUNNY >
+name=Seabunny
+descr=Santa laut.
+
+< PET_ROBOFISH >
+name=Robofish
+descr=Di program untuk terus berenang.
+
+< PET_WATERMELON >
+name=Watermelon
+descr=Selamat dari kemarahan Summer Beast.
+
+< PET_EVENT_POMENARIAN >
+name=Pomeranian
+descr=Anjing yang agak bodoh.
+
+< PET_EVENT_PUDDING >
+name=Pudding
+descr=Makanan favorit anjing dan penyihir di seluruh alam semesta.
+
+< PET_EVENT_PUFFERFISH >
+name=Pufferfish
+descr=Sombong karena bangga.
+

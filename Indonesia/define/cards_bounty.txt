@@ -1,0 +1,61 @@
+< CARD_BOUNTY_TURNISLIME_HUNT >
+name=Turnislime
+descr=Turnislime akan membuatmu kena -1 ATK selama Battle.
+flavor=
+
+< CARD_BOUNTY_TROLLITE_HUNT >
+name=Trollite
+descr=Setiap giliran dalam Battle, Trollite akan dapat -1 ATK.
+flavor=
+
+< CARD_BOUNTY_MOUSSE_HUNT >
+name=Mousse
+descr=Mousse akan mengambil Lvl x bintang setiap dia menyerangmu.
+flavor=
+
+< CARD_BOUNTY_DOLL_HUNT >
+name=Haunted Doll
+descr=Haunted Doll akan menakutimu dari 1 HP di akhir ronde Battle.
+flavor=
+
+< CARD_BOUNTY_HELISEED_HUNT >
+name=Heliseed
+descr=Encounter akan berakhir jika Heliseed tidak KO setelah 3 giliran Battle.
+flavor=
+
+< CARD_BOUNTY_BLIZARD_HUNT >
+name=Bunnizard
+descr=Bunnizard dapat +1 ATK, DEF atau EVD secara acak setelah giliran Battle berlangsung.
+flavor=
+
+< CARD_BOUNTY_GRASSINFIMARY_QUEST >
+name=
+descr=Aku ingin membuat obat baru menggunakan beberapa tumbuhan herbal. Bisakah kau membantuku mendapatkannya ?
+flavor=- Innkeeper
+
+< CARD_BOUNTY_SWAMPINFIMARY_QUEST >
+name=
+descr=Salah satu pelanggan kami mengatakan bahwa slime dapat digunakan untuk membuat minuman. Aku berharap itu benar...
+flavor=- Innkeeper
+
+< CARD_BOUNTY_CAVEBAKERY_QUEST >
+name=
+descr=Aku tidak sengaja menjatuhkan sesuatu di dalam gua yang dibutuhkan untuk membuat es krim...
+flavor=- Sky Baker
+
+< CARD_BOUNTY_CASTLEBAKERY_QUEST >
+name=
+descr=Hehehe, kita meminta beberapa tepung yang akan dikirim dari kastil tapi masih belum tiba. Aku ingin tahu apakah aku harus meledakkan mereka ?
+flavor=- Star Baker
+
+< CARD_BOUNTY_RUINARMORY_QUEST >
+name=
+descr=Banyak petualang menghilang tiba-tiba di sebuah reruntuhan. Bisakah kamu melihat-lihat dan mengambil senjata yang terbuang di sana ?
+flavor=- Blacksmith
+
+< CARD_BOUNTY_CAVEARMORY_QUEST >
+name=
+descr=Tanduk Trollite yaitu bahan yang luar biasa untuk membuat senjata, tapi aku kehabisan itu. Mereka mengganti tanduk mereka setiap 3 hari sehingga harus ada beberapa yang berbaring di tempat persembunyian mereka.
+flavor=- Blacksmith
+
+[EOF]

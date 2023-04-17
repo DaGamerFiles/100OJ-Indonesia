@@ -1,0 +1,107 @@
+< CHALLENGE_TOOLTIP_REROLL >
+Bayar %d bintang untuk ganti challenge yang berbeda.
+
+< CHALLENGE_TOOLTIP_STARCOUNT >
+Bintang saat ini : %d
+
+< CHALLENGE_GENERIC_PLAYS >
+Mainkan sebanyak %dx.
+
+< CHALLENGE_GENERIC_WINS >
+Menang sebanyak %dx.
+
+< CHALLENGE_GENERIC_STARS >
+Kumpulkan %d bintang.
+
+< CHALLENGE_GENERIC_KOS >
+Dapatkan %d win.
+
+< CHALLENGE_GENERIC_STAR_WINS >
+Menang sebanyak %dx dengan Norma bintang.
+
+< CHALLENGE_GENERIC_KO_WINS >
+Menang sebanyak %dx dengan Norma win.
+
+< CHALLENGE_GENERIC_PANELS >
+Pindah ke beberapa panel sebanyak %dx.
+
+< CHALLENGE_GENERIC_TRAPS >
+Pasang %d trap.
+
+< CHALLENGE_GENERIC_STAR_NORMAS >
+Selesaikan %d norma bintang.
+
+< CHALLENGE_GENERIC_WIN_NORMAS >
+Selesaikan %d norma win.
+
+< CHALLENGE_GENERIC_DAMAGE_DEALT >
+Deal %d damage.
+
+< CHALLENGE_GENERIC_HEALING >
+Heal %d HP.
+
+< CHALLENGE_GENERIC_PLAY_BOOST >
+Pakai %d Boost cards.
+
+< CHALLENGE_GENERIC_PLAY_EVENT >
+Pakai %d Event cards.
+
+< CHALLENGE_GENERIC_PLAY_BATTLE >
+Pakai %d Battle cards.
+
+< CHALLENGE_UNIT_PLAYS >
+Mainkan sebanyak %dx sebagai %s.
+
+< CHALLENGE_UNIT2_PLAYS >
+Mainkan sebanyak %dx sebagai %s atau %s.
+
+< CHALLENGE_UNIT_WINS >
+Menang sebanyak %dx sebagai %s.
+
+< CHALLENGE_TYPE_UNIT_STAR_NORMAS >
+Selesaikan %d norma bintang sebagai %s.
+
+< CHALLENGE_TYPE_UNIT_WIN_NORMAS >
+Selesaikan %d norma win sebagai %s.
+
+< CHALLENGE_CARD_BRING >
+Pasang salah satu kartu %s ke %d permainan saat Deck.
+
+< CHALLENGE_CARD_PLAY >
+Mainkan %s %dx.
+
+< CHALLENGE_CARD2_BRING >
+Pasang salah satu kartu %s atau %s ke %d permainan saat Deck.
+
+< CHALLENGE_CARD2_PLAY >
+Mainkan %s atau %s %dx.
+
+< CHALLENGE_MAP_PLAY >
+Mainkan sebanyak %dx di %s.
+
+< CHALLENGE_MAP2_PLAY >
+Mainkan sebanyak %dx di %s atau %s.
+
+< CHALLENGE_TYPE_EVENT_VDAY_CHOCOLATE >
+Gunakan dadu coklat untuk KO %d pemain.
+
+< CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
+Gunakan dadu hati untuk mengumpulkan %d bintang dari panel bonus.
+
+< CHALLENGE_TYPE_EVENT_XMAS_ICE >
+Melewati lebih dari %d panel es.
+
+< CHALLENGE_LABEL_CURRENT >
+Challenge saat ini
+
+< CHALLENGE_MESSAGE_EVENT_NOT_LOADED >
+Harap tunggu, mengambil status event saat ini...
+
+< CHALLENGE_MESSAGE_DAYS >
+hari
+
+< CHALLENGE_MESSAGE_REROLL_CONFIRM >
+Apa kamu yakin ingin mengubah Challenge ini ?
+
+[EOF]
+

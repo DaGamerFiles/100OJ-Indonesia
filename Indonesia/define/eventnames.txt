@@ -1,0 +1,10 @@
+< EVENTNAME_MINIONS_OF_THE_MASTER >
+Minions of the Master
+
+< EVENTNAME_MASTER_OF_THE_MINIONS >
+Master of the Minions
+
+< EVENTNAME_BOUNTY_HUNTERS >
+Bounty Hunter
+
+[EOF]

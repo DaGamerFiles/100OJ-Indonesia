@@ -1,0 +1,156 @@
+<0000> Like this.
+<0001> That's it.
+<0002> There we go.
+<0003> Hmph.
+<0004> I'll be using a card.
+<0005> I'll go with this card.
+<0006> This, perhaps?
+<0007> How's this?
+<0008> I'm setting this down.
+<0009> Should I put this here?
+<0010> I'm laying down a card.
+<0011> I hope this catches someone.
+<0012> Then I'll go with this card.
+<0013> My trump card.
+<0014> Surprise.
+<0015> I have this.
+<0016> Hmph, fall before me.
+<0017> Allow me to resume.
+<0018> Good grief.
+<0019> Let's continue.
+<0020> I hate waiting.
+<0021> These things happen.
+<0022> No big deal.
+<0023> Whatever.
+<0024> I don't care.
+<0025> Eat this.
+<0026> Take this.
+<0027> This is going to hurt!
+<0028> Behave yourself!
+<0029> Oww!
+<0030> The nerve!
+<0031> How dare you!
+<0032> Kyaa.
+<0033> What a relief.
+<0034> Good grief.
+<0035> Phew.
+<0036> Not bad.
+<0037> What? What's going on?
+<0038> Ah... H-hold on!
+<0039> W-where are you taking me?
+<0040> Escort me properly!
+<0041> No way.
+<0042> I was negligent.
+<0043> My goodness.
+<0044> What are you doing?!
+<0045> Prepare yourself.
+<0046> You're in the way.
+<0047> Out of the way.
+<0048> Fight me.
+<0049> I won't show mercy.
+<0050> I'm ready.
+<0051> You've got some nerve.
+<0052> I'll make you regret this.
+<0053> Fall before me!
+<0054> Eat lead.
+<0055> Eat this!
+<0056> Here I go!
+<0057> Geh.
+<0058> Ngh.
+<0059> I'm not done yet.
+<0060> That hurts.
+<0061> Cut it out!
+<0062> Hold on!
+<0063> That hurts!
+<0064> Kyaa!
+<0065> Not good enough.
+<0066> You've got a ways to go.
+<0067> Is that all you've got?
+<0068> Oh, how simple.
+<0069> Naturally.
+<0070> My apologies.
+<0071> Oh, it's over?
+<0072> Do come again.
+<0073> You'll pay for this.
+<0074> This... doesn't bother me.
+<0075> How dare you.
+<0076> Ha... hahahaha.
+<0077> I'll take these.
+<0078> Well, not bad.
+<0079> I accept.
+<0080> Just what I was waiting for.
+<0081> Just a trifle.
+<0082> Hmph.
+<0083> Heheh.
+<0084> What? That much?
+<0085> Oh no!
+<0086> What the heck?
+<0087> Ngh.
+<0088> Someone set a trap!
+<0089> Did you think I would be afraid?
+<0090> Oh, it seems like something's here.
+<0091> ...It's huge.
+<0092> You're not as tough as you look.
+<0093> I'll collect stars.
+<0094> Well, I'll collect them right away.
+<0095> So many is kind of a pain.
+<0096> It's okay if I steal them, right?
+<0097> I dislike savagery, but...
+<0098> It's the same either way.
+<0099> There's no need to hold back, right?
+<0100> Hahaha... this has gotten fun.
+<0101> A good decision.
+<0102> I'm prepared.
+<0103> Oh, greetings.
+<0104> M-me?
+<0105> I'm heading out.
+<0106> Now then, let us begin.
+<0107> Oh good grief.
+<0108> Allow me to enjoy this.
+<0109> The obvious outcome.
+<0110> This is no big deal.
+<0111> Are we done now?
+<0112> I-it seems I won...
+<0113> I don't have this yet.
+<0114> This is pretty good.
+<0115> Should I try using it?
+<0116> Oh, how splendid.
+<0117> Understood.
+<0118> Very nice.
+<0119> Yes.
+<0120> No.
+<0121> What's this?
+<0122> Whatever.
+<0123> What is it?
+<0124> Let's head out.
+<0125> How will it go?
+<0126> I'm going.
+<0127> Greetings.
+<0128> Ngh.
+<0129> Very good.
+<0130> Amazing!
+<0131> Hmph.
+<0132> Allow me to use this.
+<0133> May I use this?
+<0134> What a card!
+<0135> This is a pretty good card.
+<0136> Oh, greetings.
+<0137> Give up on being a pilot already.
+<0138> How dare you!
+<0139> Isn't that dress a bit short?
+<0140> Stop speaking in such a strange manner.
+<0141> Children should go home.
+<0142> You plane fanatics are all idiots!
+<0143> You're a pilot too?
+<0144> ...Whoa.
+<0145> How vulgar...
+<0146> A pervert has appeared.
+<0147> Ah... I can't see anything.
+<0148> Such a cheap flavor...
+<0149> To... lose to a lowly beast!
+<0150> I want this for my home.
+<0151> This really was a nuisance.
+<0152> They made such a stupid thing.
+<0153> I'm not angry, okay?
+<0154> What a shameless card!
+<0155> I'm borrowing your power!

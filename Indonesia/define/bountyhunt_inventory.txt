@@ -1,0 +1,68 @@
+< INVENTORY_MEDICINALHERB >
+name=Medicinal Herb
+descr=Ramuan yang bisa memulihkan.
+
+< INVENTORY_TURNISLIME >
+name=Turni-slime
+descr=Dulu merupakan bagian dari tubuh Turnislime.
+
+< INVENTORY_CHILLINGWIND >
+name=Bag of Chilling Wind
+descr=Tas berisi angin yang sangat dingin. Jika sembarangan memegangnya bisa berbahaya dan langsung membeku.
+
+< INVENTORY_FLOUR >
+name=Never-Ending Flour
+descr=Sekarung tepung yang tidak pernah habis. Ada ada di dalamnya ?
+
+< INVENTORY_BROKENBLADE >
+name=Broken Blade
+descr=.Senjata rusak yang terjatuh.
+
+< INVENTORY_TROLLITEHORN >
+name=Trollite Horn
+descr=Tanduk yang dulunya milik Trollite. Jika ada salah satunya, akan muncul masalah yang mengintainya.
+
+< INVENTORY_MISTYSAP >
+name=Misty Sap
+descr=Getah dari pohon. Rasanya manis.
+
+< INVENTORY_CACTUS >
+name=Cactus
+descr=Kaktus dari gurun yang berisi air di dalamnya.
+
+< INVENTORY_GOST >
+name=Göst Spirit
+descr=Göst lesu yang lucu.
+
+< INVENTORY_WOLLY >
+name=Wolly Milk
+descr=Susu segar dari Wolly.
+
+< INVENTORY_BUCKET >
+name=Empty Bucket
+descr=Ember kosong yang bisa digunakan untuk membawa barang.
+
+< INVENTORY_HEATGLOVES >
+name=Heat-Resistant Gloves
+descr=Sarung tangan yang mampu bertahan pada suhu tinggi.
+
+< INVENTORY_GLOBBU >
+name=Globbu
+descr=Magmatic iseng yang suka membakar siapapun.
+
+< INVENTORY_SANDALS >
+name=Wooden Sandals
+descr=Sendal yang memungkinkan berlari cepat tanpa melukai kaki. Menambahkan +1 MOV.
+
+< INVENTORY_LEATHERBOOTS >
+name=Leather Boots
+descr=Karya terbaru seorang pengrajin dimana itu merupakan peningkatan dari sandal dan sepatu biasa. Menambahkan +1 MOV, dan 1 tambahan jika tidak membawa item dari misi.
+
+< INVENTORY_GALESHOES >
+name=Gale Shoes
+descr=Memiliki sihir yang kuat, kamu tidak akan merasa lelah saat memakai sepatu ini. Menambahkan +1 MOV, dan 2 tambahan jika tidak membawa item dari misi dan memiliki kartu kurang dari 2.
+
+// Winter 2020 Event Special Item
+< INVENTORY_DELICACY >
+name=Delicacy
+descr=Morsel lezat untuk masakan. Kumpulkan hingga 3 dalam 1 permainan.

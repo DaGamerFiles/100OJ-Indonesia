@@ -1,0 +1,105 @@
+< LORE_SUGURI >
+1=Gadis yang terlihat seperti 14 tahun selamanya.
+2=Kesukaan: Planet Bumi\nHal yang tidak disukai: Konflik
+3=Suguri telah menghabiskan lebih dari 10.000 tahun memulihkan Bumi yang hancur. Gadis yang tenang dan pendiam itu tidak pernah ragu untuk melakukan perlawanan demi melindungi Bumi dan rakyatnya.
+4=Dia mampu menciptakan alat yang dia butuhkan dan terbang di udara dengan kecepatan luar biasa.
+
+< LORE_QP >
+1=Gadis hybrid human-Pomeranian yang selalu menjadi bola energi, QP adalah gadis yang aneh dan jujur yang tertarik akan kegembiraan.
+2=Kesukaan: Pudding\nHal yang tidak disukai: Pembully-an
+3=Dia menyukai segala jenis pudding, dan kegembiraannya akan pudding tidak pernah gagal mencapai puncaknya.
+4=Dia juga akrab dengan kelinci.
+
+< LORE_KAI >
+1=Kai adalah laki-laki biasa berusia 18 tahun.
+2=Kesukaan: Benjamin\nHal yang tidak disukai: Masalah
+3=Makhluk misterius Marie Poppo telah mencuri dompetnya, sehingga dia mengejarnya dan berakhir di banyak dunia yang berbeda.
+4=Meskipun dia adalah protagonis di 100% Orange Juice, Kai tidak memiliki karakteristik yang luar biasa. Fakta itu mengganggunya, tetapi dia mencoba menghibur dirinya dengan paksa untuk mengatasinya.
+
+< LORE_MARC >
+1=Gadis berusia 16 tahun yang bercita-cita menjadi pilot sejak kecil dan sekarang sudah menjadi seorang pilot. Dia gadis yang termotivasi, rajin, dan pekerja keras, terkadang bisa sangat keras kepala.
+2=Kesukaan: Sesuatu yang berwarna merah, apel\nHal yang tidak disukai: Mereka yang menyusahkan orang lain
+3=Marc lebih muda dari siapa pun di Guild, sebuah organisasi yang dibentuk dan dijalankan oleh para pilot. Pesawat kepercayaannya "Red Barrel" secara harfiah terlihat seperti tong berwarna merah.
+4=Dua hal yang menjengkelkan bagi Marc adalah anak laki-laki bernama Peat yang terus-menerus menyusahkannya karena mengambil posisinya sebagai yang termuda di Guild, dan sahabatnya Fernet mempermainkannya setelah persahabatan mereka putus karena pertengkaran.
+5=Hal yang membuat Marc kecewa terakhir adalah harus mencari pekerjaannya sendiri karena Guildmaster mengamuk dan menyebabkan Guild runtuh.
+
+< LORE_HIME >
+1=Gadis lemah lembut yang berusia sekitar 14 tahun.
+2=Kesukaan: Atmosfir\nHal yang tidak disukai: Kekosongan ruang
+3=Hime telah hidup selama lebih dari 10.000 tahun tanpa menua secara fisik. Dia dulu memainkan peran sebagai penjaga manusia yang meninggalkan Bumi untuk melakukan perjalanan ke luar angkasa karena alasan tertentu.
+4=Sekarang dia kembali ke Bumi dan selesai melindungi orang-orang, Hime menjalani kehidupan yang santai dan tenang.
+5=Sikap santai dan anggun Hime mengingatkan salah satu gadis yang dibesarkan dengan baik yang menerima semua orang dan segalanya. Umurnya yang panjang telah memberinya pandangan yang tenang dan menarik tentang kehidupan sehari-hari, walau dia masih bertindak dan berbicara dengan cara yang sesuai dengan usianya.
+
+< LORE_FERNET >
+1=Anak perempuan dari keluarga kaya, Fernet berusia 16 tahun dan merupakan teman masa kecil Marc.
+2=Kesukaan: Orang Tuanya\nHal yang tidak disukai: Orang yang tidak elegan/hal lainnya yang tidak elegan
+3=Fernet bukan berasal dari keluarga bangsawan. Sebaliknya, ayahnya menjadi jutawan selama pertumbuhan pesat industri penerbangan. Saat Fernet masih kecil, dia kesulitan bergaul dengan anak-anak dari keluarga kaya lainnya, jadi orang tuanya memutuskan untuk mengirimnya ke sekolah bagi anak-anak biasa, di mana dia bertemu dan berteman dengan Marc.
+4=Saat kedua gadis itu tumbuh dewasa, persahabatan mereka mengalami masa rumit karena Marc memutuskan ingin menjadi penerbang, dan Fernet tidak menyukai itu.
+5=Fernet tidaklah egois, tetapi dia ada di usia di mana dia merasa malu untuk mengungkapkan perasaannya, dan akibatnya terdengar blak-blakan dan tidak dipikirkan. Dia juga merasa harus melangkah lebih jauh agar cocok dengan keluarga kaya lainnya.
+
+< LORE_YUKI >
+1=Gadis bertelinga kucing yang terlihat berusia 16 tahun dan berbicara menggunakan dialek Kansai.
+2=Kesukaan: Manga\nHal yang tidak disukai: Orang yang sombong
+3=Yuki senang membully gadis anjing QP; Saat QP bermain game Shooting, Yuki mencuri makanan favorit QP, yaitu pudding dan bahkan merusak makanan penutupnya dengan menambahkan kecap asin tepat di depannya.
+4=Diktator yang percaya diri dan mendominasi ini memimpin sekelompok anak nakal yang disebut Waruda, menghabiskan sebagian besar waktunya untuk bergaul dengan para anggota.
+
+< LORE_POPPO >
+1=Marie Poppo adalah maskot yang nakal dari 100% Orange Juice.
+2=Kesukaan: Bintang\nHal yang tidak disukai: Tempat yang tenang
+3=Dia suka bercanda dengan orang lain dan berpikir dia yang paling imut di seluruh dunia.
+4=Poppo cenderung berbicara dengan suara "poppo", tetapi sebenarnya dia bisa berbicara dengan normal.
+5=Sebenarnya ada lebih dari satu Poppo! Makhluk aneh itu adalah antek-antek yang diciptakan oleh Tomomo, pencipta 100% Orange Juice.
+
+< LORE_ARU >
+1=Gadis bertelinga kelinci yang berlatih menjadi Sinterklas. Dia adalah gadis yang bahagia, terhormat, dan terus terang.
+2=Kesukaan: Daun-daun\nHal yang tidak disukai: Makanan berminyak
+3=Aru sangat rajin dan pekerja keras untuk mewujudkan impian setiap anak.
+4=Suatu ketika ada seseorang mencuri semua hadiah Natal yang seharusnya dikirim, dia berusaha sekuat tenaga untuk mengambilnya kembali.
+
+< LORE_SORA >
+1=Protagonis dari game sebelah, Sora selalu terlihat seperti berusia 16 tahun karena modifikasi tubuh yang terpaksa dia lakukan yang mengubahnya menjadi senjata perang pamungkas.
+2=Kesukaan: Coklat\nHal yang tidak disukai: Obat
+3=10.000 tahun setelah perang berakhir, Sora terbangun di Bumi yang telah pulih dari kerusakan parah akibat perang, dan sekarang menjalani hidup yang santai.
+4=Semua pengalaman mengerikan yang dia alami dalam perang telah membuat Sora merasa tidak nyaman dalam mengungkapkan perasaannya.
+5=Di dunia 100% Orange Juice yang damai, dia menikmati permainan papan dan tidak menunjukkan rasa depresi dari masa lalunya yang tragis, meskipun bagian kompetitif dari kepribadiannya membuatnya berusaha sekuat tenaga untuk menang.
+
+< LORE_PEAT >
+1=Seorang pilot berusia 17 tahun yang bekerja untuk Guild, mengendarai pesawatnya yang disebut Blue Crow. Dia adalah pria yang jujur dan rajin, tetapi usahanya cenderung mengarah ke arah yang salah.
+2=Kesukaan: Menjadi nomor satu\nHal yang tidak disukai: Kalah
+3=Peat dulunya adalah anggota termuda di Guild dan senang menjadi pusat perhatian sebelum Marc bergabung dengan organisasi dan mencuri perhatian.
+4=Peat adalah anak kedua di sebuah keluarga dengan sejarah yang dihormati sepanjang waktu. Mengklaim kakak laki-lakinya sebagai penerus nama keluarga, Peat menginjakkan kaki ke dunia pilot dan telah bekerja keras untuk menjadi nomor satu di langit.
+5=Selain persaingannya dengan Marc, Peat juga menyimpan perasaan romantis yang tidak dia kenal. Peat tidak terbiasa dengan perempuan, mungkin karena dia bersekolah di sekolah laki-laki. Usahanya untuk bertindak seperti seorang pria dengan cepat menjadi serba salah.
+
+< LORE_TOMOMO >
+1=Pencipta 100% Orange Juice yang berusia 27 tahun, Tomomo memiliki kepribadian yang malas dan santai.
+2=Kesukaan: Krim kocok (susu kental yang dikocok)\nHal yang tidak disukai: Sayuran
+3=Tomomo dulunya adalah pegawai kantoran yang lelah dan tidak termotivasi, tetapi suatu hari, keajaiban terjadi yang mengubahnya menjadi gadis penyihir.
+4=Meskipun dia sebenarnya orang yang tidak berbahaya dan rendah hati, fakta bahwa dia terlalu tua untuk menjadi gadis penyihir dan ditempatkan dalam posisi yang aneh membuatnya sangat kesal sehingga dia menyebabkan banyak masalah bagi orang lain.
+
+< LORE_SYURA >
+1=Syura berusia 14 tahun dan merupakan siswa kelas dua SMP. Dia adalah sahabat QP yang pengertian.
+2=Kesukaan: Udang\nHal yang tidak disukai: Jamur
+3=Seorang penggila game ini selalu ceria dan penuh energi, kecuali saat dia panik setengah mati dan terdapat kantung mata karena kurang tidur dikarenakan dia berjuang mati-matian untuk menyelesaikan manganya yang akan dijual di Comic Market.
+4=Terlepas dari jenis kelamin, Syura sangat menyukai orang-orang yang lucu dan cantik sehingga dia menjadi gila saat melihat mereka.
+5=Syura dan Piyo, teman ceweknya selalu berbicara satu sama lain seperti komedian.
+
+< LORE_NANAKO >
+1=Salah satu dari Produk Shifu, Nanako adalah manusia yang diubah untuk bertarung dengan mengendalikan tujuh senjata otonom yang disebut Bit pada saat yang bersamaan. Usia fisiknya adalah 12 tahun.
+2=Kesukaan: Semua jenis buah\nHal yang tidak disukai: Makanan pedas
+3=Dia melawan Suguri di bawah komando Shifu, yang berusaha untuk mengambil alih Bumi, setelah itu kedua gadis itu berbaikan. Dia sekarang menjalani kehidupan tanpa beban.
+4=Nanako selalu tangguh dan keren, atau mungkin mudah tersinggung. Namun, dia adalah gadis yang baik hati dengan perspektif luas, yang akan membantu siapa saja yang kesulitan.
+5=Dia dapat bergaul dengan Kae. Di sisi lain, dia membenci Shifu yang mengubahnya, dan robot tiruannya, NoName, dan menjadi marah saat bertemu salah satu dari mereka.
+
+< LORE_SAKI >
+1=Salah satu dari Produk Shifu, Saki adalah manusia yang diubah untuk bertarung menggunakan senjata peledak yang meniru alat musik. Usia fisiknya adalah 16 tahun.
+2=Kesukaan: Sesuatu yang lezat\nHal yang tidak disukai: Sesuatu yang asam
+3=Saki memiliki kepribadian yang hangat dan santai, meski terkadang dia bisa sangat kejam.
+4=Dia merasa tidak nyaman dan merasa ngeri ketika Shifu, orang yang mengubahnya, atau robot tiruannya, NoName, ada di sekitar.
+5=Saki pandai membuat manisan. Kesuksesannya menciptakan kembali makanan penutup legendaris, pudding, mengubahnya menjadi salah satu dari enam Dewa Pemanis, Sweet Maker. Saki dan QP dapat bergaul satu sama lain karena keduanya adalah Dewa Pemanis dan memiliki kepribadian dan warna tema yang mirip.
+
+< LORE_KYOUSUKE >
+1=Kyousuke berusia 18 tahun dan merupakan siswa kelas tiga SMA.
+2=Kesukaan: Sushi\nHal yang tidak disukai: Natto
+3=Dia adalah ketua OSIS di sekolah yang kompeten dan menyenangkan dengan gaya pembicaraan yang lucu dan kebiasaan buruknya membuka pakaian saat dia bersemangat.
+4=Kyousuke awalnya muncul di game palsu April Mop, dan penampilan aslinya yang pertama adalah di QP Shooting - Dangerous!!
+5=Memiliki perasaan romantis untuk seorang laki-laki bernama Kyupita, Kyousuke terus-menerus mengejar QP yang merupakan gambaran menusuk dari laki-laki yang dia cintai.

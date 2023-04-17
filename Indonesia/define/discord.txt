@@ -1,0 +1,41 @@
+< DISCORD_MAIN_MENU_STATE >
+Di Menu Utama
+
+< DISCORD_SHOP_STATE >
+Di Toko
+
+// Lobby: <lobby name>
+< DISCORD_LOBBY_STATE >
+Lobi: %s
+
+< DISCORD_LOBBY_STATE_PRIVATE >
+Di dalam lobi
+
+< DISCORD_INGAME_STATE >
+Di dalam game
+
+// After the game ended, the screen where xp and potential unlocks are given 
+< DISCORD_RESULTS_STATE >
+Hasil
+
+// Pvp mode
+< DISCORD_INGAME_NORMAL_MODE >
+Normal Mode
+
+< DISCORD_INGAME_COOP_MODE >
+Co-op Mode
+
+// Co-op: <boss name>, <difficulty name>
+< DISCORD_INGAME_COOP_MODE_DETAILS >
+Co-op: %s, %s
+
+// <player name>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS >
+%s, Level %d
+
+// <player name>, <coop role>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS_COOP >
+%s, %s, Level %d
+
+< DISCORD_INGAME_BOUNTYHUNTER_MODE >
+Bounty Hunt Mode

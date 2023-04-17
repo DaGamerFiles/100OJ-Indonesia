@@ -1,0 +1,158 @@
+
+<0000> Aku lempar dadu.
+<0001> Apakah seperti ini?
+<0002> Apa yang akan aku dapat?
+<0003> Tolong... Kasih nomor yang bagus.
+<0004> Akan aku gunakan ini.
+<0005> Aku akan gunakan ini untuk terus maju.
+<0006> Kartu...
+<0007> Dengan kekuatan kartu ini...
+<0008> Aku akan pasang jebakan.
+<0009> Jebakan telah dipasang.
+<0010> Hati-hati di panel ini.
+<0011> Jebakan.
+<0012> Aku akan menggunakan sedikit kekuatanku.
+<0013> Kartu battle.
+<0014> Sinar yang sedikit panas...
+<0015> Aku bisa menguatkan diri.
+<0016> Aku akan menggunakan semua yang ku miliki...!
+<0017> Aku merasa lebih baik sekarang.
+<0018> Aku bisa melanjutkan.
+<0019> Aku belum sepenuhnya dikalahkan.
+<0020> Aku merasa hidup kembali.
+<0021> Uuuh...
+<0022> Aku gagal...
+<0023> Uwaah...
+<0024> Belum cukup sampai di sana...
+<0025> Serang.
+<0026> Yah!
+<0027> Toh!
+<0028> Tah!
+<0029> Mh...
+<0030> Mha...
+<0031> Uwwa...
+<0032> Uhhh...
+<0033> Wah, langsung sembuh...
+<0034> Hangatnya...
+<0035> Aku sudah lebih baik.
+<0036> Aku cukup kuat untuk terus berjuang.
+<0037> Haaah?
+<0038> Waw!
+<0039> Di mana aku?
+<0040> Aku dipindahkan...?
+<0041> Aku butuh istirahat.
+<0042> Aku terkuras.
+<0043> Hau...
+<0044> Aku hanya...
+<0045> Maafkan aku.
+<0046> Aku siap bertarung.
+<0047> Aku akan melakukan yang terbaik.
+<0048> Bertarung...
+<0049> Aku akan kalah.
+<0050> Ingin bertemu denganku?
+<0051> AAku ingin kamu memberikan jalan kepadaku.
+<0052> Jika kita harus bertarung, kalah bukan pilihan yang tepat.
+<0053> Ey!
+<0054> Hah!
+<0055> Yah!
+<0056> Eey!
+<0057> Mh...
+<0058> Waa...
+<0059> Au...
+<0060> Ow...
+<0061> Wawawah!
+<0062> Sakit sekali...
+<0063> Wah, Aku dalam masalah besar nih!
+<0064> Muaah!
+<0065> Itu tidak akan menyentuhku.
+<0066> Aku menghindarinya.
+<0067> Aku menghindarinya.
+<0068> Aku disini.
+<0069> Wew... Aku menang.
+<0070> Aku bisa.
+<0071> Wew.
+<0072> Aku berhasil menyelesaikannya.
+<0073> Nuu...
+<0074> Muu...
+<0075> Uuu...
+<0076> Aaa...
+<0077> Bintang...
+<0078> Banyak bintang...
+<0079> Aku senang.
+<0080> Aku punya banyak.
+<0081> Bintang ku...
+<0082> Aku merasa sedih...
+<0083> Tidaaak...
+<0084> Bintang... Kemana perginya kamu...
+<0085> Oh ini trap.
+<0086> Apakah ini Trap?
+<0087> Omong kosong.
+<0088> Wah, aku jatuh cinta.
+<0089> Sesuatu telah keluar.
+<0090> Sebaiknya kita tetap waspada.
+<0091> Aku merasakan sesuatu yang besar.
+<0092> Itu terlihat sedikit kuat.
+<0093> Bintang...
+<0094> Bintang...
+<0095> Aku akan mengumpulkan banyak bintang.
+<0096> Bintang itu cantik... Aku suka itu.
+<0097> Aku akan menang.
+<0098> Aku akan bertarung.
+<0099> Aku akan mengalahkan siapa pun yang menghalangi jalanku.
+<0100> Jadi, Norma itu bisa memenangkan pertarungan?
+<0101> Aku?
+<0102> Aku harap kita bisa bermain lebih baik.
+<0103> OK ini waktunya bekerja.
+<0104> Aku akan keluarkan semuanya...!
+<0105> Aku akan memulainya.
+<0106> Cepat, berikan segalanya untukku.
+<0107> Aku akan pergi ke sana... untuk menang.
+<0108> Di dalam game, aku tidak akan puas dengan hasil terbaik saja.
+<0109> Aku menang.
+<0110> Aku melakukan semua yang ku bisa.
+<0111> Pekerjaanku sudah kelar.
+<0112> Aku menang... Syukurlah.
+<0113> Syukurlah.
+<0114> Kita sepertinya mendapatkan hal yang baik.
+<0115> Walah... Itu hebat.
+<0116> Apa yang kamu lakukan?
+<0117> Baiklah.
+<0118> Aku pikir itu ide yang bagus.
+<0119> Ya.
+<0120> Aku tidak berpikir demikian.
+<0121> Hau...
+<0122> Fufu.
+<0123> Mhm...
+<0124> Ini waktunya pergi.
+<0125> Aku akan melempar... dadu.
+<0126> Maju.
+<0127> Hai.
+<0128> Muaah...
+<0129> Bagus tuh.
+<0130> Keren banget.
+<0131> Oh...?
+<0132> Aku akan pinjam ini.
+<0133> Biarkan aku memainkan kartu ini ya.
+<0134> Aku tidak tau apa ini, tetapi aku akan tetap melakukannya.
+<0135> Aku harap aku menggunakan ini dengan benar.
+<0136> Aku akan mulai... operasi ini sekarang!
+<0137> Suguri... Kenapa kita tidak main?
+<0138> Suguri... Apa kamu mau main denganku?
+<0139> Haha, aku mengalahkan Suguri.
+<0140> Kamu selalu kuat setiap saat.
+<0141> Hime, kamu mau berdansa?
+<0142> Hime, aku punya banyak waktu untukmu.
+<0143> Haha, ini menyenangkan.
+<0144> Kamu juga petarung yang baik.
+<0145> Sham, aku datang.
+<0146> Idol... Sangat mengkilap...
+<0147> A-aku tidak akan pernah bisa bernyanyi atau menari sepertimu...
+<0148> A-apakah aku harus menari seperti kamu...?
+<0149> Star... Breaker...
+<0150> Aku tidak akan meninggalkanmu!
+<0151> Tidak ada lagi yang membuat keributan, oke?
+<0152> Tolong berhenti membuat masalah...
+<0153> Perisai!
+<0154> Perisai, petahankan!
+<0155> Biaya tidak terbatas...!
+<0156> Mikky Mou-...!

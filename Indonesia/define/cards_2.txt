@@ -1,0 +1,557 @@
+﻿
+< CARD_BOOST_AMBUSH >
+name=Ambush
+descr=Masuk Battle dengan pemain lain atau pemain di panelmu. Setelah Battle ini selesai, giliranmu selesai.
+flavor="Owwwww!!" ―Sham
+
+< CARD_BOOST_LONELYCHARIOT >
+name=Lonely Chariot
+descr=Selalu Roll 5 untuk berpindah. Saat ganti giliran, kena 1 Damage. Efek berakhir saat KO. Kalau kamu KO karena efek ini, bayar bintang sesuai Lvl x5.
+flavor="Jangan salah sangka. Aku kesepian nih!" ―Lone Rider
+
+< CARD_BOOST_MIMIC >
+name=Mimic
+descr=Pilih pemain. Semua kartu Hyper yang kamu pegang akan menjadi tipe yang sama digunakan oleh pemain lain.
+flavor=Marie Poppo berusaha menjadi sesuatu yang lain.
+
+< CARD_BOOST_PASSIONATE >
+name=Passionate Research
+descr=Bisa lihat 3 kartu pertama di Deck. Jika ada kartu Hyper, ambil saja. Kembalikan sisa kartu ke Deck dengan urutan yang sama.
+flavor="Ya, hal semacam ini bisa terjadi setiap saat. Lagian itu cukup menyenangkan." ―Scholar
+
+< CARD_BOOST_PRESIDENT >
+name=President's Privilege
+descr=Untuk 1 Chapter, kamu dapat pakai kartu tanpa harus membayar biayanya. Kamu dapat memakai 1 kartu tambahan pada giliran ini.
+flavor="Disana rupanya kalian ... datanglah ke kantor OSIS setelah sekolah,\nbisa kan ?" ―Himeji
+
+< CARD_BATTLE_SHIELDCOUNTER >
+name=Shield Counter
+descr=Menangani Damage pada penyerang sama dengan ATK - DEF mereka (min. 1). Kamu tidak akan kena Damage. Tidak ada serangan yang terjadi. Hanya bisa dipakai oleh pemain defender.
+flavor="Perisai, kembalikan!" ―Sora
+
+< CARD_BATTLE_RETREAT >
+name=Tactical Retreat
+descr=★Biaya: Level x5\nAkhiri Battle. Penyerang dapat biaya kartu ini. Hanya bisa dipakai oleh pemain defender. Kalau musuh memakai kartu Battle, efek ini tidak berlaku.  
+flavor="Pamit!" ―Tomato
+
+< CARD_TRAP_PIYOPIYO >
+name=Piyopiyo Procession
+descr=Pemain kena 3 serangan acak (pemain menyerang pertama).
+flavor="Piyopiyopiyopiyopiyopiyopiyopiyooo!" ―Colored Piyo Army
+
+< CARD_TRAP_SEALEDMEMORIES >
+name=Sealed Memories
+descr=Saat 3 giliran, semua kartu dibalik (kartu si target akan menghadap ke bawah, dan pemain lain dapat melihat kartu tersebut).
+flavor="Pesan di dalam dunia ...? Apa yang harus dilakukan puding itu!?" ―QP
+
+< CARD_EVENT_MIXPHENOMENON >
+name=Mix Phenomenon
+descr=Durasi Efek: 3 Chapter.\nSemua panel selain panel home akan menjadi panel acak.
+flavor="Lubang dalam kekuatan dinding antara dimensi... akan muncul kalau fenomena ini bisa mencampurkan dunia itu sendiri bersamaan."
+
+< CARD_EVENT_SOLICITATION >
+name=Scary Solicitation
+descr=Semua pemain kecuali siapapun yang memakai kartu ini akan dapat kartu, bayar 15 bintang per kartu, sampai jumlah maks kartu tersebut.
+flavor="Tentu saja kamu akan membelinya. Kamu akan membelinya, ya kan ?" ―Merchant
+
+< CARD_BATTLE_ACCELHYPER >
+name=Accel Hyper
+descr=Roll dua dadu untuk menyerang.
+flavor="Biaya tak terbatas!" ―Sora
+
+< CARD_TRAP_BRUTALPRANK >
+name=Brutal Prank
+descr=Buang semua kartu Hyper. Hilang 10 bintang dan Heal 1 HP untuk semua kartu yang dibuang.
+flavor="Tidaaak, Mr. Cow! Mr. Frog! "―Yuuki\n" Hahahaha! Menangislah!!" ―Yuki
+
+< CARD_BOOST_COMPLETIONREWARD >
+name=Completion Reward
+descr=Dapat 7 bintang untuk setiap trap yang kamu pasang dari pemain yang melangkah disana.
+flavor="Yay, dapat gaji!" ―Chris\n"Jangan di sia-siakan, oke?" ―Manager
+
+< CARD_BATTLE_EXTENSION >
+name=Extension
+descr=Pakai satu kartu Battle yang akan dipilih secara acak (termasuk kartu Hyper) tanpa biaya tambahan.
+flavor="Ini tugas saya untuk membunuhmu." ―Nath
+
+< CARD_BOOST_GENTLEMANSBATTLE >
+name=Gentleman's Battle
+descr=Pilih pemain dengan HP penuh dan ajak Battle ke mereka. Giliranmu berakhir setelah Battle.
+flavor="Ambil ini!" ―Guildmaster
+
+< CARD_EVENT_PLAYOFTHEGODS >
+name=Play of the Gods
+descr=Pakai satu kartu Event secara acak (termasuk kartu Hyper) dari pemain lain atau Deck, tanpa biaya tambahan.
+flavor="Kita bakal dapat telur emas!" ―QP\n"Dan bisa membuat puding!" ―Saki
+
+< CARD_TRAP_PRESENTTHIEF >
+name=Present Thief
+descr=Mencuri semua kartu dari pemain pertama yang menginjak trap. Memberika semua kartu curian ke pemain kedua yang menginjak trap.
+flavor="Ini tidak baik!" ―Nico
+
+< CARD_BATTLE_QUICKRESTORATION >
+name=Quick Restoration
+descr=Semua Damage yang terjadi selama Battle akan disembuhkan setelah Battle. Efek dibatalkan jika pemain KO.
+flavor="Aku tidak akan mati." ―Suguri
+
+< CARD_EVENT_SCRAMBLEDEVE >
+name=Scrambled Eve
+descr=Semua pemain mengembalikan kartu mereka ke Deck, dan Deck akan dikocok. Pemain dapat 5 bintang untuk setiap kartu yang dikembalikan.
+flavor="Tunggu! Kembalikan kado-kado itu!" ―Aru
+
+< CARD_EVENT_STARBLAZINGLIGHT >
+name=Star-Blasting Light
+descr=Semua kartu trap yang terpasang akan dibuang. Siapapun yang memasang kartu trap akan kena 1 Damage untuk setiap trap yang dibuang.
+flavor="Cahaya yang mampu membakar kota... bahkan planet ini... Aku tahu, sumbernya ada di langit." ―Sora
+
+< CARD_GIFT_UNLUCKYCHARM >
+name=Unlucky Charm
+descr=★Biaya: Level x5\nKurang Lvl x1 bintang pada awal giliran. Memakai kartu ini akan mengirimkannya ke pemain lain. Jika biayanya lebih tinggi dari jumlah bintang kamu, kamu dapat menggunakan kartu ini secara gratis.
+flavor="Gelap yang hitam mengganggu tidurku, karenanya aku merindukan cahaya..." ―Krilalaris
+
+< CARD_GIFT_WINDYENCHANTMENT >
+name=Windy Enchantment
+descr=Menambahkan +1 ke dadu saat bergerak. Tidak bisa menggunakan Norma Check. Memakai kartu ini akan membuang kartunya.
+flavor=Orang-orang memanggilnya Barefoot Alicianrone.
+
+< CARD_HYPER_SYURA >
+name=Beyond Hell
+descr=Saat Battle, dapatkan +1 ke ATK, DEF dan EVD untuk setiap HP yang hilang.
+flavor="Kekuatan Syura melampaui neraka! Biar kutunjukkan!" ―Syura
+
+< CARD_HYPER_NANAKO >
+name=Deploy Bits
+descr=Saat Battle, dapatkan total +7 poin ke ATK, DEF, dan/atau EVD, disebarkan secara acak.
+flavor="Tidak peduli apapun, kamu tidak dapat melarikan diri dari langkahku." ―Nanako
+
+< CARD_HYPER_SAKI >
+name=Big Bang Bell
+descr=Semua unit di 2 kotak yang berdekatan akan kena 2 Damage, bertambah +1 setiap 2 Chapter saat memasang trap. Saat KO, setengah bintang mereka akan berpindah ke pemain yang memasang trap.
+flavor="Mauuuuuryaaaaaaahh!" ―Saki
+
+< CARD_HYPER_KYOUSUKE >
+name=Cast Off
+descr=Tukar base attack dan defense unit. Berlangsung sampai KO, atau Cast Off dipakai lagi.
+flavor="Panggilan untuk masalah yang mengganggu..." ―Kyousuke
+
+< CARD_HYPER_KAE >
+name=Blazing!
+descr=Menimbulkan efek Blazing! pada unit dalam 2 panel, akan menambahkan durasi Blazing!. Durasi Efek: 3 Chapter. ATK +1, DEF -1. Efeknya berakhir saat KO.
+flavor="Oke! Bagus! Perasaan ini adalah yang terbaik!" ―Kae
+
+< CARD_HYPER_KRILA >
+name=Plushie Master
+descr=Pasang Trap "Dance, Long-Eared Beasts!" di 3-5 panel acak.
+flavor="Mari berdansa, Long-Eared Beasts!" ―Krilalaris
+
+< CARD_HYPER_KRILA2 >
+name=Dance, Long-Eared Beasts!
+descr=Kena 2 Damage. Pemain yang memasang kartu ini memperoleh 1 HP. Efek Stock: Sampai Battle berikutnya, -2 ATK.\nTidak berpengaruh pada pemain yang memasang kartu ini.
+flavor="Mari berdansa, Long-Eared Beasts!" ―Krilalaris
+
+< CARD_HYPER_ALTE >
+name=Self-Destruct
+descr=Saat KO, akan membuat musuh ikut KO. Musuh tidak dapat bintang atau menang, dan kehilangan setengah dari bintang mereka.
+flavor="Maafkan aku... aku tidak bisa membuatnya kembali..." ―Alte
+
+< CARD_HYPER_KYOKO >
+name=Crystal Barrier
+descr=Efek Stock (3)\nMembatalkan trap, Battle, atau drop panel. Kena 1 Damage. Membutuhkan 1 biaya. Efek hilang saat KO.
+flavor="Benar-benar sampah, ya..." ―Kyoko
+
+< CARD_HYPER_SHAM >
+name=Delta Field
+descr=Semua unit menerima efek hingga giliran kamu berikutnya: Semua Rollan dadu akan menjadi 1.
+flavor="Kalau kamu bersikeras untuk tetap di sini, aku akan membawa kamu kembali bagaimanapun caranya!" ―Sham
+
+< CARD_HYPER_SHERRY >
+name=Whimsical Windmill
+descr=Lawan semua pemain lainnya secara berurutan. Musuh yang mulai duluan. Selama Battle, dapatkan EVD +1.
+flavor="Kita hanya ingin terbang bebas." ―Sherry
+
+< CARD_HYPER_STARBREAKER >
+name=Star Blasting Fuse
+descr=Pasang "Invisible Bomb" di 3-5 panel acak.
+flavor="Karena aku adalah Star Breaker, si peledak hingga akhir dunia." ―Star Breaker
+
+< CARD_HYPER_STARBREAKER2 >
+name=Invisible Bomb
+descr=Mengurangi HP menjadi 1. Tidak berpengaruh ke pemain yang memasang kartu ini. Hanya dapat dilihat oleh pemain yang menggunakan kartu ini.
+flavor="Karena aku adalah Star Breaker, si peledak hingga akhir dunia" ―Star Breaker
+
+< CARD_HYPER_SWEETBREAKER >
+name=Melting Memories
+descr=★Biaya: Jumlah kartu yang dipegang oleh pemain lain x5\nSemua pemain lain akan membuang dan mengganti kartu milik mereka. Membalikkan semua kartu musuh.
+flavor="Betapa bodohnya kamu karena telah menentang Tuhan. Bersiaplah untuk merasakan kekalahanmu yang pahit!" ―Sweet Breaker
+
+< CARD_HYPER_QPD >
+name=Sweet Guardian
+descr=Dapat 2 kartu dengan "Pudding" di namanya dari deck di tengah.
+flavor="Puding... kecilku..." ―QP
+
+< CARD_HYPER_SORAM >
+name=Awakening of Talent
+descr=Hingga akhir giliran, Roll 5 untuk berpindah, battle, bonus atau drop. Kartu ini juga dapat digunakan sebagai kartu Battle.
+flavor="Aku akan mulai... operasinya." ―Sora
+
+< CARD_HYPER_MIXEDPOPPO >
+name=Subspace Tunnel
+descr=★Biaya: Level x5\n Durasi Efek: Level pemain\nPutar 4-6 panel ke panel Warp Move dan kemudian warp ke salah satunya.
+flavor="Po! Po! Po! Popoppo!!" ―Marie Poppo
+
+< CARD_HYPER_ARUSCRAMBLE >
+name=Santa's Job
+descr=Setelah giliran kamu, kirim kartu Lvl yang dapat digunakan ke pemain secara acak. Dapat bintang sama dengan Kartu Lvl x5. Target tidak dapat menantang pemain untuk bertarung sampai giliran kamu berikutnya. Kartu ini akan hilang saat KO atau digunakan.
+flavor="Anak-anak di seluruh dunia, kita datang untuk kamu!" ―Aru
+
+< CARD_HYPER_NATH >
+name=Another Ultimate Weapon
+descr=★Biaya: Semua bintang yang didapat.\nDapat +1 ATK dan DEF dan tambahan +1 ATK dan DEF setiap 20 bintang yang dihabiskan untuk kartu ini.
+flavor="Dengan perginya dia, aku adalah senjata paling pamungkas." ―Nath
+
+< CARD_HYPER_MIMYUU >
+name=Evil Spy Work ― Preparation
+descr=Pasang 4 kartu "Evil Spy Work - Execution" di Deck tengah secara acak .
+flavor="Takutlah sama Prank Mimyuu." ―Mimyuu                                                                           "Fear Mimyuu's pranks." ―Mimyuu
+
+< CARD_HYPER_MIMYUU2 >
+name=Evil Spy Work ― Execution
+descr=Kartu ini tidak dapat dipakai.\nSaat memegang kartu ini, kena 3 Damage di akhir giliranmu, dan membuang kartu ini.
+flavor="Kau merasakannya! Makan tuh!!" ―Mimyuu
+
+< CARD_HYPER_TOMATO >
+name=Waruda Machine, Blast Off!
+descr=Saat Battle, dapat ATK dan DEF tetapi kehilangan EVD sama dengan jumlah kartu lawan.
+flavor="Balas dendam!" ―Tomato
+
+< CARD_HYPER_KIRIKO >
+name=Final Surgery
+descr=KO semua unit dengan 1 HP dan dapat bintang yang sama dengan 25x jumlah unit yang KO.
+flavor="Kamu diam aja, aku akan membereskanmu dengan cepat." ―Kiriko
+
+< CARD_HYPER_NONAME >
+name=Overseer
+descr=Bos akan muncul. Jika bos muncul, gunakan kartu ini sebagai kartu Battle: End the battle. Musuh akan melawan bos. Hanya bisa digunakan untuk melawan pemain.
+flavor="Hahaha! Ini dia temanku!" ―NoName
+
+< CARD_HYPER_CEOREPARQUE >
+name=Witch's Hair Lock
+descr=Hentikan tindakan selanjutnya dari unit target.
+flavor="Tidak ada yang bisa keluar dari rambut Repa." ―Ceoreparque
+
+< CARD_HYPER_MIUSAKI >
+name=Solid Witch
+descr=Durasi Efek: 1 Chapter.\nTidak akan kena Damage.                      Original: Effect Duration: 1 chapter.\nTake no damage.
+flavor="Tidak ada serangan sekecil apapun yang bisa melukaiku!" ―Miusaki
+
+< CARD_BATTLE_DARKSIDEOFBUSINESS >
+name=Dark Side of Business
+descr=+2 ATK, musuh dapat -2 DEF. Untuk setiap Damage yang kamu terima, curi 5 bintang dari lawan kamu.
+flavor="'Pemerasan' - Tindakan mencuri uang dengen memberikan kekerasan kepada yang lemah"
+
+< CARD_EVENT_PARTYTIME >
+name=Party Time
+descr=Semua unit dipindahkan ke panel yang sama. Giliranmu berakhir.
+flavor="Pada perkumpulan malam ini, Beasts of Darkness akan menari dengan liar." ―Krilalaris
+
+< CARD_BOOST_TREASURETHIEF >
+name=Treasure Thief
+descr=Mencuri kartu acak ke pemain di panel yang sama dengan kamu.
+flavor="Pokya Po! (dapat harta!)" ―Marie Poppo
+
+< CARD_GIFT_LOSTCHILD >
+name=Lost Child
+descr=Bergerak mundur saat kartu ini di pegang. Tidak dapat Norma sambil memegang kartu ini. Kartu ini akan terbuang saat KO atau dipakai.
+flavor="dimana aku ?" ―Tsih
+
+< CARD_TRAP_WANTED >
+name=Wanted
+descr=Kamu diberi double win saat KO di battle. Efek hilang saat KO.
+flavor="Disini! Hidungku nggak pernah salah!" ―QP
+
+< CARD_GIFT_PRICEOFPOWER >
+name=Price of Power
+descr=Kamu dapat memainkan kartu satu tingkat lebih tinggi dari level kamu saat ini. Semua biaya kartu dinaikkan sebesar 5. Kartu ini aka terbuang saat digunakan.
+flavor="Jika saya selamat dari perang... Dengan tubuh ini, tidak ada yang bisa saya lakukan." ―Nath
+
+< CARD_GIFT_VALENTINESDAY2018 >
+name=Sweet Battle!
+descr=Saat dipegang: Ambil 2x cokelat.\nSaat dipakai di Battle: Curi 200 cokelat untuk setiap Damage yang diterima.\nKartu ini dibuang saat KO atau digunakan.
+flavor="Inilah Battle yang lucu dan manis!" ―QP
+
+< CARD_GIFT_VALENTINESDAY2018_BINDER >
+name=Sweet Battle!
+descr="Selamat Hari Valentine, <player>!" ―QP
+flavor=
+
+< CARD_HYPER_YUKIDANGEROUS >
+name=Evil Mastermind
+descr=Ambil kartu Trap di Deck. Pasang semua kartu trap di panel acak. Jika tidak memegang kartu trap, ambil 3 kartu dari Deck dan pasang secara acak di panel kamu saat ini.
+flavor="Takut akan kekuatanku!" ―Yuki
+
+< CARD_HYPER_TOMOMOCASUAL >
+name=Miracle Red Bean Ice Cream
+descr=+1 ATK saat kartu ini dipegang.\nTomomo (Casual): Saat dipakai, berubah menjadi Tomomo (Sweet Eater) dan pulihkan HP sepenuhnya. Tomomo (Sweet Eater): Saat dipegang, kartu ini menjadi Magical Revenge.\nKartu akan dibuang saat dipakai atau KO dalam Battle.
+flavor="Miracle red bean ice cream!" ―Tomomo
+
+< CARD_HYPER_TOMOMOSWEETEATER >
+name=Magical Revenge
+descr=Untuk setiap HP yang hilang, musuh akan kena 1 Damage secara acak. Jika satu unit telah KO, kamu dapat 1 Win. \nKetika tidak dipegang oleh Tomomo (Sweet Eater), kartu ini menjadi Miracle Red Bean Ice Cream.
+flavor="Saatnya Magical Revenge!" ―Tomomo
+
+< CARD_HYPER_SUGURI_V2 >
+name=Revival of Stars
+descr=★Biaya: Level x3\Durasi Efek: 3 Chapter.\Ubah semua Panel Drop menjadi Panel Bonus dan Panel Battle menjadi Panel Draw. -1 ATK saat berada di panel yang di tanda.
+flavor="Mimpi yang kamu lindungi telah menyebar ke seluruh planet." ―Suguri
+
+< CARD_HYPER_TSIH >
+name=Stealth On
+descr=Durasi Efek: 3 Chapter.\nTidak dapat ditantang untuk bertarung atau ditargetkan oleh kartu Boost yang dipakai pemain lain.\nEfek berakhir saat masuk battle.\nDapat +2 ATK saat memasuki Battle.
+flavor="Lihat, aku transparan!" ―Tsih
+
+< CARD_HYPER_TEQUILA >
+name=Do Pirates Fly in the Sky?
+descr=Tetapkan "Flying Pirate" di 2-3 panel secara acak.
+flavor="Tidak ada hukum yang melarang bajak laut terbang di langit." ―Tequila
+
+< CARD_HYPER_TEQUILA2 >
+name=Flying Pirate
+descr=Petarung bawahan dipanggil oleh siapapun yang memakai kartu ini. Musuh akan menyerang lebih dulu. Tidak ada efek pada pemain yang memakai kartu ini.
+flavor="Kapten!" ―Pasukan bajak laut
+
+< CARD_HYPER_MEI >
+name=White Christsmasher
+descr=Memberi 2 Damage pada pemain dalam 1 panel yang sama.\nSaat pemain telah KO, dapat 2 win dan bintang Lvl x5 berdasarkan pemain yang KO.\nKalau memegang "Red & Blue", kartu ini berubah menjadi "True White Christsmasher".
+flavor="White Christsmasher!" ―Mei
+
+< CARD_HYPER_MEITRUE >
+name=True White Christsmasher
+descr=Memberi 4 Damage pada pemain dalam 1 panel yang sama.\nSaat pemain telah KO, dapat 2 win dan bintang Lvl x10 berdasarkan pemain yang KO.\nKalau tidak memegang "Red & Blue", kartu ini berubah menjadi "White Christsmasher".
+flavor="White Christsmasher!" ―Mei, Red & Blue
+
+< CARD_GIFT_REDBLUE >
+name=Red & Blue
+descr=Saat memegang kartu ini, dapatkan +1 ATK, DEF, dan EVD dalam Battle.\nSaat kartu dibuang atau KO, kartu ini akan disingkirkan.
+flavor="Kita tidak bisa melakukan ini lagi!" ―Red & Blue
+
+< CARD_HYPER_NATSUMI >
+name=Cooking Time
+descr=★Biaya: Level x5\nSemua pemain memulihkan Lvl x HP kamu.\nDapatkan 5 bintang untuk setiap HP yang dipulihkan.
+flavor="Saatnya makan!" ―Natsumi
+
+< CARD_HYPER_NICO >
+name=Miracle Walker
+descr=★Biaya: Kartu akan berubah x 5\nMerubah semua kartu, termasuk kartu ini, menjadi kartu Hyper secara acak.\nKamu dapat memainkan satu kartu lagi pada giliran ini.
+flavor="Hore! Nico akan mencoba yang terbaik!" ―Nico
+
+< CARD_HYPER_ARTHUR >
+name=Branch Expansion Strategy
+descr=★Biaya: Jumlah kartu x5 yang dimiliki\nMerubah semua kartu, termasuk kartu ini, ke "Rbit Hobby Shop."\nKamu dapat memainkan satu kartu lagi pada giliran ini.
+flavor="Phaaw..." ―Arthur
+
+< CARD_HYPER_ARTHUR2 >
+name=Rbit Hobby Shop
+descr=Biaya X bintang untuk pemain yang memakai kartu ini, di mana X adalah Lvl pemain yang memakai kartu ini. Ambil kartu dari Deck. Kartu ini tetap ada ketika dipicu tetapi dapat diganti dengan trap baru. Tidak ada efek pada pemain yang memasang trap ini.
+flavor="Oke, saatnya membuka toko." ―Arthur
+
+< CARD_HYPER_IRU >
+name=Extended Photon Rifle
+descr=★Biaya: Level x5\nMemberikan 1 Damage ke unit secara acak. Jika dia KO, dapat 1 win. Ulangi sebanyak level kamu saat ini.
+flavor="Aku akan menembak kalian semua." ―Iru
+
+< CARD_HYPER_MIRA >
+name=Leap Through Space (Marking)
+descr=Tandai panel tempat unit kamu berada. Jika ada panel yang bertanda, kartu ini akan menjadi "Leap Through Space." Kartu ini tidak dibuang saat dipakai.
+flavor="Poof." ―Mira
+
+< CARD_HYPER_MIRA2 >
+name=Leap Through Space
+descr=Berpindah ke panel yang ditandai dan hapus tanda. Terapkan Binding Smoke ke musuh dalam radius 1 panel. Jika tidak ada panel yang ditandai, kartu ini akan menjadi "Leap through Space (Marking)."
+flavor="Poof." ―Mira
+
+< CARD_HYPER_CUTIES >
+name=Special Stage
+descr=★Biaya: Level x10\nLangsung menuju Mode konser untuk (jumlah Lvl kamu) giliran. Dapat MOV -3, hanya dapat memicu panel jenis gerakan dan tidak dapat menggunakan kartu. Tidak dapat ditantang atau menjadi sasaran kartu Boost. Jika lawan mengakhiri giliran mereka dalam radius 2 panel, curi (jumlah Lvl kamu) x5 bintang dari mereka. Berakhir saat KO.
+flavor="Kita adalah idol terkuat!" ―Sora & Sham
+
+< CARD_HYPER_YUUKI_ANGEL >
+name=Angel Hand
+descr=Sembuhkan pemain target ke HP penuh dan dapatkan 10 bintang per HP yang disembuhkan. Di chapter genap, kartu ini berubah menjadi Devil Hand.
+flavor="Inilah kekuatan kemurahan hati." ―Yuuki
+
+< CARD_HYPER_YUUKI_DEVIL >
+name=Devil Hand
+descr=Drop HP pemain acak menjadi 1 dan dapatkan 10 bintang per HP yang didrop. Di chapter ganjil, kartu ini berubah menjadi Angel Hand.
+flavor="Rasakan kekuatan iblis!" ―Yuuki
+
+< CARD_HYPER_ISLAY >
+name=Rival
+descr=Tantang pemain yang di target. Kamu menyerang terlebih dahulu. Selama Battle, dapatkan +1 ATK.
+flavor="Sama sepertimu... aku punya pertarungan untuk ditantang." ―Islay
+
+< CARD_HYPER_MIO >
+name=Magical Inferno
+descr=KO semua unit pada panel lain dalam kolom atau baris yang tidak terputus sama seperti panel di mana unit kamu aktif. Kamu dapat bintang dari setiap unit yang KO seolah-olah dia KO dalam Battle. Kemudian akhiri giliran kamu.
+flavor="Inferno!" ―Mio
+
+< CARD_BATTLE_DESPERATEMODIFICATION >
+name=Desperate Modification
+descr=Saat battle, roll angka dasar antara 1 atau 6 untuk serangan, pertahanan, dan penghindaran.
+flavor="Malangnya Blue Crow. Kamu membawa semua barang berat itu ke dia!" ―Marc
+
+< CARD_BOOST_PATHBLOCKERS >
+name=Path Blockers
+descr=Efek Stock (1). Pilih satu unit. Jika unit itu bergerak ke panel dengan Trap yang sudah dipasang, mereka harus berhenti di panel itu.
+flavor="Tidak ada yang bisa melewati Waruda!" ―Tomato
+
+< CARD_EVENT_ACCELERATINGSKY >
+name=Accelerating Sky
+descr=Durasi Efek: 3 Chapter.\nSemua pemain dapat +1 EVD dan -1 DEF.
+flavor="Gadis-gadis sedang melompati langit...?"
+
+< CARD_TRAP_POPPOTRANSFORMATION >
+name=Poppoformation
+descr=Efek Stock (1). ATK, DEF dan EVD menjadi -1 saat Battle berikutnya.
+flavor="Poppo! Poppopopo!!!" ―Semua orang
+
+< CARD_GIFT_POPPOTHESNATCHER >
+name=Poppo the Snatcher
+descr=Dapat -1 DEF. Setiap kali melewati unit pada giliran kamu, curi [lvl target x 3] bintang dari mereka. Tidak ada Norma sambil memegang kartu ini. Kartu ini dibuang saat KO atau dipakai.
+flavor="Pokyakya!!" ―Poppo
+
+< CARD_GIFT_BLOODLUST >
+name=Bloodlust
+descr=Hilang 1 HP di awal giliran. Sembuhkan 1 HP untuk setiap Damage yang diterima. Tidak ada Norma sambil memegang kartu ini. Kartu ini dibuang saat KO atau dipakai.
+flavor="Kekuatan sebenarnya dari binatang buasku ... Aku ingin tahu apakah seperti ini." ―Krila
+
+< CARD_BATTLE_SINKORSWIM >
+name=Sink or Swim
+descr=Dapat -1 ATK, -1 DEF dan -1 EVD. Jika kamu memenangkan Battle ini, ambil 50% lebih banyak dari bintang lawan.
+flavor="Oke, saatnya bermain kesempatan peluang!" ―Yuki
+
+< CARD_BATTLE_SERIOUSBATTLE >
+name=Serious Battle
+descr=Saat Battle, ATK, DEF dan EVD dari kedua unit akan menjadi 0.
+flavor="Battle ini akan menjadi ujian kekuatan sejati!" ―Tomomo
+
+< CARD_BATTLE_PORTABLEPUDDING >
+name=Portable Pudding
+descr=Di awal Battle ini, atur ulang HP kamu ke HP maksimal.
+flavor="Aku dapat puding untuk makan siang hari ini!" ―QP
+
+< CARD_BOOST_SWEETDESTROYER >
+name=Sweet Destroyer
+descr=Curi kartu "pudding" secara acak dari masing-masing pemain. Kamu dapat memainkan kartu lain pada giliran ini. Di akhir giliran, buang kartu sebanyak yang kamu peroleh.
+flavor="Manisan yang membahayakan dunia... Aku akan hancurkan semuanya!" ―Sweet Breaker
+
+< CARD_BOOST_BACKDOORTRADE >
+name=Backdoor Trade
+descr=★Biaya: Level x5\nMelakukan norma check, lalu giliranmu berakhir.\nHanya dapat digunakan oleh pemain dengan level terendah. Tidak dapat dipakai dengan Norma level 5.
+flavor="Ini yang kamu minta." ―Captain Tequila\n"Kerja bagus! Aku tau aku bisa mengandalkan penjahat sejati sepertimu!" ―Mimyuu
+
+< CARD_EVENT_SERENEHUSH >
+name=Serene Hush
+descr=Durasi Efek: 1 Chapter.\nTidak ada Battle yang terjadi.
+flavor="Kita tidak ada hubungannya..." ―Sumika\n"Mari kita nikmati kedamaian dan ketenangan." ―Suguri
+
+< CARD_EVENT_UNPAIDWORK >
+name=Unpaid Work
+descr=Durasi Efek: 1 Chapter.\nTidak ada unit yang akan dapat bintang dari manapun.
+flavor="Mana bayaran saya!" ―Chris
+
+< CARD_EVENT_INDISCRIMINATEFIRESUPPORT >
+name=Indiscriminate Fire Support
+descr=Durasi Efek: Tidak Terbatas.\nUnit akan kena 1 damage secara acak. Di awal giliran, ulangi efek ini. Efek berakhir ketika unit KO.
+flavor="......" ―Sora
+
+< CARD_GIFT_LUCKYCHARM >
+name=Lucky Charm
+descr=Dapat Lvl x1 bintang di awal giliran. Kamu tidak dapat mmemakai kartu lain. Kartu ini akan terbuang apabila dipakai. Saat kalah, dapat Lvl x 3 bintang lagi.
+flavor="Woo-hoo, banyak bintang! Hari ini keberuntunganku !!" ―Tomomo
+
+< CARD_GIFT_METALLICMONOCOQUE >
+name=Metallic Monocoque
+descr=Saat efek non-Battle memberikan Damage ke kamu, Damage itu berkurang 1, dan kamu kehilangan Lvl x 2 bintang.
+flavor="Kita menjadi generasi yang pemalu." ―Sherry
+
+< CARD_TRAP_IWANNASEEYOU >
+name=I Wanna See You
+descr=Pemain yang memasang trap ini akan berpindah ke panel tempat trap diaktifkan. Pemain yang mengaktifkan trap ini dapat kartu saat dibuang.
+flavor="Kyupita... Aku mau melihatmu." ―Kyousuke
+
+< CARD_TRAP_ENCORE >
+name=Encore
+descr=Original: Saat kartu ini diaktifkan baik pada Bonus, Drop, Draw atau Encounter, efek panel itu akan terjadi dua kali.
+flavor="Encore! Encore!"
+
+< CARD_HYPER_SUGURI46 >
+name=Observer of Eternity
+descr=Tambahkan 2 kartu Boost/Event secara acak yang memberikan Damage ke kamu.
+flavor="Nah, mari kita lihat bagaimana ini akan berubah." ―Suguri
+
+< CARD_HYPER_SUMIKA >
+name=Reproduction of Records
+descr=Tambahkan salinan dua kartu baru di tumpukan kartu buangan yang bukan "Reproduction of Records". Kartu-kartu itu akan diperlakukan sebagai Level 1 dan tidak memiliki biaya saat kamu pengang.
+flavor="Kenangan manis Sumika!" -Sumika
+
+< CARD_MINIGAME_TURNSKIP >
+name=Poppo Stop
+descr=
+flavor=
+
+< CARD_MINIGAME_REVERSEMOVEMENT >
+name=Poppo Reverse
+descr=
+flavor=
+
+< CARD_MINIGAME_DOUBLEDICE >
+name=Poppo Dice
+descr=
+flavor=
+
+< CARD_MINIGAME_FROSTWALKER >
+name=Poppo Frostwalker
+descr=
+flavor=
+
+< CARD_HYPER_SUMMER2018_ATTACKER >
+name=Ultimate Weapon in the Sun
+descr=Saat Battle, dapatkan +3 ATK.
+flavor="Aku akan memulai... liburanku." ―Sora
+
+< CARD_HYPER_SUMMER2018_DEFENDER >
+name=Lifeguard on the White Beach
+descr=Semua pemain dapat pengurangan damage 2 selama Battle berikutnya.
+flavor="Ya ampun, kamu berlebihan." ―Suguri
+
+< CARD_HYPER_SUMMER2018_SUPPORT >
+name=Guardian of Blooming Flowers                    
+descr=Bangkitkan satu semua pemain yang KO dengan HP penuh.
+flavor="Kamu baik-baik saja sekarang. Rasa sakitnya hilang." ―Hime
+
+< CARD_HYPER_SUMMER2018_AVENGER >
+name=Unforgiving Avenger
+descr=Saat Battle, Damage yang diambil oleh kedua belah pihak akan berlipat ganda.
+flavor="Mimyuu! Siapa yang melakukan ini padamu..." ―Tomato
+
+< CARD_SUMMER2018_PROTECT >
+name=Protect
+descr=
+flavor=
+
+< CARD_XMAS2018_GROWNUPSNOWBALLFIGHT >
+name=Grown-up Snowball Fight
+descr=Saat giliran ini, pilih dua panel untuk menargetkan dengan bola salju. Abaikan efek unit yang akan mencegah kartu ini tidak dipakai.
+flavor="Apa kamu udah siap untuk ini?" ―Arthur
+
+< CARD_XMAS2018_SNOWBALLREFLECTOR >
+name=Snowball Reflector
+descr=Saat gilirang bertahan, bola salju apa pun yang akan mengenai kamu akan mengenai unit yang melemparnya. Abaikan efek unit yang akan mencegah kartu ini tidak dipakai.
+flavor="I-itu akan mengembalikannya!" ―Aru
+
+< CARD_XMAS2018_SNOWBALLFIGHTBAN >
+name=Chilly
+descr=
+flavor=
+
+[EOF]

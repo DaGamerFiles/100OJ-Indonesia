@@ -1,0 +1,64 @@
+
+< GAME_SYSTEM_ROLLTOREVIVE >
+atau lebih\nuntuk bangkit!
+
+< GAME_SYSTEM_WINNERSCREEN_STARS >
+Bintang
+
+< GAME_SYSTEM_WINNERSCREEN_WINS >
+Wins
+
+< GAME_SYSTEM_WINNERSCREEN_FAME >
+Fame
+
+// The following HUD text will require a size smaller or (more or less) equivalent to the english counterpart! Use abbreviations if needed
+// Level (current norma.)
+< GAME_SYSTEM_HUD_LVL >
+Lv
+
+< GAME_SYSTEM_HUD_HP >
+HP
+
+< GAME_SYSTEM_HUD_NORMA >
+Norma
+
+< GAME_SYSTEM_HUD_NORMA_MAX >
+MAX!
+
+< GAME_SYSTEM_HUD_CARDEFFECTS >
+Efek kartu
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_STACKS >
+Stacks
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_DURATION >
+Durasi
+
+< GAME_SYSTEM_SHOP_LEVEL >
+LEVEL %d
+
+< GAME_SYSTEM_SHOP_NO_BONUS >
+Tidak ada bonus yang dibuka.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_1 >
+Tambahan %d %% kesempatan untuk untuk mendapatkan item SSR.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_2 >
+Penurunan harga %d %% item di semua perhitungan.
+
+< GAME_SYSTEM_SHOP_BONUS_3 >
+Tambahan %d bintang akan diberikan saat menjual kartu.
+
+< GAME_SYSTEM_SHOP_BONUS_4 >
+Stok tambahan pada suatu item mungkin tersedia.
+
+< GAME_SYSTEM_SHOP_BONUS_5 >
+Mengirim item akan memberi tambahan %d bintang setelah menyelesaikan quest.
+
+< GAME_SYSTEM_SHOP_BONUS_6 >
+Tambahan hingga dua stok yang mungkin tersedia.\n-Jenis Toko tambahan ini akan muncul.
+
+[EOF]
+

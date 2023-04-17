@@ -1,0 +1,302 @@
+﻿
+< CARD_BOOST_DASH >
+name=Dash!
+descr=Lempar dua dadu untuk berpindah pada giliran saat ini.
+flavor="Lebih cepat!!" ―Suguri
+
+< CARD_BOOST_EXTEND >
+name=Extend
+descr=Efek Stock\nSetelah KO, kamu akan bangkit lagi pada giliran berikutnya.
+flavor="Semua baik-baik saja!" ―Marc
+
+< CARD_BOOST_FLIPOUT >
+name=Flip Out
+descr=Efek Stock\nSaat kamu di panel drop, pemain dengan jumlah bintang tertinggi akan kehilangan jumlah bintang yang sama denganmu.         
+flavor="......!" ―Mei
+
+< CARD_BOOST_LONGSHOT >
+name=Long-Distance Shot
+descr=Memberikan 1 Damage ke musuh yang dipilih.
+flavor="Aku bisa menghajarmu dimana saja." ―Iru
+
+< CARD_BOOST_NICEJINGLE >
+name=Nice Jingle
+descr=Efek Stock.\nPanel bonus berikutnya akan memberimu bintang dua kali lipat.
+flavor="Kita dapat banyak." ―Aru
+
+< CARD_BOOST_NICEPRESENT >
+name=Nice Present
+descr=Dapat 2 kartu baru.
+flavor="Kamu mau membantuku mengirimkan hadiah." ―Aru
+
+< CARD_BOOST_PRINCESS >
+name=Princess's Privilege
+descr=Buang semua kartu yang di pegang.\nDapat 3 kartu baru.\nHanya bisa dipakai saat kamu punya lebih dari 3 kartu yang di pegang.
+flavor="Kamu mungkin datang dan mengunjungi rumahku suatu saat." ―Fernet
+
+< CARD_BOOST_PUDDING >
+name=Pudding
+descr=Pulihkan HP sampai penuh.
+flavor="Horeee!" ―QP
+
+< CARD_BOOST_COOKIE >
+name=Saki's Cookie
+descr=Pulihkan 1 HP.
+flavor="Dapat kue!" ―Saki
+
+< CARD_BOOST_STIFFCRYSTAL >
+name=Stiff Crystal
+descr=Efek Stock.\nKartu ini bisa menghilangkan efek kartu Trap. Dapat 5 bintang per level Trap yang dihilangkan.
+flavor="Leherku pegal" ―Kyoko
+
+< CARD_BATTLE_BIGMAGNUM >
+name=Big Magnum
+descr=-1 HP saat memakai kartu ini. Selama Battle, dapat +2 ATK. Kalau kamu telah KO karena memakai kartu ini, kartu tidak dapat digunakan.
+flavor="Pergilah! Big Magnum!" ―Captain Tequila
+
+< CARD_BATTLE_FINALBATTLE >
+name=Final Battle
+descr=Battle akan berlangsung hingga salah satu unit KO (Maks 10 tahap).
+flavor="Untuk melindungi semua orang!"\n―Suguri & Hime
+
+< CARD_BATTLE_ONFIRE >
+name=I'm on Fire!
+descr=Saat Battle, dapat +1 ATK dan -1 DEF.
+flavor="Yuk kita main selamanya!" ―Kae
+
+< CARD_BATTLE_RAINBOW >
+name=Rainbow-Colored Circle
+descr=Saat Battle, dapat +2 EVD dan -1 DEF.
+flavor=Seperti menggambar lingkaran berwarna pelangi.
+
+< CARD_BATTLE_RBITS >
+name=Rbits
+descr=Saat Battle, dapat +2 DEF. Kamu tidak bisa menggunakan Evade.
+flavor="Formasi Orbit!" ―QP
+
+< CARD_BATTLE_REVERSE >
+name=Reverse Attribute Field
+descr=Saat Battle, nilai positif dan negatif dari setiap kemampuan kedua unit akan dibalik yang disesuaikan.
+flavor="Apa kamu tidak serius bermain ini ? Kamu... tidak dewasa ya!" -Mei
+
+< CARD_BATTLE_SHIELD >
+name=Shield
+descr=+3 DEF saat Battle. Kamu mungkin tidak dapat menyerang. Kartu ini hanya dapat dipakai oleh pemain yang menyerang kedua.
+flavor="Yang terpenting adalah: membawanya ke sini hidup-hidup." -Sham
+
+< CARD_TRAP_ASSAULT >
+name=Assault
+descr=Battle ke pemain yang memasang kartu ini, dimulai dengan serangan mereka.
+flavor="Aku akan membuatmu meninggalkan guild hari ini pasti!" ―Peat
+
+< CARD_TRAP_BADPUDDING >
+name=Bad Pudding
+descr=Buang kartu secara acak.
+flavor="Puding dengan kecap asin, rasanya seperti Sea Urchin!" ―Yuki
+
+< CARD_TRAP_DANGEROUSPUDDING >
+name=Dangerous Pudding
+descr=Efek Stock\nGiliranmu akan di lewati.
+flavor='Sekilas puding itu mencuri hatiku.'
+
+< CARD_TRAP_EXCHANGE >
+name=Exchange
+descr=Tukar kartu yang di pegang, bintang dan posisi panel kamu saat ini dengan pemain yang memasang kartu ini.
+flavor="Berat..." ―Suguri\n"Jadi berangin tanpa topiku..." ―Marc
+
+< CARD_TRAP_FLAMETHROWER >
+name=Flamethrower
+descr=KO salah satu pemain. Jika pemain memiliki kartu, kartu tersebut akan hilang dan menerima KO.
+flavor="Heeehaaaaah!" ―Punk
+
+< CARD_TRAP_TOYSTORE >
+name=For the Future of the Toy Store
+descr=Kehilangan setengah bintangmu. Pemain yang memasang kartu ini akan mendapatkan bintang yang hilang. Kartu ini hanya dapat digunakan kurang dari 50 bintang.
+flavor="Kalau saja! Kalau saja tidak ada Santa!" ―Arthur
+
+< CARD_TRAP_GOAWAY >
+name=Go Away
+descr=Kamu di pindahkan ke panel yang dipilih secara acak.
+flavor="Ahaha, aku suka ini." ―Nanako
+
+< CARD_TRAP_HEAT300 >
+name=Heat 300%
+descr=Durasi Efek: 3 Chapter.\nSaat Battle, dapat -2 DEF.
+flavor="Yang perlu aku lakukan adalah menghindari setiap serangan!" ―Suguri
+
+< CARD_TRAP_INVASION >
+name=Invasion
+descr=Kamu akan masuk Battle. Musuh akan menyerang pertama.
+flavor="Apa, aku diserang ...?" ―Suguri
+
+< CARD_TRAP_MIMYUU >
+name=Mimyuu's Hammer
+descr=Mengakibatkan 1 Damage.
+flavor="Sekarat kau!" ―Mimyuu  
+
+< CARD_TRAP_PIGGYBANK >
+name=Piggy Bank
+descr=Dapat bintang yang sama dengan lima kali jumlah Chapter yang dilewati saat kartu ini dipakai.
+flavor="Ayah, apa aku masih belum bisa menghancurkan Piggy?" ―Mescal
+
+< CARD_TRAP_PURES >
+name=Sky Restaurant 'Pures'
+descr=Kehilangan setengah bintang dan pulihkan HP sepenuhnya.
+flavor="Kita punya tamu untuk dirawat!" ―Chris         
+
+< CARD_TRAP_TRAGEDY >
+name=Tragedy in the Dead of Night
+descr=Buang kartu secara acak. Kartu tersebut akan berpindah ke pemain yang memasang kartu ini. 
+flavor='Kebahagiaan seperti itu akan di rebut begitu saja.'
+
+< CARD_EVENT_SEAGULLS >
+name=Cloud of Seagulls
+descr=Musuh secara acak akan menerima 2 Damage.
+flavor="Weeekkk!" ―Seagull
+
+< CARD_EVENT_DINNER >
+name=Dinner
+descr=Pulihkan semua unit ke 3 HP.
+flavor="Mari kita makan malam bersama." ―Natsumi
+
+< CARD_EVENT_FORCEDREVIVAL >
+name=Forced Revival
+descr=Semua unit yang KO di bangkitkan kembali dengan 1 HP.
+flavor="Kalian semua akan bangun dalam sekejap." ―Kiriko
+
+< CARD_EVENT_GIFTEXCHANGE >
+name=Gift Exchange
+descr=Semua kartu di kumpulkan dari para pemain dan di bagikan kembali secara acak. Jumlah kartu masing-masing pemain tetap tidak berubah.
+flavor="Pertukaran hadiah? Ayo kita lakukan!"\n―Rbit, Red and Blue
+
+< CARD_EVENT_HEREANDTHERE >
+name=Here and There
+descr=Semua pemain di pindahkan ke panel yang dipilih secara acak.
+flavor="Ke dunia selanjutnya!" ―Marie Poppo
+
+< CARD_EVENT_HOLYNIGHT >
+name=Holy Night
+descr=Efek Permanen\nBonus bintang dalam setiap chapter akan bertambah satu.
+flavor="Ah, itu sebabnya ini adalah pesta malam hari." ―Hime
+
+< CARD_EVENT_LITTLEWAR >
+name=Little War
+descr=Durasi Efek: 3 Chapter.\nPenyerang dan Defense akan terjadi dua kali di semua Battle.
+flavor="Aku percaya... aku memiliki kekuatan untuk menghentikan ini..." ―Suguri
+
+< CARD_EVENT_OHMYFRIEND >
+name=Oh My Friend
+descr=Bos akan muncul.
+flavor="Mesin juga punya teman." ―NoName
+
+< CARD_EVENT_OUTOFAMMO >
+name=Out of Ammo
+descr=Durasi Efek: 1 Chapter.\nTidak ada pemain yang dapat memakai kartu.
+flavor="Kehabisan amunisi!" ―Peat
+
+< CARD_EVENT_SEALEDGUARDIAN >
+name=Sealed Guardian
+descr=Setiap HP unit akan menjadi 1.
+flavor="Temui malaikat pelindung kapal." ―Shifu
+
+< CARD_EVENT_ALLOUTMODE >
+name=Super All-Out Mode
+descr=Efek Stock\nSemua unit dapat +2 ATK selama Battle berikutnya.
+flavor="Ini akan menyakitkan bahkan kalau kamu tahu itu akan datang!!" ―Tomomo
+
+< CARD_EVENT_WARUDA >
+name=We Are Waruda
+descr=Pindahkan semua kartu Trap ke panel yang dipilih secara acak.
+flavor="Tidak berguna. Tidak ada yang bisa mengalahkan Tomato." ―Tomato
+
+< CARD_HYPER_SUGURI >
+name=Accelerator
+descr=Durasi Efek: 1 Chapter.\nBisa pakai dua dadu untuk berpindah, Battle, Bonus, dan Drop.
+flavor="Aku sangat cepat." ―Suguri
+
+< CARD_HYPER_FERNET >
+name=Air Strike
+descr=Semua unit kecuali kamu menerima 1 hingga 3 Damage. Dapat 15 bintang jika ada yang KO.
+flavor="Huuuh, jatuhlah kalian semua." ―Fernet
+
+< CARD_HYPER_HIME >
+name=Binding Chains
+descr=Efek Stock\nSemua Unit kecuali kamu akan melewati giliran berikutnya. Pakai "Bound" ke semua musuh. Durasi Efek: 2 Chapter. Dapat -2 EVD dan -1 MOV.
+flavor="Aku tidak suka melakukan hal semacam ini." ―Hime
+
+< CARD_HYPER_PEAT >
+name=Blue Crow the Second
+descr=Saat Battle, dapat ATK dan DEF tapi kehilangan EVD sama dengan jumlah kartu yang kamu pegang.
+flavor="Aku akan menyelesaikan ini!" ―Peat
+
+< CARD_HYPER_SORA >
+name=Extraordinary Specs
+descr=Durasi Efek: 1 Chapter.\nBisa Roll ke angka 6 untuk berpindah, Battle, Bonus, dan Drop.
+flavor="Aku akan menghargaimu kalau kamu menjatuhkan senjatamu." ―Sora
+ 
+< CARD_HYPER_YUKI >
+name=Gamble!
+descr=Unit yang dipilih akan KO secara acak.
+flavor="Mengapa tidak menggunakan ini saja ?" ―Yuki
+
+< CARD_HYPER_QP >
+name=Hyper Mode
+descr=Dapat +2 ATK saat Battle. Kalau kamu KO, kamu tidak akan memberikan bintang atau Menang ke musuh dan kamu akan bangkit kembali saat giliran berikutnya.
+flavor="HYPER MODE!" ―QP
+
+< CARD_HYPER_TOMOMO >
+name=Magical Massacre
+descr=Semua unit yang memiliki HP penuh atau lebih tinggi akan menerima KO. Dapat -1 untuk Revive roll berikutnya untuk setiap musuh yang KO.
+flavor="Menghilang." ―Tomomo
+
+< CARD_HYPER_ARU >
+name=Present for You
+descr=Semua pemain dapat kartu sampai penuh. Tetapi, mereka yang punya kartu penuh akan dapat 1 kartu. Dapat bintang 10 kali lipat jumlah kartu yang diterima.
+flavor="Hadiah untuk anak-anak yang baik." ―Aru
+
+< CARD_HYPER_KAI >
+name=Protagonist's Privilege
+descr=Durasi Efek: 3 Chapter.\nSaat kamu menyerang pertama, unit lawan tidak dapat menyerang (hanya digunakan sekali).
+flavor="Ini adalah hak istimewa pemeran utama!" ―Kai
+
+< CARD_HYPER_POPPO >
+name=Ubiquitous
+descr=Pindah ke panel unit yang dipilih. Setelah itu, curi bintang sama dengan 10x levelnya.
+flavor="Poppo! Poppopopopopo!"\n―Marie Poppo
+
+< CARD_HYPER_MARC >
+name=x16 Big Rocket
+descr=★ Biaya: Level x10\nMengakibatkan Damage yang setara dengan level kamu ke unit target. Kalau kamu KO dari efek ini akan memberimu 2 kemenangan.
+flavor="Aku perintahkan! Pergilah!" ―Marc
+
+< CARD_HYPER_MASTER >
+name=Banned for Life
+descr=★ Biaya: Bintang / 10.\nHanya bisa memakai kartu Gift. Kalau memakai kartu ini akan mengirimkannya ke pemain lain.\nHilang semua kartu saat kartu ini di buang.
+flavor="Manager, giliranmu!!" ―Chris
+
+< CARD_HYPER_BOSSROBO >
+name=Turbo Charged
+descr=HP menjadi 1.\nDapat +1 ATK per HP yang hilang.\nDurasi Efek: Sebanyak Chapter saat HP tersebut hilang.\n-1 ATK per giliran selama durasi.\nEfek hilang saat KO.
+flavor="Gemuruh gemuruh gemuruh." ―Shifu Robot
+
+< CARD_HYPER_CASTLE >
+name=Immovable Object
+descr=Durasi Efek: 2 Chapter.\nTidak bisa bergerak.\nDapat +2 DEF. Bisa melakukan serangan balik.\nMusuh yang pindah ke panel yang sama harus Battle denganmu.
+flavor="Dengan kekuatan ini, semua yang ada di langit akan menjadi milik kita." ―Guild Master
+
+< CARD_HYPER_CHICKEN >
+name=Golden Egg
+descr=Jika targetnya Chicken, Efek Stock (3). Drop Panel akan bertindak sebagai Panel Bonus.\nLainnya, Efek Stock (3).\nPanel Bonus akan bertindak sebagai Panel Drop.
+flavor="Pekooookk!" ―Chicken
+
+< CARD_HYPER_BALL >
+name=Reflective Shell
+descr=Stat ATK menjadi 0 saat Battle.\nMenyerap hingga 2 Damage.\nDapat tambahan +2 ATK untuk setiap Damage yang diserap.\nBisa digunakan saat Defense.
+flavor="Musuh terdeteksi. Serang" ―Robo Ball
+
+< CARD_HYPER_SEAGULL >
+name=Jonathan Rush
+descr=Pindah ke musuh dan menyerangnya.\nTarget dapat -1 DEF.\nSetelah Battle, giliranmu berakhir.
+flavor="Squaawk!" ―Seagull
+
+[EOF]

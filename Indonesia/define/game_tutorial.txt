@@ -1,0 +1,112 @@
+< TUTORIAL_SECTION_BASICS > 
+Dasar
+
+< TUTORIAL_SECTION_BATTLE > 
+Battle
+
+< TUTORIAL_SECTION_PANELS > 
+Panel
+
+< TUTORIAL_SECTION_CARDS > 
+Kartu
+
+< TUTORIAL_SECTION_COOP > 
+Co-op
+
+
+
+< TUTORIAL_00 >
+Selamat datang di 100% Orange Juice! Kami akan menjelaskan beberapa aturan dasar - kalau bisa, kamu bisa melewati semuanya.
+
+< TUTORIAL_01 >
+Game ini merupakan permainan papan (board game) 4 pemain dengan tujuan untuk mencapai "Norma" level 6 untuk menang.
+
+< TUTORIAL_02 >
+Gulung dadumu untuk berpindah saat di game board - panel dengan beda warna memiliki efek yang berbeda.
+
+< TUTORIAL_03 >
+Ini merupakan home panel. Kamu akan berada di tempat dengan angka satu, dan harus berpijak diatasnya lagi untuk level up atau menang.  
+
+< TUTORIAL_04 >
+Beberapa pemain memiliki giliran, kamu bisa berhenti disana dengan home yang memiliki angka. Kamu bisa mengunjungi home pemain dengan gulungan dadu yang tepat, kalau bisa tepat sasaran.
+
+< TUTORIAL_05 >
+Pencapaian pertamamu yaitu mencapai 10 bintang untuk bisa level up, dan kemudian berpijak ke home. Kamu bisa memilih untuk mengumpulkan bintang atau bertarung untuk bisa menang supaya bisa level-up.
+
+< TUTORIAL_06 >
+Oh iya, kami merekomendasikan untuk mempertahankan bintang norma jika kamu tidak yakin untuk digunakan. Kamu akan dapat beberapa bintang di setiap chapter, jadi kamu tidak akan pernah stuck.
+
+< TUTORIAL_07 >
+Panel kuning merupakan panel bonus, dan akan memberikanmu banyak bintang. Kamu akan menerima bintang berdasarkan level x gulungan dadu (bisa lebih dari 3).
+
+< TUTORIAL_08 >
+Panel biru merupakan drop panel, dan kamu akan kehilangan beberapa bintang jika kamu berpijak disana. Kamu akan kehilangan bintang berdasarkan level x gulungan dadu (bisa lebih dari 5).
+
+< TUTORIAL_09 >
+Hijau merupakan draw panel, dan akan memberikanmu kartu.
+
+< TUTORIAL_10 >
+Merah merupakan encounter panel, dan kamu akan diajak untuk bertarung dengan musuh liar. Jika kamu menang, kamu akan dapat menang dan bintang.
+
+< TUTORIAL_11 >
+Ungu merupakan warp panel - itu akan membuatmu berpindah ke panel acak yang akan menjadi tujuanmu.
+
+< TUTORIAL_12 >
+Masih ada yang lain, panel yang lebih sulit juga... kamu akan mempelajari bagaimana cara mereka bekerja selagi kamu bermain!
+
+< TUTORIAL_13 >
+Kalau kamu bergerak ke unit yang lain selagi berpindah, kamu bisa ajak mereka untuk battle!
+
+< TUTORIAL_14 >
+Kamu bisa mengarahkan kursor di setiap sudut untuk bisa melihat kemampuan mereka. Mereka akan terlihat seberapa bagusnya mereka saat battle.
+
+< TUTORIAL_15 >
+Saat battle, penyerang akan menjadi pertama menggulung dadu untuk menyerang, dan jika mereka punya +ATK bonus itu akan ditambahkan berdasarkan dadu.
+
+< TUTORIAL_16 >
+Defender hanya bisa bertahan, yang akan mengurangi serangan sesuai dengan dadu mereka, biasanya akan mengurang 1 HP.
+
+< TUTORIAL_17 >
+Kalau kamu memilih Evade, defender harus gulung dadu dengan nilai yang sangat tinggi untuk tidak menerima serangan apapun. Kalau gagal, kamu akan kena serangan yang fatal.
+
+< TUTORIAL_18 >
+Setelah selamat dari serangan pertama, defender akan dapat kesempatan untuk menyerang balik!
+
+< TUTORIAL_19 >
+Jika salah satu HP pemain menjadi 0, mereka akan KO dan pemenang mendapatkan 50% bintang yang di dapat, dan dapat 2 win!
+
+< TUTORIAL_20 >
+Berikutnya, mari bicarakan soal kartu! Beberapa pemain memilih 10 kartu untuk dibawa ke permainan, dan itu akan diacak bersamaan di Center Deck, bersama dengan 8 kartu Hyper yang kosong.
+
+< TUTORIAL_21 >
+Kamu harus tepat untuk membawa kartu yang akan membantu unit yang kamu pilih daripada membantu musuh.
+
+< TUTORIAL_22 >
+Beberapa unit memiliki kartu hyper yang unik. Kalau kamu dapat kartu Hyper kosong dari deck, itu akan berubah menjadi kartu Hyper milikmu sendiri. Itu biasanya memiliki efek perubahan super yang kuat!
+
+< TUTORIAL_23 >
+Ingat bahwa setiap kartu memiliki level dari 1 hingga 5 (disebelah kiri). Kamu perlu naik level ke tingkat yang cocok untuk memakai kartu. Itu juga akan menghabiskan bintang saat dipakai (disebelah kanan).
+
+< TUTORIAL_24 >
+Beberapa field memiliki 'Efek Field', yang aktif pada interval tertentu. Kamu dapat mengarahkan kursor ke 'Info' untuk melihat efek field dan banyak lagi.
+
+< TUTORIAL_25 >
+Sebagai contoh, 'Charity' Efek Field memungkinkan setiap pemain mengambil kartu dari Center Deck setiap 5 chapter.
+
+< TUTORIAL_26 >
+Pemain pertama yang mencapai level Norma 4 dalam mode Online, bos akan muncul, dan akan mengganti semua panel Encounter dengan panel Bos. Berhati-hatilah untuk tidak melawannya!
+
+< TUTORIAL_27 >
+Setelah itu, kamu akan dapat beberapa Bintang sebagai hadiah, yang dapat digunakan untuk membeli kartu baru dan lebih banyak lagi di Toko.
+
+< TUTORIAL_28 >
+Saat bermain online atau dalam mode Co-op, kamu juga akan menerima Jeruk yang dapat digunakan untuk membuka berbagai jenis kosmetik di Toko.
+
+< TUTORIAL_29 >
+Jika saat ini ada event yang aktif, kamu dapat menemukan detail lebih lanjut tentang itu dengan mengklik spanduk event di menu utama.
+
+< TUTORIAL_30 >
+Selamat menikmati... dan hati-hati terhadap Marie Poppo!
+
+
+[EOF]

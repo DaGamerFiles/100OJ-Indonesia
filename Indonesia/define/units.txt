@@ -1,0 +1,319 @@
+
+< CARD_UNIT_ALTE >
+name=Alte
+descr=Saat battle, dapat melihat kartu yang sudah ditetapkan musuh. Saat menggunakan Self-destruct, dapat +1 Attack (hingga +3).
+
+< CARD_UNIT_ARTHUR >
+name=Arthur
+descr=Dapat X bintang tambahan dari mana saja, di mana X adalah jumlah dari Toko yang dimainkan, hingga lv saat ini.
+
+< CARD_UNIT_ARU >
+name=Aru
+descr=Bisa menampung 4 kartu.
+
+< CARD_UNIT_ARUSCRAMBLE >
+name=Aru (Scramble)
+descr=Bisa menampung 4 kartu.
+
+< CARD_UNIT_BIG_THE_JONATHAN >
+name=Big the Jonathan
+descr=Saat pemain KO, dapat +1 ATK untuk 1 Chapter. Setiap 4 chapter, gunakan Launch saat giliran bos terakhir. Setiap 10 Chapter, dapat +1 ATK dan -1 DEF & EVD secara permanen.
+
+< CARD_UNIT_BIG_THE_JONATHAN_HYPER >
+name=Big the Jonathan
+descr=Saat pemain KO, dapat +1 ATK untuk 1 Chapter. Setiap 4 chapter, gunakan Launch saat giliran bos terakhir. Setiap 10 Chapter, dapat +1 ATK dan -1 DEF & EVD secara permanen.
+
+< CARD_UNIT_BOSS_CHICKEN >
+name=Big the Haruo
+descr=Dapat -1 ATK, -1 DEF dan +1 die saat rolling serangan untuk setiap Chicken minion di field. Panggil Chicken minion di setiap chapter.
+
+< CARD_UNIT_BOSS_CHICKEN_HYPER >
+name=Big the Haruo
+descr=Dapat -1 ATK, -1 DEF dan +1 die saat rolling serangan untuk setiap Chicken minion di field. Panggil Chicken minion di setiap chapter.
+
+< CARD_UNIT_BOSS_POPPO >
+name=Star Devourer
+descr=Pemain dapat 2x bonus bintang per chapter. Saat kena serangan, dapat +1 DEF sampai akhir chapter. Menerima +1 damage battle per 200 bintang yang dimiliki. Dapat 5 atau berikan 3 bintang untuk setiap battle damage yang diterima atau yang diambil. Menampung 1000 bintang: menang dalam permainan. 0 bintang: kalah dalam permainan.
+
+< CARD_UNIT_BOSS_POPPO_HYPER >
+name=Star Devourer
+descr=Pemain dapat 2x bonus bintang per chapter. Saat kena serangan, dapat +1 DEF sampai akhir chapter. Menerima +1 damage battle per 200 bintang yang dimiliki dan dapat 5 bintang untuk setiap battle damage yang diterima. Menampung 1000 bintang: menang dalam permainan. 0 bintang: kalah dalam permainan.
+
+< CARD_UNIT_BIG_POPPO >
+name=Big Poppo
+descr=Menangani no combat damage dan mencuri 3 bintang per damage yang diberikan. Saat dikalahkan, dapat REC 10 dan berikan 25 bintang dan 3 Win.
+
+< CARD_UNIT_BOSS_ROBOBALL >
+name=M10 Robot
+descr=Pada giliran Bos, jangan berhenti saat menantang pemain. Ketika Protect dan Scrambled tidak aktif, gunakan Protect.
+
+< CARD_UNIT_BOSS_QP >
+name=Summer Beast
+descr=Setiap giliran, panggil seagull Minion (hingga Boss Lvl). Saat Minion dikalahkan, hilang 1 Hype. Ketika pemain KO, dapatkan 1 Hype. Jika Boss memiliki 10+ Hype di awal giliran Bos, Rampage.
+
+< CARD_UNIT_BOSS_ROPOCHI >
+name=RoPoChi
+descr=Saat Po-tect dan Scrambled tidak aktif, gunakan Po-tect. Dapatkan -2 ATK dan +1 die saat serangan bergulir untuk setiap minion yang ada. Gunakan Roost Boost setiap 6 chapter. Dapatkan 3 bintang per damage combat yang diberikan.
+
+< CARD_UNIT_BOSS_ROPOCHI_HYPER >
+name=RoPoChi
+descr=Saat Po-tect dan Scrambled tidak aktif, gunakan Po-tect. Dapatkan -2 ATK dan +1 die saat serangan bergulir untuk setiap minion yang ada. Gunakan Roost Boost setiap 6 chapter. Dapatkan 5 bintang per damage combat yang diberikan.
+
+< CARD_UNIT_CHICKEN >
+name=Chicken
+descr=
+
+< CARD_UNIT_CHICKEN_MP >
+name=Chicken
+descr=Hilang 1/4 bintang dan berikan 1 Kemenangan saat KO dalam pertarungan.
+
+< CARD_UNIT_CASTLE >
+name=Kastil Terbang
+descr=
+
+< CARD_UNIT_CASTLE_MP >
+name=Kastil Terbang
+descr=Kebal ketika bertahan\nTidak bisa melakukan serangan balik
+
+< CARD_UNIT_CEOREPARQUE >
+name=Ceoreparque
+descr=Saat berhasil Evasion, berikan 1 serangan pada lawan.
+
+< CARD_UNIT_CUTIES >
+name=Cuties
+descr=Can only choose Stars norma. Gain X additional stars from all sources, where X is the number of different Event cards you played. In battle, randomly gain +1 ATK or DEF.
+
+< CARD_UNIT_FERNET >
+name=Fernet
+descr=
+
+< CARD_UNIT_HIME >
+name=Hime
+descr=
+
+< CARD_UNIT_IRU >
+name=Iru
+descr=Saat battle, musuh kena 1 damage dan menyerang terlebih dahulu jika tidak ada efek lain yang mempengaruhi urutan giliran. KO dari efek ini dianggap sebagai pertarungan KO.
+
+< CARD_UNIT_ISLAY >
+name=Islay
+descr=Cannot challenge other players when meeting them on the field.
+
+< CARD_UNIT_KAE >
+name=Kae
+descr=Membalikkan nilai Pertahanan ke Serangan\n-1 DEF saat menyerang.
+
+< CARD_UNIT_KAI >
+name=Kai
+descr=
+
+< CARD_UNIT_KIRIKO >
+name=Kiriko
+descr=Tidak ada efek penyembuhan (Healing). Saat memakai kartu Battle, dapat +1 ATK & EVD dalam battle, dan Max HP dikurangi 1 (Sampai batas minimal 2).
+
+< CARD_UNIT_KRILA >
+name=Krila
+descr=
+
+< CARD_UNIT_KYOKO >
+name=Kyoko
+descr=Tidak bisa menggunakan Evade saat pertarungan.
+
+< CARD_UNIT_KYOUSUKE >
+name=Kyousuke
+descr=
+
+< CARD_UNIT_MANAGER >
+name=Manajer toko
+descr=
+
+< CARD_UNIT_MANAGER_MP >
+name=Manajer toko
+descr=Tidak ada bintang di panel bonus. Hanya dapat menggunakan kartu jenis Hadiah (Gift). Kena 1 serangan saat kartu dibuang.
+
+< CARD_UNIT_MARC >
+name=Marc
+descr=
+
+< CARD_UNIT_MEI >
+name=Mei
+descr=Dapatkan "Merah & Biru" saat tidak memegang kartu di akhir giliran.
+
+< CARD_UNIT_MIMYUU >
+name=Mimyuu
+descr=Bangkit sebagai Tomato dan siap beraksi ketika bangkit. Hilang 1/4 bintang dan berikan 1 Kemenangan saat KO dalam pertarungan.
+
+< CARD_UNIT_MIRA >
+name=Mira
+descr=Perangkapmu yang dipicu oleh musuh menambah efek tambahan: Binding Smoke (Untuk 2 chapter: Pergerakan dadu akan terbatas pada 1, 2, atau 3).
+
+< CARD_UNIT_MIUSAKI >
+name=Miusaki
+descr=Saat menggunakan Defend di pertarungan, jangan sampai kena lebih dari 2 damage sekaligus.
+
+< CARD_UNIT_MIXEDPOPPO >
+name=Marie Poppo (Mixed)
+descr=Saat pindah dari efek apa pun: Jika level kamu ganjil, dapatkan Lvl x3 di bintang. Jika level kamu genap, dapat kartu.
+
+< CARD_UNIT_MIO >
+name=Mio
+descr=
+
+< CARD_UNIT_NANAKO >
+name=Nanako
+descr=
+
+< CARD_UNIT_NATH >
+name=Nath
+descr=Dapat 1 tumpukan Ekstensi Aktif di setiap pertarungan di mana kartu Battle dimainkan (maks 3). Kalah 1 tumpukan saat KO.\nEfek tumpukan: +1 ATK, +1 DEF, dan -1 EVD.
+
+< CARD_UNIT_NATSUMI >
+name=Natsumi
+descr=Jika belum KO dan berdiri di panel yang sama dengan pemain lain di akhir giliran, setiap unit di panel pulih 1 HP.\nUntuk setiap pemain lain yang kamu pulihkan, dapatkan 5 bintang.
+
+< CARD_UNIT_NICO >
+name=Nico
+descr=Tidak ada efek dari kartu Gift.\nDapatkan X bintang tambahan dari semua sumber, di mana X adalah jumlah kartu Gift yang dipegang.\nBisa menampung 4 kartu.
+
+< CARD_UNIT_NONAME >
+name=NoName
+descr=Jika KO, tidak ada bintang atau Win yang didapat oleh musuh dari pertarungan dan berubah menjadi NoName (Head) sebagai gantinya.
+
+< CARD_UNIT_NONAME_HEAD >
+name=NoName (Head)
+descr=Berubah menjadi NoName setelah mencapai Home atau KO\n-1 untuk roll Move.
+
+< CARD_UNIT_POPPO >
+name=Marie Poppo
+descr=
+
+< CARD_UNIT_PEAT >
+name=Peat
+descr=
+
+< CARD_UNIT_QP >
+name=QP
+descr=
+
+< CARD_UNIT_QPD >
+name=QP (Dangerous)
+descr=Dapatkan bonus kombat dengan membawa kartu 'Puding' atas nama dia.
+
+< CARD_UNIT_ROBOBALL >
+name=Robo Ball
+descr=
+
+< CARD_UNIT_ROBOBALL_MP >
+name=Robo Ball
+descr=Dapat 1 Win saat KO dalam pertarungan.
+
+< CARD_UNIT_SAKI >
+name=Saki
+descr=
+
+< CARD_UNIT_SEAGULL >
+name=Seagull
+descr=
+
+< CARD_UNIT_SEAGULL_MP >
+name=Seagull
+descr=Dapat 1 Win saat KO dalam pertarungan.
+
+< CARD_UNIT_SHAM >
+name=Sham
+descr=
+
+< CARD_UNIT_SHERRY >
+name=Sherry
+descr=Musuh selalu menjadi yang pertama. Jika musuhnya itu Sherry, abaikan efek ini.
+
+< CARD_UNIT_SHIFUROBOT >
+name=Shifu Robot
+descr=
+
+< CARD_UNIT_SHIFUROBOT_MP >
+name=Shifu Robot
+descr=Mulai dan Bangkit dengan 1 HP\nAuto-Repair
+
+< CARD_UNIT_SORA >
+name=Sora
+descr=
+
+< CARD_UNIT_SORAMILITARY >
+name=Sora (Military)
+descr=Saat KO dalam pertarungan, bangkit kembali secara otomatis dengan 2 HP pada giliran berikutnya.
+
+< CARD_UNIT_STARBREAKER >
+name=Star Breaker
+descr=Hanya dapat memilih norma Win.
+
+< CARD_UNIT_SUGURI >
+name=Suguri
+descr=
+
+< CARD_UNIT_SUGURI_V2 >
+name=Suguri (Ver.2)
+descr=Bisa menampung 2 Kartu.\nKembalikan 1 HP di awal semua giliran.
+
+< CARD_UNIT_SWEETBREAKER >
+name=Sweet Breaker
+descr=Saat melawan pemain dengan kartu terbalik, dapatkan +1 untuk ATK, DEF, dan EVD.
+
+< CARD_UNIT_SYURA >
+name=Syura
+descr=Saat HP 1, dapatkan +1 ATK dan EVD.
+
+< CARD_UNIT_TOMATO >
+name=Tomato
+descr=Bangkit sebagai Mimyuu dan siap beraksi ketika bangkit.\nAmbil kartu Evil Spy Work - Execution sebagai Waruda Machine, siap meluncur!
+
+< CARD_UNIT_TEQUILA >
+name=Tequila
+descr=Seorang anggota bajak laut muncul sebagai unit musuh.\nDapatkan +1 ATK untuk setiap kehabisan HP selama battle.
+
+< CARD_UNIT_TEQMINION >
+name=Anggota Bajak Laut
+descr=Musuh akan kehilangan 10x bintang jika dikalahkan\nPemain yang menggunakan unit ini akan mendapatkan bintang.\nTidak muncul sebagai Encounter to the summoner.
+
+< CARD_UNIT_TOMOMO >
+name=Tomomo
+descr=
+
+< CARD_UNIT_TOMOMO_MP >
+name=Tomomo
+descr=Softened: Tomomo bermain dengan teman-teman, dan menurunkan atributnya.
+
+< CARD_UNIT_TOMOMO_CASUAL >
+name=Tomomo (Casual)
+descr=
+
+< CARD_UNIT_TOMOMO_SWEETEATER >
+name=Tomomo (Sweet Eater)
+descr=Ketika KO, efek ini akan hilang dan kembali menjadi Tomomo (Casual).
+
+< CARD_UNIT_TSIH >
+name=Tsih
+descr=Dapatkan +2 ATK jika mempertahankan kartu Gift.
+
+< CARD_UNIT_YUKI >
+name=Yuki
+descr=
+
+< CARD_UNIT_YUKI_DANGEROUS >
+name=Yuki (Dangerous)
+descr=Ubah setiap kartu yang dipegang dengan nama "Puding menjadi Tragedi di Tengah Malam". Ketika pemain lain kena jebakan, dapatkan 1 Win. Tidak ada win dari melawan musuh yang netral.
+
+< CARD_UNIT_YUUKI >
+name=Yuuki
+descr=Saat chapter ganjil, dapatkan -1 ATK dan +2 DEF. \nSaat chapter genap, dapatkan +2 ATK dan -1 DEF.
+
+
+< CARD_UNIT_SUGURI46 >
+name=Suguri (46 Miliar Tahun)
+descr=Saat memilih damage yang berkaitan dengan kartu Boost/Event untuk dimainkan, kamu dapat membayar dua kali lipat biayanya untuk menggandakan damage saat digunakan.
+
+< CARD_UNIT_SUMIKA >
+name=Sumika
+descr=
+
+[EOF]

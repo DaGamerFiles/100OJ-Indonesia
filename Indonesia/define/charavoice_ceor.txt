@@ -1,0 +1,156 @@
+<0000> Hoy.
+<0001> Repa akan lempar.
+<0002> Ini dia.
+<0003> Whoosh!
+<0004> Lihatlah rencana terhebat Repa.
+<0005> Repa punya ide yang luar biasa.
+<0006> Gimana kalau Repa coba ini?
+<0007> Hehehe.
+<0008> Repa akan lempar kartu!
+<0009> Disini.
+<0010> Repa suka melakukan ini.
+<0011> Ada jebakan.
+<0012> Repa merasa ini akan meningkatkan GP dia.
+<0013> Bisa membawa kemenangan bagi Repa.
+<0014> Repa bisa menggunakan benda kayak gini.
+<0015> Kamu menatap Repa dengan ketakutan di matamu.
+<0016> Repa bisa mengatasi rambut sendiri.
+<0017> Repa bisa menyelesaikan banyak hal.
+<0018> Baiklah, Repa akan coba lebih keras lagi.
+<0019> Semangat Repa.
+<0020> Istirahat sudah berakhir.
+<0021> Repa akan istirahat sedikit lebih lama...
+<0022> Repa nggak tahan tinggal diam.
+<0023> Uuu.
+<0024> Repa benci ini.
+<0025> Hoatah!
+<0026> Achooh!
+<0027> Ini dia.
+<0028> Orah!
+<0029> Sakit banget.
+<0030> Ayo keluarkan.
+<0031> Jahat banget.
+<0032> Repa mau nangis.
+<0033> Sakitnya sudah hilang.
+<0034> Repa sudah merasa baikan.
+<0035> Hoooh, Repa merasa takut.
+<0036> Ohoooh...
+<0037> Repa mau dibawa kemana?
+<0038> Nuaaah.
+<0039> Tidaaak.
+<0040> Repa berputar-putar.
+<0041> Terlalu buruk.
+<0042> Repa nggak bisa berdiri lagi.
+<0043> Uuuu... Repa menangis.
+<0044> Repa benci dengan ini.
+<0045> Repa lihat pertahananmu itu lemah.
+<0046> Nggak ada yang memikirkan si imut Repa ini mau nyerang orang.
+<0047> Kamu menyerang Repa.
+<0048> Sudah siap?
+<0049> Hiiih! Kamu jahat...
+<0050> Tantangan diterima.
+<0051> Repa nggak suka kekerasan.
+<0052> Kamu mau mencoab memukul gadis imut seperti Repa ini?!
+<0053> Mati dah.
+<0054> Kurang ajar.
+<0055> Oryah!
+<0056> Repa akan menghancurkanmu!
+<0057> Hyaaah.
+<0058> Uhhh.
+<0059> keluarlah!
+<0060> Ya ampun!
+<0061> Sakit banget, ya ampun!
+<0062> Hyaaah.
+<0063> Repa bakal... mati...
+<0064> Hiiiii.
+<0065> Terlalu dekat.
+<0066> *Menghindar*.
+<0067> Mudah di tebak.
+<0068> Mudah sekali buat menghindar.
+<0069> Jangan bilang Repa kalau kamu mau pukul dia.
+<0070> Latihan yang bagus.
+<0071> *Hah*. Repa sangat kuat...
+<0072> Hehehe, ini bisa ditebak.
+<0073> Re-Repa akan membalas dendam...
+<0074> Tidak bisa dimaafkan...
+<0075> Sakit sekali... Repa akan menangis...
+<0076> Repa kesal dengan ini. Repa mau pulang
+<0077> Hooree!
+<0078> Ohoh!
+<0079> Bagus sekali.
+<0080> Repa dapat sesuatu yang bagus.
+<0081> Tunggu sebentar.
+<0082> Jangaaan tinggalkan Reee-paaa!
+<0083> Aaaah.
+<0084> Repa sedih...
+<0085> Uwah! Nggak adil!
+<0086> Jebakan!?
+<0087> Repa mengacaukan waktu.
+<0088> Nyaah!
+<0089> Ada sesuatu yang berbahaya disekitar sini.
+<0090> Repa dapat getaran yang menakutkan...
+<0091> Ini dia bossnya!
+<0092> Masalah datang.
+<0093> Dapat bintang? Dari langit?
+<0094> Repa akan mengumpulkan banyak.
+<0095> Repa akan berenang di lautan bintang.
+<0096> Repa sedang dalam mood untuk para bintang.
+<0097> Repa sangat bersemangat.
+<0098> Rambut Repa itu kuat.
+<0099> Repa bisa jadi gila.
+<0100> Repa ngira dia butuh latihan.
+<0101> Ceoreparque... Bisa dipanggil Repa Repa.
+<0102> Kamu mau memilih Repa?
+<0103> Ayo main permainan yang menarik.
+<0104> Kamu mau berteman dengan Repa?
+<0105> Repa percaya diri.
+<0106> Permainan dimulai!
+<0107> Ayo bersenang-senang.
+<0108> Repa akan memenangkan permainan ini, gimanapun caranya.
+<0109> Apa Repa menang...? Asik!
+<0110> Hehehe, kemenangan ini akan membuat cemilan Repa makin enak.
+<0111> Repa nomor satu?
+<0112> Begini cara melakukannya...!
+<0113> Lihat apa yang baru saja didapatkan!
+<0114> Repa bersemangat.
+<0115> Apa itu? Repa penasaran.
+<0116> Ini hadiah dari Repa. Jaga baik-baik ya.
+<0117> Iya.
+<0118> Kerja bagus.
+<0119> Repa mengerti.
+<0120> Tidak.
+<0121> Terlalu buruk...
+<0122> Repa melakukannya! Beruntung banget!
+<0123> Apa...
+<0124> Ini dia.
+<0125> Ini dia dadunya.
+<0126> Kamu bisa melakukannya.
+<0127> Halo.
+<0128> Repa bingung...
+<0129> Bagus sekali.
+<0130> Keren.
+<0131> Awww...!
+<0132> Repa nggak tahu kekuatan ini.
+<0133> Ini apaan deh... tapi Repa akan menggunakannya.
+<0134> Repa juga nggak yakin apa fungsinya.
+<0135> Nggak ada gunanya!
+<0136> Rone, mendingan persiapkan dirimu.
+<0137> Oke, Rone. Repa akan bertarung denganmu.
+<0138> Hehehe, Repa senang bisa mengalahkan Rone.
+<0139> Boo... Rone, kurang ajar...
+<0140> Penampilanmu... Repa merasakan sesuatu.
+<0141> Kamu pikir ini takdir kita...? Kebetulan. Repa merasakan hal yang sama.
+<0142> Hehe, kelihatannya Repa merasa lebih kuat.
+<0143> Ugh, kekalahan Repa ini juga merupakan takdir...?
+<0144> Ayolah, rambut Repa bisa kusut nantinya.
+<0145> *Nyam Nyam*... Repa senang banget...
+<0146> *Hah*... Kalau saja ada secangkir teh.
+<0147> Repa suka manisan.
+<0148> Mmm, nggak ada yang mengalahkan ini.
+<0149> Wajahmu seram...! Jangan dekat-dekat Repa!
+<0150> Gadis muda...? Kamu terlihat cantik!
+<0151> Bolehkah kamu memperlihatkan rambut halusmu itu... Keren!
+<0152> Pertarungan yang indah.
+<0153> Bukan hanya anggun, tapi kuat...!
+<0154> Lagu itu... Repa merasa kekuatannya keluar...!
+<0155> Woaaah, Repa nggak bisa menahannya lagi.

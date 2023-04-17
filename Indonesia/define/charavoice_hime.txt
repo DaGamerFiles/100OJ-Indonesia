@@ -1,0 +1,159 @@
+<0000> Seperti ini.
+<0001> Mari kita lihat...
+<0002> Bagaimana dengan ini?
+<0003> Mari kita lihat!
+<0004> O-hoho.
+<0005> Aku akan menggunakan ini.
+<0006> Bagaimana ini akan terjadi?
+<0007> Aku mulai...
+<0008> Ini seharusnya bagus.
+<0009> O-hoho... ini menyenangkan.
+<0010> Oke, akan kuletakkan trapnya.
+<0011> Di sini berbahaya, oke?
+<0012> Pinjamkan aku kekuatanmu.
+<0013> Bagaimana dengan ini?
+<0014> O-hoho, aku mulai ya.
+<0015> O-hoho, ini menyenangkan.
+<0016> Dibungkus dalam rantaiku.
+<0017> *Menguap*... tidur siang yang nyaman.
+<0018> Oh, sudah pagi?
+<0019> Ini waktu yang terbaik.
+<0020> Aku mungkin agak terlalu santai.
+<0021> Aku akan istirahat sebentar lagi.
+<0022> Haa...
+<0023> Masih beristirahat.
+<0024> Oh, tidak bagus.
+<0025> Ambil itu.
+<0026> Oke.
+<0027> O-hohohoho.
+<0028> Seperti ini.
+<0029> Oh.
+<0030> Oww.
+<0031> Ya ampun.
+<0032> Cukup.
+<0033> Angin yang sejuk.
+<0034> Itu terasa enak.
+<0035> Hangatnya.
+<0036> Bagaimana menenangkannya.
+<0037> Astaga?
+<0038> Aku mau kemana?
+<0039> Tolong bawa aku ke suatu tempat yang indah.
+<0040> Boing.
+<0041> Zzzz....
+<0042> Hah, waktunya istirahat.
+<0043> Selamat malam.
+<0044> Haruskah kita tenang?
+<0045> Sekarang, bisakah kita menari?
+<0046> Haruskah kita bermain?
+<0047> O-hoho, Ayo bersenang-senang.
+<0048> Sekarang, saku akan memulainya.
+<0049> Oh, sebuah undangan?
+<0050> Tolong izinkan aku bersenang-senang.
+<0051> Aku akan menghadapimu
+<0052> Kamu agak energik.
+<0053> Ambil itu!
+<0054> Maaf jika ini menyakitkan.
+<0055> Seperti ini.
+<0056> Haah.
+<0057> Ya ampun
+<0058> Kyaa...
+<0059> Oh.
+<0060> Ngh.
+<0061> Oooh.
+<0062> Sangat mengejutkan.
+<0063> Kamu kuat.
+<0064> Ooooooooh?
+<0065> Gampang.
+<0066> Hampir saja.
+<0067> O-hoho, Aku di sini.
+<0068> Ya, itu bagus.
+<0069> Itu tadi menyenangkan.
+<0070> Mari bermain lagi kapan-kapan.
+<0071> Menari saja tidak cukup.
+<0072> Sudah berakhir?
+<0073> O-hoho, kamu bisa bertahan.
+<0074> Aku sedikit lelah...
+<0075> I'm going to rest.
+<0076> Waktunya istirahat sebentar...
+<0077> Oh, sangat berkilau.
+<0078> Menyenangkan.
+<0079> O-hoho, banyaknya.
+<0080> Bintang... sangat menyenangkan.
+<0081> Bintangku...
+<0082> Aku menjatuhkan beberapa bintang.
+<0083> Bintangku menyebar kemana-mana...
+<0084> Oh... bintangku...
+<0085> Trap...?
+<0086> Itu trap...
+<0087> AKu jatuh di trap...
+<0088> Ya ampun, sungguh hal yang mengerikan untuk dilakukan.
+<0089> Terlihat kuat.
+<0090> Oh, ada sesuatu di sini.
+<0091> O-hoho, sepertinya ini lebih menyenangkan.
+<0092> Astaga, ini bisa sesulit itu.
+<0093> Aku ingin bintang.
+<0094> Aku suka hal-hal yang berkilap.
+<0095> Aku akan mengumpulkan bintang.
+<0096> Aku ingin mengumpulkan banyak bintang.
+<0097> O-hoho, ayo menari hari ini.
+<0098> Aku ingin bermain lebih banyak.
+<0099> Aku ingin menari dengan orang-orang.
+<0100> Aku juga ingin bergembira.
+<0101> Kamu baik-baik saja denganku?
+<0102> O-hoho, berharap untuk bekerja sama denganmu.
+<0103> Ya, ayo menari bersama.
+<0104> Terima kasih atas undangannya.
+<0105> Sekarang, haruskah kita menikmati diri kita sendiri?
+<0106> Semua orang tampaknya penuh energi.
+<0107> O-hoho...
+<0108> Yuk, mari kita mulai.
+<0109> Itu sangat menyenangkan.
+<0110> Aku nomor satu...?
+<0111> O-hoho, Ayo main lagi.
+<0112> Oh, Aku ingin bermain lagi...
+<0113> Aku menemukan sesuatu yang bagus.
+<0114> Ini luar biasa, kan?
+<0115> Apa ini yang kamu inginkan?
+<0116> Oh, betapa indahnya.
+<0117> Bagus.
+<0118> Bagusnya.
+<0119> Ya.
+<0120> Tidak.
+<0121> Wow...
+<0122> Aku sangat bahagia.
+<0123> Hmm...
+<0124> Bisa kita jalan?
+<0125> Aku lempar ini, ya?
+<0126> Ayo jalan.
+<0127> Halo.
+<0128> Apa yang harus aku lakukan...?
+<0129> Betapa indahnya.
+<0130> Luar biasa.
+<0131> Astaga.
+<0132> Aku pinjam ini...
+<0133> Aku ingin tahu apa yang terjadi.
+<0134> Aku pinjam ini sebentar.
+<0135> Jadi ini kekuatan dia.
+<0136> Baik, Suguri, maukah kita menari?
+<0137> O-hoho, kupikir Suguri akan mengundangku.
+<0138> O-hoho, itu sangat menyenangkan, Suguri.
+<0139> Hah, bermain denganmu sungguh menyenangkan, Suguri.
+<0140> Mari bermain bersama, kak.
+<0141> Menari dengan kakak sangat menyenangkan.
+<0142> Kakak sungguh indah.
+<0143> Pancaranmu sedikit panas, kak...
+<0144> Oh, kamu tidak berguna.
+<0145> Tahan... Aku tidak suka kamu.
+<0146> Memukulmu agak menyenangkan.
+<0147> Kamu benar-benar tidak berguna...
+<0148> Tidak ada lagi kekerasan, oke?
+<0149> Kamu sangat tidak berguna...
+<0150> Menyelesaikan.
+<0151> Serius... Kamu benar-benar tidak berguna.
+<0152> Oh, itu pesawat merah yang lucu.
+<0153> Oke, mari kita mulai. Untuk melindungi semua orang...
+<0154> Semuanya, ini akan menjadi sulit.
+<0155> O-hoho, pakaian itu benar-benar cocok untukmu.
+<0156> Kamu mengenakan pakaian yang aku pilih untukmu.
+<0157> O-hoho, kamu telah menunjukkanku sesuatu yang baik.
+<0158> Kamu kuat bahkan ketika kamu memakai pakaian imut, Suguri.

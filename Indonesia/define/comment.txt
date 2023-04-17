@@ -1,0 +1,253 @@
+
+< COM_CONFIG_SYSTEM >
+Pengaturan Sistem
+
+< COM_CONFIG_SCREEN >
+Pengaturan Layar
+
+< COM_CONFIG_AUDIO >
+Pengaturan Audio
+
+< COM_CONFIG_VOICE >
+Pengaturan Suara
+
+< COM_NEWGAME_SELECTSLOT >
+Pilih slot penyimpanan.
+
+< COM_NEWGAME_SLOTCONFIRM >
+Kamu yakin ingin menggunakan slot ini?
+
+< COM_NEWGAME_ENTERNAME >
+Masukkan nama kamu
+
+< COM_NEWGAME_SELECTCHARACTER >
+Pilih karakter.
+
+< COM_NEWGAME_CHARACTERCONFIRM >
+Kamu yakin ingin menggunakan karakter ini?
+
+< COM_LOADGAME_SELECTSLOT >
+Pilih slot penyimpanan untuk di buka.
+
+< COM_LOADGAME_LOADCONFIRM >
+Kamu yakin ingin membuka penyimpanan ini?
+
+< COM_SHOP_SELECTITEM >
+Pilih item untuk dibeli.
+
+< COM_SHOP_BUYCONFIRM >
+Kamu yakin ingin membeli item ini?
+
+< COM_SHOP_ITEMSOLDOUT >
+Item terjual habis.
+
+< COM_SHOP_ITEMNOTINSTOCK >
+Item tidak tersedia.
+
+< COM_SHOP_NOTENOUGHCURRENCY >
+Tidak bisa membeli barang ini.
+
+< COM_SHOP_NOSTEAMCONNECTION >
+Item ini membutuhkan koneksi Steam.
+
+< COM_SHOP_NOSTEAMCONNECTIONDLC >
+Tidak dapat memverifikasi kepemilikan DLC tanpa koneksi Steam.
+
+< COM_SHOP_ALREADYOWNDLC >
+Kamu sudah memiliki DLC ini.
+
+< COM_SHOP_BONUSITEM >
+Item ini diberikan kepada semua yang punya %s di Steam.
+
+< COM_SHOP_CHARACTERITEM >
+Item ini milik karakter yang tidak kamu miliki.
+
+< COM_SHOP_NOTENOUGHSTARS >
+Kamu tidak memiliki cukup bintang.
+
+< COM_SHOP_NOTENOUGHHALLOWEENCANDY >
+Kamu tidak memiliki cukup permen.
+
+< COM_SHOP_NOTENOUGHORANGES >
+Kamu tidak memiliki cukup jeruk.
+
+
+< COM_SHOP_DLCCHARACTERITEM >
+Item ini milik karakter DLC yang tidak kamu miliki.
+
+< COM_SHOP_LEVELTOOLOW >
+Level kamu tidak cukup untuk membeli item ini.
+
+< COM_SHOP_BOUGHTCARDPACK >
+Kamu membeli paket kartu!
+
+< COM_SHOP_BOUGHTCARD >
+Kamu membeli kartu single!
+
+< COM_SHOP_BOUGHTDISCOUNT >
+Kamu membeli tiket diskon!
+
+< COM_SHOP_BOUGHTCHARACTER >
+Kamu membeli karakter yang dapat dimainkan!
+
+< COM_SHOP_BOUGHTFIELD >
+Kamu membeli field baru!
+
+< COM_SHOP_BOUGHTCOLORS >
+Kamu membeli warna unit baru!
+
+< COM_SHOP_BOUGHTHAIR >
+Kamu membeli warna rambut baru!
+
+< COM_SHOP_BOUGHTACCESSORY >
+Kamu membeli aksesoris baru!
+
+< COM_SHOP_BOUGHTDICE >
+Kamu membeli dadu baru!
+
+< COM_SHOP_BOUGHTCANDY1 >
+Kamu membeli 1 permen!
+
+< COM_SHOP_BOUGHTCANDY10 >
+Kamu membeli 10 permen!
+
+< COM_SHOP_BOUGHTCRATE >
+Kamu membeli peti!
+
+< COM_SHOP_BOUGHTPET >
+Kamu membeli pet baru!
+
+< COM_USERINFO_PLAYERINFO >
+Lihat info pemain.
+
+< COM_USERINFO_GAMEINFO >
+Lihat info permainan.
+
+< COM_USERINFO_BROWSECARDS >
+Telusuri kartu.
+
+< COM_USERINFO_CARDSINFO >
+Periksa info koleksi kartu kamu. 
+
+< COM_USERINFO_AVATAR >
+Ubah avatar yang ingin ditampilkan.
+
+< COM_USERINFO_GALLERY >
+Nikmati berbagai gambar dan BGM.
+
+< COM_USERINFO_STATS >
+Lihat statmu dengan berbagai karakter pada pertandingan online.
+
+< COM_CAMPAIGN_SELECTSCENARIO >
+Pilih skenario.
+
+< COM_CAMPAIGN_SELECTSTAGE >
+Pilih tahapan.
+
+< COM_CAMPAIGN_BREAKERPACKONLY >
+Campaign ini hanya dapat dimainkan jika memiliki Breaker Pack.
+
+< COM_CAMPAIGN_WITCHPACKONLY >
+Campaign ini hanya dapat dimainkan jika memiliki Witch Pack.
+
+< COM_CAMPAIGN_TOYSTOREPACKONLY >
+Campaign ini hanya dapat dimainkan jika memiliki Toy Store Pack.
+
+< COM_FREEBATTLE_CHOOSEGAMETYPE >
+Buat/gabung secara online atau mainkan Single Player.
+
+< COM_FIELDSELECT >
+Pilih field.
+
+< COM_RANDOMFIELD_MINIMUMREQUIRED >
+Kamu perlu mengatur setidaknya 3 level acak yang tersedia.
+
+< COM_RANDOMFIELDEVENT_MINIMUMREQUIRED >
+Kamu perlu mengatur setidaknya 3 event field acak yang tersedia.
+
+< COM_DECK_PREPARE >
+Pilih karakter/atur kartu.
+
+< COM_DECK_NOTPREPARED >
+Belum siap.
+
+< COM_DECK_CARDLIMITREACHED >
+Tidak ada lagi kartu jenis ini yang dapat digunakan.
+
+< COM_DECK_DLCONLYCARD >
+Kartu ini hanya dapat digunakan oleh pemilik DLC.
+
+< COM_DECK_WAITING >
+Menunggu pemain lain untuk bersiap-siap...
+
+< COM_DECK_READY >
+Siap memainkan game!
+
+< COM_GAME_PAUSED >
+Jeda.
+
+< COM_GAME_QUITCONFIRM >
+Kamu yakin ingin keluar dari permainan?
+
+< COM_RESULT_STARSGAINED >
+Bintang yang kamu peroleh dari game ini.
+
+< COM_CREATELOBBY_SETOPTIONS >
+Atur opsi lobi.
+
+< COM_CREATELOBBY_CREATING >
+Membuat lobi...
+
+< COM_CREATELOBBY_FAILED >
+Tidak dapat membuat lobi.
+
+< COM_CREATELOBBY_NAMEEMPTY >
+Nama lobi tidak boleh kosong.
+
+< COM_LOBBYLIST_SELECTLOBBY >
+Pilih lobi. Teman dari Steam akan muncul bintang hijau.
+
+< COM_LOBBYLIST_JOINLOBBY >
+Gabung dengan lobi yang dipilih atau hubungi pemilik lobi.
+
+< COM_LOBBYLIST_PASSWORDEMPTY >
+Kata Sandi tidak boleh kosong.
+
+< COM_LOBBYLIST_SEARCHEMPTY >
+Pencarian tidak boleh kosong.
+
+< COM_LOBBYLIST_CONNECTFAILED >
+Tidak dapat terhubung ke lobi.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOSELECT >
+Tidak dapat memilih data lobi - data lobi tidak diambil.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOCONTACT >
+Tidak dapat menghubungi pemilik lobi - data lobi tidak diambil.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOJOIN >
+Tidak dapat bergabung - data lobi tidak diambil.
+
+< COM_LOBBY_WAITINGFORPARTICIPANTS >
+Menunggu peserta lain...
+
+< COM_LOBBY_WAITINGFORPLAYERS >
+Menunggu pemain lain...
+
+< COM_LOBBY_PLAYERSNOTREADY >
+Tidak dapat memulai game sampai semuanya sudah siap.
+
+< COM_LOBBY_KICKREADYPLAYER >
+Tidak dapat mengusir pemain yang sudah siap.
+
+< COM_LOBBY_KICKNOTREADY >
+Tidak dapat mengusir pemain tersebut.
+
+< COM_LOBBY_MIDGAME_JOINED >
+Telah bergabung dalam game! Kamu dapat masuk pada chapter berikutnya.
+
+< COM_LOBBY_SPECTATOR_WAITINGDECKS >
+Permainan segera dimulai! Menunggu pemain lain menyelesaikan deck mereka...
+
+[EOF]
+

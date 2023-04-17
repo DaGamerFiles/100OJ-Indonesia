@@ -1,0 +1,99 @@
+< PIN_FBAT >
+name=Fruitbat
+desc=
+artist=
+
+< PIN_FLYING_SUGURI >
+name=Flying Suguri
+desc=Granted to the players who played as Suguri a lot.\nShe may ever dash to the sky!
+artist=Sora
+
+< PIN_FLYING_KAI >
+name=Flying Kai
+desc=Granted to the players who played as Kai a lot.\nWill he ever get his wallet back?
+artist=Sora
+
+< PIN_FLYING_QP >
+name=Flying QP
+desc=Granted to the players who played as QP a lot.\nAlways having some Pudding.
+artist=Sora
+
+< PIN_FLYING_MARC >
+name=Flying Marc
+desc=Granted to the players who played as Marc a lot.\nNever leaving without her rocket.
+artist=Sora
+
+< PIN_FACTORY >
+name=Orange Factory
+desc=Granted to players who are part of the Fruitbat Factory staff.
+artist=
+
+< PIN_CONTEST_WINNER >
+name=Contest Winner
+desc=Granted to players who won an official contest.
+artist=Yulay Devlet
+
+< PIN_CONTRIBUTOR >
+name=Contributor
+desc=Granted to players who officially contributed to 100% Orange Juice in a way or another.
+artist=Yulay Devlet
+
+< PIN_FLYING_HIME >
+name=Flying Hime
+desc=Granted to the players who played as Hime a lot.\nDo not underestimate the chains of the Guardian.
+artist=Sora
+
+< PIN_FLYING_FERNET >
+name=Flying Fernet
+desc=Granted to the players who played as Fernet a lot.\nWould you like a cup of tea?
+artist=Sora
+
+< PIN_FLYING_YUKI >
+name=Flying Yuki
+desc=Granted to the players who played as Yuki a lot.\nWhat about gambling our lives away?
+artist=Sora
+
+< PIN_FLYING_POPPO >
+name=Flying Poppo
+desc=Granted to the players who played as Poppo a lot.\nProof of a deeper understanding of the game.
+artist=Sora
+
+< PIN_FLYING_ARU >
+name=Flying Aru
+desc=Granted to the players who played as Aru a lot.\nOn her way to deliver the presents!
+artist=Sora
+
+< PIN_FLYING_SORA >
+name=Flying Sora
+desc=Granted to the players who played as Sora a lot.\nShe fought hard to see the blue sky again...
+artist=Sora
+
+< PIN_FLYING_PEAT >
+name=Flying Peat
+desc=Granted to the players who played as Peat a lot.\nPossibly still trying to defeat Red Barrel.
+artist=Sora
+
+< PIN_FLYING_TOMOMO >
+name=Flying Tomomo
+desc=Granted to the players who played as Tomomo a lot.\nTruly Magical.
+artist=Sora
+
+< PIN_FLYING_SYURA >
+name=Flying Syura
+desc=Granted to the players who played as Syura a lot.\nShe can be Beyond Cute as well.
+artist=Sora
+
+< PIN_FLYING_NANAKO >
+name=Flying Nanako
+desc=Granted to the players who played as Nanako a lot.\nDon't call her short!
+artist=Sora
+
+< PIN_FLYING_SAKI >
+name=Flying Saki
+desc=Granted to the players who played as Saki a lot.\nWould you like a cookie?
+artist=Sora
+
+< PIN_FLYING_KYOUSUKE >
+name=Flying Kyousuke
+desc=Granted to the players who played as Kyousuke a lot.\nIn search of a special someone.
+artist=Sora

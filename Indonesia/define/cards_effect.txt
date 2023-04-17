@@ -1,0 +1,101 @@
+< CARD_HYPER_ARUSCRAMBLE_EFFECT >
+name=Hadiah Santa
+descr=Unit tidak bisa menantang orang lain untuk bertarung.
+
+< CARD_NATH_EFFECT >
+name=Ekstensi Aktif
+descr=Untuk setiap tumpukan serangan, mendapatkan +1 ATK/DEF dan -1 EVD.
+
+< CARD_NONAME_EFFECT >
+name=Kepala Pot
+descr=Statistik dasar berubah menjadi -1 ATK/DEF/EVD. Menghilangkan kebangkitan atau mencapai panel rumah.
+
+< CARD_AMPATK_EFFECT >
+name=Buff Serangan
+descr=Mendapatkan +1 ATK.
+
+< CARD_AMPDEF_EFFECT >
+name=Buff Pertahanan
+descr=Mendapatkan +1 DEF.
+
+< CARD_AMPEVD_EFFECT >
+name=Buff Penghindaran
+descr=Dapatkan +1 EVD.
+
+< CARD_AMPMOV_EFFECT >
+name=Buff Pergerakan
+descr=Mendapatkan +1 lemparan.
+
+< CARD_AMPHP_EFFECT >
+name=Buff Health
+descr=Mendapatkan +1 hingga maksimal HP.
+
+< CARD_AMPRECOVERY_EFFECT >
+name=Buff Pemulihan
+descr=Mendapatkan -1 REC.
+
+< CARD_HYPER_SWEETEATER_EFFECT >
+name=Sweet Eater                                        
+descr=Statistik dasar berubah menjadi 6 ATK dan 0 DEF/EVD. Menghilangkan kebangkitan.
+
+< CARD_SMOKESCREEN_EFFECT >
+name=Binding Smokescreen
+descr=Pergerakan lemparan terbatas pada 1, 2 atau 3.             
+
+< CARD_KIRIKO_EFFECT >
+name=Strange Medicine
+descr=-1 Maks HP.
+
+< CARD_CUTIES_EFFECT >
+name=Events Crashed
+descr=Mendapatkan +1 bintang dari seluruh kekayaan/resources.
+
+< CARD_HAND_BOOST_EFFECT >
+name=Hand Boost
+descr=+1 jumlah kartu yang dapat dipegang.
+
+< CARD_CHEAT_EFFECT >
+name=? ? ? ? ? ?
+descr=????
+
+< CARD_CHAINBOUND_EFFECT >
+name=Ikatan
+descr=Mendapatkan -2 EVD dan -1 MOV.
+
+< CARD_JOKER_EFFECT >
+name=Poppo Joker
+descr=Kartu dapat dimainkan seolah-olah mereka Lvl 1 dan memiliki biaya dasar 0.
+
+< CARD_HERBAL_REMEDY_EFFECT >
+name=Obat Herbal
+descr=Durasi Efek: 1 Chapter. Tidak bisa menerima damage.
+
+< CARD_ACCEL_CANDY_EFFECT >
+name=Accel Hyper Candy
+descr=Durasi Efek: 1 Chapter. Lempar dua dadu untuk tindakan apa pun.
+
+< CARD_COTTONCAKE_EFFECT >
+name=Kartu Gratis
+descr=Durasi Efek: 1 Chapter. Kartu tidak akan memiliki biaya dasar dan tidak ada persyaratan level.
+
+< CARD_REDBEANCREAM_EFFECT >
+name=Es Krim Kacang Merah
+descr=Efek Penumpukkan/Stok: Mendapatkan +1 ATK. Efek ini dihapus saat KO. Efek ini tidak dapat ditumpuk.
+
+< CARD_ZAPPERSWORD_EFFECT >
+name=Pedang Ajaib nan Menawan 
+descr=Mendapatkan +1 ATK secara permanen.
+
+< CARD_MELONPAN_EFFECT >
+name=Melonpan
+descr=Mendapatkan +1 DEF dan EVD secara permanen, tetapi dapat -1 ATK.
+
+< CARD_SMOKEBOMB_EFFECT >
+name=Bom Asap
+descr=Efek Penumpukkan/Stok: Dalam pertempuran berikutnya, musuh mendapatkan -1 ATK, DEF dan EVD.
+
+< CARD_SHIELD_EFFECT >
+name=Perisai
+descr=Mengurangi damage yang masuk, dan mengurangi jumlah penumpukkan/stok dari waktu ke waktu.
+
+[EOF]

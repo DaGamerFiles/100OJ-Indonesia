@@ -1,0 +1,120 @@
+< ITEM_UNKNOWN >
+name=???
+descr=
+
+// Tavern
+< ITEM_HEAL_LV1 >
+name=Secangkir kopi
+descr=Sembuhkan dirimu hingga 2 HP.
+
+< ITEM_HEAL_LV2 >
+name=Limun
+descr=Sembuhkan dirimu hingga 4 HP.
+
+< ITEM_HEAL_LV3 >
+name=Elixir
+descr=Sembuhkan hingga HP penuh.
+
+< ITEM_OVERHEAL_LV1 >
+name=Minuman berenergi
+descr=Sembuhkan hingga 2 HP, kemudian dapat 1 HP.
+
+< ITEM_OVERHEAL_LV2 >
+name=Pudding Mixture
+descr=Sembuhkan hingga 2 HP, kemudian dapat 2 HP.
+
+< ITEM_OVERHEAL_LV3 >
+name=Red & Blue Island
+descr=Sembuhkan hingga 4 HP, kemudian dapat 4 HP.
+
+< ITEM_HEALTHSHOT >
+name=Sweet Tonic
+descr=Menambahkan Max 1 HP secara permanen. Hanya bisa dibeli sekali.
+
+< ITEM_INVULNERABILITY >
+name=Obat herbal
+descr=Durasi Efek: 1 Chapter. Tidak akan kena Damage.
+
+// Bakery
+
+< ITEM_ATK_BOOST_LV1 >
+name=Kue
+descr=Durasi Efek: 3 Chapter. Dapat +1 ATK. Tidak dapat menumpuk efek yang sama dua kali.
+
+< ITEM_ATK_BOOST_LV2 >
+name=Muffin
+descr=Durasi Efek: 3 Chapter. Dapat +2 ATK. Tidak dapat menumpuk efek yang sama dua kali.
+
+< ITEM_ATK_BOOST_LV3 >
+name=Pastry
+descr=Durasi Efek: 3 Chapter. Dapat +3 ATK. Tidak dapat menumpuk efek yang sama dua kali.
+
+< ITEM_DEF_BOOST_LV1 >
+name=Permen
+descr=Durasi Efek: 3 Chapter. Dapat +1 DEF. Tidak dapat menumpuk efek yang sama dua kali.
+
+< ITEM_DEF_BOOST_LV2 >
+name=Karamel
+descr=Durasi Efek: 3 Chapter. Dapat +2 DEF. Tidak dapat menumpuk efek yang sama dua kali.
+
+< ITEM_DEF_BOOST_LV3 >
+name=Coklat
+descr=Durasi Efek: 3 Chapter. Dapat +3 DEF. Tidak dapat menumpuk efek yang sama dua kali.
+
+< ITEM_EVA_BOOST_LV1 >
+name=Es Krim
+descr=Durasi Efek: 3 Chapter. Dapat +1 EVD. Tidak dapat menumpuk efek yang sama dua kali.
+
+< ITEM_EVA_BOOST_LV2 >
+name=Sorbet
+descr=Durasi Efek: 3 Chapter. Dapat +2 EVD. Tidak dapat menumpuk efek yang sama dua kali.
+
+< ITEM_EVA_BOOST_LV3 >
+name=Gelato
+descr=Durasi Efek: 3 Chapter. Dapat +3 EVD. Tidak dapat menumpuk efek yang sama dua kali.
+
+< ITEM_ACCELCANDY >
+name=Accel Hyper Candy
+descr=Durasi Efek: 1 Chapter. Roll 2 dadu untuk aksi apapun.
+
+< ITEM_COTTONSPONGE >
+name=Cotton Sponge Cake
+descr=Durasi Efek: 1 Chapter. Semua kartu tidak akan memiliki biaya dan batasan level.
+
+< ITEM_PUDDING >
+name=Pudding
+descr=Efek Stock. Jika KO di Battle, akan bangkit kembali dengan 3 HP dan kembali melanjutkan Battle.
+
+< ITEM_MELONPAN >
+name=Melonpan
+descr=Dapat +1 DEF dan EVD, dan -1 ATK secara Permanen. Hanya bisa dibeli sekali.
+
+< ITEM_REDBEANCREAM >
+name=Red Bean Ice Cream
+descr=Efek Stock: Dapat +1 ATK. Efek ini akan hilang apabila KO. Tidak dapat ditumpuk.
+
+// Armory
+
+< ITEM_WOODENSHIELD >
+name=Perisai Kayu
+descr=Perisai yang melindingi dari Damage sebesar 1. Akan hilang setelah 2 hit, atau setelah 1 battle.
+
+< ITEM_IRONSHIELD >
+name=Perisai Besi
+descr=Perisai yang melindingi dari Damage sebesar 2. Akan hilang setelah 4 hit, atau setelah 1 battle.
+
+< ITEM_MITHRILSHIELD >
+name=Perisai Mithril
+descr=Perisai yang melindingi dari Damage sebesar 3. Akan hilang setelah 6 hit, atau setelah 1 battle.
+
+< ITEM_ZAPPERSWORD >
+name=Magical Enchanted Sword
+descr=Dapat +1 ATK secara permanen. Hanya bisa dibeli sekali.
+
+< ITEM_SMOKEBOMB >
+name=Smoke Bomb
+descr=Efek Stock: Pada saat battle berikutnya, musuh akan dapat -1 ATK, DEF dan EVD.
+
+< ITEM_MERCENARY >
+name=Prajurit Bayaran
+descr=Memanggil prajurit bayaran. Dia akan menyerang siapapun (kecuali si pemanggil) ketika bertemu di Field. Jika unit KO oleh prajurit bayaran, 50% bintang akan hilang, dan sisanya diberikan ke prajurit bayaran.

@@ -1,0 +1,25 @@
+< SUMMER2020_A_CAST >
+name=Cast
+descr=Memakai alat pancing. Menutup pemakaian skill lain saat cooldown. Cooldown: 2 detik.
+
+< SUMMER2020_A_SIRENSIGHT >
+name=Siren Sight
+descr=Melihat di dalam air, menangkap sampah dan ikan. Durasi: 10 detik. Cooldown: 30 detik.
+
+< SUMMER2020_A_IMPROVEDHOOK >
+name=Improved Hook
+descr=Umpanmu bisa menyelam 50% lebih cepat. Durasi: 15 detik. Cooldown: 45 detik.
+
+< SUMMER2020_A_TREASURE >
+name=Treasure of the Sea
+descr=Ikan yang selanjutnya di tangkap akan dapat 2x dari nilai awal. Hanya sekali pakai.
+
+< SUMMER2020_A_BLESSING >
+name=River's Blessing
+descr=Ikan akan bergerak 25% lebih cepat. Menutup pemakaian skill yang lain selain Cast saat aktif. Bisa di tampung. Durasi: 10 detik. Cooldown: 20 detik.
+
+< SUMMER2020_A_MASTERY >
+name=Master Angler
+descr=Memulihkan cooldown semua skill, kecuali untuk penggunaan sekali pakai. Hanya bisa digunakan sekali.
+
+[EOF]

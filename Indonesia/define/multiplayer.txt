@@ -1,0 +1,221 @@
+
+< FREEBATTLE_CREATELOBBY >
+Buat lobi
+
+< FREEBATTLE_JOINLOBBY >
+Gabung lobi
+
+< FREEBATTLE_SINGLEPLAYER >
+Single Player
+
+< FREEBATTLE_RETURN >
+Kembali
+
+< LOBBYLIST_RETRIEVINGLOBBIES >
+Memuat lobi game.\nTunggu sebentar...
+
+< LOBBYLIST_RETRIEVINGDATA >
+Memuat data lobi...
+
+< LOBBYLIST_DATATIMEOUT >
+Data lobi telah kehabisan waktu.
+
+< LOBBY_NOSTEAM >
+Tidak dapat tersambung ke Steam.
+
+< LOBBY_CREATING >
+Membuat lobi...
+
+< LOBBY_CREATEFAILED >
+Tidak dapat membuat lobi.
+
+< LOBBY_CONNECTING >
+Menghubungkan ke lobi.\nTunggu sebentar...
+
+< LOBBY_CONNECTED >
+Terhubung ke lobi.
+
+< LOBBY_CONNECTFAILED >
+Tidak dapat terhubung ke lobi.
+
+< LOBBY_NORESPONSE >
+Tidak ada tanggapan yang diterima.
+
+< LOBBY_GAMEABORTED >
+Permainan telah dibatalkan.
+
+< LOBBY_JOINRESPONSE >
+Menunggu tanggapan dari server...
+
+< LOBBY_JOINFAILED >
+Tidak dapat gabung ke game.
+
+< LOBBY_FULL >
+Lobi penuh.
+
+< LOBBY_STEAMID_EXISTS >
+ID Steam ini sudah ada di permainan.
+
+< LOBBY_WRONGPASSWORD >
+Kata sandi salah.
+
+< LOBBY_BANNEDFROMLOBBY >
+Kamu telah diusir dari lobi ini.
+
+< LOBBY_VERSIONDIFFERENCE >
+Versi lobi tidak kompatibel.
+
+< LOBBY_VERSIONUPDATE >
+Harap perbarui ke versi terbaru.
+
+< LOBBY_HOSTHASOLDVERSION >
+Lobi menggunakan versi yang lebih lama.
+
+< LOBBY_LEAVECONFIRM >
+Tinggalkan lobi?
+
+< LOBBY_LEAVEWAIT >
+Keluar, tunggu sebentar...
+
+< LOBBY_PLAYERLEFT >
+Salah satu pemain telah meninggalkan permainan.
+
+< LOBBY_KICKCONFIRM >
+Ingin mengusir pemain ini?
+
+< LOBBY_KICKED >
+Terusir dari lobi.
+
+< LOBBY_PLAYERCONNECTIONLOST >
+Koneksi pemain tersebut telah terputus.
+
+< LOBBY_HOSTCONNECTIONLOST >
+Koneksi host player telah terputus.
+
+< LOBBY_REMOVEDFORIDLING >
+Kamu telah dialihkan karena terlalu lama diam.
+
+< LOBBY_CHANGING_OWNER >
+Mengubah pemilik lobi...
+
+< LOBBY_REPLACINGPLAYER >
+Ganti dengan pemain CPU.
+
+< LOBBY_SPECTATOR_CONNECTING >
+Penonton bergabung...
+
+// Prefix: Spectator's name. 
+< LOBBY_SPECTATOR_JOINREQUEST >
+ingin bergabung...
+
+< LOBBY_SPECTATOR_JOINREQUESTING >
+Meminta izin untuk bergabung...
+
+< LOBBY_SPECTATOR_JOINDENIED >
+Permintaan bergabung ditolak.
+
+< LOBBY_SPECTATOR_JOINNOPLAYERSLOTS >
+Tidak ada slot pemain.
+
+// LOBBY_SPECTATOR_JOIN + name + LOBBY_SPECTATOR_JOIN2
+// Spectator Domdi wants to join as player.
+< LOBBY_SPECTATOR_JOIN1 >
+Penonton
+
+< LOBBY_SPECTATOR_JOIN2 >
+ingin bergabung sebagai pemain.
+
+< LOBBY_PLAYERTOSPECTATOR_CONFIRM >
+Ingin menjadi penonton?
+
+< LOBBY_SPECTATORTOPLAYER_CONFIRM >
+Ingin menjadi pemain?
+
+< CHAT_TYPEPROMPT >
+<Ketik pesan dan tekan ENTER.>
+
+// 10 characters max.
+< CHAT_NAME_SYSTEM >
+Sistem
+
+// 10 characters max.
+< CHAT_NAME_EMPTY >
+<kosong>
+
+< CHAT_NAME_DASHES >
+--------
+
+< CHAT_MUTE_SELF_ERROR >
+Tidak bisa mute ke diri sendiri.
+
+< CHAT_MUTED_USER > 
+Kamu telah mute %s.
+
+< CHAT_UNMUTED_USER > 
+Kamu mematikan mute %s
+
+< CHAT_SYSTEM_LOBBYCREATED >
+%s telah dibuat!
+
+< CHAT_SYSTEM_LOBBYJOINED >
+Bergabung di %s!
+
+< CHAT_SYSTEM_PLAYERJOINEDLOBBY >
+%s telah bergabung ke lobi!
+
+< CHAT_SYSTEM_GAMEENDED >
+Game berakhir! kembali ke lobi.
+
+< CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
+Meminta dari Host untuk bergabung...
+
+< CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
+Meminta dari Host untuk bergabung...
+
+< CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
+Permintaan kamu telah kehabisan waktu.
+
+< CHAT_SYSTEM_SPECTATORSLOTREQUESTTIMEOUT >
+Permintaan kamu telah kehabisan waktu.
+
+< CHAT_SYSTEM_PLAYERTAKEOVER >
+%s ditetapkan sebagai player %d.
+
+< CHAT_SYSTEM_SWITCHEDTOPLAYER >
+Beralih ke pemain!
+
+< CHAT_SYSTEM_SWITCHEDTOSPECTATOR >
+Beralih ke penonton!
+
+< CHAT_SYSTEM_PLAYERSWITCHEDTOSPECTATOR >
+%s telah beralih dari pemain ke penonton.
+
+< CHAT_SYSTEM_SPECTATORSWITCHEDTOPLAYER >
+%s telah beralih dari penonton ke pemain.
+
+< CHAT_SYSTEM_PLAYERHASLEFTGAME >
+%s telah meninggalkan permainan.
+
+< CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
+Koneksi %s terputus.
+
+// Invite = game invitation
+< GAMEINVITE_PENDING_TITLE >
+Menunggu Undangan
+
+< GAMEINVITE_JOIN_TOOLTIP >
+Pergi ke Menu Utama untuk gabung ke permainan.
+
+// Game speed: <nb>
+< GAMEINVITE_NORMAL_MODE_DETAILS >
+Kecepatan: %d
+
+// Game speed: <nb>, <boss name>, <boss difficulty>
+< GAMEINVITE_COOP_MODE_DETAILS >
+Kecepatan: %d, %s, %s
+
+< LOBBY_QUICKJOIN_TOOLTIP >
+Gabung Cepat.
+
+[EOF]
+

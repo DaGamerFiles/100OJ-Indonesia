@@ -1,0 +1,187 @@
+
+< FIELD_RANDOM >
+Acak
+
+< FIELD_UNKNOWN >
+Tidak diketahui
+
+< FIELD_PRACTICE >
+Latihan
+
+< FIELD_SPACEWANDERER >
+Space Wanderer
+
+< FIELD_PUDDINGCHASE >
+Pudding Chase
+
+< FIELD_CHRISTMASMIRACLE >
+Keajaiban Natal
+
+< FIELD_PLANETEARTH >
+Planet Bumi
+
+< FIELD_LAGOONFLIGHT >
+Penerbangan Lagoon
+
+< FIELD_WARFARE >
+Warfare
+
+< FIELD_HIGHWAYHEIST >
+Highway Heist
+
+< FIELD_SEALEDARCHIVE >
+Arsip Tertutup
+
+< FIELD_SUNSET >
+Matahari Terbenam
+
+< FIELD_TOMOMOABYSS >
+Tomomo's Abyss
+
+< FIELD_WHITEWINTER >
+Putihnya Musim Dingin
+
+< FIELD_NIGHTFLIGHT >
+Night Flight
+
+< FIELD_CLOVER >
+Semanggi
+
+< FIELD_FARM >
+Tanah pertanian
+
+< FIELD_STARCIRCUIT >
+Sirkuit Bintang
+
+< FIELD_TRAININGPROGRAM >
+Program pelatihan
+
+< FIELD_VORTEX >
+Vortex
+
+< FIELD_SWEETHEAVEN >
+Sweet Heaven
+
+< FIELD_STARSHIP >
+Starship
+
+< FIELD_FROSTCAVE >
+Frost Cave
+
+< FIELD_SHIPYARD >
+Shipyard
+
+< FIELD_TREASUREISLAND >
+Pulau harta karun
+
+< FIELD_TREASUREISLANDNIGHT >
+Pulau harta karun (Night)
+
+< FIELD_WITCHFOREST >
+Hutan Penyihir
+
+< FIELD_ICYHIDEOUT >
+Icy Hideout
+
+< FIELD_SAKURA >
+Sakura Smackdown
+
+< FIELD_WORKSHOP >
+Santa's Workshop
+
+< FIELD_OCEANDIVE >
+Ocean Dive
+
+< FIELD_OVERTHESEA >
+Over the Sea
+
+< FIELD_DARKCITADEL >
+Dark Citadel
+
+< FIELD_BEGINNERTOWN >
+Beginner Town
+
+
+< FIELD_COOP_LAGOONFLIGHT >
+Penerbangan Lagoon CO
+
+< FIELD_COOP_SUNSET >
+Matahari Terbenam CO
+
+< FIELD_COOP_POPPOABYSS >
+Poppo's Abyss
+
+< FIELD_COOP_STARCIRCUIT >
+Sirkuit Bintang CO
+
+< FIELD_COOP_SPACEWANDERER >
+Space Wanderer CO
+
+< FIELD_COOP_HIGHWAYHEIST >
+Highway Heist CO
+
+< FIELD_COOP_FARM >
+Tanah pertanian CO
+
+< FIELD_COOP_SHIPYARD >
+Shipyard CO
+
+< FIELD_COOP_TRAININGPROGRAM >
+Program pelatihan CO
+
+< FIELD_COOP_NIGHTFLIGHT >
+Night Flight CO
+
+< FIELD_COOP_VORTEX >
+Vortex CO
+
+< FIELD_COOP_CYBERSPACE >
+Cyberspace
+
+< FIELD_COOP_PLANETEARTH >
+Planet Bumi CO
+
+< FIELD_COOP_WITCHFOREST >
+Hutan Penyihir CO
+
+< FIELD_COOP_WORKSHOP >
+Santa's Workshop CO
+
+< FIELD_COOP_SAKURA >
+Sakura Smackdown CO
+
+< FIELD_COOP_PUDDINGCHASE >
+Pudding Chase CO
+
+< FIELD_COOP_TREASUREISLAND >
+Pulau harta karun CO
+
+< FIELD_COOP_TREASUREISLANDNIGHT >
+Pulau harta karun CO (Night)
+
+< FIELD_COOP_OCEANDIVE >
+Ocean Dive CO
+
+< FIELD_COOP_OVERTHESEA >
+Over the Sea CO
+
+< FIELD_COOP_CLOVER >
+Semanggi CO
+
+< FIELD_COOP_FROSTCAVE >
+Frost Cave CO
+
+< FIELD_COOP_ICYHIDEOUT >
+Icy Hideout CO
+
+< FIELD_COOP_STARSHIP >
+Starship CO
+
+< FIELD_COOP_TOMOMOABYSS >
+Tomomo's Abyss CO
+
+< FIELD_COOP_WHITEWINTER >
+Putihnya Musim Dingin CO
+
+[EOF]
+

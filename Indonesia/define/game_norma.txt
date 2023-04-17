@@ -1,0 +1,48 @@
+
+< GAME_NORMA_CLEAR >
+Norma selesai!
+
+< GAME_NORMA_ACHIEVED >
+Norma Dicapai
+
+< GAME_NORMA_STARS >
+<normaamount> bintang atau lebih.
+
+< GAME_NORMA_STARS_10 >
+10 bintang atau lebih.
+
+< GAME_NORMA_STARS_30 >
+30 bintang atau lebih.
+
+< GAME_NORMA_STARS_70 >
+70 bintang atau lebih.
+
+< GAME_NORMA_STARS_120 >
+120 bintang atau lebih.
+
+< GAME_NORMA_STARS_200 >
+200 bintang atau lebih.
+
+< GAME_NORMA_WINS_SINGLE >
+Kalahkan musuh.
+
+< GAME_NORMA_WINS_MULTIPLE >
+Kalahkan <normaamount> musuh atau lebih.
+
+< GAME_NORMA_WINS_1 >
+Kalahkan musuh.
+
+< GAME_NORMA_WINS_2 >
+Kalahkan 2 musuh atau lebih.
+
+< GAME_NORMA_WINS_5 >
+Kalahkan 5 musuh atau lebih.
+
+< GAME_NORMA_WINS_9 >
+Kalahkan 9 musuh atau lebih.
+
+< GAME_NORMA_WINS_14 >
+Kalahkan 14 musuh atau lebih.
+
+[EOF]
+

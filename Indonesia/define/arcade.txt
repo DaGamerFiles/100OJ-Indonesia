@@ -1,0 +1,106 @@
+< ITEMDEF_PET_DISPLAY_TYPE > 
+Pet
+
+< ITEMDEF_TOKEN_DISPLAY_TYPE > 
+Token Arcade
+
+
+
+
+< RARITY_COMMON >
+Biasa
+
+< RARITY_UNCOMMON >
+Luar Biasa
+
+< RARITY_RARE >
+Langka
+
+< RARITY_SUPER_RARE >
+Sangat Langka
+
+< PET_SELECT_NOPET >
+Tanpa Pet
+
+
+< ARCADE_ORANGE_GET >
+Mendapatkan Oranges!
+
+< ARCADE_PET_GET >
+Mendapatkan Pet!
+
+< ARCADE_COMMON_GET >
+Mendapatkan Item Biasa!
+
+< ARCADE_NEW_PET_COLOR >
+Mendapatkan warna baru!
+
+< ARCADE_PLAY>
+MAINKAN
+
+< ARCADE_EXCHANGE >
+Tukar
+
+< ARCADE_LOADING >
+Tunggu...
+
+
+< ARCADE_EXCHANGE_NOPET >
+Tidak ada Pet yang dipilih.
+
+< ARCADE_EXCHANGE_CONFIRM >
+Tukar Pet ini?
+
+< ARCADE_ERROR_STEAM >
+Tidak terkoneksi ke Steam.
+
+< ARCADE_ERROR_MISC >
+Ada masalah. Coba lagi nanti.
+
+< ARCADE_ERROR_TOKEN_COUNT >
+Token tidak cukup.
+
+< ARCADE_ERROR_EXCHANGE_QUANTITY >
+Tidak cukup pet untuk di tukar.
+
+< ARCADE_ERROR_TIMEOUT >
+Batas waktu telah habis. Coba lagi nanti.
+
+< ARCADE_TOOLTIP_PETCATCHER >
+Pakai 3 token untuk mendapatkan pet atau item biasa!
+
+< ARCADE_TOOLTIP_EXCHANGE >
+Tukar 2 dari pet yang sama untuk mendapatkan warna baru!
+
+< ARCADE_TOOLTIP_EMOTES >
+Mendapatkan chat emoji baru!
+
+< ARCADE_TOOLTIP_CONSUMABLES >
+Beli beberapa item untuk digunakan di game!
+
+< ARCADE_TOOLTIP_GAMEMACHINE >
+Mainkan minigames dari event sebelumnya!
+
+< ARCADE_MACHINE_PETCATCHER >
+Mencari Pet
+
+< ARCADE_MACHINE_SUMMER >
+Mencari Pet Summer
+
+< ARCADE_MACHINE_BOUNTYHUNT >
+Mencari Bounty Hunt Pet
+
+< ARCADE_MACHINE_EXCHANGE >
+Tukar Pet
+
+< ARCADE_MACHINE_EMOTES >
+Emote Gachapon
+
+< ARCADE_MACHINE_CONSUMABLES >
+Vending Machine
+
+< ARCADE_MACHINE_BUILD_A_CASTLE >
+Build-a-Castle
+
+< ARCADE_MACHINE_SCHOOL_CRASHERS >
+School Crashers

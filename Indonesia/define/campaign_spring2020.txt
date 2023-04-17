@@ -1,0 +1,167 @@
+﻿
+// ========= Scene: Spring 2020 Event Start =========
+
+// (No Speaker)
+<0000>Setelah mulai melakukan perjalanan bersama, Ellie dan Lulu tiba di sebuah kota.
+
+// (ellie)
+<0001> A-a-ahaaa! Ohmigawd, ohmigawd! Kita dalam masalah besar yang pernah ada, Lulu!
+
+// (lulu)
+<0002> Masalahnya apa, Ellie?
+
+// (ellie)
+<0003> Kita kehabisan uang untuk perjalanan...
+
+// (lulu)
+<0004> Kehabisan apa ?
+
+// (ellie)
+<0005> Uang untuk perjalanan! Kita nggak bisa tinggal di penginapan atau beli makanan kalau nggak ada itu!
+
+// (lulu)
+<0006> Kita nggak bisa makan ?! I-ini krisis banget!
+
+// (ellie)
+<0007> Uhh, aku nggak punya pilihan selain mancari uang!
+
+// (lulu)
+<0008> Kamu yakin mau melakukan hal itu ?
+
+// (ellie)
+<0009> Nggak apa-apa. aku kan gadis yang sangat imut, aku yakin aku bisa menghasilkan cukup uang untuk membeli suatu negara dalam sehari...!
+
+// (lulu)
+<0010> Mungkin rumah anjing bisa kamu dapatkan.
+
+// (ellie)
+<0011> Hah ? Kamu menghina aku?
+
+// (lulu)
+<0012> Nggak mungkin lah.
+
+// (ellie)
+<0013> Hmm, seriusan nih, kita harus ngapain ? Nggak bakal bisa dapat makanan berarti nggak bisa mempertahankan tubuhku yang menakjubkan ini.
+
+// (lulu)
+<0014> Hei, Ellie, apaan tuh yang tertulis di kertas itu ?
+
+// (ellie)
+<0015> Hmm? itu...
+
+// (ellie)
+<0016> Monster hunting quests...!
+
+// (ellie)
+<0017> Okelah... Aku bisa mengalahkan semua monster ini dengan mudah!
+
+// (lulu)
+<0018> Apa yang akan terjadi kalau kamu mengalahkan mereka ?
+
+// (ellie)
+<0019> Kita akan dapat hadiah berupa uang!
+
+// (lulu)
+<0020> Itu artinya...
+
+// (ellie)
+<0021> Kita bisa dapat makanan yang mewah dan tidur di kasur yang nyaman!
+
+// (ellieandlulu)
+<0022> Ahaaa!"
+
+// (ellie)
+<0023> Oke deh, Lulu, kita berburu monster sekarang juga!
+
+// (lulu)
+<0024> Tentu!
+
+// ========= Scene: Spring 2020 Event Ending =========
+
+// (ellie)
+<0025> Yesss! Ini hadiah yang kita dapatkan! Ahaaa!
+
+// (lulu)
+<0026> Waaaah, keren, Ellie! dengan itu, kita bisa beli makanan untuk sementara waktu, ya kan?
+
+// (ellie)
+<0027> Pastinya. Maksudku, aku mungkin bisa mengadakan pesta... he-he-he.
+
+// (lulu)
+<0028> Wah, kamu terlihat sedang memikirkan hal yang jahat.
+
+// (ellie)
+<0029> Oh iya, aku juga harus menghargai usahamu untuk semua kerja keras ini.
+
+// (lulu)
+<0030> Iyaa, Lulu bekerja sangat keras!
+
+// (ellie)
+<0031> Kamu mau apa ?
+
+// (lulu)
+<0032> Hmm... Lulu mau makanan yang enak, itu saja.
+
+// (ellie)
+<0033> Ahaaa!♥ Tentu saja, aku akan mencarikanmu makanan yang enak!
+
+// (ellie)
+<0034> Tapi aku ingin sesuatu sebagai hadiah.
+
+// (lulu)
+<0035> Hadiah ? Hmm, Lulu mungkin mau...
+
+// (lulu)
+<0036> Dia nggak bisa memikirkan apapun.
+
+// (ellie)
+<0037> Kamu nggak punya pemikiran, Lulu!
+
+// (ellie)
+<0038> Kalau kamu nggak tahu apa yang kamu inginkan, aku akan memilihnya untukmu.
+
+// (lulu)
+<0039> Ah, Lulu menyukai itu! Dia ingin kamu memilih untuknya!
+
+// (ellie)
+<0040> Oke, aku mengerti! Seleraku paling bagus kalau memberi hadiah, aku akan memberimu hadiah terbaik yang pernah kamu dapatkan.
+
+// (ellie)
+<0041> Ini dia, ta-da!
+
+// (lulu)
+<0042> Waaaah. Ini... kain ?
+
+// (ellie)
+<0043> Ini harusnya dipasang di ekor besarmu seperti ini dan...
+
+// (ellie)
+<0044> Selesai!
+
+// (lulu)
+<0045> Wow, ini Pita!
+
+// (ellie)
+<0046> Ahaaa♥ Kamu terlihat sangat imut kalau memakai itu!
+
+// (lulu)
+<0047> Ini hadiah yang cukup normal dari seseorang dengan selera paling baik, tapi yah, ini sangat imut.
+
+// (ellie)
+<0048> Tunggu, kamu baru saja menghina selera-
+
+// (lulu)
+<0049> Lulu suka ini. Makasih banyak, Ellie!
+
+// (ellie)
+<0050> Ahaaa, sama-sama! Tapi ada banyak lagi!
+
+// (ellie)
+<0051> Lihat, Lulu, kita masih punya sisa uang sebanyak ini. Ayo berpesta! Pesta!
+
+// (lulu)
+<0052> Waaaa, Ellie, tunggu!
+
+// (ellie)
+<0053> Ahaaa♥
+

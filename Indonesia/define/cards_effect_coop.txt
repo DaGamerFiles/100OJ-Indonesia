@@ -1,0 +1,249 @@
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=Protagonist's Privilege
+descr=Always attack first. The enemy unit cannot counterattack (once per combat).
+
+< CARD_AIRSUPPORT_EFFECT >
+name=Air Support
+descr=Gain +2 DEF on next battle.
+
+< CARD_COOP_BLAZING_EFFECT >
+name=Blazing!
+descr=Gain +1 ATK for each stack. Effect expires on KO.
+
+< CARD_COOP_MELTINGMEMORIES_EFFECT >
+name=Melting Memories
+descr=Skip next action.
+
+< CARD_COOP_EVILSPYWORKEXEC_EFFECT >
+name=Evil Spy Work ― Execution
+descr=On turn end, heal 2 HP.
+
+< CARD_COOP_BANNEDFORLIFE_GIFT_EFFECT >
+name=Banned for Life
+descr=Can force boss to skip its next action.
+
+< CARD_COOP_BANNEDFORLIFE_EFFECT >
+name=Banned for Life
+descr=Skip next action.
+
+< CARD_COOP_FINALSURGERY_EFFECT >
+name=Final Surgery
+descr=Gain -2 REC until revived.
+
+< CARD_BOSS_HYPE_EFFECT >
+name=Hype
+descr=When 10 stacks are reached, boss will use "Rampage".
+
+< CARD_BOSS_RUMBLE_EFFECT >
+name=Rumble
+descr=Gain +1 ATK for each stack.
+
+< CARD_BOSS_DANCEOFSEAGULLS_EFFECT >
+name=Dance of the Seagulls
+descr=Gain -2 ATK on next battle.
+
+< CARD_BOSS_BEAKOFGODBIRD_EFFECT >
+name=Beak of the Godbird
+descr=Gain +1 ATK.
+
+< CARD_BOSS_BEAKOFDEMIBIRD_EFFECT >
+name=Beak of the Demi-Bird
+descr=Gain +2 ATK.
+
+< CARD_BOSS_FLIGHT_EFFECT >
+name=Flight
+descr=Move in reverse and deal damage equal to level to enemies you pass.
+
+< CARD_BOSS_PIYOMARCH_EFFECT >
+name=Piyo March
+descr=Gain +2 EVD on next battle.
+
+< CARD_BOSS_HEADLESSCHICKENMINION_EFFECT >
+name=Headless Chicken
+descr=Gain +2 ATK and +2 EVD on next battle.
+
+< CARD_BOSS_HEADLESSCHICKEN_EFFECT >
+name=Headless Chicken
+descr=Gain +2 ATK.
+
+< CARD_BOSS_WIRELESSCHICKEN_EFFECT >
+name=Wireless Chicken
+descr=Gain +2 ATK.
+
+< CARD_BOSS_ATTACKDOWN_EFFECT >
+name=Attack Down
+descr=Gain -1 ATK for each stack.
+
+< CARD_BOSS_DEFENSEDOWN_EFFECT >
+name=Defense Down
+descr=Gain -1 DEF for each stack.
+
+< CARD_BOSS_EVASIONDOWN_EFFECT >
+name=Evasion Down
+descr=Gain -1 EVD for each stack.
+
+< CARD_BOSS_TURBO_EFFECT >
+name=Turbo
+descr=Roll 3 dice for movement.
+
+< CARD_BOSS_EMP_EFFECT >
+name=EMP
+descr=Cannot use cards.
+
+< CARD_BOSS_DELTAFIELD_EFFECT >
+name=Scrambled Delta Field
+descr=All dice rolls will be 1, 2, or 3.
+
+< CARD_BOSS_IMAGINARYNUMBERS_EFFECT >
+name=Imaginary Numbers
+descr=Roll natural 7s.
+
+< CARD_BOSS_DELUSIONALNUMBERS_EFFECT >
+name=Delusional Numbers
+descr=Roll either a natural 0 or 7.
+
+< CARD_BOSS_HEALTHDOWN_EFFECT >
+name=Health Down
+descr=Max HP is reduced by 1 for each stack.
+
+< CARD_BOSS_RECOVERYMODE_EFFECT >
+name=Recovery Mode
+descr=Until next battle, skip movement roll and recover 2 HP per turn.
+
+< CARD_BOSS_PERFECTREFLECTIVESHELL_EFFECT >
+name=Perfect Reflective Shell
+descr=Deal 1 damage back for each point of damage received.
+
+< CARD_BOSS_PROTECT_EFFECT >
+name=Protect
+descr=For any damage taken, consume a stack for each up to 3 damage to lower it to 1.\nIf stacks are depleted, gain -2 DEF, -2 EVD AND -1 MOV for 3 chapters.
+
+< CARD_BOSS_SCRAMBLED_EFFECT >
+name=Scrambled
+descr=Gain -2 DEF, EVD and -1 MOV.
+
+< CARD_BOSS_POTECT_EFFECT >
+name=Po-tect
+descr=For any damage taken, consume a stack for each up to 2 damage to lower it to 1.\nIf stacks are depleted, gain -1 DEF, -1 EVD AND -1 MOV for 3 chapters.
+
+< CARD_BOSS_SCRAMBLEDPO_EFFECT >
+name=Scrambled
+descr=Gain -1 DEF, EVD and MOV.
+
+< CARD_BOSS_ELUSIVE_EFFECT >
+name=Elusive
+descr=Steal stars equal to Boss Lvl x 5 when passing an enemy.\nIf not a boss unit, stars are given to an active boss instead.
+
+< CARD_BOSS_STARMANIA_EFFECT >
+name=Star Mania
+descr=Every chapter, gain stars equal to Lvl plus amount of stacks.
+
+< CARD_BOSS_ROBOTAX_EFFECT >
+name=Robo Tax
+descr=Gain +1 DEF for each stack.
+
+< CARD_BOSS_HIGHWAYROBBERY_EFFECT >
+name=Highway Robbery
+descr=Gain +3 ATK.\nMove in reverse and do not stop upon challenging a player.\nFor each damage that would be dealt, steal 10 stars instead.
+
+< CARD_BOSS_GREED_EFFECT >
+name=Greed
+descr=Gain 5 stars for each damage dealt in battle by this unit or an active minion.
+
+< CARD_BOSS_CHASE_EFFECT >
+name=Chase
+descr=Roll two dice for movement and gain 1 Hype for every enemy fought.
+
+< CARD_BOSS_TIRED_EFFECT >
+name=Tired
+descr=Gain +1 REC on next KO.
+
+< CARD_BOSS_EXHAUSTED_EFFECT >
+name=Exhausted
+descr=Gain +2 REC on next KO.
+
+< CARD_BOSS_PLAYTAG_EFFECT >
+name=Play Tag
+descr=Gain +2 ATK. Gain 1 Hype for every enemy fought.
+
+< CARD_BOSS_HIDENSEEK_EFFECT >
+name=Hide And Seek
+descr=Until next battle, skip movement roll and gain 2 Hype.
+
+< CARD_BOSS_PSYCHEDUP_EFFECT >
+name=Psyched Up
+descr=Gain +2 MOV.
+
+< CARD_BOSS_WATERMELONSPLIT_EFFECT >
+name=Watermelon Splitting
+descr=Gain +5 ATK do not stop when challenging an enemy. For each KO'd enemy, gain 2 Hype.
+
+< CARD_BOSS_HYPEITUP_EFFECT >
+name=Hype It Up
+descr=Gain +1 ATK, +1 DEF and -1 EVD.\nLose 1 Hype when taking damage in battle.\nLose 2 Hype if KO'd in battle.
+
+< CARD_BOSS_RAMPAGE_EFFECT >
+name=Rampage
+descr=Max HP is increased by 1 for each stack.
+
+< CARD_BOSS_RAMPAGEHYPER_EFFECT >
+name=Rampage
+descr=ATK and Max HP are increased by 1 for each stack.
+
+< CARD_BOSS_HYPEMODE_EFFECT >
+name=Hype Mode
+descr=Gain +2 ATK and +1 DEF. On KO, revive on the following turn.
+
+< CARD_BOSS_QUAKE_EFFECT >
+name=Quake
+descr=Gain -2 MOV.
+
+< CARD_BOSS_POPPOMARCH_EFFECT >
+name=Poppo March
+descr=Gain +2 EVD.
+
+< CARD_BOSS_TURBOCHICKEN_EFFECT >
+name=Turbo Chicken
+descr=Gain an additional movement dice and do not stop when challenging an enemy.\nGain +1 ATK for each additional stack.\nGain 25 stars when fighting an enemy.
+
+< CARD_SKILL_COOP_FURY_EFFECT >
+name=Fury
+descr=Deal 1 additional damage in battle per stack.
+
+< CARD_COOP_HYPER_ATTACKER_EFFECT >
+name=Ultimate Weapon in the Sun
+descr=Deal 3 addtional damage in battle.
+
+< CARD_COOP_PROTECT_EFFECT >
+name=Protect
+descr=Next damage taken is reduced by 1 for each stack. Effect is removed upon blocking damage or after battle.
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
+name=Guardian Spirit
+descr=Next damage taken in battle is reduced by 1 for each stack.
+
+< CARD_COOP_HYPER_GUARDIAN_EFFECT >
+name=Lifeguard on the White Beach
+descr=Next damage taken in battle is reduced by 2.
+
+< CARD_SKILL_COOP_FROMBEYOND_EFFECT >
+name=From Beyond
+descr=If KO'd during battle, revive with 1 HP for each stack.
+
+< CARD_COOP_HYPER_AVENGER_EFFECT >
+name=Unforgiving Avenger
+descr=If KO'd during battle, revive with 1 HP for each stack.
+
+< CARD_COOP_RANSOMNOTE_EFFECT >
+name=Ransom Note
+descr=On turn end, suffer KO.
+
+< CARD_COOP_DEMAND_EFFECT >
+name=Demand
+descr=Treat the next panel you step onto as a Draw panel.
+
+< CARD_COOP_HYPER_DEALER_EFFECT >
+name=Summer Games
+descr=Treat any panel you would land on this turn as a 2x Draw panel.
+
+[EOF]

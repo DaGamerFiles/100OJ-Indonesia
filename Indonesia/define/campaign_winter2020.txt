@@ -1,0 +1,314 @@
+
+// ========= Scene: Winter 2020 Event Start =========
+
+// (ellie)
+<0000> "Ya ampun..."
+
+// (lulu)
+<0001> "Ellie... kamu tidak apa-apa?"
+
+// (ellie)
+<0002> "Aku masih merasakan efek samping dari jamur legendaris itu di tubuhku..."
+
+// (ellie)
+<0003> "Dan yang paling buruk, kita hampir kehabisan uang..."
+
+// (ellie)
+<0004> "Kita juga tidak tau dimana ibuku berada! Sepertinya tidak ada yang berjalan lancar!"
+
+// (ellie)
+<0005> "*hiks hiks*... Lulu, kamu harus menghiburku!"
+
+// (lulu)
+<0006> "Baiklah."
+
+// (ellie)
+<0007> "Lagi, hibur aku lagi!"
+
+// (lulu)
+<0008> "Duh, kamu benar-benar menyebalkan."
+
+// (ellie)
+<0009> "Kamu barusan bicara apa?"
+
+// (lulu)
+<0010> "Aku bilang kamu itu imut sekali."
+
+// (ellie)
+<0011> "Aku mencintaimu, Lulu! Kamu juga imut, kok!"
+
+// (lulu)
+<0012> "Terus, apa yang harus kita lakukan? Mencari kerja untuk dapat uang lagi ?"
+
+// (ellie)
+<0013> "Yah, uang kita masih cukup untuk perjalanan... Tapi pertanyaannya: kemana kita harus pergi?"
+
+// (lulu)
+<0014> "Sejauh ini, kita mengikuti instingmu saja deh."
+
+// (ellie)
+<0015> "Betul! Tapi aku sangat sedih sekarang, bahkan instingku tidak bekerja dengan baik!"
+
+// (ellie)
+<0016> "Jadi kupikir Lulu harus memanjakanku sampai aku merasa lebih baik."
+
+// (lulu)
+<0017> "Ya ampun. Baiklah."
+
+// (ellie)
+<0018> "Goo-goo. Seriusan... dimana ibuku?"
+
+// (ellie)
+<0019> "Yang pasti dia masih hidup di suatu tempat..."
+
+// (lulu)
+<0020> "Perasaan Ellie hancur lagi. Apa yang harus Lulu lakukan...?"
+
+// (lulu)
+<0021> "Hmm... Hmm..."
+
+// (lulu)
+<0022> "Ugh..."
+
+// (ellie)
+<0023> "Lulu? Kamu baik-baik saja?"
+
+// (lulu)
+<0024> "Lulu baru saja memikirkanmu..."
+
+// (lulu)
+<0025> "Dan sekarang..."
+
+// (ellie)
+<0026> "Lucky egg?"
+
+// (lulu)
+<0027> "Lulu yakin... itu akan membantu kita... Hmm."
+
+// (lulu)
+<0028> "Itu muncul!"
+
+// (ellie)
+<0029> "Ya ampun, itu kan..."
+
+// (lulu)
+<0030> "A-apa itu?"
+
+// (ellie)
+<0031> "Aromanya nikmat sekali..."
+
+// (lulu)
+<0032> "Bukankan itu..."
+
+// (ellie)
+<0033> "O-omurice!?"
+
+// (lulu)
+<0034> "Apaaa!?"
+
+// (lulu)
+<0035> "Bagaimana sih sistem kerja Lulu itu!? Kita baru saja menemukan sebuah telur, seharusnya ini bisa dimasak!"
+
+// (ellie)
+<0036> "Dan kenapa omurice...? Mungkin sesuatu yang baik akan terjadi jika memakannya...?"
+
+// (lulu)
+<0037> "Terdengar aneh. Ini omurice, baru saja Lulu buat, jadi..."
+
+// (ellie)
+<0038> "Aku tau kamu membuatnya, tapi aku lebih baik tidak..."
+
+// (???)
+<0039> "Ini kelihatannya enak"
+
+// (lulu)
+<0040> "S-seseorang telah memakan omurice Lulu."
+
+// (ellie)
+<0041> "Siapa itu!?"
+
+// (cook)
+<0042> "Koopee! Ah, nikmat sekali."
+
+// (cook)
+<0043> "Cook sangat lapar, tidak ditahan. Maaf ya."
+
+// (ellie)
+<0044> "A-apakah itu...?"
+
+// (lulu)
+<0045> "Seekor ayam bisa makan omurice?"
+
+// (cook)
+<0046> "Cook bukan ayam!"
+
+// (halena)
+<0047> "Oh kamu disitu, Cook. Aku telah mencarimu."
+
+// (cook)
+<0048> "Halena!"
+
+// (halena)
+<0049> "Oh, siapa gadis ini...?"
+
+// (cook)
+<0050> "Maaf, Halena. Cook hanya memakan omurice yang dibuat oleh gadis ini, dan itu sangat lezat!"
+
+// (halena)
+<0051> "Omurice yang dibuat oleh dia!?"
+
+// (ellie)
+<0052> "Apa itu peliharaanmu!? Dia memakan omurice yang kita buat dengan cinta tanpa permisi!"
+
+// (lulu)
+<0053> "Omurice Lulu... *Hiks hiks*"
+
+// (halena)
+<0054> "Um, aku tidak ikutan ya. Bisa tolong ceritakan kejadiannya ?"
+
+// (halena)
+<0055> "Aku masih tidak mengerti."
+
+// (cook)
+<0056> "Ayolah! Kalau begitu, biarkan Cook yang menceritakannya."
+
+// (cook)
+<0057> "Gadis itu meletakkan omuricenya disitu. Terlihat sangat enak, Cook tidak bisa menahannya."
+
+// (ellie)
+<0058> "Benar."
+
+// (lulu)
+<0059> "Tepat sekali apa yang dia katakan."
+
+// (halena)
+<0060> "Hmm... jadi, Cook telah memakan makananmu ?"
+
+// (ellie)
+<0061> "Bukan hanya makanan."
+
+// (cook)
+<0062> "Benar-benar enak."
+
+// (halena)
+<0063> "Aku masih bingung... bagaimanapun, aku minta maaf sama teman periku ini yang telah menyebabkan masalah."
+
+// (lulu)
+<0064> "Apakah ayam itu adalah peri?"
+
+// (cook)
+<0065> "Cook sudah kasih tau kalau Cook bukan ayam! Cook adalah peri petunjuk arah angin!"
+
+// (lulu)
+<0066> "Itu bukan masalah. Kita hanya ingin omurice tercinta kita kembali!"
+
+// (halena)
+<0067> "Maafkan aku. Tapi selama aku mengerti, kalau hanya membeli omurice... tidak akan menyelesaikan masalah."
+
+// (ellie)
+<0068> "Tidak mungkin! Omurice itu bisa jadi petunjuk tentang apa yang aku cari selama ini!"
+
+// (cook)
+<0069> "Huh? Kamu mencari sesuatu?"
+
+// (halena)
+<0070> "Dalam artian, mungkin Cook dan aku akan membantumu."
+
+// (cook)
+<0071> "Iya. Cook juga menyesal telah memakan omuricemu. jadi Cook akan membantu juga!"
+
+// (lulu)
+<0072> "Kalian ingin membantu?"
+
+// (halena)
+<0073> "Sebetulnya, kita ini..."
+
+// (cook)
+<0074> "*Suara perut*"
+
+// (cook)
+<0075> "Oh tidak. Omurice saja tidak cukup, dan Cook masih sangat kelaparan..."
+
+// (cook)
+<0076> "Hei kalian. Kalau kalian ingin memberi makanan ke Cook, aku akan membantu mencari apa yang kalian cari."
+
+// (ellie)
+<0077> "Atas hak apa kamu berbicara seperti itu?!"
+
+// (halena)
+<0078> "Hmm, bisakah kamu memberi makanan ke dia? Dia pasti akan mencari apa yang ingin kalian cari dengan memberinya makan sampai dia kenyang."
+
+// (ellie)
+<0079> "Ada apa dengan orang ini...? Apakah mereka pengemis...?"
+
+// (lulu)
+<0080> "Tapi, Ellie, di dalam pikiran Lulu mengatakan kalau kita harus menuruti apa kata ayam itu."
+
+// (ellie)
+<0081> "Huh?"
+
+// (lulu)
+<0082> "Pasti ada alasan kenapa ayam itu memakan Omuricenya Lulu."
+
+// (lulu)
+<0083> "Karena lucky eggs Lulu itu bisa membuat kita bahagia."
+
+// (ellie)
+<0084> "Kamu benar... Mungkin saja omurice itu bisa membuat ayam itu memandu kita..."
+
+// (cook)
+<0085> "Cook mau makanan enak."
+
+// (ellie)
+<0086> "Uh... Baiklah! Beri kita waktu! Kita akan membuat makanan enak untukmu!"
+
+// ========= Scene: Winter 2020 Event Ending =========
+
+// (cook)
+<0087> "Duh, Cook tidak bisa makan lagi. Terima kasih banyak ya!"
+
+// (cook)
+<0088> "Cook sangat bersyukur ya."
+
+// (halena)
+<0089> "Iya, Kupikir ini sudah saatnya."
+
+// (lulu)
+<0090> "Saat untuk apa?"
+
+// (halena)
+<0091> "Cook itu kan peri petunjuk arah angin yang bisa mengarahkan seseorang ke tempat tujuan mereka."
+
+// (halena)
+<0092> "Dan dia bisa memberi petunjuk arah lebih aktual."
+
+// (ellie)
+<0093> "Jadi, kalau kita memberi dia makan, apakah dia akan membawa kita ke tempat yang kita inginkan?"
+
+// (halena)
+<0094> "Benar sekali... Dan dia bisa memilih jalan yang aman di semua perjalanan..."
+
+// (halena)
+<0095> "Aku, Halena yang mempunyai semua peta dunia yang di simpan di pikirannya!"
+
+// (cook)
+<0096> "Sebagai tim, Halena dan aku adalah pemandu terbaik di dunia!"
+
+// (ellie)
+<0097> "Uh, terdengar tidak meyakinkan..."
+
+// (lulu)
+<0098> "Lulu setuju."
+
+// (lulu)
+<0099> "Tapi dia pikir itu lebih baik daripada tidak sama sekali."
+
+// (ellie)
+<0100> "Y-yah, kamu benar... Mungkin?"
+
+// (halena)
+<0101> "Kalau begitu, ayo kita pergi ke tempat yang ingin kamu cari untuk menemukan apa yang hilang dari kalian!"
+
+// (cook)
+<0102> "Ayo!"
+

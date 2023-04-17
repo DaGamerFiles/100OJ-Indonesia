@@ -1,0 +1,193 @@
+
+// ========= Scene: Summer 2021 Event Start =========
+
+<9999> Ini adalah cerita mimpi musim panas yang mungkin atau tidak akan terjadi.
+
+// (tomomo)
+<0000> "Hey, nggak ada yang enak daripada es jeruk manis di musim panas ini!"
+
+// (yuki)
+<0001> "Aku tahu itu, kan? Aku juga menginginkannya."
+
+// (tomomo)
+<0002> "Yah, Aku juga suka nongkrong di ruangan ber-AC seperti ini, tapi aku mau pergi ke pantai sebelum musim panas berakhir."
+
+// (tomomo)
+<0003> "Maksudku, aku mau mencoba berenang..."
+
+// (yuki)
+<0004> "Hah? Kamu nggak bisa berenang? Mau aku ajarin?"
+
+// (tomomo)
+<0005> "Apa? Kamu bisa berenang? Kupikir kucing nggak bisa berenang."
+
+// (yuki)
+<0006> "Aku bukan kucing biasa. Hampir nggak ada yang nggak bisa dilakukan kucing seperti aku."
+
+// (tomomo)
+<0007> "Ajarin dong! Buat aku bisa berenang!"
+
+// (yuki)
+<0008> "Tentu, tapi kamu harus beli otoro sushi untuk makan malam."
+
+// (tomomo)
+<0009> "Otoro kan mahal banget! T-tapi aku nggak punya pilihan... Baiklah, terserah kamu saja!"
+
+// (yuki)
+<0010> "Oke, kita sepakat."
+
+// (yuki)
+<0011> "Baiklah, kenapa kita nggak pergi ke kolam renang terdekat saja untuk sekarang ini?"
+
+// (mio)
+<0012> "Hehehe, malaikat kecilku ini mau masuk ke kolam renang, ya."
+
+// (tomomo&yuki)
+<0013> "Akhirnya tiba di kolam renang!"
+
+// (yuki)
+<0014> "Tunggu, itu apaan yang mirip cincin renang yang besar?"
+
+// (tomomo)
+<0015> "Yah, aku terlalu takut untuk menyelam tanpa benda ini!"
+
+// (yuki)
+<0016> "Kamu ini, umurnya 5 tahun ya?"
+
+// (tomomo)
+<0017> "Berisik! aku butuh ini, nggak peduli apa yang kamu katakan!"
+
+// (yuki)
+<0018> "*Huh* Oh ya, kurasa kita bisa memulai dengan membiasakanmu bermain dengan air."
+
+// (tomomo)
+<0019> "Eh lihat, bukankan disana itu Kai?"
+
+// (yuki)
+<0020> "Oh iya. Sepertinya dia sendirian."
+
+// (tomomo)
+<0021> "Hehehe, menyedihkan. Aku yakin dia bakal senang kalau gadis imut sepertiku akan menyapa dia."
+
+// (tomomo)
+<0022> "Hei, Kaaai!"
+
+// (kai)
+<0023> "Huh? Oh, kalian."
+
+// (tomomo)
+<0024> "Apakah ibumu pernah mengajarimu menyapa seseorang? Lagipula, kamu ingin gabung dengan kita? Aku baru saja mulai latihan berenang."
+
+// (kai)
+<0025> "Aku bisa bersenang-senang sendirian. Tinggalkan aku sendiri."
+
+// (yuki)
+<0026> "Tomomo, jangan buang-buang waktu ke si jelek itu. Kita harus memulainya di tempat lain."
+
+// (mio)
+<0027> "Tomomooo♥"
+
+// (tomomo)
+<0028> "Ya ampun, Mio!? Ngapain kamu disini?"
+
+// (mio)
+<0029> "Tentunya untuk bermain bersamamu♥ Memangnya apa lagi?"
+
+// (tomomo)
+<0030> "Aku kemari untuk belajar berenang! Bukan untuk bermain!"
+
+// (mio)
+<0031> "Ok, biarkan mama membantumu!"
+
+// (tomomo)
+<0032> "Jangan pernah bilang kamu itu mamaku! Eh, apa, ban renangku...!"
+
+// (yuki)
+<0033> "Ban renang punya orang lain dan bola pantai juga melayang... dan mereka bergabung menjadi satu!"
+
+// (mio)
+<0034> "Ta-da. Kamu bisa latihan selama mungkin dengan makhluk raksasa ini."
+
+// (tomomo)
+<0035> "Bodoh! Kembalikan ban renangku! Aku nggak bisa masuk air tanpa itu!"
+
+// (tomomo)
+<0036> "Maksudku, Makhluk besar ini? Bisakah kamu melakukan hal yang lebih wajar daripada itu!"
+
+// (mio)
+<0037> "Kata-katamu menusuk sekali. Yah, mungkin kamu bisa mendapatkan barangmu kalau bisa mengalahkannya."
+
+// (tomomo)
+<0038> "Sialan! Baiklah, aku akan mendapatkan barangku kembali! Yuki, Kai, kalian bantu aku!"
+
+// (yuki)
+<0039> "Ini bakal menyenangkan."
+
+// (kai)
+<0040> "Huh? Kenapa aku?"
+
+// (tomomo)
+<0041> "Jangan berisik dan cepat bantu aku!"
+
+// (kai)
+<0042> "Siap, bu..."
+
+// (mio)
+<0043> "Selamat bersenang-senang♥"
+
+// ========= Scene: Summer 2021 Event Ending =========
+
+// (tomomo)
+<0044> "Alright! We beat the monster! And I got my swim ring back!"
+
+// (yuki)
+<0045> "He wasn't as strong as he looked."
+
+// (kai)
+<0046> "What did I do to deserve this..."
+
+// (mio)
+<0047> "How was it, Tomomo? Did you have fun?"
+
+// (tomomo)
+<0048> "No way! I could've learned how to swim by now if it weren't for you!"
+
+// (yuki)
+<0049> "Didn't you realize, Tomomo?"
+
+// (kai)
+<0050> "You were swimming when we were fighting that monster."
+
+// (tomomo)
+<0051> "Really?! I was way too focused to notice..."
+
+// (mio)
+<0052> "I told you I'd help you♥"
+
+// (tomomo)
+<0053> "Mio, you actually are a goo-..."
+
+// (mio)
+<0054> "That said, you don't need that swim ring anymore, right?"
+
+// (tomomo)
+<0055> "Huh, I guess not..."
+
+// (mio)
+<0056> "To celebrate your growth, I'll create a stronger monster for you to swim with!"
+
+// (tomomo)
+<0057> "What, wait, what?"
+
+// (kai)
+<0058> "What the heck is she saying...?"
+
+// (yuki)
+<0059> "I didn't see that coming. That girl never gets boring."
+
+// (mio)
+<0060> "And it's done. Now you can swim with him to your heart's content, Tomomo♥"
+
+// (tomomo)
+<0061> "That's why no one wants to be friends with you!"
+

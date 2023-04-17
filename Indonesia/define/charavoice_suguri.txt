@@ -1,0 +1,141 @@
+
+<0000> OK.
+<0001> Sini!
+<0002> Berguling-guling...
+<0003> Hei!
+<0004> Kupikir, aku akan menggunakan ini.
+<0005> Aku kira, aku akan melakukan ini.
+<0006> Aku akan memilih ini.
+<0007> Aku pilih ini.
+<0008> Trap dipasang.
+<0009> Oke.
+<0010> Itu trap.
+<0011> Mungkin seperti ini?
+<0012> Aku pakai ini.
+<0013> Aku tidak bisa kalah di game ini.
+<0014> Aku akan melakukan ini.
+<0015> Ini!
+<0016> Accelerator!
+<0017> Phew...
+<0018> Bagus, Aku bisa bergerak lagi.
+<0019> Baiklah kalau begitu, aku akan pergi lagi.
+<0020> Di sinilah semua dimulai.
+<0021> Hah? Ini seharusnya tidak terjadi...
+<0022> Ugh.
+<0023> Apa?
+<0024> Oh tidak.
+<0025> Ayo lakukan ini.
+<0026> Yah!
+<0027> Hah!
+<0028> Pergi!
+<0029> Uhhh.
+<0030> Ahhh.
+<0031> Wah.
+<0032> Wawah.
+<0033> Pheeew...
+<0034> Aku merasakan kehangatan.
+<0035> Aku pulih kembali.
+<0036> Terasa nikmat.
+<0037> Aku terpesona.
+<0038> Kemana aku pergi?
+<0039> Aku terbang.
+<0040> Berpindah.
+<0041> Aaaaugh.
+<0042> Aku harus beristirahat sebentar...
+<0043> Uhhh, Aku mengacaukannya.
+<0044> *Mendesah*...
+<0045> Saatnya bertarung.
+<0046> Jika kamu menghalangi jalanku...
+<0047> Aku datang untukmu.
+<0048> Kita bertarung.
+<0049> Apa kamu berharap untuk bertarung?
+<0050> Tentu, bawalah.
+<0051> Aku tidak kalah.
+<0052> Kamu ingin melawanku?
+<0053> Hah!
+<0054> Aku akan mendapatkanmu!
+<0055> Yah!
+<0056> Tah!
+<0057> Ugh.
+<0058> Uuu.
+<0059> Augh.
+<0060> Guhh.
+<0061> Hmm...
+<0062> Uwaah.
+<0063> Hei sekarang.
+<0064> Aaargh.
+<0065> Nggak bisa menyentuh ini.
+<0066> Aku menghindarinya.
+<0067> Hampir saja.
+<0068> Waaa.
+<0069> Phew, aku berhasil.
+<0070> Aku baik-baik saja.
+<0071> Sepertinya aku menang.
+<0072> Aku melakukan yang terbaik.
+<0073> Hmm...
+<0074> Hauu.
+<0075> Kamu kuat
+<0076> Kamu menakjubkan.
+<0077> Itu bersinar.
+<0078> Aku bersyukur.
+<0079> Sudah selesai dilakukan dengan baik.
+<0080> Banyak banget...
+<0081> Tidak, bintangku...
+<0082> Uh...
+<0083> Bintangku...
+<0084> Mhmm...
+<0085> Trap?!
+<0086> Aku tidak pernah memperhatikan hal itu...
+<0087> Ugh, tembak.
+<0088> Bukankah ini...
+<0089> Yang besar muncul...
+<0090> Bahaya mendekat...
+<0091> Lebih baik aku berhati-hati.
+<0092> Yang kuat telah keluar.
+<0093> Aku mengumpulkan bintang.
+<0094> Aku memilih bintang.
+<0095> Aku akan mendapatkan banyak bintang.
+<0096> Bintang...
+<0097> Aku kira, aku akan memilih bertarung.
+<0098> Aku akan mendapatkan kemenangan.
+<0099> Aku memilih untuk bertarung.
+<0100> Baiklah, Aku akan menang.
+<0101> Oke, senang bermain denganmu.
+<0102> Kamu dapat mengandalkanku.
+<0103> Ayo lakukan yang terbaik.
+<0104> Baik-baik saja maka.
+<0105> Aku akan keluarkan semua.
+<0106> Mari kita pergi.
+<0107> Itu dimulai.
+<0108> Apa yang harus ku lakukan?
+<0109> Permainan yang bagus.
+<0110> Kita berhasil melewati ini.
+<0111> Hehheh, Aku melakukan pekerjaan dengan baik, kan?
+<0112> Kita menang!
+<0113> Kita punya sesuatu yang baru.
+<0114> Ini barang baru.
+<0115> Belum pernah melihat itu sebelumnya.
+<0116> Apakah kamu mendapatkan sesuatu yang bagus?
+<0117> Oke.
+<0118> Itu bagus.
+<0119> Ya.
+<0120> Tidak.
+<0121> Mhmm...
+<0122> Kerja bagus.
+<0123> Hah?
+<0124> Oke, Ayo pergi.
+<0125> Semoga dapat keluaran yang bagus.
+<0126> Mari kita lakukan.
+<0127> Hai.
+<0128> Hmm.
+<0129> Bagus.
+<0130> Itu mengagumkan.
+<0131> Uhhh...
+<0132> Ayo kita main, Hime.
+<0133> Itu anak kecil...
+<0134> Aku datang, Sora.
+<0135> Aku melewatinya!
+<0136> Dewa... Pudding...
+<0137> Star Breaker... Aku menghentikanmu.
+<0138> Wow, itu kastil yang besar...
+<0139> Aku tidak akan membiarkan kamu melakukan apa pun yang kamu inginkan.

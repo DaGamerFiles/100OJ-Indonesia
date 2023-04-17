@@ -1,0 +1,167 @@
+
+< GAME_MESSAGE_YOURTURN >
+Giliranmu.
+
+< GAME_MESSAGE_OPPONENTTURN >
+Giliran lawan.
+
+< GAME_MESSAGE_CHALLENGEBATTLE >
+Ajak Battle ?
+
+< GAME_MESSAGE_HEALTEAMMATE >
+Pulihkan rekan ke 1 HP ?
+
+< GAME_MESSAGE_REVIVETEAMMATE >
+Bangkitkan rekan ? (%d bintang)
+
+< GAME_MESSAGE_CHOOSECARDUSE >
+Pilih kartu untuk dipakai
+
+< GAME_MESSAGE_CHOOSECARDDISCARD >
+Pilih kartu untuk dibuang.
+
+< GAME_MESSAGE_CONFIRMCARDUSE >
+Pakai kartu ini ?
+
+< GAME_MESSAGE_BOSSAPPEARED >
+Boss telah muncul.
+
+< GAME_MESSAGE_RAIDBOSS_APPEAR >
+%s telah muncul!
+
+< GAME_MESSAGE_RAIDBOSS_UNLOCK >
+%s bisa menggunakan %s!
+
+< GAME_MESSAGE_RAIDBOSS_REMOVE >
+%s tidak dapat memakai %s.
+
+< GAME_MESSAGE_RAIDBOSS_USE_ABILITY >
+%s itelah mengaktifkan %s!
+
+< GAME_MESSAGE_RAIDBOSS_SKIP_ABILITY >
+%s tidak akan menggunakan %s.
+
+< GAME_MESSAGE_RAIDBOSS_ENRAGE >
+%s telah marah!
+
+< GAME_MESSAGE_COOP_TERROR_EVENT >
+%s bisa di tantang melalui panel!
+
+< GAME_MESSAGE_COOP_ANNOUNCE_ABILITY >
+%s akan memakai %s saat giliran selanjutnya!
+
+< GAME_MESSAGE_COOP_LEVELUP_ABILITY >
+%s telah digantikan oleh %s!
+
+< GAME_MESSAGE_TURNSKIP >
+Giliran dilewati.
+
+< GAME_MESSAGE_CHOOSENORMA >
+Pilih Norma berikutnya.
+
+< GAME_MESSAGE_NORMANOTACHIEVED >
+Norma belum tercapai.
+
+< GAME_MESSAGE_CARDDRAWN >
+Kartu ditarik.
+
+< GAME_MESSAGE_TRAPSET >
+Memasang kartu Trap.
+
+< GAME_MESSAGE_TRAPTRIGGER >
+Terpicu kartu trap.
+
+< GAME_MESSAGE_CARDEFFECTSTOCKED >
+Efek kartu telah aktif.
+
+< GAME_MESSAGE_STOCKEFFECT >
+Efek Stock telah aktif.
+
+< GAME_MESSAGE_FIELDEFFECT >
+Efek Field telah aktif.
+
+< GAME_MESSAGE_REVIVESUCCESS >
+Telah bangkit!
+
+< GAME_MESSAGE_REVIVEFAIL >
+Gagal bangkit...
+
+< GAME_MESSAGE_CHOOSETARGET >
+Pilih target.
+
+< GAME_MESSAGE_CHOOSEMOVEPANEL >
+Pilih panel untuk berpindah.
+
+< GAME_MESSAGE_HOMESTOP >
+Ingin berhenti di Home ?
+
+< GAME_MESSAGE_HEALING >
+Memulihkan!
+
+< GAME_MESSAGE_EVENTPREFIX >
+
+< GAME_MESSAGE_EVENTSUFFIX >
+!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
+Chocolate Frenzy!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_SUCCESS >
+Chocolate stored!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
+Not enough chocolate to store...
+
+< GAME_MESSAGE_HLWN2018_CHOOSECANDY >
+Choose a candy.
+
+< GAME_MESSAGE_HLWN2018_GIVECANDY >
+Give this candy away?
+
+< GAME_MESSAGE_CHOOSETARGETPANEL >
+Pilih panel target.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE >
+Choose panel to throw at.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE_CARD >
+Choose panel to throw at / play a card.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_MULTIPLE >
+Choose panels to throw at.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND >
+Choose panel to move to.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND_CARD >
+Choose panel to move to / play a card.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_WAITING >
+Waiting for other players...
+
+< GAME_MESSAGE_XMAS2018_CASTLE_ROTATE >
+Rotate clockwise
+
+< GAME_MESSAGE_XMAS2018_CASTLE_PLACE >
+Tempatkan piece
+
+< GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
+Ubah piece
+
+< GAME_MESSAGE_SHOPSTOP >
+Ingin berhenti di Toko ?
+
+< GAME_MESSAGE_MONSTERCHALLENGE >
+Tantang monster ini ?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP >
+Speed Up!
+
+< GAME_MESSAGE_TELEPORT >
+Pilih panel untuk teleport.
+
+< GAME_MESSAGE_SELECT_PANEL >
+Pilih panel.
+
+< GAME_MESSAGE_AWAIT_ACTION >
+Menunggu pemain lain...

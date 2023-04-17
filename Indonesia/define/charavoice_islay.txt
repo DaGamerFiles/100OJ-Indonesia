@@ -1,0 +1,156 @@
+<0000> Okay, fine.
+<0001> Hmph.
+<0002> There.
+<0003> Yoh.
+<0004> This is it.
+<0005> It's okay to use this, right?
+<0006> I'm gonna play this one.
+<0007> I choose this card.
+<0008> Careful.
+<0009> I'm gonna put this down here.
+<0010> Who'd walk into this?
+<0011> This may or may not help.
+<0012> Don't be so surprised.
+<0013> I'll use this now.
+<0014> I'm going to show you something special!
+<0015> I'll go all out.
+<0016> I'll put an end to this.
+<0017> I'm up again. Let's go.
+<0018> Restarting's done.
+<0019> Everything's fixed now.
+<0020> Time to make up for the loss.
+<0021> I don't have time to waste.
+<0022> C'mon.
+<0023> Can't I still get up?
+<0024> I have to wait more?
+<0025> How's that!
+<0026> Take that!
+<0027> Go!
+<0028> Get ready!
+<0029> Ugh!
+<0030> Guh!
+<0031> That hurts.
+<0032> What just hit me!?
+<0033> Let me repair you.
+<0034> I'll give you first aid.
+<0035> Keep going, please.
+<0036> This is a big help.
+<0037> What the heck is this?
+<0038> I'm facing some turbulence.
+<0039> Where are you taking me?
+<0040> What's going on here?
+<0041> I got beaten.
+<0042> I just made a painful mistake.
+<0043> Can't hold out anymore!
+<0044> I'm done for.
+<0045> I have no choice but combat.
+<0046> I'll be the one to start attacking.
+<0047> Outta my way.
+<0048> I'll kick your ass.
+<0049> Alright, come at me.
+<0050> What a big pain.
+<0051> Don't you regret this.
+<0052> You got some nerve to challenge me.
+<0053> I'll shoot you down!
+<0054> Eat that!
+<0055> You're done for!
+<0056> Accept defeat!
+<0057> Kuh!
+<0058> That hurts.
+<0059> How dare you.
+<0060> I got hit.
+<0061> Guah!
+<0062> I'm screwed!
+<0063> Oh, shoot!
+<0064> Direct hit!
+<0065> Mhm.
+<0066> That was close.
+<0067> You can't hit me.
+<0068> I could see that coming.
+<0069> Don't hate the players.
+<0070> See ya.
+<0071> Come back to me when you're stronger.
+<0072> You were such a piece of work.
+<0073> What a bust.
+<0074> You're in trouble now.
+<0075> You did better than I thought.
+<0076> Should've been more careful.
+<0077> Good.
+<0078> Nice.
+<0079> Not bad.
+<0080> I'll take these.
+<0081> Oh well.
+<0082> Fine.
+<0083> I get it, I get it.
+<0084> What the?
+<0085> *Tsk*!
+<0086> I messed up.
+<0087> Oh, you're in for it now.
+<0088> I'm so mad now.
+<0089> I'm already having enough trouble.
+<0090> What now?
+<0091> I'll deal with you if that gives me a bonus.
+<0092> Bigger isn't always better.
+<0093> I choose stars.
+<0094> Stars.
+<0095> Guess I'll go with stars.
+<0096> Hope I can get a lot of them easily.
+<0097> Really, I do enough of this at work.
+<0098> How many more am I supposed to shoot down?
+<0099> If that's what I've gotta do, that's what I've gotta do.
+<0100> What's the easy way to  get this done?
+<0101> I have no choice... I guess.
+<0102> If I get to fly... I guess it's okay.
+<0103> Me...? Oh, man.
+<0104> What a pain in the butt.
+<0105> Alright, let's get started already.
+<0106> Let's get this over with.
+<0107> Okay, let's do this.
+<0108> Bitching won't get me anywhere.
+<0109> What a joke that was.
+<0110> Looking forward to the bonus for my victory.
+<0111> It's over now, huh... What a day.
+<0112> How about some cheers for me?
+<0113> I'll take that.
+<0114> Never seen this one.
+<0115> We got something new.
+<0116> Looks like we didn't have that yet.
+<0117> Okay.
+<0118> Not bad.
+<0119> Sure.
+<0120> Nope.
+<0121> No.
+<0122> Whoa.
+<0123> Huh?
+<0124> Guess it's time to go...
+<0125> Here goes.
+<0126> Let's go.
+<0127> Yo.
+<0128> Oh, man.
+<0129> Nice.
+<0130> Awesome.
+<0131> Huh!
+<0132> How's this even possible!?
+<0133> Guess using this is better than losing.
+<0134> Don't say this isn't fair.
+<0135> It's okay to use this, right?
+<0136> Bring it. I'm not going easy on you.
+<0137> You're going down.
+<0138> Don't bother her too much, okay?
+<0139> I've wanted to fight you once.
+<0140> Amuse me.
+<0141> This'll make me look like a bully, won't it?
+<0142> I'll straighten you up.
+<0143> I'll destroy you to make my way forward.
+<0144> No more trouble between us, okay?
+<0145> Nothing's more ridiculous than this.
+<0146> Get any closer and you'll regret it.
+<0147> Great, how much is that worth?
+<0148> Cuz I can't stand draws.
+<0149> I don't remember getting equipped with this.
+<0150> I don't need any trouble.
+<0151> I don't want to be like her... but I feel like doing this now.
+<0152> Please don't hit me.
+<0153> Hope this doesn't jinx me.
+<0154> No hard feelings.
+<0155> Man, what an easy game.
