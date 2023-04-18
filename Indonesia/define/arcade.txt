@@ -1,5 +1,5 @@
 < ITEMDEF_PET_DISPLAY_TYPE > 
-Pet
+Piaraan
 
 < ITEMDEF_TOKEN_DISPLAY_TYPE > 
 Token Arcade
@@ -82,7 +82,7 @@ Beli beberapa item untuk digunakan di game!
 Mainkan minigames dari event sebelumnya!
 
 < ARCADE_MACHINE_PETCATCHER >
-Mencari Pet
+Mencari Piaraan
 
 < ARCADE_MACHINE_SUMMER >
 Mencari Pet Summer
@@ -97,10 +97,10 @@ Tukar Pet
 Emote Gachapon
 
 < ARCADE_MACHINE_CONSUMABLES >
-Vending Machine
+Mesin Jualan
 
 < ARCADE_MACHINE_BUILD_A_CASTLE >
-Build-a-Castle
+Bangun kastil
 
 < ARCADE_MACHINE_SCHOOL_CRASHERS >
 School Crashers
