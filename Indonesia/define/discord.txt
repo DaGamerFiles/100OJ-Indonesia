@@ -9,10 +9,10 @@ Di Toko
 Lobi: %s
 
 < DISCORD_LOBBY_STATE_PRIVATE >
-Di dalam lobi
+Di Dalam Lobi
 
 < DISCORD_INGAME_STATE >
-Di dalam game
+Di Dalam Permainan
 
 // After the game ended, the screen where xp and potential unlocks are given 
 < DISCORD_RESULTS_STATE >
@@ -20,10 +20,10 @@ Hasil
 
 // Pvp mode
 < DISCORD_INGAME_NORMAL_MODE >
-Normal Mode
+Mode Normal
 
 < DISCORD_INGAME_COOP_MODE >
-Co-op Mode
+Mode Co-op
 
 // Co-op: <boss name>, <difficulty name>
 < DISCORD_INGAME_COOP_MODE_DETAILS >
@@ -38,4 +38,16 @@ Co-op: %s, %s
 %s, %s, Level %d
 
 < DISCORD_INGAME_BOUNTYHUNTER_MODE >
-Bounty Hunt Mode
+Mode Bounty Hunt
+
+< DISCORD_INGAME_SUMMER2020_MODE >
+Mode Fish-a-Fish
+
+< DISCORD_INGAME_SHROOM_MODE >
+Shroom Zoom Mode
+
+< DISCORD_INGAME_SCHOOL_MODE >
+School Crashers Mode
+
+< DISCORD_INGAME_CHAOS_MODE >
+Mode Kacau

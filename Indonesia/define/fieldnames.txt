@@ -9,7 +9,7 @@ Tidak diketahui
 Latihan
 
 < FIELD_SPACEWANDERER >
-Space Wanderer
+Pengembara Luar Angkasa
 
 < FIELD_PUDDINGCHASE >
 Pudding Chase
@@ -36,7 +36,7 @@ Arsip Tertutup
 Matahari Terbenam
 
 < FIELD_TOMOMOABYSS >
-Tomomo's Abyss
+Jurang Tomomo
 
 < FIELD_WHITEWINTER >
 Putihnya Musim Dingin
@@ -72,10 +72,10 @@ Frost Cave
 Shipyard
 
 < FIELD_TREASUREISLAND >
-Pulau harta karun
+Pulau Harta Karun
 
 < FIELD_TREASUREISLANDNIGHT >
-Pulau harta karun (Night)
+Pulau Harta Karun (Malam)
 
 < FIELD_WITCHFOREST >
 Hutan Penyihir
@@ -101,27 +101,38 @@ Dark Citadel
 < FIELD_BEGINNERTOWN >
 Beginner Town
 
+< FIELD_SCARREDLAND >
+Scarred Land
+
+< FIELD_FUNGUSCAVE >
+Fungus Cave
+
+< FIELD_WINTERTOWN >
+Beginner Town (Winter)
+
+< FIELD_DESERT >
+Lonely Railway
 
 < FIELD_COOP_LAGOONFLIGHT >
-Penerbangan Lagoon CO
+Penerbangan Laguna CO
 
 < FIELD_COOP_SUNSET >
 Matahari Terbenam CO
 
 < FIELD_COOP_POPPOABYSS >
-Poppo's Abyss
+Jurang Poppo
 
 < FIELD_COOP_STARCIRCUIT >
 Sirkuit Bintang CO
 
 < FIELD_COOP_SPACEWANDERER >
-Space Wanderer CO
+Pengembara Luar Angkasa CO
 
 < FIELD_COOP_HIGHWAYHEIST >
 Highway Heist CO
 
 < FIELD_COOP_FARM >
-Tanah pertanian CO
+Tanah Pertanian CO
 
 < FIELD_COOP_SHIPYARD >
 Shipyard CO
@@ -182,6 +193,30 @@ Tomomo's Abyss CO
 
 < FIELD_COOP_WHITEWINTER >
 Putihnya Musim Dingin CO
+
+< FIELD_COOP_BEGINNERTOWN >
+Beginner Town CO
+
+< FIELD_COOP_CHRISTMASMIRACLE >
+Christmas Miracle CO
+
+< FIELD_COOP_DARKCITADEL >
+Dark Citadel CO
+
+< FIELD_COOP_FUNGUSCAVE >
+Fungus Cave CO
+
+< FIELD_COOP_PRACTICEFIELD >
+Practice Field CO
+
+< FIELD_COOP_SEALEDARCHIVE >
+Sealed Archive CO
+
+< FIELD_COOP_SWEETHEAVEN >
+Sweet Heaven CO
+
+< FIELD_COOP_WHIRLPOOL >
+Whirlpool
 
 [EOF]
 

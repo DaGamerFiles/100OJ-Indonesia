@@ -270,7 +270,7 @@ Lihat statistikmu, terlusuri kartu dan atur Avatarmu.
 Lihat profil karakter dan lainnya.
 
 < PLAYMENU_TOOLTIP_MANUAL >
-Buka bagaimana cara bermain game ini.
+Buka panduan permainan.
 
 < PLAYMENU_TOOLTIP_WIKI >
 Kunjungi komunitas wiki yang diatur oleh fans untuk informasi lebih rinci.
@@ -908,13 +908,16 @@ Fame: %d
 Kamu mendapatkan pita Lulu!
 
 < PLAYMENU_LOADING_TEXT > 
-Tunggu...
+Memuat...
 
 < PLAYMENU_CONNECTING_TEXT > 
 Menghubungkan...
 
 < PLAYMENU_INVENTORY_STACKING_TEXT >
 Menyusun item inventory...
+
+< PLAYMENU_2MDOWNLOADS_MESSAGE >
+Terima kasih untuk 2 juta lebih unduhan!\nMisi Extra baru telah tersedia!\nApa yang sedang Mio rencanakan...?
 
 < MENU_BOSS_DIFFICULTY_CASUAL >
 Kasual
@@ -923,7 +926,7 @@ Kasual
 Normal
 
 < MENU_BOSS_DIFFICULTY_EXTREME >
-Extreme
+Ekstrem
 
 < MENU_BOSS_DIFFICULTY_HYPER >
 Hyper
@@ -987,17 +990,17 @@ Kamu tidak bisa mengirim item ini:\nTidak ada konten yang aktif untuk saat ini.
 Kamu tidak bisa mengirim item ini:\nSteam Workshop legal agreement tidak menerimanya.
 
 < MENU_WORKSHOP_PUBLISH >
-Kirim
+Upload
 
 < MENU_WORKSHOP_WORKSHOP_BTN >
 Workshop
 
 < MENU_WORKSHOP_PUBLISHING >
-Upload mod kamu ke Steam Workshop...
+Mengupload mod kamu ke Steam Workshop...
 
 // The website will be below this message as a link
 < MENU_WORKSHOP_PREMESSAGE >
-Dengan mengupload, atau memperbarui mod kamu ke Steam Workshop, kamu menyetujui persyaratan layanan yang ditentukan oleh web berikut:
+Dengan mengupload, atau memperbarui mod kamu ke Steam Workshop, kamu menyetujui persyaratan layanan yang ditentukan oleh laman berikut:
 
 < MENU_WORKSHOP_ERROR >
 Layanan Steam Workshop mengalami kesalahan. \n\n %s
@@ -1006,10 +1009,10 @@ Layanan Steam Workshop mengalami kesalahan. \n\n %s
 Tidak memiliki hak untuk melakukan tindakan ini.
 
 < MENU_WORKSHOP_ERROR_2 >
-Kamu telah di banned dari mengupload konten ke Workshop.\nHarap coba hubungi Steam Support.
+Kamu telah dilarang mengupload konten ke Workshop.\nHarap hubungi Steam Support.
 
 < MENU_WORKSHOP_ERROR_3 >
-Koneksi timeout. Harap coba lagi.
+Sambungan berakhir. Harap coba lagi.
 
 < MENU_WORKSHOP_ERROR_4 >
 Tidak terhubung ke Steam.
@@ -1042,7 +1045,7 @@ Akses ditolak.
 Error tidak diketahui.
 
 < MENU_PLATE_FIRSTTIMEUNLOCK >
-Kamu sekarang bisa mengatur plate pemain!\nBeberapa yang terbuka akan mengikuti dari pesan ini saat kamu menyelesaikan event sebelumnya, tantangan, atau memenuhi Level tertentu.\nKamu bisa mengatur plate di info pemain -> Avatar.
+Kamu sekarang bisa mengatur plate pemainmu!\nBeberapa yang terbuka akan mengikuti dari pesan ini saat kamu menyelesaikan event sebelumnya, kampanye, atau memenuhi Level tertentu.\nKamu bisa mengatur plate di Info Pemain -> Avatar.
 
 < MENU_PREVIEW >
 Tampilan
@@ -1092,7 +1095,7 @@ Normal
 Spesial
 
 < MENU_ENDGAME_REWARDS_DISABLED >
-Hadiah permainan terakhir dimatikan.
+Hadiah di akhir permainan dimatikan.
 
 < MENU_ACHIEVEMENTS_DISABLED >
 Achievement dimatikan.

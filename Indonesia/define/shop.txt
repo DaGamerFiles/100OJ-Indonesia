@@ -1,3 +1,4 @@
+
 < SHOP_LABEL_HOME >
 Beranda
 
@@ -5,7 +6,7 @@ Beranda
 Kartu
 
 < SHOP_LABEL_CHARACTERS >
-karakter
+Karakter
 
 < SHOP_LABEL_CHALLENGES >
 Tantangan
@@ -23,10 +24,10 @@ Natal
 Pigformation
 
 < SHOP_LABEL_COWKIGU >
-Cow Kigurumi
+Kigurumi Sapi
 
 < SHOP_LABEL_TIGERKIGU >
-Tiger Kigurumi
+Kigurumi Macan
 
 < SHOP_LABEL_RETIREDEVENTS >
 Event Sebelumnya
@@ -194,10 +195,10 @@ Buka aksesoris Event Natal.
 Buka aksesoris event "Beware Pigformation".
 
 < SHOP_TOOLTIP_COWKIGU >
-Buka kostum Cow Kigurumi.
+Buka kostum Kigurumi Sapi.
 
 < SHOP_TOOLTIP_TIGERKIGU >
-Buka kostum Tiger Kigurumi.
+Buka kostum Kigurumi Macan.
 
 < SHOP_TOOLTIP_RETIREDEVENTS >
 Beli hadiah dari event sebelumnya.
@@ -266,7 +267,7 @@ Karakter:
 ???
 
 < SHOP_FILTER_OWNED >
-Sembunyikan item yang dimiliki
+Sembunyikan Item yang Dimiliki
 
 < SHOP_ERROR_INVENTORY_PURCHASE >
 Tidak dapat membeli. Silahkan coba lagi.
