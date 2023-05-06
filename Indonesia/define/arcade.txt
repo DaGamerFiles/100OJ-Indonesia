@@ -94,13 +94,13 @@ Mencari Bounty Hunt Pet
 Tukar Pet
 
 < ARCADE_MACHINE_EMOTES >
-Emote Gachapon
+Gachapon Emotikon
 
 < ARCADE_MACHINE_CONSUMABLES >
-Vending Machine
+Mesin Penjual
 
 < ARCADE_MACHINE_BUILD_A_CASTLE >
-Build-a-Castle
+Istana Salju
 
 < ARCADE_MACHINE_SCHOOL_CRASHERS >
 School Crashers

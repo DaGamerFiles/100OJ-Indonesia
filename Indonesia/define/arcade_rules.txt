@@ -2,20 +2,20 @@
 Waktu
 
 < ARCADE_MINIGAME_RULE_NUMBER_CPU >
-Nomor CPU
+Jumlah CPU
 
 // Will also be used in memory match
 < ARCADE_MINIGAME_RULE_CARDSHUFFLE_CARD_NB >
-Nomor kartu
+Jumlah Kartu
 
 < ARCADE_MINIGAME_RULE_CARDSHUFFLE_SPEED >
-Kecepatan Shuffle
+Kecepatan Acak
 
 < ARCADE_MINIGAME_RULE_ROULETTE_SIZE >
-Ukuran Wheel
+Ukuran Putaran
 
 < ARCADE_MINIGAME_RULE_ROULETTE_SPEED >
-Kecepatan Wheel
+Kecepatan Putar
 
 < ARCADE_MINIGAME_RULE_WHACK_SPAWN_SPEED >
 Kecepatan Spawn
@@ -33,10 +33,25 @@ Jumlah Dart
 Kecepatan Poppo
 
 < ARCADE_MINIGAME_RULE_FAF_ABILITIES >
-Abilities
+Kemampuan
 
 
 < ARCADE_MINIGAME_OPTION_INFINITE >
-Infinite
+Tanpa Batas
+
+< ARCADE_MINIGAME_RULE_PROJECTMARBLE_LIFENUMBER >
+Jumlah Nyawa
+
+< ARCADE_MINIGAME_RULE_PROJECTMARBLE_SPEED >
+Kecepatan
+
+< ARCADE_MINIGAME_RULE_BAKERY_OBJECT_AMOUNT >
+Jumlah Obyek
+
+< ARCADE_MINIGAME_RULE_BAKERY_SPAWN_DELAY >
+Jeda Spawn
+
+< ARCADE_MINIGAME_RULE_PEEKSHROOM_ATTEMPTS >
+Jumlah Coba
 
 [EOF]
