@@ -1,15 +1,15 @@
 
-<0000> Aku lempar dadu.
+<0000> Lempar dadu.
 <0001> Apakah seperti ini?
 <0002> Apa yang akan aku dapat?
-<0003> Tolong... Kasih nomor yang bagus.
+<0003> Tolong... kasih nomor yang bagus.
 <0004> Akan aku gunakan ini.
 <0005> Aku akan gunakan ini untuk terus maju.
 <0006> Kartu...
 <0007> Dengan kekuatan kartu ini...
 <0008> Aku akan pasang jebakan.
 <0009> Jebakan telah dipasang.
-<0010> Hati-hati di panel ini.
+<0010> Hati-hati terhadap panel ini.
 <0011> Jebakan.
 <0012> Aku akan menggunakan sedikit kekuatanku.
 <0013> Kartu battle.
@@ -50,7 +50,7 @@
 <0048> Bertarung...
 <0049> Aku akan kalah.
 <0050> Ingin bertemu denganku?
-<0051> AAku ingin kamu memberikan jalan kepadaku.
+<0051> Aku ingin kamu memberikan jalan kepadaku.
 <0052> Jika kita harus bertarung, kalah bukan pilihan yang tepat.
 <0053> Ey!
 <0054> Hah!
@@ -62,7 +62,7 @@
 <0060> Ow...
 <0061> Wawawah!
 <0062> Sakit sekali...
-<0063> Wah, Aku dalam masalah besar nih!
+<0063> Wah, dalam masalah besar nih!
 <0064> Muaah!
 <0065> Itu tidak akan menyentuhku.
 <0066> Aku menghindarinya.
@@ -83,7 +83,7 @@
 <0081> Bintang ku...
 <0082> Aku merasa sedih...
 <0083> Tidaaak...
-<0084> Bintang... Kemana perginya kamu...
+<0084> Bintang... kemana perginya kamu...
 <0085> Oh ini trap.
 <0086> Apakah ini Trap?
 <0087> Omong kosong.
@@ -114,7 +114,7 @@
 <0112> Aku menang... Syukurlah.
 <0113> Syukurlah.
 <0114> Kita sepertinya mendapatkan hal yang baik.
-<0115> Walah... Itu hebat.
+<0115> Walah... Hebat.
 <0116> Apa yang kamu lakukan?
 <0117> Baiklah.
 <0118> Aku pikir itu ide yang bagus.
@@ -123,7 +123,7 @@
 <0121> Hau...
 <0122> Fufu.
 <0123> Mhm...
-<0124> Ini waktunya pergi.
+<0124> Waktunya pergi.
 <0125> Aku akan melempar... dadu.
 <0126> Maju.
 <0127> Hai.
@@ -150,9 +150,9 @@
 <0148> A-apakah aku harus menari seperti kamu...?
 <0149> Star... Breaker...
 <0150> Aku tidak akan meninggalkanmu!
-<0151> Tidak ada lagi yang membuat keributan, oke?
+<0151> Tidak perlu lagi yang membuat keributan, oke?
 <0152> Tolong berhenti membuat masalah...
 <0153> Perisai!
 <0154> Perisai, petahankan!
-<0155> Biaya tidak terbatas...!
+<0155> Charge tidak terbatas...!
 <0156> Mikky Mou-...!

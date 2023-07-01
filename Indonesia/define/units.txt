@@ -543,4 +543,12 @@ descr=If Goalpost is summoned: Gain +2 ATK. If Balloon Jerk is summoned: Gain +2
 name=Mio (Festive)
 descr=
 
+< CARD_UNIT_KRILAPAJAMAS >
+name=Krilalaris (Pajamas)
+descr=Tidak dapat menggunakan Evade saat bertempur. If you would suffer 1 damage while using the Defend command, cancel that damage and pay your Lvl x stars to the opponent.
+
+< CARD_UNIT_MIMYUUJAILBIRD >
+name=Mimyuu (Jailbird)
+descr=When KO’d in battle, pindah ke panel Rumahmu.
+
 [EOF]

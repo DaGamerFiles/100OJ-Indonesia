@@ -2,7 +2,7 @@
 Tekan
 
 < MENU_CONTROLLER_PROCEED >
-memproses
+untuk memulai
 
 < MENU_CLICKPROCEED >
 Klik untuk memulai
@@ -230,6 +230,9 @@ HINDAR
 < MENU_BUTTON_GAME_EAT >
 MAKAN
 
+< MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
+Break Out!
+
 < PLAYMENU_FREEBATTLE >
 ONLINE
 
@@ -306,19 +309,19 @@ Menyelesaikan skenario tambahan: %s.
 Perayaan Natal telah tersimpan!\n(Tapi apakah Waruda telah mengubah caranya masih harus dipantau...)
 
 < PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_MAIN >
-Collect a total of %s Chocolate to complete your mission!
+Kumpulkan sebanyak %s Cokelat untuk menyelesaikan misimu!
 
 < PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_01 >
-Collect Chocolate from panels and by defeating enemies.
+Kumpulkan Cokelat dari panel dan saat mengalahkan musuh.
 
 < PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_02 >
-Defeat enemy players to steal half of their Held chocolate.
+Kalahkan pemain lain untuk mencuri setengah dari cokelat mereka.
 
 < PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_03 >
-When carrying at least 500 Chocolate, store them at a home stop to prevent them from getting stolen.
+Jika kamu membawa 500 Chocolate, simpan di perhentianmu agar tidak dicuri pemain lain.
 
 < PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
-The sweets of the world have been saved!\n(For now, at least...)
+Manisan di seluruh dunia telah diselamatkan!\n(Yah, untuk sekarang...)
 
 < PLAYMENU_EVENT_GAMESPLAYED >
 Game dimainkan: %d
@@ -327,25 +330,25 @@ Game dimainkan: %d
 Bonus item: %d/%d
 
 < PLAYMENU_EVENT_VIEWPROGRESS >
-Lihat kemajuan
+Lihat Kemajuan
 
 < PLAYMENU_EVENT_MILESTONE >
 Milestone berikutnya:
 
 < RANDOMFILTER_EVENTS >
-Pilih event secara "Acak"
+Pilih Event secara "Acak"
 
 < RANDOMFILTER_MAPS >
-Pilih peta secara "Acak"
+Pilih Peta secara "Acak"
 
 < RANDOMFILTER_CHARACTERS >
-Pilih karakter secara "Acak"
+Pilih Karakter secara "Acak"
 
 < POPPOMARCH_CLICKTHESE >
 Klik %d ini!
 
 < PEEKSHROOM_MEMORIZE >
-Memorize!
+Hafalkan!
 
 < PEEKSHROOM_ORDER >
 Pesan!
@@ -957,7 +960,7 @@ Kemampuan: %s\n%s
 Orange +%d
 
 < MENU_COOPUNLOCK_DECKPOINT >
-Deck point +%d
+Poin dek +%d
 
 < MENU_COOPUNLOCK_ROLEHYPER >
 Role hyper 
@@ -972,25 +975,25 @@ Tantangan Hyper telah tersedia untuk %s di tantangan mode co-op!
 Role baru telah tersedia di mode co-op: %s!
 
 < MENU_SHOP_RETIREDEVENTITEM >
-Hadiah even untuk %s sudah ditambahkan ke toko!
+Hadiah event untuk %s sudah ditambahkan ke toko!
 
 < MENU_WEEKLY_FREE_LABEL >
 GRATIS MINGGU INI
 
 < MENU_WEEKLY_FREE_TOOLTIP >
-Kamu bisa memainkan 2 DLC atau bonus karakter ini secara gratis untuk minggu ini.\nKarakter dan suara dialog juga tersedia.
+Kamu bisa memainkan 2 DLC atau karakter bonus berikut secara gratis untuk minggu ini.\nSuara untuk menu juga dapat digunakan.
 
 < MENU_WORKSHOP_THUMBNAIL_REQUIRED >
-Thumbnail custom diperlukan untuk mengirim mod.\n\nPeriksa dokumentasi modding untuk informasi lebih lanjut.
+Pratinjau buatan diperlukan untuk mengirim mod kamu.\n\nPeriksa dokumentasi modding untuk informasi lebih lanjut.
 
 < MENU_WORKSHOP_CONTEST_UNAVAILABLE >
 Kamu tidak bisa mengirim item ini:\nTidak ada konten yang aktif untuk saat ini.
 
 < MENU_WORKSHOP_AGREEMENT_ERROR >
-Kamu tidak bisa mengirim item ini:\nSteam Workshop legal agreement tidak menerimanya.
+Kamu tidak bisa mengirim item ini:\nKesepakatan hukum Steam Workshop tidak diterima.
 
 < MENU_WORKSHOP_PUBLISH >
-Upload
+Unggah
 
 < MENU_WORKSHOP_WORKSHOP_BTN >
 Workshop
@@ -1110,12 +1113,12 @@ Unit lainnya segera hadir!
 Selamat datang di OJDex!\nMenu pengetahuan tidak terbatas ini memungkinkan untuk menelusuri informasi setiap karakter, dan masih banyak lagi yang akan datang di masa mendatang.
 
 < MENU_CODEX_INSTRUCTION_2 >
-Untuk membuka informasi karakter, kamu perlu memainkan satu game online dengan karakter tersebut di mode game apa pun. Perlu diperhatikan bahwa game online mode Normal yang dilacak sebelumnya akan ditambahkan ke progress saat ini.
+Untuk membuka informasi karakter, kamu perlu memainkan beberapa jumlah game online dengan karakter tersebut dalam mode apa saja. Untuk diingat bahwa game online dalam mode Normal sebelumnya sudah ditambahkan ke pelacak kemajuan.
 
 < MENU_CODEX_INSTRUCTION_3 >
-Setelah mencapai 50 game online dengan satu unit, kamu akan membuka pin plate karakter masing-masing.
+Setelah mencapai 50 game online dengan satu unit, kamu akan mendapatkan pin karakter masing-masing.
 
 < MENU_CODEX_INSTRUCTION_4 >
-Kami harap kamu menikmati fitur baru ini. Jangan ragu untuk memposting umpan balik di forum Steam, atau server Discord kami!
+Kami harap kamu menikmati fitur baru ini. Jangan ragu untuk mengirimkan umpan balik di forum Steam, atau server Discord kami!
 
 [EOF]

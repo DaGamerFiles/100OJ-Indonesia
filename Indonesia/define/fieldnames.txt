@@ -12,7 +12,7 @@ Latihan
 Pengembara Luar Angkasa
 
 < FIELD_PUDDINGCHASE >
-Pudding Chase
+Pengejaran Pudding
 
 < FIELD_CHRISTMASMIRACLE >
 Keajaiban Natal
@@ -42,7 +42,7 @@ Jurang Tomomo
 Putihnya Musim Dingin
 
 < FIELD_NIGHTFLIGHT >
-Night Flight
+Penerbangan Malam
 
 < FIELD_CLOVER >
 Semanggi
@@ -57,16 +57,16 @@ Sirkuit Bintang
 Program pelatihan
 
 < FIELD_VORTEX >
-Vortex
+Pusaran
 
 < FIELD_SWEETHEAVEN >
-Sweet Heaven
+Surga Manisan
 
 < FIELD_STARSHIP >
 Starship
 
 < FIELD_FROSTCAVE >
-Frost Cave
+Gua Beku
 
 < FIELD_SHIPYARD >
 Shipyard
@@ -81,7 +81,7 @@ Pulau Harta Karun (Malam)
 Hutan Penyihir
 
 < FIELD_ICYHIDEOUT >
-Icy Hideout
+Persembunyian Es
 
 < FIELD_SAKURA >
 Sakura Smackdown
@@ -99,19 +99,22 @@ Over the Sea
 Dark Citadel
 
 < FIELD_BEGINNERTOWN >
-Beginner Town
+Kota Pemula
 
 < FIELD_SCARREDLAND >
 Scarred Land
 
 < FIELD_FUNGUSCAVE >
-Fungus Cave
+Gua Berjamur
 
 < FIELD_WINTERTOWN >
-Beginner Town (Winter)
+Kota Pemula (Musim Dingin)
 
 < FIELD_DESERT >
 Lonely Railway
+
+< FIELD_CIRCUS >
+Sirkus
 
 < FIELD_COOP_LAGOONFLIGHT >
 Penerbangan Laguna CO
@@ -138,13 +141,13 @@ Tanah Pertanian CO
 Shipyard CO
 
 < FIELD_COOP_TRAININGPROGRAM >
-Program pelatihan CO
+Program Pelatihan CO
 
 < FIELD_COOP_NIGHTFLIGHT >
-Night Flight CO
+Penerbangan Malam CO
 
 < FIELD_COOP_VORTEX >
-Vortex CO
+Pusaran CO
 
 < FIELD_COOP_CYBERSPACE >
 Cyberspace
@@ -162,13 +165,13 @@ Santa's Workshop CO
 Sakura Smackdown CO
 
 < FIELD_COOP_PUDDINGCHASE >
-Pudding Chase CO
+Pengejaran Pudding CO
 
 < FIELD_COOP_TREASUREISLAND >
-Pulau harta karun CO
+Pulau Harta Karun CO
 
 < FIELD_COOP_TREASUREISLANDNIGHT >
-Pulau harta karun CO (Night)
+Pulau Harta Karun CO (Malam)
 
 < FIELD_COOP_OCEANDIVE >
 Ocean Dive CO
@@ -180,31 +183,31 @@ Over the Sea CO
 Semanggi CO
 
 < FIELD_COOP_FROSTCAVE >
-Frost Cave CO
+Gua Beku CO
 
 < FIELD_COOP_ICYHIDEOUT >
-Icy Hideout CO
+Persembunyian Es CO
 
 < FIELD_COOP_STARSHIP >
 Starship CO
 
 < FIELD_COOP_TOMOMOABYSS >
-Tomomo's Abyss CO
+Jurang Tomomo CO
 
 < FIELD_COOP_WHITEWINTER >
 Putihnya Musim Dingin CO
 
 < FIELD_COOP_BEGINNERTOWN >
-Beginner Town CO
+Kota Pemula CO
 
 < FIELD_COOP_CHRISTMASMIRACLE >
-Christmas Miracle CO
+Keajabian Natal CO
 
 < FIELD_COOP_DARKCITADEL >
 Dark Citadel CO
 
 < FIELD_COOP_FUNGUSCAVE >
-Fungus Cave CO
+Gua Berjamur CO
 
 < FIELD_COOP_PRACTICEFIELD >
 Practice Field CO
@@ -213,10 +216,10 @@ Practice Field CO
 Sealed Archive CO
 
 < FIELD_COOP_SWEETHEAVEN >
-Sweet Heaven CO
+Surga Manisan CO
 
 < FIELD_COOP_WHIRLPOOL >
-Whirlpool
+Pusaran Air
 
 [EOF]
 

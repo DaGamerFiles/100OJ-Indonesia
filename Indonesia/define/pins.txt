@@ -4,96 +4,176 @@ desc=
 artist=
 
 < PIN_FLYING_SUGURI >
-name=Flying Suguri
-desc=Granted to the players who played as Suguri a lot.\nShe may ever dash to the sky!
+name=Suguri Terbang
+desc=Diberikan kepada pemain yang menggunakan Suguri berulang kali.\nIa bisa saja lari ke angkasa!
 artist=Sora
 
 < PIN_FLYING_KAI >
-name=Flying Kai
-desc=Granted to the players who played as Kai a lot.\nWill he ever get his wallet back?
+name=Kai Terbang
+desc=Diberikan kepada pemain yang menggunakan Kai berulang kali.\nKapan dompetnya akan kembali?
 artist=Sora
 
 < PIN_FLYING_QP >
-name=Flying QP
-desc=Granted to the players who played as QP a lot.\nAlways having some Pudding.
+name=QP Terbang
+desc=Diberikan kepada pemain yang menggunakan QP berulang kali.\nSelalu menyimpan Pudding.
 artist=Sora
 
 < PIN_FLYING_MARC >
-name=Flying Marc
-desc=Granted to the players who played as Marc a lot.\nNever leaving without her rocket.
+name=Marc Terbang
+desc=Diberikan kepada pemain yang menggunakan Marc berulang kali.\nTak pernah keluar tanpa roketnya.
 artist=Sora
 
 < PIN_FACTORY >
 name=Orange Factory
-desc=Granted to players who are part of the Fruitbat Factory staff.
+desc=Diberikan kepada pemain yang merupakan karyawan Fruitbat Factory.
 artist=
 
 < PIN_CONTEST_WINNER >
-name=Contest Winner
-desc=Granted to players who won an official contest.
+name=Pemenang Kontes
+desc=Diberikan kepada pemain yang memenangkan kontes resmi.
 artist=Yulay Devlet
 
 < PIN_CONTRIBUTOR >
-name=Contributor
-desc=Granted to players who officially contributed to 100% Orange Juice in a way or another.
+name=Kontributor
+desc=Diberikan kepada pemain yang kontribusinya dihargai dalam 100% Orange Juice.
 artist=Yulay Devlet
 
 < PIN_FLYING_HIME >
-name=Flying Hime
-desc=Granted to the players who played as Hime a lot.\nDo not underestimate the chains of the Guardian.
+name=Hime Terbang
+desc=Diberikan kepada pemain yang menggunakan Hime berulang kali\nJangan meremehkan rantai-rantai Guardian.
 artist=Sora
 
 < PIN_FLYING_FERNET >
-name=Flying Fernet
-desc=Granted to the players who played as Fernet a lot.\nWould you like a cup of tea?
+name=Fernet Terbang
+desc=Diberikan kepada pemain yang menggunakan Fernet berulang kali\nNgeteh yuk?
 artist=Sora
 
 < PIN_FLYING_YUKI >
-name=Flying Yuki
-desc=Granted to the players who played as Yuki a lot.\nWhat about gambling our lives away?
+name=Yuki Terbang
+desc=Diberikan kepada pemain yang menggunakan Yuki berulang kali\nWhat about gambling our lives away?
 artist=Sora
 
 < PIN_FLYING_POPPO >
-name=Flying Poppo
-desc=Granted to the players who played as Poppo a lot.\nProof of a deeper understanding of the game.
+name=Poppo Terbang
+desc=Diberikan kepada pemain yang menggunakan Poppo berulang kali\nBukti dari kesepuhan game.
 artist=Sora
 
 < PIN_FLYING_ARU >
-name=Flying Aru
-desc=Granted to the players who played as Aru a lot.\nOn her way to deliver the presents!
+name=Aru Terbang
+desc=Diberikan kepada pemain yang menggunakan Aru berulang kali\nOn her way to deliver the presents!
 artist=Sora
 
 < PIN_FLYING_SORA >
-name=Flying Sora
-desc=Granted to the players who played as Sora a lot.\nShe fought hard to see the blue sky again...
+name=Sora Terbang
+desc=Diberikan kepada pemain yang menggunakan Sora berulang kali\nShe fought hard to see the blue sky again...
 artist=Sora
 
 < PIN_FLYING_PEAT >
-name=Flying Peat
-desc=Granted to the players who played as Peat a lot.\nPossibly still trying to defeat Red Barrel.
+name=Peat Terbang
+desc=Diberikan kepada pemain yang menggunakan Peat berulang kali\nPossibly still trying to defeat Red Barrel.
 artist=Sora
 
 < PIN_FLYING_TOMOMO >
-name=Flying Tomomo
-desc=Granted to the players who played as Tomomo a lot.\nTruly Magical.
+name=Tomomo Terbang
+desc=Diberikan kepada pemain yang menggunakan Tomomo berulang kali\nSungguh Magical.
 artist=Sora
 
 < PIN_FLYING_SYURA >
-name=Flying Syura
-desc=Granted to the players who played as Syura a lot.\nShe can be Beyond Cute as well.
+name=Syura Terbang
+desc=Diberikan kepada pemain yang menggunakan Syura berulang kali\nShe can be Beyond Cute as well.
 artist=Sora
 
 < PIN_FLYING_NANAKO >
-name=Flying Nanako
-desc=Granted to the players who played as Nanako a lot.\nDon't call her short!
+name=Nanako Terbang
+desc=Diberikan kepada pemain yang menggunakan Nanako berulang kali\nJangan dipanggil pendek!
 artist=Sora
 
 < PIN_FLYING_SAKI >
-name=Flying Saki
-desc=Granted to the players who played as Saki a lot.\nWould you like a cookie?
+name=Saki Terbang
+desc=Diberikan kepada pemain yang menggunakan Saki berulang kali\nMau kukis?
 artist=Sora
 
 < PIN_FLYING_KYOUSUKE >
-name=Flying Kyousuke
-desc=Granted to the players who played as Kyousuke a lot.\nIn search of a special someone.
+name=Kyousuke Terbang
+desc=Diberikan kepada pemain yang menggunakan Kyousuke berulang kali\nIn search of a special someone.
+artist=Sora
+
+< PIN_FLYING_KRILA >
+name=Krilalaris Terbang
+desc=Diberikan kepada pemain yang menggunakan Krilalaris berulang kali\nMenuju Darkness yang abadi.
+artist=Sora
+
+< PIN_FLYING_KAE >
+name=Kae Terbang
+desc=Diberikan kepada pemain yang menggunakan Kae berulang kali\nSelalu punya Heat 300% di dek kartunya.
+artist=Sora
+
+< PIN_FLYING_ALTE >
+name=Alte Terbang
+desc=Diberikan kepada pemain yang menggunakan Alte berulang kali\nPin ini tak akan hancur sendiri saat dipakai.
+artist=Sora
+
+< PIN_FLYING_KYOKO >
+name=Kyoko Terbang
+desc=Diberikan kepada pemain yang menggunakan Kyoko berulang kali\nKeep it cool!
+artist=Sora
+
+< PIN_FLYING_SHAM >
+name=Sham Terbang
+desc=Diberikan kepada pemain yang menggunakan Sham berulang kali\nOperator paling imut!
+artist=Sora
+
+< PIN_FLYING_SHERRY >
+name=Sherry Terbang
+desc=Diberikan kepada pemain yang menggunakan Sherry berulang kali\nTerbang bebas.
+artist=Sora
+
+< PIN_FLYING_SWEETBREAKER >
+name=Sweet Breaker Terbang
+desc=Diberikan kepada pemain yang menggunakan Sweet Breaker berulang kali\nMemory melting in progress!
+artist=Sora
+
+< PIN_FLYING_STARBREAKER >
+name=Star Breaker Terbang
+desc=Diberikan kepada pemain yang menggunakan Star Breaker berulang kali\nBeware of explosions.
+artist=Sora
+
+< PIN_FLYING_NATH >
+name=Nath Terbang
+desc=Diberikan kepada pemain yang menggunakan Nath berulang kali\nSantai dulu lah...
+artist=Sora
+
+< PIN_FLYING_TOMATOMIMYUU >
+name=Tomato & Mimyuu Terbang
+desc=Diberikan kepada pemain yang menggunakan Tomato & Mimyuu berulang kali\nBocah nakal!
+artist=Sora
+
+< PIN_FLYING_KIRIKO >
+name=Kiriko Terbang
+desc=Diberikan kepada pemain yang menggunakan Kiriko berulang kali\nIt's probably best to stay healthy.
+artist=Sora
+
+< PIN_FLYING_NONAME >
+name=NoName Terbang
+desc=Diberikan kepada pemain yang menggunakan NoName berulang kali\nKepala harus tetap dingin!
+artist=Sora
+
+< PIN_FLYING_TEQUILA >
+name=Tequila Terbang
+desc=Diberikan kepada pemain yang menggunakan Tequila berulang kali\nBajak laut yang sesungguhnya!
+artist=Sora
+
+< PIN_FLYING_TSIH >
+name=Tsih Terbang
+desc=Diberikan kepada pemain yang menggunakan Tsih berulang kali\nTetap waspada akan Tsih!
+artist=Sora
+
+< PIN_FLYING_MIUSAKI >
+name=Miusaki Terbang
+desc=Diberikan kepada pemain yang menggunakan Miusaki berulang kali\nPin ini tidak dapat dihancurkan.
+artist=Sora
+
+< PIN_FLYING_REPA >
+name=Ceoreparque Terbang
+desc=Diberikan kepada pemain yang menggunakan Ceoreparque berulang kali\nHati-hati terhadap rambutnya!
 artist=Sora

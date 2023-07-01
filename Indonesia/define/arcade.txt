@@ -24,13 +24,13 @@ Tanpa Pet
 
 
 < ARCADE_ORANGE_GET >
-Mendapatkan Oranges!
+Mendapatkan Orange!
 
 < ARCADE_PET_GET >
 Mendapatkan Pet!
 
 < ARCADE_COMMON_GET >
-Mendapatkan Item Biasa!
+Mendapatkan Item!
 
 < ARCADE_NEW_PET_COLOR >
 Mendapatkan warna baru!

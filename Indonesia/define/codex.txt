@@ -105,55 +105,116 @@
 5=Memiliki perasaan romantis untuk seorang laki-laki bernama Kyupita, Kyousuke terus-menerus mengejar QP yang merupakan gambaran menusuk dari laki-laki yang dia cintai.
 
 < LORE_KRILALARIS >
-1=Krilalaris is a 13-year old girl living in abject poverty, often seen suffering from pangs of hunger and carrying around plush toys.
-2=Likes: Stew\nDislikes: Pickled food
-3=She is blessed with a strong case of chuunibyou, AKA eighth-grade syndrome, and you can always find her garbed in a gothic lolita style dress.
-4=Krilalaris believes using words like "blood" and "darkness" makes her look cool. Her true self is just a goofy and awkward girl.
-5=Krilalaris is excellent at sewing, and the elaborate clothes she wears are of her own making.
+1=Krilalaris adalah gadis 13 tahun yang hidup dalam kemiskinan, sering terlihat menderita kelaparan dan membawa beberapa mainan mewah.
+2=Kesukaan: Rebusan\nHal yang tidak disukai: Acar
+3=Dia diberkahi chuunibyou yagn sangat kuat, atau bisa dibilang eighth-grade syndrome, kamu dapat menemukan dia mengenakan paiakain bergaya gothic lolita.
+4=Krilalaris percaya dengan menggunakan kata-kata seperti "darah" dan "kegelapan" membuatnya terlihat keren. Sejatinya hanyalah gadis yang konyol dan canggung.
+5=Krilalaris pandai menjahit, dan pakaian rumit yang dikenakannya adalah buatan sendiri.
 
 < LORE_KAE >
-1=A reckless and energetic girl who lives her life freely, Kae is one of the Shifu Brands, humans altered for fighting.
-2=Likes: Cake\nDislikes: Dark and closed spaces, spicy food
-3=Kae often uses onomatopoeias to express herself.
-4=As the result of her operation, her body temperature rises and her body blazes up when she uses her powers.
-5=Kae is 18 years old, but the reckless modification surgery performed on her caused her to regress to infancy, and afterwards she was locked up in a dark place until a certain incident.
+1=Gadis sembrono dan energik yang menjalani hidupnya dengan bebas, Kae adalah salah satu Produk Shifu, manusia yang diubah untuk bertarung.
+2=Kesukaan: Kue\nHal yang tidak disukai: Ruangan gelap dan tertutup, makanan pedas
+3=Kae sering menggunakan onomatope untuk mengekspresikan dirinya.
+4=Sebagai hasil dari operasinya, suhu tubuhnya naik dan tubuhnya menyala saat dia menggunakan kekuatannya.
+5=Kae berusia 18 tahun, tetapi operasi modifikasi ceroboh yang dilakukan padanya menyebabkan dia kembali ke masa pertumbuhan, dan setelah itu dia dikurung di tempat gelap sampai insiden tertentu.
 
 < LORE_ALTE >
-1=Hingga umur 24 tahun, Alte tergabung dalam pertempuran besar.
-2=Likes: Her fiancé's homemade food\nDislikes: Instant food
-3=She ultimately sacrificed herself in an explosion when cornered by Sora, leaving her fiancé behind.
-4=The hard-headed soldier dotes on her fiancé. However, she isn't very good at cooking, and wants to get better at it.
-
-< LORE_SHAM >
-1=Sham is a physically altered human, with a body designed for combat. She is in her mid-twenties.
-2=Likes: Chocolate, cute things\nDislikes: Fighting
-3=Sham is the operator who taught Sora the basics of combat. When off duty, she's usually such a ball of energy it can annoy people around her.
-4=Her war experience makes her uncompromising when in battle. After the end of the war, Sham has been looking to do something new.
-5=Sham doesn't care about the scar on her face, believing she's supremely cute even with it.
+1=Sampai usia 24 tahun, Alte bertempur dalam perang besar.
+2=Kesukaan: Makanan buatan tunangannya\nHal yang tidak disukai: Makanan cepat saji
+3=Dia akhirnya mengorbankan dirinya dalam ledakan saat terpojok oleh Sora, dan meninggalkan tunangannya.
+4=Prajurit keras kepala yang sangat menyayangi tunangannya. Namun, dia tidak pandai memasak, dan ingin menjadi lebih baik.
 
 < LORE_KYOKO >
-1=Being in her twenties, Kyoko is the oldest of the Shifu Brands, humans altered for fighting.
-2=Likes: Seasonal fruits\nDislikes: Pain
-3=Always appearing calm and balanced, Kyoko may look like an unapproachable ice queen, but in reality she's very caring and supportive.
-4=After a modification surgery, she gained the ability to manipulate ice crystals, but with a side effect of infrequent jolts of pains through her entire body.
-5=Because of that, she dislikes using the word "pain" to describe mere annoyances, and prefers to use the word "annoying." Consequently, when she says something is annoying, she may also mean it's painful.
+1=Berada di usia dua puluhan, Kyoko adalah yang tertua dari Produk Shifu, manusia yang diubah untuk bertarung.
+2=Kesukaan: Buah musiman\nHal yang tidak disukai: Rasa Sakit
+3=Selalu tampil tenang dan seimbang, Kyoko mungkin terlihat seperti ratu es yang sulit didekati, namun kenyataannya dia sangat perhatian dan suportif.
+4=Setelah operasi modifikasi, dia memperoleh kemampuan untuk memanipulasi kristal es, tetapi dengan efek samping berupa rasa sakit yang jarang terjadi di seluruh tubuhnya.
+5=Karena itu, dia tidak suka menggunakan kata "sakit" untuk menggambarkan gangguan belaka, dan lebih suka menggunakan kata "menjengkelkan". Akibatnya, ketika dia mengatakan sesuatu yang menjengkelkan, mungkin juga itu bermaksud menyakitkan.
+
+< LORE_SHAM >
+1=Sham adalah manusia yang diubah secara fisik, dengan tubuh yang dirancang untuk pertarungan. Berusia sekitar pertengahan dua puluhan.
+2=Kesukaan: Cokelat, hal yang lucu\nHal yang tidak disukai: Bertarung
+3=Sham adalah operator yang mengajari Sora tentang dasar-dasar pertarungan. Saat tidak bertugas, dia biasanya menjadi bola energi yang dapat mengganggu orang-orang di sekitarnya.
+4=Pengalaman bertarungnya membuat tidak kenal kompromi saat berperang. Setelah perang berakhir, Sham ingin melakukan sesuatu yang baru.
+5=Sham tidak peduli dengan bekas luka di wajahnya, percaya bahwa dia sangat imut bahkan dengan bekas luka.
 
 < LORE_SHERRY >
-1=A 23 year old female aviator, Sherry speaks in a calm, polite manner and hardly ever raises her voice. That makes her appear a very peaceful and aloof person, but she actually has a sensitive, thoughtful, and competitive nature underneath.
-2=Likes: Overhauling\nDislikes: Rules and regulations.
-3=She can lose herself in whatever she has decided to do, and that tendency is further amplified when she's holding the control stick.
-4=Sherry used to belong to the pilot organization called the Guild, but left it for the sake of flying in the sky freely. In her Guild days, she used to work with Islay - her friend and rival. They are still on good terms.
-5=Sherry's father is an aircraft mechanic. Helping her father with his job led her to decide she could become a better mechanic by becoming a pilot herself rather than simply asking pilots about their airplanes - and she did.
+1=Pilot wanita berusia 23 tahun, Sherry biasanya berbicara dengan tenang, sopan dan hampir tidak pernah meninggikan suaranya. Itu membuatnya terlihat seperti orang yang sangat damai dan menyendiri, tetapi sebenarnya dia memiliki sifat sensitif, bijaksana, dan kompetitif.
+2=Kesukaan: Merombak\nHal yang tidak disukai: Aturan dan regulasi.
+3=Dia bisa kehilangan jati dirinya dalam hal apa pun yang dia putuskan untuk dilakukan, dan kecenderungan itu semakin diperkuat ketika dia memegang tongkat kendali.
+4=Sherry dulu bergabung dalam organisasi pilot bernama Guild, namun meninggalkannya demi bisa terbang bebas di langit. Pada keseharian Guild, dia dulu bekerja dengan Islay - teman dan saingannya. Mereka masih berhubungan baik.
+5=Ayah Sherry adalah seorang mekanik pesawat. Membantu ayahnya dengan pekerjaannya membuatnya memutuskan bahwa dia bisa menjadi mekanik yang lebih baik dengan menjadi pilot sendiri daripada hanya bertanya kepada pilot tentang pesawat mereka - dan dia melakukannya.
 
 < LORE_SWEETBREAKER >
-1=As one of the Six Sweet Gods, Sweet Breaker has the role of erasing all the records of sweets that have potential to cause chaos in the world. She once fought QP over the existence of pudding, and was defeated.
-2=Likes: Sweets that aren't too sweet, order\nDislikes: Extremely spicy food
-3=Sweet Breaker is a rigid moralist with an attitude similar to that of a school prefect. She does her job without letting her personal feelings get in the way.
-4=The real name of the 16-year-old girl is Amami.
+1=Sebagai salah satu dari Enam Sweet Gods, Sweet Breaker memiliki peran menghapus semua permen yang berpotensi menimbulkan kekacauan di dunia. Dia pernah melawan QP atas keberadaan pudding, dan dia dikalahkan.
+2=Kesukaan: Permen yang tidak terlalu manis, pesan\nHal yang tidak disukai: Makanan yang sangat pedas
+3=Sweet Breaker adalah seorang moralis yang kaku dengan sikap yang mirip dengan ketua di sekolah. Dia melakukan pekerjaannya tanpa membiarkan perasaan pribadinya menghalangi.
+4=Nama asli gadis 16 tahun itu adalah Amami.
 
 < LORE_STARBREAKER >
 1=Star Breaker berusia 16 tahun.
-2=Likes: Baking, fireworks\nDislikes: Losing
-3=She was originally an altered human produced by a certain country in an attempt to end a stalemated war by destroying the entire planet, which was by then heavily contaminated.
-4=Star Breaker was the detonator to a bomb able to destroy the entire planet. In the operation to turn her into a living fuse, Star Breaker died and was brought back to life so many times that she completely lost her sanity. In the end, Sora stopped her.
-5=In the peaceful world of 100% Orange Juice, Star Breaker still makes threatening comments, but is considerably mellower than the original.
+2=Kesukaan: Memanggang, kembang api\nHal yang tidak disukai: Kekalahan
+3=Dia awalnya adalah manusia yang diubah yang diproduksi oleh negara tertentu dalam upaya untuk mengakhiri perang dengan menghancurkan seluruh planet, yang saat itu sangat terkontaminasi.
+4=Star Breaker adalah detonator bom yang mampu menghancurkan seluruh planet. Dalam operasi untuk mengubahnya menjadi sekering hidup, Star Breaker mati dan dihidupkan kembali berkali-kali sehingga dia benar-benar kehilangan kewarasannya. Pada akhirnya, Sora menghentikannya.
+5=Di dunia 100% Orange Jiuce yang damai, Star Breaker masih membuat komentar yang mengancam, tetapi jauh lebih lembut dari aslinya.
+
+< LORE_NATH >
+1=Nath is a physically altered human designed to fight using her own body. Her physical age is 22.
+2=Likes: Puppies, lazing around, taking shortcuts\nDislikes: Complicated clothes, hurry, failure
+3=She was another ultimate weapon hastily produced in order to replace the initial ultimate weapon, Sora, after she had gone missing. 
+4=Nath’s body remodeling was done so roughly that both of her arms had to be removed. Regardless, she doesn't harbor any hard feelings about her body modification; she simply goes with the flow.  She's so used to being armless that she's living a lazy life without any inconvenience.
+5=Nath has a big pet dog named Noopy.
+
+< LORE_TOMATO >
+1=Around 11 years old, Tomato is a junior member of the prankster team Waruda. She's best friends with her assistant Mimyuu, and they're almost always together.
+2=Likes: Tinkering, gadgets, pranking\nDislikes: Being bored, bullying
+3=She loves playing pranks, with little regard for the people around when she's having fun.
+4=Tomato's signature prank tool is the giant robot "Waruda Machine."
+
+< LORE_MIMYUU >
+1=Around 5 years old, Mimyuu is the youngest member of the prankster team Waruda. She's best friends with Tomato, whom she calls Boss.
+2=Likes: Pranking, games\nDislikes: Being bored
+3=Mimyuu loves pranking and enjoys destroying things with her huge hammer.
+4=She speaks a mix of different dialects and speech patterns because she's young and impressionable and watches a lot of weird videos.
+5=Mimyuu hides cat ears under her onesie.
+
+< LORE_KIRIKO >
+1=In her early twenties, Kiriko is the oldest member of the prankster team Waruda.
+2=Likes: Injections\nDislikes: Anything that harms health
+3=Brandishing surgical knives, Kiriko has a dark, gloomy personality, and she probably has a few screws loose.
+4=She's always on the lookout for subjects to perform involuntary experiments on, and supports Waruda with her concoctions.
+5=Kiriko is not a licensed medical practitioner but simply cosplays as a doctor. Patients beware.
+
+< LORE_NONAME >
+1=NoName is a male android modeled after the scientist Shifu, who tried to take over Earth. NoName's intelligence is way lower than the original, but he has high combat power and an ability to fly in the air instead.
+2=Likes: Self, robots\nDislikes: Malfunctions
+3=The android is as selfish and self-centered as the original and gets angry when things don't go as he wants, but he often gets fooled or convinced easily because of his lack of intelligence. 
+4=NoName has authority to command the altered humans produced by Shifu because they take commands issued in Shifu's voice, and NoName has Shifu's voice.
+5=NoName can function without a body, so he often gets his head removed from his body and planted in a pot for punishment. He has a penchant for thighs, which often lands him in this situation.
+
+< LORE_MIUSAKI >
+1=An around 15 year old girl who can repel any type of attack with magic, Miusaki is also known as the Solid Witch. 
+2=Likes: Exercise, fun\nDislikes: The cold
+3=Miusaki usually works at an inn to attract customers. She is outgoing, cheerful, kind, and into fun things.
+4=Miusaki is good with kids and is affectionately called Big Sis Miu by the kids in her neighborhood.
+
+< LORE_REPA >
+1=Ceoreparque is an about 13 year old girl who can control her own hair with magic. She is also known as the Braid Witch.
+2=Likes: Fiddling with hair\nDislikes: Humidity
+3=She prefers to be called Repa by friends.
+4=Despite looking demure on the outside, Repa is actually a fairly self-centered person. When emotional, she turns her hair into sharp needles to attack with it.
+5=Recently she has been very into a board game introduced to her by the Forest Witch.
+
+< LORE_TSIH >
+1=Tsih fought on the opposite side from Sora during the war. She looks and acts like a little girl.
+2=Likes: Juice\nDislikes: Cramped spaces
+3=Having been altered into a weapon, Tsih fights using her brute physical strength and wires to catch and throw rocks. She's also equipped with an optical camouflage system.
+4=She makes herself seem goofy by adding "nanora" at the end of her sentences, but is actually a sinister, cunning woman in her late twenties. In 100% Orange Juice, however, she's simply a carefree character with a mean streak, stripped of her usual serious nature.
+5=The cutesy, long-sleeved outfits Tsih always wears fit the image she's cultivated, but their true purpose is to hide her damaged hands.
+
+< LORE_TEQUILA >
+1=In the face of adversity almost putting an end to his pirate career, Tequila put propellers on his ship to cruise in the sky instead of the sea. However, he claims to still be a pirate of the seas.
+2=Likes: Looting, family\nDislikes: Solid ground
+3=Though an outlaw, Tequila believes in his way of life and doesn't hesitate to fight in order to protect his beliefs.
+4=The man, already as old as a grandpa, dreams of turning back to being a sea pirate one day along with his minions - some of whom look up to him, and some of whom don't.
+5=Tequila dotes on his foundling daughter Mescal.

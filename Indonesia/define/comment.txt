@@ -11,6 +11,9 @@ Pengaturan Audio
 < COM_CONFIG_VOICE >
 Pengaturan Suara
 
+< COM_CONFIG_MODS >
+Mod yang terpasang.
+
 < COM_NEWGAME_SELECTSLOT >
 Pilih slot penyimpanan.
 
@@ -38,6 +41,9 @@ Pilih item untuk dibeli.
 < COM_SHOP_BUYCONFIRM >
 Kamu yakin ingin membeli item ini?
 
+< COM_SHOP_BUYEVENTCONFIRM >
+Buka kemajuan event dengan %s?
+
 < COM_SHOP_ITEMSOLDOUT >
 Item terjual habis.
 
@@ -47,33 +53,23 @@ Item tidak tersedia.
 < COM_SHOP_NOTENOUGHCURRENCY >
 Tidak bisa membeli barang ini.
 
+< COM_SHOP_REACHEDCURRENCYCAP >
+Kamu tidak bisa memiliki lebih dari yang tersimpan.
+
 < COM_SHOP_NOSTEAMCONNECTION >
-Item ini membutuhkan koneksi Steam.
+Item ini membutuhkan sambungan ke Steam.
 
 < COM_SHOP_NOSTEAMCONNECTIONDLC >
-Tidak dapat memverifikasi kepemilikan DLC tanpa koneksi Steam.
+Tidak dapat memverifikasi kepemilikan DLC tanpa sambungan ke Steam.
 
 < COM_SHOP_ALREADYOWNDLC >
 Kamu sudah memiliki DLC ini.
 
 < COM_SHOP_BONUSITEM >
-Item ini diberikan kepada semua yang punya %s di Steam.
+Item ini diberikan kepada semua pemilik %s di Steam.
 
 < COM_SHOP_CHARACTERITEM >
 Item ini milik karakter yang tidak kamu miliki.
-
-< COM_SHOP_NOTENOUGHSTARS >
-Kamu tidak memiliki cukup bintang.
-
-< COM_SHOP_NOTENOUGHHALLOWEENCANDY >
-Kamu tidak memiliki cukup permen.
-
-< COM_SHOP_NOTENOUGHORANGES >
-Kamu tidak memiliki cukup jeruk.
-
-
-< COM_SHOP_DLCCHARACTERITEM >
-Item ini milik karakter DLC yang tidak kamu miliki.
 
 < COM_SHOP_LEVELTOOLOW >
 Level kamu tidak cukup untuk membeli item ini.
@@ -117,6 +113,21 @@ Kamu membeli peti!
 < COM_SHOP_BOUGHTPET >
 Kamu membeli pet baru!
 
+< COM_SHOP_BOUGHTHOMEMARK >
+You bought a new homemark!
+
+< COM_SHOP_BOUGHTGENERICITEM >
+You bought a new item!
+
+< COM_SHOP_BOUGHTEMOTE >
+You bought a new emote!
+
+< COM_SHOP_BOUGHTCOSTUME >
+You bought a new costume!
+
+< COM_SHOP_CONVERTCURRENCY >
+Converted currency!
+
 < COM_USERINFO_PLAYERINFO >
 Lihat info pemain.
 
@@ -132,6 +143,9 @@ Periksa info koleksi kartu kamu.
 < COM_USERINFO_AVATAR >
 Ubah avatar yang ingin ditampilkan.
 
+< COM_USERINFO_TAUNTS >
+Customize taunts per unit for use in-game.
+
 < COM_USERINFO_GALLERY >
 Nikmati berbagai gambar dan BGM.
 
@@ -142,19 +156,28 @@ Lihat statmu dengan berbagai karakter pada pertandingan online.
 Pilih skenario.
 
 < COM_CAMPAIGN_SELECTSTAGE >
-Pilih tahapan.
+Pilih bagian.
 
 < COM_CAMPAIGN_BREAKERPACKONLY >
-Campaign ini hanya dapat dimainkan jika memiliki Breaker Pack.
+Kampanye ini hanya dapat dimainkan jika memiliki Breaker Pack.
 
 < COM_CAMPAIGN_WITCHPACKONLY >
-Campaign ini hanya dapat dimainkan jika memiliki Witch Pack.
+Kampanye ini hanya dapat dimainkan jika memiliki Witch Pack.
 
 < COM_CAMPAIGN_TOYSTOREPACKONLY >
-Campaign ini hanya dapat dimainkan jika memiliki Toy Store Pack.
+Kampanye ini hanya dapat dimainkan jika memiliki Toy Store Pack.
+
+< COM_CAMPAIGN_OLDGUARDIANPACKONLY >
+Kampanye ini hanya dapat dimainkan jika memiliki Old Guardian Pack.
+
+< COM_CAMPAIGN_WANDERERPACKONLY >
+Kampanye ini hanya dapat dimainkan jika memiliki Wanderer Pack.
+
+< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
+Kampanye ini hanya dapat dimainkan jika memiliki Waruda Prison Break Pack.
 
 < COM_FREEBATTLE_CHOOSEGAMETYPE >
-Buat/gabung secara online atau mainkan Single Player.
+Pilih mode game.
 
 < COM_FIELDSELECT >
 Pilih field.

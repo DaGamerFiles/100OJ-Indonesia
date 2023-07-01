@@ -1,3 +1,15 @@
+< CARD_DECEPTIVELYDISARMED_EFFECT >
+name=Deceptively Disarmed
+descr=Skip next action.
+
+< CARD_STUFFED_EFFECT >
+name=Stuffed
+descr=Gain -1 ATK on next battle.
+
+< CARD_BURNOUT_EFFECT >
+name=Burn Out
+descr=Delay recovery 1 turn for each stack.
+
 < CARD_PROTAGONISTPRIVILEGE_EFFECT >
 name=Protagonist's Privilege
 descr=Always attack first. The enemy unit cannot counterattack (once per combat).
@@ -26,9 +38,37 @@ descr=Can force boss to skip its next action.
 name=Banned for Life
 descr=Skip next action.
 
+< CARD_COOP_GUIDANCE_EFFECT >
+name=Guidance of the Weathercock
+descr=Roll 2 dice for everything except for battle. This effect ends on KO.
+
+< CARD_COOP_BEASTWITCH_EFFECT >
+name=Beast Witch
+descr=Cannot lose stars by a Boss or minion.
+
 < CARD_COOP_FINALSURGERY_EFFECT >
 name=Final Surgery
 descr=Gain -2 REC until revived.
+
+< CARD_COOP_STEALTHON_EFFECT >
+name=Stealth On
+descr=Cannot be challenged by enemies.\nDo not trigger Encounter or Boss panels.\nEffect expires on entering battle.\nGain +2 ATK when entering battle.
+
+< CARD_COOP_SPECIALSTAGE_EFFECT >
+name=Live Mode
+descr=Gain -3 MOV, can only trigger movement type panels and cannot use cards. Cannot be challenged by enemies. If an opponent ends their turn in 2 panel radius, steal (your Lvl) x5 stars from them. Ends on KO.
+
+< CARD_COOP_IDEALWORLD_EFFECT >
+name=Robo Pals
+descr=Robotic units will fight in battle on behalf of the player. These robotic units will gain +1 ATK during battle.
+
+< CARD_COOP_GOODESTBOY_EFFECT >
+name=Goodest Boy
+descr=Ignore Boss panels.\nWhen staying on a panel with another player at the end of either of your turns, both draw a card.\nYou can neither challenge nor be challenged.\nPlayers may stop to Pet you.
+
+< CARD_COOP_PRISONBREAK_EFFECT >
+name=Make-Believe Prison Break
+descr=Cannot be challenged. Immune to Trap cards, instant KO effects, and card damage from the Boss. Roll 2 dice for movement. Lose 1 stack for each panel traversed.
 
 < CARD_BOSS_HYPE_EFFECT >
 name=Hype
@@ -205,6 +245,10 @@ descr=Gain +2 EVD.
 < CARD_BOSS_TURBOCHICKEN_EFFECT >
 name=Turbo Chicken
 descr=Gain an additional movement dice and do not stop when challenging an enemy.\nGain +1 ATK for each additional stack.\nGain 25 stars when fighting an enemy.
+
+< CARD_BOSS_SWARM_EFFECT >
+name=Swarm
+descr=In next battle, gain +2 ATK and if attacking first, the enemy cannot counterattack (once per combat).
 
 < CARD_SKILL_COOP_FURY_EFFECT >
 name=Fury
