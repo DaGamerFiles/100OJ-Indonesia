@@ -173,6 +173,9 @@ Sweet Gods
 < SHOP_DLC_KRILAMIMYUURENEWAL >
 Paket Waruda Prison Break
 
+< SHOP_DLC_ALTEREGOPACK >
+Paket Alter Ego
+
 < SHOP_TOOLTIP_HOME >
 Atur toko berdasarkan ikon kategori.
 

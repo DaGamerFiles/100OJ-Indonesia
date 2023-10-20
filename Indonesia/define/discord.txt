@@ -16,7 +16,7 @@ Di Dalam Permainan
 
 // After the game ended, the screen where xp and potential unlocks are given 
 < DISCORD_RESULTS_STATE >
-Hasil
+Hasil Akhir
 
 // Pvp mode
 < DISCORD_INGAME_NORMAL_MODE >
@@ -44,10 +44,10 @@ Mode Bounty Hunt
 Mode Fish-a-Fish
 
 < DISCORD_INGAME_SHROOM_MODE >
-Shroom Zoom Mode
+Mode Shroom Zoom
 
 < DISCORD_INGAME_SCHOOL_MODE >
-School Crashers Mode
+Mode School Crashers
 
 < DISCORD_INGAME_CHAOS_MODE >
-Mode Kacau
+Mode Chaos

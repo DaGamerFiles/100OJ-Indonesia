@@ -2,7 +2,7 @@
 // ========= Scene: 1-A =========
 
 // (krilap)
-<0000> Zzz... I call upon the dark spirits... zzz... this is my ultimate attack... zzz...
+<0000> Zzz... I call upon the dark spirits... zzz... rasakan serangan hebatku... zzz...
 
 // (mimyuuj)
 <0001> Hey, you. You're finally awake.
@@ -11,7 +11,7 @@
 <0002> Zzz...
 
 // (mimyuuj)
-<0003> Mimyuu said, YOU'RE FINALLY AWAKE!
+<0003> Mimyuu bilang, KAMU AKHIRNYA BANGUN JUGA!
 
 // (krilap)
 <0004> Huwha?!
@@ -35,7 +35,7 @@
 <0010> How long have we been in here...?
 
 // (mimyuuj)
-<0011> About four hours. Mimyuu went crazy hour one, got bored of being crazy by hour three. Now Mimyuu's a hard-boiled tough customer.
+<0011> Sekitar empat jam. Mimyuu went crazy hour one, got bored of being crazy by hour three. Now Mimyuu's a hard-boiled tough customer.
 
 // (krilap)
 <0012> If I go to sleep for another four hours, will you get bored of this character too?
@@ -50,10 +50,10 @@
 <0015> Don't worry. Mimyuu's got a plan. All we gotta do is bust out of this joint. And to do that, we just need to distract the guard.
 
 // (sorasp)
-<0016> Hello. It's breakfast time.
+<0016> Halo. Saatnya jam sarapan.
 
 // (krilap)
-<0017> B-breakfast? We get food here? For free?
+<0017> Sa-sarapan? We get food here? For free?
 
 // (sorasp)
 <0018> Yes. In prison, you get three meals a day.
@@ -65,7 +65,7 @@
 <0020> Ain't this a little burnt, though?
 
 // (sorasp)
-<0021> It's Sham's cooking. She's doing her best.
+<0021> Ini masakannya Sham. She's doing her best.
 
 // (krilap)
 <0022> Even burnt toast is still a meal... The dark crunchy bits call to my black soul.
@@ -74,31 +74,31 @@
 <0023> Hey, guard. What's a girl like you doing working in the clink?
 
 // (sorasp)
-<0024> I'm protecting people from bad guys.
+<0024> Aku melindungi orang-orang dari penjahat.
 
 // (mimyuuj)
-<0025> So why are you wearing a school uniform?
+<0025> Lalu kenapa kamu memakai seragam sekolah?
 
 // (sorasp)
-<0026> It's only a morning job. I go to school after my shift.
+<0026> Aku bekerja paruh waktu. Setelah ini aku langsung ke sekolah.
 
 // (mimyuuj)
-<0027> It's 10 AM. School already started.
+<0027> Ini jam 10 pagi. Pelajaran sudah dimulai.
 
 // (sorasp)
-<0028> Oh no! I'm late! But if I go, all the prisoners will escape... auuuu...
+<0028> Oh tidak! Aku terlambat! But if I go, all the prisoners will escape... auuuu...
 
 // (mimyuuj)
-<0029> Quick, partner! She's distracted! Bonk her on the head and make a break for it!
+<0029> Cepatlah kawanku! Dia terkecoh! Jitak kepalanya dan segeralah kabur!
 
 // (krilap)
-<0030> But... my breakfast! My pillow! I don't want to go!
+<0030> Tapi... sarapanku! Bantalku! Aku ogah mau pergi!
 
 // (mimyuuj)
 <0031> No time! Let's bust on out, partner!
 
 // (sorasp)
-<0032> Uuuu... I hope this won't go on my permanent record...
+<0032> Uuuu... Semoga gak masuk rapot kelas...
 
 // ========= Scene: 1-B =========
 

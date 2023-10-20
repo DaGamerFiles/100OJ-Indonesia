@@ -218,3 +218,46 @@
 3=Though an outlaw, Tequila believes in his way of life and doesn't hesitate to fight in order to protect his beliefs.
 4=The man, already as old as a grandpa, dreams of turning back to being a sea pirate one day along with his minions - some of whom look up to him, and some of whom don't.
 5=Tequila dotes on his foundling daughter Mescal.
+
+< LORE_MEI >
+1=Mei is a bit of a naughty 13-year old girl, who can't help bullying QP when she sees her.
+2=Likes: Birds\nDislikes: Studying
+3=Mei likes Natsumi, her older school friend so much that her calming presence keeps Mei behaving in Natsumi's presence.
+4=Mei's one obsession is with unusual birds, and she keeps two penguins called Red and Blue, who are big enough to ride on.
+
+< LORE_NATSUMI >
+1=Natsumi is 15 years old, and in her 3rd year or middle school. She's a gentle and innocent soul who's difficult to upset.
+2=Likes: Oranges, Cooking\nDislikes: Being hurried, violence
+3=Natsumi often hangs out with Mei, who she's good friends with despite Mei being younger and having a personality that's the polar opposite of Natsumi's.
+4=Natsumi's great at cooking, and spends most of her time practicing it while at home. As a result, she sometimes ends up leaving her house with kitchen knife still in hand, which combined with her angelic smile can make her look quite scary. However, she wouldn't hurt a fly.
+
+< LORE_ARTHUR >
+1=A cool middle-aged man, Arthur runs a toy store called 'Rbit Hobby Shop'. 
+2=Likes: Popular products, family\nDislikes: Scalping, Sweetened coffee
+3=Arthur has a young daughter named Nico who he dotes on in his own way.
+4=In a timeline that may or may not have happened, Arthur is the final boss of Xmas Shooting. To protest Santa taking away his sales at Christmas by giving away free presents, Arthur steals all the Christmas presents. Eventually the two parties talk it out, and Arthur helps Santa deliver the presents. Afterwards, Santa can also be found working part-time at his toy store.
+
+< LORE_NICO >
+1=Nico is a 12-year old girl who is a little selfish and innocent. She looks even younger than her age.
+2=Likes: Turkey meat, presents\nDislikes: Thunder and lightning, Christmas, mochi
+3=Nico helps her father Arthur out at the family toy store.
+4=In Xmas Shooting - Scramble!! she stole all the presents from Santa in order to help out the store which was in bad financial straits due to all the free Christmas present Santa was giving out. Eventually the two parties talk it out, and Nico helps Santa deliver the presents.
+
+< LORE_IRU >
+1=A 15-year old, energetic girl, Iru is one of the Shifu Brands, humans altered for fighting. 
+2=Likes: Most sports, heavy weapons, mecha, Korean BBQ\nDislikes: Seeing a doctor, being mistaken for a boy, bell peppers
+3=She was modified for combat against her will by Shifu, and made to fight Suguri in the skies of Earth. After losing to Suguri, Iru has been living an easy life. 
+4=Thanks to Iru's caring and kind personality, she's looked up to by kids younger than her.
+
+< LORE_MIRA >
+1=Mira is an altered human who fought in the great war. They eventually face off against, and are defeated by Sora.
+2=Likes: Sushi, superhero shows, dogs\nDislikes: Mushrooms
+3=When the highly skilled female soldier was injured beyond recovery, the army transferred their mind into the body of a braindead man with a similar combat style. 
+4=Despite having a woman's brain in a man's body, no one thought they were any different because they had always had a masculine personality. Their body is about 17 years old, while they're in their 20s on the inside.
+5=Mira aspires to be a hero, and that's why they wear their red scarf which to them is the symbol of one. They fight more like a ninja than a hero, though.
+
+< LORE_CUTIES >
+1=A cuteness-filled idol unit consisting of Sora and Sham following one possible string of events.
+2=Likes: Live concerts with spectators, loyal fans\nDislikes: Internet flaming
+3=After meeting Saki, Sham ascended to the next level of cuteness and forced Sora to form an idol group with her.
+4=Pulled along by the pushy Sham, Sora was hesitant about being an idol at first, but now enjoys being one and getting encouragement from all of their fans.

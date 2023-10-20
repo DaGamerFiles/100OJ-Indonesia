@@ -1,16 +1,26 @@
 < CARD_BOUNTY_TURNISLIME_HUNT >
 name=Turnislime
-descr=Turnislime akan membuatmu kena -1 ATK selama Battle.
+descr=Turnislime akan membuatmu kena -1 ATK selama Battle. Jika kamu punya 2 atau lebih ATK pada awal memulai battle, dapat -1 ATK lagi.
 flavor=
 
 < CARD_BOUNTY_TROLLITE_HUNT >
 name=Trollite
-descr=Setiap giliran dalam Battle, Trollite akan dapat -1 ATK.
+descr=Setiap giliran dalam Battle, Trollite mendapat -1 ATK.
 flavor=
 
 < CARD_BOUNTY_MOUSSE_HUNT >
 name=Mousse
 descr=Mousse akan mengambil Lvl x bintang setiap dia menyerangmu.
+flavor=
+
+< CARD_BOUNTY_STRANGEMOUSSE_HUNT >
+name=Key Lime Mousse
+descr=Key Lime Mousse akan mengambil Lvl x bintang setiap kali dia menyerangmu.
+flavor=
+
+< CARD_BOUNTY_POWERMOUSSE_HUNT >
+name=Strawberry Mousse
+descr=Strawberry Mousse akan mengambil Lvl x bintang setiap kali dia menyerangmu.
 flavor=
 
 < CARD_BOUNTY_DOLL_HUNT >
@@ -27,6 +37,30 @@ flavor=
 name=Bunnizard
 descr=Bunnizard dapat +1 ATK, DEF atau EVD secara acak setelah giliran Battle berlangsung.
 flavor=
+
+< CARD_BOUNTY_WOLLY_HUNT >
+name=Wolly
+descr=When damaged, Wolly takes 1 extra damage.
+
+< CARD_BOUNTY_TERRAWYRMER_HUNT >
+name=Terrawyrmer
+descr=If hit for more than 2 damage at once, Terrawyrmer gains +1 ATK, +1 DEF & -1 EVD until end of battle. This effect can stack.
+
+< CARD_BOUNTY_RUFFSHROOM_HUNT >
+name=Ruffshroom
+descr=When Ruffshroom is defeated, you gain 2 HP.
+
+< CARD_BOUNTY_GOST_HUNT >
+name=Göst
+descr=Göst gains +1 EVD for every positive point of ATK you have.
+
+< CARD_BOUNTY_EMERANGLER_HUNT >
+name=Emerangler
+descr=When Emerangler is damaged, it gains +1 ATK on next attack. When Emerangler damages you, it gains +1 DEF on next defense.
+
+< CARD_BOUNTY_GLOBBU_HUNT >
+name=Globbu
+descr=Every time Globbu damages you, gain -1 DEF until end of battle.
 
 < CARD_BOUNTY_GRASSINFIMARY_QUEST >
 name=
@@ -57,5 +91,85 @@ flavor=- Blacksmith
 name=
 descr=Tanduk Trollite yaitu bahan yang luar biasa untuk membuat senjata, tapi aku kehabisan itu. Mereka mengganti tanduk mereka setiap 3 hari sehingga harus ada beberapa yang berbaring di tempat persembunyian mereka.
 flavor=- Blacksmith
+
+< CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
+name=
+descr=I can transmute some food for you, but I need a lasting source of heat. Perhaps you could retrieve a Globbu? I've heard they love doing jobs like these.
+flavor=―Alchemist
+
+< CARD_BOUNTY_FORESTINFIRMARY_QUEST >
+name=
+descr=A dessert? I could try to prepare some if you bring me tree sap from the misty forests. I've heard it's very sweet.
+flavor=―Innkeeper
+
+< CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
+name=
+descr=We have run out of milk! Our bread requires fresh milk from Wollies on the mountain, please be quick about it!
+flavor=―Sky Baker
+
+< CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
+name=
+descr=The ghosts from the crimson forests around here have interesting properties. Could you please bring me a sample? I should be able to make something edible with it as well.
+flavor=―Alchemist
+
+< CARD_BOUNTY_DESERTARMORY_QUEST >
+name=
+descr=I'm getting thirsty... Some cacti from the desert should help quench this thirst. You can keep what's left over after I'm done drinking.
+flavor=―Blacksmith
+
+< CARD_BOUNTY_SLIMEBOMB_ITEM >
+name=Slimebomb
+descr=Throw a slimebomb on a panel around you (radius 3). All panels in 1 panel radius will be covered with Goo for 2 chapters.
+flavor="Pure goo in a bottle, ready to throw!" ―Alchemist
+
+< CARD_BOUNTY_TELEPORT_ITEM >
+name=Teleportation Potion
+descr=Teleport on any panel, then play your turn.
+flavor="One sip, and poof!" ―Alchemist
+
+< CARD_BOUNTY_LURE_ITEM >
+name=Lure
+descr=Throw a lure on a panel around you (radius 3). All panels around in 1 panel radius will turn into encounter panels for 3 chapters.
+flavor="The smell of this thing should be strong enough to attract most small fry around the place..." ―Alchemist
+
+< CARD_BOUNTY_SHOKUPAN_ITEM >
+name=Shokupan
+descr=Effect duration: 3 chapters\nHeal 1 HP every turn. The effect is removed upon getting KO'd, and cannot stack.
+flavor="No one can ever bake something better than this masterpiece." ―Star Baker
+
+< CARD_BOUNTY_SSR_SHOKUPAN_ITEM >
+name=Fluffy Shokupan
+descr=Heal 2 HP every turn until your next KO. The effect cannot stack.
+flavor="Fluffiness will conquer the world!" ―Sky Baker
+
+< CARD_BOUNTY_PUREWATER_ITEM >
+name=Holy Water
+descr=For this battle, gain 5 HP and +1 ATK, DEF, EVD.
+flavor="Fufufu, this pure water will cure your thirst, you have my word on it!" ―Innkeeper
+
+< CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
+name=Smoke of the Lost Memories
+descr=Forget your past mistakes and trigger a Bounty Battle. Can only be used on a panel with a discovered monster location. You must possess the bounty to start the battle. Your turn ends after playing this card.
+flavor="Don't let it run away!" ―Alchemist
+
+< CARD_BOUNTY_RADAR_ITEM >
+name=Adventurer's Radar
+descr=Effect Duration: 2 to 5 chapters\nAble to discern all monster locations for the duration of the effect.
+flavor="It will greatly ease your expedition... if it works long enough!" ―Armorer
+
+< CARD_HYPER_BOUNTY_ELLIE >
+name=Ellie's Miracle
+descr=★Cost: Level x10\nEffect Duration: 2 chapters. Gain +X ATK, +Y DEF, and +Z EVD, where X = Your total Norma completed, Y = your current Fame / 5, and Z = your current Stars / 50.
+flavor="Receive my miracle!" ―Ellie
+
+< CARD_BOUNTY_SCRAMBLED_EVE >
+name=Scrambled Eve
+descr=All players return their hand to the deck, and the deck is shuffled. After 3 chapters, all players draw as many cards as they discarded from this effect. Does not return bounties or quests.
+flavor="Wait! Give me back the presents!" ―Aru
+
+< CARD_HYPER_BOUNTY_COOK >
+name=Guidance of the Weathercock
+descr=Stock Effect.\nRoll 2 dice for everything except for battle. This effect ends when you stop on a Home panel.
+flavor="*Cheep cheep*! Cook wants to go this way." ―Cook
 
 [EOF]

@@ -40,140 +40,176 @@ artist=Yulay Devlet
 
 < PIN_FLYING_HIME >
 name=Hime Terbang
-desc=Diberikan kepada pemain yang menggunakan Hime berulang kali\nJangan meremehkan rantai-rantai Guardian.
+desc=Diberikan kepada pemain yang menggunakan Hime berulang kali.\nJangan meremehkan rantai-rantai Guardian.
 artist=Sora
 
 < PIN_FLYING_FERNET >
 name=Fernet Terbang
-desc=Diberikan kepada pemain yang menggunakan Fernet berulang kali\nNgeteh yuk?
+desc=Diberikan kepada pemain yang menggunakan Fernet berulang kali.\nNgeteh yuk?
 artist=Sora
 
 < PIN_FLYING_YUKI >
 name=Yuki Terbang
-desc=Diberikan kepada pemain yang menggunakan Yuki berulang kali\nWhat about gambling our lives away?
+desc=Diberikan kepada pemain yang menggunakan Yuki berulang kali.\nWhat about gambling our lives away?
 artist=Sora
 
 < PIN_FLYING_POPPO >
 name=Poppo Terbang
-desc=Diberikan kepada pemain yang menggunakan Poppo berulang kali\nBukti dari kesepuhan game.
+desc=Diberikan kepada pemain yang menggunakan Poppo berulang kali.\nBukti dari kesepuhan game.
 artist=Sora
 
 < PIN_FLYING_ARU >
 name=Aru Terbang
-desc=Diberikan kepada pemain yang menggunakan Aru berulang kali\nOn her way to deliver the presents!
+desc=Diberikan kepada pemain yang menggunakan Aru berulang kali.\nOn her way to deliver the presents!
 artist=Sora
 
 < PIN_FLYING_SORA >
 name=Sora Terbang
-desc=Diberikan kepada pemain yang menggunakan Sora berulang kali\nShe fought hard to see the blue sky again...
+desc=Diberikan kepada pemain yang menggunakan Sora berulang kali.\nShe fought hard to see the blue sky again...
 artist=Sora
 
 < PIN_FLYING_PEAT >
 name=Peat Terbang
-desc=Diberikan kepada pemain yang menggunakan Peat berulang kali\nPossibly still trying to defeat Red Barrel.
+desc=Diberikan kepada pemain yang menggunakan Peat berulang kali.\nPossibly still trying to defeat Red Barrel.
 artist=Sora
 
 < PIN_FLYING_TOMOMO >
 name=Tomomo Terbang
-desc=Diberikan kepada pemain yang menggunakan Tomomo berulang kali\nSungguh Magical.
+desc=Diberikan kepada pemain yang menggunakan Tomomo berulang kali.\nSungguh Magical.
 artist=Sora
 
 < PIN_FLYING_SYURA >
 name=Syura Terbang
-desc=Diberikan kepada pemain yang menggunakan Syura berulang kali\nShe can be Beyond Cute as well.
+desc=Diberikan kepada pemain yang menggunakan Syura berulang kali.\nShe can be Beyond Cute as well.
 artist=Sora
 
 < PIN_FLYING_NANAKO >
 name=Nanako Terbang
-desc=Diberikan kepada pemain yang menggunakan Nanako berulang kali\nJangan dipanggil pendek!
+desc=Diberikan kepada pemain yang menggunakan Nanako berulang kali.\nJangan dipanggil pendek!
 artist=Sora
 
 < PIN_FLYING_SAKI >
 name=Saki Terbang
-desc=Diberikan kepada pemain yang menggunakan Saki berulang kali\nMau kukis?
+desc=Diberikan kepada pemain yang menggunakan Saki berulang kali.\nMau kukis?
 artist=Sora
 
 < PIN_FLYING_KYOUSUKE >
 name=Kyousuke Terbang
-desc=Diberikan kepada pemain yang menggunakan Kyousuke berulang kali\nIn search of a special someone.
+desc=Diberikan kepada pemain yang menggunakan Kyousuke berulang kali.\nIn search of a special someone.
 artist=Sora
 
 < PIN_FLYING_KRILA >
 name=Krilalaris Terbang
-desc=Diberikan kepada pemain yang menggunakan Krilalaris berulang kali\nMenuju Darkness yang abadi.
+desc=Diberikan kepada pemain yang menggunakan Krilalaris berulang kali.\nMenuju Darkness yang abadi.
 artist=Sora
 
 < PIN_FLYING_KAE >
 name=Kae Terbang
-desc=Diberikan kepada pemain yang menggunakan Kae berulang kali\nSelalu punya Heat 300% di dek kartunya.
+desc=Diberikan kepada pemain yang menggunakan Kae berulang kali.\nSelalu punya Heat 300% di dek kartunya.
 artist=Sora
 
 < PIN_FLYING_ALTE >
 name=Alte Terbang
-desc=Diberikan kepada pemain yang menggunakan Alte berulang kali\nPin ini tak akan hancur sendiri saat dipakai.
+desc=Diberikan kepada pemain yang menggunakan Alte berulang kali.\nPin ini tak akan hancur sendiri saat dipakai.
 artist=Sora
 
 < PIN_FLYING_KYOKO >
 name=Kyoko Terbang
-desc=Diberikan kepada pemain yang menggunakan Kyoko berulang kali\nKeep it cool!
+desc=Diberikan kepada pemain yang menggunakan Kyoko berulang kali.\nKeep it cool!
 artist=Sora
 
 < PIN_FLYING_SHAM >
 name=Sham Terbang
-desc=Diberikan kepada pemain yang menggunakan Sham berulang kali\nOperator paling imut!
+desc=Diberikan kepada pemain yang menggunakan Sham berulang kali.\nOperator paling imut!
 artist=Sora
 
 < PIN_FLYING_SHERRY >
 name=Sherry Terbang
-desc=Diberikan kepada pemain yang menggunakan Sherry berulang kali\nTerbang bebas.
+desc=Diberikan kepada pemain yang menggunakan Sherry berulang kali.\nTerbang bebas.
 artist=Sora
 
 < PIN_FLYING_SWEETBREAKER >
 name=Sweet Breaker Terbang
-desc=Diberikan kepada pemain yang menggunakan Sweet Breaker berulang kali\nMemory melting in progress!
+desc=Diberikan kepada pemain yang menggunakan Sweet Breaker berulang kali.\nMemory melting in progress!
 artist=Sora
 
 < PIN_FLYING_STARBREAKER >
 name=Star Breaker Terbang
-desc=Diberikan kepada pemain yang menggunakan Star Breaker berulang kali\nBeware of explosions.
+desc=Diberikan kepada pemain yang menggunakan Star Breaker berulang kali.\nBeware of explosions.
 artist=Sora
 
 < PIN_FLYING_NATH >
 name=Nath Terbang
-desc=Diberikan kepada pemain yang menggunakan Nath berulang kali\nSantai dulu lah...
+desc=Diberikan kepada pemain yang menggunakan Nath berulang kali.\nSantai dulu lah...
 artist=Sora
 
 < PIN_FLYING_TOMATOMIMYUU >
 name=Tomato & Mimyuu Terbang
-desc=Diberikan kepada pemain yang menggunakan Tomato & Mimyuu berulang kali\nBocah nakal!
+desc=Diberikan kepada pemain yang menggunakan Tomato & Mimyuu berulang kali.\nBocah nakal!
 artist=Sora
 
 < PIN_FLYING_KIRIKO >
 name=Kiriko Terbang
-desc=Diberikan kepada pemain yang menggunakan Kiriko berulang kali\nIt's probably best to stay healthy.
+desc=Diberikan kepada pemain yang menggunakan Kiriko berulang kali.\nIt's probably best to stay healthy.
 artist=Sora
 
 < PIN_FLYING_NONAME >
 name=NoName Terbang
-desc=Diberikan kepada pemain yang menggunakan NoName berulang kali\nKepala harus tetap dingin!
+desc=Diberikan kepada pemain yang menggunakan NoName berulang kali.\nKepala harus tetap dingin!
 artist=Sora
 
 < PIN_FLYING_TEQUILA >
 name=Tequila Terbang
-desc=Diberikan kepada pemain yang menggunakan Tequila berulang kali\nBajak laut yang sesungguhnya!
+desc=Diberikan kepada pemain yang menggunakan Tequila berulang kali.\nBajak laut yang sesungguhnya!
 artist=Sora
 
 < PIN_FLYING_TSIH >
 name=Tsih Terbang
-desc=Diberikan kepada pemain yang menggunakan Tsih berulang kali\nTetap waspada akan Tsih!
+desc=Diberikan kepada pemain yang menggunakan Tsih berulang kali.\nTetap waspada akan Tsih!
 artist=Sora
 
 < PIN_FLYING_MIUSAKI >
 name=Miusaki Terbang
-desc=Diberikan kepada pemain yang menggunakan Miusaki berulang kali\nPin ini tidak dapat dihancurkan.
+desc=Diberikan kepada pemain yang menggunakan Miusaki berulang kali.\nPin ini tidak dapat dihancurkan.
 artist=Sora
 
 < PIN_FLYING_REPA >
 name=Ceoreparque Terbang
-desc=Diberikan kepada pemain yang menggunakan Ceoreparque berulang kali\nHati-hati terhadap rambutnya!
+desc=Diberikan kepada pemain yang menggunakan Ceoreparque berulang kali.\nHati-hati terhadap rambutnya!
 artist=Sora
+
+< PIN_IDLE_MEI >
+name=Mei Diam
+desc=Diberikan kepada pemain yang menggunakan Mei berulang kali.\nLet's get rowdy!
+artist=Sora
+
+< PIN_IDLE_NATSUMI >
+name=Natsumi Diam
+desc=Diberikan kepada pemain yang menggunakan Natsumi berulang kali.\nWould you like to come over for dinner?
+artist=Sora
+
+< PIN_IDLE_ARTHUR >
+name=Arthur Diam
+desc=Diberikan kepada pemain yang menggunakan Arthur berulang kali.\nThanks for your patronage!
+artist=Sora
+
+< PIN_IDLE_NICO >
+name=Nico Diam
+desc=Diberikan kepada pemain yang menggunakan Nico berulang kali.\nShe will always try her best!
+artist=Sora
+
+< PIN_IDLE_CUTIES >
+name=Cuties Diam
+desc=Diberikan kepada pemain yang menggunakan Cuties berulang kali.\nA career on the stage awaits!
+artist=Sora
+
+< PIN_FLYING_IRU >
+name=Iru Terbang
+desc=Diberikan kepada pemain yang menggunakan Iru berulang kali.\nHow about some exercise?
+artist=Sora
+
+< PIN_FLYING_MIRA >
+name=Mira Terbang
+desc=Diberikan kepada pemain yang menggunakan Mira berulang kali.\nThis pin is the mark of a hero.
+artist=Sora
+

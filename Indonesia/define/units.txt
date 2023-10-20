@@ -431,6 +431,10 @@ descr=Gain Lvl x 1 additional stars upon defeating units from Encounter panels.
 name=The Harbinger
 descr=Cannot be damaged or KO'd outside of battle. Challenge other units when passing by them. If the opponent is defeated in battle, steal 1 fame, gain a stack of Soul Eater and heal 1 HP if not Awakened. Give 2 fame + stolen fame when KO'd.
 
+< CARD_UNIT_EVILMOUSSE >
+name=Dark Chocolate Mousse
+descr=Cannot be damaged or KO'd outside of battle. If the opponent is defeated in battle, steal 1 fame, gain a stack of Star Eater and heal 1 HP if not Awakened. Give 2 fame + stolen fame when KO'd. After battle, warp to a random panel.
+
 < CARD_UNIT_FAE >
 name=Aurora
 descr=+1 MOV. Cannot challenge other players. Heal the summoner by 1 HP, or revive them with half HP every even-numbered chapters.
@@ -550,5 +554,13 @@ descr=Tidak dapat menggunakan Evade saat bertempur. If you would suffer 1 damage
 < CARD_UNIT_MIMYUUJAILBIRD >
 name=Mimyuu (Jailbird)
 descr=When KO’d in battle, pindah ke panel Rumahmu.
+
+< CARD_UNIT_MOTHERP >
+name=Mother Poppo
+descr=When warping, take 1 damage. If active after warping, draw a card and gain Lvl x1 stars.
+
+< CARD_UNIT_DARKL >
+name=Dark Lulu
+descr=Lose your Lvl x2 stars when declining a challenge.
 
 [EOF]

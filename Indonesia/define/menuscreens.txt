@@ -38,7 +38,7 @@ SIAP
 MULAI
 
 < MENU_BUTTON_RETRY >
-LANJUTKAN
+ULANG
 
 < MENU_BUTTON_NEXT >
 MAJU
@@ -58,6 +58,8 @@ TIDAK
 < MENU_BUTTON_STORY >
 CERITA
 
+< MENU_BUTTON_SKIPALL >
+LEWATI SEMUA
 
 < MENU_BUTTON_REFRESH >
 SEGARKAN
@@ -78,16 +80,16 @@ GABUNG
 INTIP
 
 < MENU_BUTTON_DIFFICULTY_CASUAL >
-CASUAL
+KASUAL
 
 < MENU_BUTTON_DIFFICULTY_NORMAL >
 NORMAL
 
 < MENU_BUTTON_DIFFICULTY_ORIGINAL >
-ORIGINAL
+ASLI
 
 < MENU_BUTTON_DIFFICULTY_EXTREME >
-EXTREME
+EKSTREM
 
 
 < MENU_BUTTON_LOBBYLIST_LOBBYNAME >
@@ -121,10 +123,10 @@ Bounty Hunt
 Fish-a-Fish
 
 < MENU_ON >
-Aktif
+Hidup
 
 < MENU_OFF >
-Nonaktif
+Mati
 
 
 < MENU_LOBBYSETTING_EVENT >
@@ -155,10 +157,10 @@ Chaos Mutator
 KEMBALI
 
 < MENU_BUTTON_GAME_CONFIG >
-ATUR
+SUNTING
 
 < MENU_BUTTON_GAME_RETIRE >
-MUNDUR
+KELUAR
 
 
 < MENU_BUTTON_GAME_MOVE >
@@ -174,7 +176,7 @@ INFO
 LINDUNGI
 
 < MENU_BUTTON_GAME_GIFT >
-HADIAH
+BERI
 
 < MENU_BUTTON_GAME_THROW >
 LEMPAR
@@ -210,7 +212,7 @@ BERLINDUNG
 MEGNHINDAR
 
 < MENU_BUTTON_GAME_FIGHT >
-BERTARUNG
+LAWAN
 
 < MENU_BUTTON_GAME_END >
 SELESAI
@@ -225,7 +227,7 @@ JUAL KARTU
 BOM
 
 < MENU_BUTTON_GAME_DASH >
-HINDAR
+BERLARI
 
 < MENU_BUTTON_GAME_EAT >
 MAKAN
@@ -788,16 +790,16 @@ Moreover, a mysterious Harbinger may appear after chapter 15 and begin to hunt t
 Cook has been fed and the journey is beginning! But you can still keep playing Bounty Hunt to unlock bonus event rewards on your way.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_MAIN >
-Let's enjoy Mio's coaching and learn to swim! A new Co-op boss, the Swimming Coach, is now available!
+Mari nikmati latihan dari Mio serta bagaimana caranya berenang! Boss Co-op baru, Swimming Coach, sekarang tersedia!
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
-All the damage you deal to Swimming Coach advances the event for everyone.
+Semua damage yang diberikan ke Swimming Coach masuk dalam kemajuan event untuk semua orang.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
-You can also fight any other Co-op boss to contribute to the event.
+Kamu juga bisa melawan boss Co-op lainnya untuk berkontribusi dalam event.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
-The event has been cleared, and Tomomo has learned to swim! You can still take more training sessions with the Swimming Coach, though.
+Event telah diselesaikan, dan Tomomo sekarang bisa berenang! Kamu masih bisa berlatih renang dengan Swimming Coach.
 
 < PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_MAIN >
 It's time to scramble for decorations to trick out the house!
@@ -888,6 +890,30 @@ To unlock the event's ending, you must reach your personal goal of event games p
 
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
 A new cake trend is here! Everyone can enjoy Mio's fashionable creations around the world! You can still keep searching for more cakes if you haven't had your fill. 
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_MAIN >
+We're surrounded! Help Ellie and Lulu fight off hordes of aggressive Mousse to get your hands on the promised treasure!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_01 >
+Play games in the Treasure Tails event mode or Bounty Hunt mode to fight Mousse!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_02 >
+Treasure Tails is an adjusted version of Bounty Hunt game mode with several key differences including lower Norma, 50% cheaper shop prices, and extra +1 hand size.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_03 >
+The 3 Bounties available are always Mousse (easy), Key Lime Mousse (medium) and Strawberry Mousse (hard).\nDefeat any of them to progress in the event!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_04 >
+In addition, completing a Quest will trigger a bounty fight against a 2 HP Mousse instead of granting 2 fame immediately. 
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
+Finally, a new invader, Dark Chocolate Mousse, will doom players' stars instead of their lives...\nDefeating Dark Chocolate Mousse grants 3 points of progress in the event.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
+What are the Mousse guarding, and why...?
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
+You have found the "treasure" Ellie was seeking for... but what is going on now?
 
 < PLAYMENU_EVENT_NEXT_GOAL >
 Tujuan berikitnya:

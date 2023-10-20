@@ -1,31 +1,31 @@
 ﻿< CARD_BOOST_COOP_GENTLEMANSBATTLE >
 name=Gentleman's Battle
-descr=Choose an enemy with full HP and battle them. Your turn ends after the battle.
-flavor="Take this!" ―Guildmaster
+descr=Pilih lawan dengan HP penuh dan ajak bertempur. Giliranmu berakhir setelah pertempuran usai.
+flavor="Ambil ini!" ―Guildmaster
 
 < CARD_BOOST_COOP_AMBUSH >
 name=Ambush
-descr=Engage in battle with another enemy or enemies on your panel. Once these battles are over, your turn is over.
+descr=Bertempur dengan lawan lain di panel yang sama. Setelah pertempuran usai, giliranmu berakhir.
 flavor="Owwwww!!" ―Sham
 
 < CARD_EVENT_COOP_DINNER >
 name=Dinner
-descr=Heals all players for 3 HP.
+descr=Menyembuhkan semua pemain sebanyak 3 HP.
 flavor="Let's have supper together." ―Natsumi
 
 < CARD_BATTLE_COOP_SINKORSWIM >
 name=Sink or Swim
-descr=Gain -1 ATK, -1 DEF and -1 EVD. Gain +10 stars and +1 Win if you win the battle.
+descr=Dapat -1 ATK, -1 DEF dan -1 EVD. Gain +10 stars and +1 Win if you win the battle.
 flavor="Alright, it's time to play the long odds!" ―Yuki
 
 < CARD_EVENT_COOP_UNPAIDWORK >
 name=Unpaid Work
-descr=Effect Duration: 1 Chapter.\nWhile in effect, players cannot be forced to lose stars.
+descr=Waktu Efek: 1 Chapter.\nWhile in effect, players cannot be forced to lose stars.
 flavor="Where's my payment!" ―Chris
 
 < CARD_EVENT_COOP_INDISCRIMINATEFIRESUPPORT >
 name=Indiscriminate Fire Support
-descr=Effect Duration: Infinite.\nA random unit will be targeted and take 1 damage. At the start of your turn, repeat this effect. The effect ends when a unit suffers KO.\nAllies will not take damage from this effect.
+descr=Waktu Efek: Tak Hingga.\nUnit secara acak akan dibidik dan menerima 1 damage. At the start of your turn, repeat this effect. The effect ends when a unit suffers KO.\nAllies will not take damage from this effect.
 flavor="......" ―Sora
 
 < CARD_BATTLE_COOP_DECEPTIVEDISARMING >
@@ -36,7 +36,7 @@ flavor="The train's full of dangerous stuff?!" ―Tomato
 < CARD_EVENT_COOP_PETSNACKS >
 name=Pet Snacks
 descr=Boss and all active minions gain -1 ATK in their next battle. This effect can stack.
-flavor="Guys, it's snack time! Come eat!" ―Syura
+flavor="Guys, it's snack time! Ayo makan!" ―Syura
 
 < CARD_BOOST_COOP_FREIGHT >
 name=Freight
@@ -51,7 +51,7 @@ flavor="I'm sorry... I can't make it back..." ―Alte
 < CARD_HYPER_COOP_ARU >
 name=Present for You
 descr=All players draw cards until they have a full hand. Those with full hand draw 1 card instead.
-flavor="Presents for good boys and girls." ―Aru
+flavor="Hadiah untuk anak-anak baik." ―Aru
 
 < CARD_HYPER_COOP_ARTHUR2 >
 name=Rbit Hobby Shop
@@ -66,12 +66,12 @@ flavor="Children of the world, we are coming for you!" ―Aru
 < CARD_HYPER_COOP_CHICKEN >
 name=Golden Egg
 descr=Gain Level x 10 stars.
-flavor="Cluuuuck!" ―Chicken
+flavor="Petokkkkk!" ―Chicken
 
 < CARD_HYPER_COOP_FERNET >
 name=Air Strike
 descr=Every enemy receives 1 to 2 damage. Gain 15 stars on every KO.
-flavor="Hmph, go down, all of you." ―Fernet
+flavor="Hmph, enyahlah, kalian semua." ―Fernet
 
 < CARD_HYPER_COOP_HIME >
 name=Binding Chains

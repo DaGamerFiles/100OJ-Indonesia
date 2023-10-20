@@ -317,21 +317,21 @@ flavor="Tidak ada hukum yang melarang bajak laut terbang di langit." ―Tequila
 < CARD_HYPER_TEQUILA2 >
 name=Flying Pirate
 descr=Petarung bawahan dipanggil oleh siapapun yang memakai kartu ini. Musuh akan menyerang lebih dulu. Tidak ada efek pada pemain yang memakai kartu ini.
-flavor="Kapten!" ―Pasukan bajak laut
+flavor="Kapten!" ―Pasukan Bajak Laut
 
 < CARD_HYPER_MEI >
 name=White Christsmasher
-descr=Memberi 2 Damage pada pemain dalam 1 panel yang sama.\nSaat pemain telah KO, dapat 2 win dan bintang Lvl x5 berdasarkan pemain yang KO.\nKalau memegang "Red & Blue", kartu ini berubah menjadi "True White Christsmasher".
+descr=Buang kartumu saat ini dan memberikan 2 Damage pada pemain dalam 1 panel dari tempatmu.\nSetiap pemain yang KO, dapat 2 win dan bintang Lvl x5.\nJika memegang "Red & Blue", kartu ini berubah menjadi "True White Christsmasher".
 flavor="White Christsmasher!" ―Mei
 
 < CARD_HYPER_MEITRUE >
 name=True White Christsmasher
-descr=Memberi 4 Damage pada pemain dalam 1 panel yang sama.\nSaat pemain telah KO, dapat 2 win dan bintang Lvl x10 berdasarkan pemain yang KO.\nKalau tidak memegang "Red & Blue", kartu ini berubah menjadi "White Christsmasher".
+descr=Memberikan 4 Damage pada pemain dalam 2 panel daritempatmu.\nSetiap pemain yang KO, dapat 2 win dan bintang Lvl x10.\nJika tidak memegang "Red & Blue", kartu ini berubah menjadi "White Christsmasher".
 flavor="White Christsmasher!" ―Mei, Red & Blue
 
 < CARD_GIFT_REDBLUE >
 name=Red & Blue
-descr=Saat memegang kartu ini, dapatkan +1 ATK, DEF, dan EVD dalam Battle.\nSaat kartu dibuang atau KO, kartu ini akan disingkirkan.
+descr=Saat memegang kartu ini, dapatkan +1 ATK, DEF, dan EVD dalam Battle.\nSaat kartu dibuang atau KO, kartu ini akan disingkirkan dari permainan.
 flavor="Kita tidak bisa melakukan ini lagi!" ―Red & Blue
 
 < CARD_HYPER_NATSUMI >
@@ -341,12 +341,12 @@ flavor="Saatnya makan!" ―Natsumi
 
 < CARD_HYPER_NICO >
 name=Miracle Walker
-descr=★Biaya: Kartu akan berubah x 5\nMerubah semua kartu, termasuk kartu ini, menjadi kartu Hyper secara acak.\nKamu dapat memainkan satu kartu lagi pada giliran ini.
+descr=Merubah semua kartumu, termasuk kartu ini, menjadi kartu Hyper secara acak.\nKamu dapat menggunakan kartu sekali lagi pada giliran ini.
 flavor="Hore! Nico akan mencoba yang terbaik!" ―Nico
 
 < CARD_HYPER_ARTHUR >
 name=Branch Expansion Strategy
-descr=★Biaya: Jumlah kartu x5 yang dimiliki\nMerubah semua kartu, termasuk kartu ini, ke "Rbit Hobby Shop."\nKamu dapat memainkan satu kartu lagi pada giliran ini.
+descr=★Biaya: Jumlah kartu x5 yang dimiliki\nMerubah semua kartu, termasuk kartu ini, menjadi "Rbit Hobby Shop."\nKamu dapat menggunakan kartu sekali lagi pada giliran ini.
 flavor="Phaaw..." ―Arthur
 
 < CARD_HYPER_ARTHUR2 >
@@ -411,7 +411,7 @@ flavor="Gadis-gadis sedang melompati langit...?"
 
 < CARD_TRAP_POPPOTRANSFORMATION >
 name=Poppoformation
-descr=Efek Stock (1). ATK, DEF dan EVD menjadi -1 saat Battle berikutnya.
+descr=Efek Stock (1). ATK, DEF dan EVD menjadi -1 saat battle berikutnya.
 flavor="Poppo! Poppopopo!!!" ―Semua orang
 
 < CARD_GIFT_POPPOTHESNATCHER >
@@ -422,17 +422,17 @@ flavor="Pokyakya!!" ―Poppo
 < CARD_GIFT_BLOODLUST >
 name=Bloodlust
 descr=Hilang 1 HP di awal giliran. Sembuhkan 1 HP untuk setiap Damage yang diterima. Tidak ada Norma sambil memegang kartu ini. Kartu ini dibuang saat KO atau dipakai.
-flavor="Kekuatan sebenarnya dari binatang buasku ... Aku ingin tahu apakah seperti ini." ―Krila
+flavor="Kekuatan sebenarnya dari binatang buasku... Aku ingin tahu apakah seperti ini." ―Krila
 
 < CARD_BATTLE_SINKORSWIM >
 name=Sink or Swim
-descr=Dapat -1 ATK, -1 DEF dan -1 EVD. Jika kamu memenangkan Battle ini, ambil 50% lebih banyak dari bintang lawan.
+descr=Dapat -1 ATK, -1 DEF dan -1 EVD. Jika kamu memenangkan battle ini, ambil 50% lebih banyak dari bintang lawan.
 flavor="Oke, saatnya bermain kesempatan peluang!" ―Yuki
 
 < CARD_BATTLE_SERIOUSBATTLE >
 name=Serious Battle
 descr=Saat Battle, ATK, DEF dan EVD dari kedua unit akan menjadi 0.
-flavor="Battle ini akan menjadi ujian kekuatan sejati!" ―Tomomo
+flavor="Pertarungan ini akan menjadi ujian kekuatan sejati!" ―Tomomo
 
 < CARD_BATTLE_PORTABLEPUDDING >
 name=Portable Pudding
@@ -451,7 +451,7 @@ flavor="Ini yang kamu minta." ―Captain Tequila\n"Kerja bagus! Aku tau aku bisa
 
 < CARD_EVENT_SERENEHUSH >
 name=Serene Hush
-descr=Durasi Efek: 1 Chapter.\nTidak ada Battle yang terjadi.
+descr=Durasi Efek: 1 Chapter.\nTidak ada battle yang terjadi.
 flavor="Kita tidak ada hubungannya..." ―Sumika\n"Mari kita nikmati kedamaian dan ketenangan." ―Suguri
 
 < CARD_EVENT_UNPAIDWORK >
@@ -679,25 +679,35 @@ name=Christmas Inferno
 descr=Lower your HP to 1. Deal damage to all other players equal to the HP you lost. Gain a Mio's Christmas Cake card for each player KO'd by this effect.
 flavor="I'll show you all hell." ―Mio
 
-< CARD_MINIGAME_TURNSKIP >
-name=Poppo Stop
-descr=
-flavor=
+< CARD_BOOST_XMASCAKE >
+name=Mio's Christmas Cake
+descr=Choose one of the following:\n- Eat to gain 1 HP.\n- Share with target player to heal them 2 HP, then you heal the same amount.
+flavor="I'm very proud of this cake that I made. Enjoy ♡" ―Mio
 
-< CARD_MINIGAME_REVERSEMOVEMENT >
-name=Poppo Reverse
-descr=
-flavor=
+< CARD_HYPER_KRILAPAJAMA1 >
+name=Threats to My Slumber
+descr=When you cancel exactly 1 damage in battle while holding this card, gain a stock of Waking. (Max 4. Does not stack.)\nTransform to When My Slumber Breaks upon use.
+flavor="I suggest you keep quiet for your own safety..." ―Krilalaris
 
-< CARD_MINIGAME_DOUBLEDICE >
-name=Poppo Dice
-descr=
-flavor=
+< CARD_HYPER_KRILAPAJAMA2 >
+name=When My Slumber Breaks
+descr=Deal X+1 damage to all other players and the Boss, where X is your Waking count. Remove all Waking stocks. Gain 1 HP for every 2 Waking stock removed.
+flavor="The time is about to come for me to say good morning..." ―Krilalaris
 
-< CARD_MINIGAME_FROSTWALKER >
-name=Poppo Frostwalker
-descr=
-flavor=
+< CARD_HYPER_MIMYUUJAILBIRD >
+name=Make-Believe Prison Break
+descr=Move to your Home panel without activating it. Cannot be challenged or be the target of other players' Boost cards. Immune to Trap cards, instant KO effects, and card damage from other players. Roll 2 dice for movement. Effect ends after traversing 20 panels.
+flavor="Pitter-patter, pitter-patter!" ―Mimyuu
+
+< CARD_HYPER_MOTHERP >
+name=Mother Power
+descr=★Cost: Level x2.\nEffect Duration: Player level.\nGain Lvl x1 stars for every point of damage you take. If the effect ends or is replaced while active, heal all damage taken during the effect.\nEffect ends on KO.
+flavor="This is mother's love, poppo." ―Mother Poppo
+
+< CARD_HYPER_DARKL >
+name=Lulu is an Unlucky Dragon
+descr=Can only be played with 2 HP or less. Trigger one of the following effects at random:\n-Roll a die. All other players lose the die number x (their Lvl) x2 stars.\n-All other players discard a card at random.\n-All other players' HP is lowered to 2.
+flavor="Lulu is... an unlucky dragon..." ―Dark Lulu
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun
@@ -721,7 +731,7 @@ flavor="Mimyuu! Siapa yang melakukan ini padamu..." ―Tomato
 
 < CARD_SUMMER2018_PROTECT >
 name=Protect
-descr=
+descr=Protected by a shield absorbing up to 2 damage.
 flavor=
 
 < CARD_XMAS2018_GROWNUPSNOWBALLFIGHT >
