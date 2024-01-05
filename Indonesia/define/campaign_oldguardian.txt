@@ -5,10 +5,10 @@
 <0000> Let us know when you get a fun game like that one again!
 
 // (ceoreparque)
-<0001> We'll bring Rone next time. Adios.
+<0001> Aku akan kembali di lain kesempatan Rone. Adios.
 
 // (forestwitch)
-<0002> Goodbye.
+<0002> Selamat tinggal.
 
 // (suguri46b)
 <0003> Phew, it's suddenly quiet again.
@@ -20,7 +20,7 @@
 <0005> I was in the mood for pudding, so it wasn't that big a deal.
 
 // (sumika)
-<0006> Are you sure that's it...?\nYou looked so happy when you were cooking.
+<0006> Apa kamu yakin soal ini...?\nKamu sepertinya senang ketika sedang memasak.
 
 // (sumika)
 <0007> Also, you looked nervous when they were having the sweets.\nSumika could tell from your face that inside you were like, "Did it turn out well?" and "What if they don't like it?".
@@ -35,19 +35,19 @@
 <0010> Muu...
 
 // (suguri46b)
-<0011> By the way, Sumika.
+<0011> Ngomong-ngomong, Sumika
 
 // (sumika)
-<0012> What is it?
+<0012> Itu apaan?
 
 // (suguri46b)
-<0013> This game they returned to me...\nYou wanna play it with me?
+<0013> Ini gim yang mereka kembalikan ke aku...\nKamu mau main denganku?
 
 // (sumika)
 <0014> Oh, sure.\nSeeing those girls enjoying it so much made you want to play it too for the first time in ages, didn't it!
 
 // (suguri46b)
-<0015> Don't read my mind...
+<0015> Jangan baca pikiranku...
 
 // (sumika)
 <0016> So, what will the winner get?
