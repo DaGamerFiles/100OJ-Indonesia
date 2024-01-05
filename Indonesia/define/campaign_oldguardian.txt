@@ -61,7 +61,7 @@
 // ========= Scene: Stage 2 =========
 
 // (sumika)
-<0019> Okay, that's how you play, huh...
+<0019> Oke, bagaimana kau memainkannya, hah...
 
 // (suguri46b)
 <0020> Fufufu, now, what are you going to do?
@@ -76,7 +76,7 @@
 <0023> Dang it. You're even humming!\nAre you aware you get visibly happy as soon as you know you're winning?
 
 // (suguri46b)
-<0024> Because it's fun.
+<0024> Ini sangat menyenangkan
 
 // (sumika)
 <0025> That's one thing Sumika Kesukaan about you.
@@ -308,7 +308,7 @@
 <0097> *sip* *sigh* Hot tea is so good.
 
 // (suguri46b)
-<0098> You sound like a grandma.
+<0098> Suaramu itu mirip nenekku.
 
 // (sumika)
 <0099> Would you shut your mouth!\nYou often act like quite the grandma as well, Suguri.
@@ -338,7 +338,7 @@
 <0107> What are you, a kid going through puberty?
 
 // (suguri46b)
-<0108> As you can see, I'm just a girl too.
+<0108> Seperti yang kau lihat, Aku ini juga seorang gadis.
 
 // (sumika)
 <0109> You're not taking this conversation seriously, are you?
@@ -487,7 +487,7 @@
 <0154> Here, we brought you a gift: wild vegetables we collected.
 
 // (puyopuyomascot)
-<0155> Wow! Thank you so much!
+<0155> Wow! Terima kasih banyak!
 
 // (suguri46b)
 <0156> Okay then, let's start over so all four of us can play.
