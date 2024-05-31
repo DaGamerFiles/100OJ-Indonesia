@@ -38,7 +38,7 @@
 <0011> Ngomong-ngomong, Sumika
 
 // (sumika)
-<0012> Itu apaan?
+<0012> Ada apa?
 
 // (suguri46b)
 <0013> Ini gim yang mereka kembalikan ke aku...\nKamu mau main denganku?
@@ -56,12 +56,12 @@
 <0017> As a matter of fact, we have one pudding left here.
 
 // (sumika)
-<0018> Very well!\nAlright, Suguri, you're on!
+<0018> Baiklah!\nBaiklah, Suguri, Tentu aku siap!
 
 // ========= Scene: Stage 2 =========
 
 // (sumika)
-<0019> Oke, bagaimana kau memainkannya, hah...
+<0019> Oke, itu cara bermainmu ya...
 
 // (suguri46b)
 <0020> Fufufu, now, what are you going to do?
