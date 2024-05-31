@@ -32,7 +32,7 @@ flavor="Perisai, kembalikan!" ―Sora
 < CARD_BATTLE_RETREAT >
 name=Tactical Retreat
 descr=★Biaya: Level x5\nAkhiri Battle. Penyerang dapat biaya kartu ini. Hanya bisa dipakai oleh pemain defender. Kalau musuh memakai kartu Battle, efek ini tidak berlaku.  
-flavor="Pamit!" ―Tomato
+flavor="Izin Off!" ―Tomato
 
 < CARD_TRAP_PIYOPIYO >
 name=Piyopiyo Procession
@@ -56,7 +56,7 @@ flavor="Tentu saja kamu akan membelinya. Kamu akan membelinya, ya kan ?" ―Merc
 
 < CARD_BATTLE_ACCELHYPER >
 name=Accel Hyper
-descr=Roll dua dadu untuk menyerang.
+descr=Lempar dua dadu untuk menyerang.
 flavor="Biaya tak terbatas!" ―Sora
 
 < CARD_TRAP_BRUTALPRANK >
@@ -317,21 +317,21 @@ flavor="Tidak ada hukum yang melarang bajak laut terbang di langit." ―Tequila
 < CARD_HYPER_TEQUILA2 >
 name=Flying Pirate
 descr=Petarung bawahan dipanggil oleh siapapun yang memakai kartu ini. Musuh akan menyerang lebih dulu. Tidak ada efek pada pemain yang memakai kartu ini.
-flavor="Kapten!" ―Pasukan bajak laut
+flavor="Kapten!" ―Pasukan Bajak Laut
 
 < CARD_HYPER_MEI >
 name=White Christsmasher
-descr=Memberi 2 Damage pada pemain dalam 1 panel yang sama.\nSaat pemain telah KO, dapat 2 win dan bintang Lvl x5 berdasarkan pemain yang KO.\nKalau memegang "Red & Blue", kartu ini berubah menjadi "True White Christsmasher".
+descr=Buang kartumu saat ini dan memberikan 2 Damage pada pemain dalam 1 panel dari tempatmu.\nSetiap pemain yang KO, dapat 2 win dan bintang Lvl x5.\nJika memegang "Red & Blue", kartu ini berubah menjadi "True White Christsmasher".
 flavor="White Christsmasher!" ―Mei
 
 < CARD_HYPER_MEITRUE >
 name=True White Christsmasher
-descr=Memberi 4 Damage pada pemain dalam 1 panel yang sama.\nSaat pemain telah KO, dapat 2 win dan bintang Lvl x10 berdasarkan pemain yang KO.\nKalau tidak memegang "Red & Blue", kartu ini berubah menjadi "White Christsmasher".
+descr=Memberikan 4 Damage pada pemain dalam 2 panel daritempatmu.\nSetiap pemain yang KO, dapat 2 win dan bintang Lvl x10.\nJika tidak memegang "Red & Blue", kartu ini berubah menjadi "White Christsmasher".
 flavor="White Christsmasher!" ―Mei, Red & Blue
 
 < CARD_GIFT_REDBLUE >
 name=Red & Blue
-descr=Saat memegang kartu ini, dapatkan +1 ATK, DEF, dan EVD dalam Battle.\nSaat kartu dibuang atau KO, kartu ini akan disingkirkan.
+descr=Saat memegang kartu ini, dapatkan +1 ATK, DEF, dan EVD dalam Battle.\nSaat kartu dibuang atau KO, kartu ini akan disingkirkan dari permainan.
 flavor="Kita tidak bisa melakukan ini lagi!" ―Red & Blue
 
 < CARD_HYPER_NATSUMI >
@@ -341,12 +341,12 @@ flavor="Saatnya makan!" ―Natsumi
 
 < CARD_HYPER_NICO >
 name=Miracle Walker
-descr=★Biaya: Kartu akan berubah x 5\nMerubah semua kartu, termasuk kartu ini, menjadi kartu Hyper secara acak.\nKamu dapat memainkan satu kartu lagi pada giliran ini.
+descr=Merubah semua kartumu, termasuk kartu ini, menjadi kartu Hyper secara acak.\nKamu dapat menggunakan kartu sekali lagi pada giliran ini.
 flavor="Hore! Nico akan mencoba yang terbaik!" ―Nico
 
 < CARD_HYPER_ARTHUR >
 name=Branch Expansion Strategy
-descr=★Biaya: Jumlah kartu x5 yang dimiliki\nMerubah semua kartu, termasuk kartu ini, ke "Rbit Hobby Shop."\nKamu dapat memainkan satu kartu lagi pada giliran ini.
+descr=★Biaya: Jumlah kartu x5 yang dimiliki\nMerubah semua kartu, termasuk kartu ini, menjadi "Rbit Hobby Shop."\nKamu dapat menggunakan kartu sekali lagi pada giliran ini.
 flavor="Phaaw..." ―Arthur
 
 < CARD_HYPER_ARTHUR2 >
@@ -411,7 +411,7 @@ flavor="Gadis-gadis sedang melompati langit...?"
 
 < CARD_TRAP_POPPOTRANSFORMATION >
 name=Poppoformation
-descr=Efek Stock (1). ATK, DEF dan EVD menjadi -1 saat Battle berikutnya.
+descr=Efek Stock (1). ATK, DEF dan EVD menjadi -1 saat battle berikutnya.
 flavor="Poppo! Poppopopo!!!" ―Semua orang
 
 < CARD_GIFT_POPPOTHESNATCHER >
@@ -422,17 +422,17 @@ flavor="Pokyakya!!" ―Poppo
 < CARD_GIFT_BLOODLUST >
 name=Bloodlust
 descr=Hilang 1 HP di awal giliran. Sembuhkan 1 HP untuk setiap Damage yang diterima. Tidak ada Norma sambil memegang kartu ini. Kartu ini dibuang saat KO atau dipakai.
-flavor="Kekuatan sebenarnya dari binatang buasku ... Aku ingin tahu apakah seperti ini." ―Krila
+flavor="Kekuatan sebenarnya dari binatang buasku... Aku ingin tahu apakah seperti ini." ―Krila
 
 < CARD_BATTLE_SINKORSWIM >
 name=Sink or Swim
-descr=Dapat -1 ATK, -1 DEF dan -1 EVD. Jika kamu memenangkan Battle ini, ambil 50% lebih banyak dari bintang lawan.
+descr=Dapat -1 ATK, -1 DEF dan -1 EVD. Jika kamu memenangkan battle ini, ambil 50% lebih banyak dari bintang lawan.
 flavor="Oke, saatnya bermain kesempatan peluang!" ―Yuki
 
 < CARD_BATTLE_SERIOUSBATTLE >
 name=Serious Battle
 descr=Saat Battle, ATK, DEF dan EVD dari kedua unit akan menjadi 0.
-flavor="Battle ini akan menjadi ujian kekuatan sejati!" ―Tomomo
+flavor="Pertarungan ini akan menjadi ujian kekuatan sejati!" ―Tomomo
 
 < CARD_BATTLE_PORTABLEPUDDING >
 name=Portable Pudding
@@ -451,7 +451,7 @@ flavor="Ini yang kamu minta." ―Captain Tequila\n"Kerja bagus! Aku tau aku bisa
 
 < CARD_EVENT_SERENEHUSH >
 name=Serene Hush
-descr=Durasi Efek: 1 Chapter.\nTidak ada Battle yang terjadi.
+descr=Durasi Efek: 1 Chapter.\nTidak ada battle yang terjadi.
 flavor="Kita tidak ada hubungannya..." ―Sumika\n"Mari kita nikmati kedamaian dan ketenangan." ―Suguri
 
 < CARD_EVENT_UNPAIDWORK >
@@ -484,6 +484,36 @@ name=Encore
 descr=Original: Saat kartu ini diaktifkan baik pada Bonus, Drop, Draw atau Encounter, efek panel itu akan terjadi dua kali.
 flavor="Encore! Encore!"
 
+< CARD_BOOST_OVERTIME >
+name=Overtime
+descr=For this turn, roll 3 dice for movement. Skip next turn.
+flavor="I-I have no complaints as long as I get paid..." ―Chris
+
+< CARD_BATTLE_DECEPTIVEDISARMING >
+name=Deceptive Disarming
+descr=If opponent uses a battle card in this battle, if not restricted by player order its effect is applied as though you played it instead. If successful, opponent does not pay the card cost.
+flavor="The train's full of dangerous stuff?!" ―Tomato
+
+< CARD_EVENT_PETSNACKS >
+name=Pet Snacks
+descr=Each different wild unit gains +1/+1/+1 during its next battle. This effect can stack.
+flavor="Guys, it's snack time! Come eat!" ―Syura
+
+< CARD_EVENT_HOMEIMPROVEMENT >
+name=Home Improvement
+descr=At the start of your next turn, randomly swap home panel positions. The first player to land on each home draws a card.
+flavor="Sumika's going to build herself a nice and cozy home." ―Sumika
+
+< CARD_TRAP_BANANANA >
+name=BanaNana
+descr=Roll to move again without activating this panel.
+flavor="Thought you'd found a banana? Too bad, it was just me, Nanako!" ―Nanako
+
+< CARD_GIFT_LUCKYSEVENS >
+name=Lucky Sevens
+descr=While holding this card, your natural die rolls can range from 0 to 7, and the minimum roll result is 0 when rolling 0.\nCannot perform a Norma check after rolling a 0 for move on the same turn.
+flavor="I can even control my dice rolls." ―Yuki
+
 < CARD_HYPER_SUGURI46 >
 name=Observer of Eternity
 descr=Tambahkan 2 kartu Boost/Event secara acak yang memberikan Damage ke kamu.
@@ -494,25 +524,190 @@ name=Reproduction of Records
 descr=Tambahkan salinan dua kartu baru di tumpukan kartu buangan yang bukan "Reproduction of Records". Kartu-kartu itu akan diperlakukan sebagai Level 1 dan tidak memiliki biaya saat kamu pengang.
 flavor="Kenangan manis Sumika!" -Sumika
 
-< CARD_MINIGAME_TURNSKIP >
-name=Poppo Stop
-descr=
-flavor=
+< CARD_HYPER_ELLIE >
+name=Ellie's Miracle
+descr=★Cost: Level x10\nEffect Duration: 2 chapters. Gain +X ATK, +Y DEF, and +Z EVD, where X = Your total Norma completed, Y = your number of Wins Norma completed, and Z = your number of Star Norma completed.
+flavor="Receive my miracle!" ―Ellie
 
-< CARD_MINIGAME_REVERSEMOVEMENT >
-name=Poppo Reverse
-descr=
-flavor=
+< CARD_HYPER_LULU >
+name=Lulu's Lucky Egg
+descr=Can only be played with 2 HP or less. Gain one of the following effects at random:\n-Roll a die and gain the die number x 20 stars.\n-Draw 5 cards.\n-Heal to full HP and permanently gain +1 ATK, +1 DEF, and +1 EVD. This effect can only trigger once.
+flavor="Ugh... Lulu's about to lay an egg..." ―Lulu
 
-< CARD_MINIGAME_DOUBLEDICE >
-name=Poppo Dice
-descr=
-flavor=
+< CARD_HYPER_MARCPILOT_NORMAL >
+name=Rocket Cannon
+descr=Deal 1 damage to target enemy. If KO'd, you gain wins as though KO'd in battle.\nYou may instead pay this card's cost to transform this card into "Big Rocket Cannon".
+flavor="Red Barrel... It's time to use that!" ―Marc
 
-< CARD_MINIGAME_FROSTWALKER >
-name=Poppo Frostwalker
-descr=
-flavor=
+< CARD_HYPER_MARCPILOT_UPGRADE >
+name=Big Rocket Cannon
+descr=Deal 3 damage to target enemy. If KO'd, you gain wins as though KO'd in battle.\nThis card becomes "Rocket Cannon" when you use another card or you suffer KO.
+flavor="Go!" ―Marc
+
+< CARD_HYPER_ALICIANRONE >
+name=Full Speed Alicianrone
+descr=Roll a die and move result x 3 panels. Deal damage equal to the result to each unit you pass during the move. If they are KO'd by the damage, gain Wins as though from a normal battle. After this effect, your turn ends.
+flavor="I'll go fast and cut my way through!" ―Alicianrone
+
+< CARD_HYPER_TEOTORATTA >
+name=Beast Witch
+descr=When another player loses stars from an Encounter panel battle and those stars would go to the Encounter panel unit, you will receive them instead. If this effect is triggered, discard this card at the end of your turn. If several players carry Beast Witch, the stars are split between them.
+flavor="All beasts! Obey me!" ―Teotoratta
+
+< CARD_HYPER_ARNELLE >
+name=Intelligence Officer
+descr=Gain one of the following effects depending on the top-of-the-deck card:\nEvent +3 ATK\nBoost +3 DEF\nOthers +3 EVD
+flavor="I can see through everything!" ―Arnelle
+
+< CARD_HYPER_MAYNIE >
+name=Raging Madness
+descr=Gain +1 Rage Counter. Target another active unit and enter Raging Mode: gain +X ATK and +X EVD where X is the number of your Rage Counters. Raging Mode ends and Rage Counters become 0 upon target's KO. Gain +2 Wins if you KO target in battle, and -50% Stars and Wins if you KO any other unit.
+flavor="Gyaoooh!" ―Maynie
+
+< CARD_HYPER_KYUPITA >
+name=Saint Eyes
+descr=Stock Effect (3)\nIn a battle where you attack first, gain +1 ATK per odd stock and +1 DEF per even stock, then consume 1 stock. This effect can stack.
+flavor="I'm going to use my saint eyes!" ―Kyupita
+
+< CARD_HYPER_CHRIS_CHEF >
+name=Chef, I Could Use Some Help!
+descr=Summon Chef. Fights battles on behalf of your unit. Gives 2 Wins on KO. Gives stars gained in battle to your unit. Effect ends with Chef's KO. This card turns to "Manager, I Could Use Some Help!" if you have 4 or more Store Manager Counters and your Lvl is 4 or higher.
+flavor="Chef! I'm going to need your help!" ―Chris
+
+< CARD_HYPER_CHRIS_MANAGER >
+name=Manager, I Could Use Some Help!
+descr=Summon Store Manager. Fights battles on behalf of your unit. Gives 2 Wins on KO. Gives stars gained in battle to your unit. Effect ends with Store Manager's KO, and your Store Manager Counters reset to 0. This card turns to "Chef, I Could Use Some Help!" if you have less than 4 Store Manager Counters.
+flavor="Manager, help me!" ―Chris
+
+< CARD_HYPER_HALENA >
+name=Safe Journey
+descr=Lose 5 stars at the start of each turn. Ignore Drop panels, traps, and card effect damage. This effect ends when you stop on your own Home panel or have less than 5 stars.
+flavor="Now, let's get going." ―Halena
+
+< CARD_HYPER_COOK >
+name=Guidance of the Weathercock
+descr=Stock Effect.\nRoll 2 dice for everything except for battle. This effect ends when you stop on your own Home panel. Can only check Norma on own Home panel.
+flavor="*Cheep cheep*! Cook wants to go this way." ―Cook
+
+< CARD_HYPER_LONERIDER >
+name=Upshift
+descr=★Cost: 10 + 10x existing stack of Upshift. Stock Effect (2).\nGain +1 MOV. This effect can be stacked (max 6).\nIf you end your turn without moving to the end of your final move roll, lose a stack of Upshift.
+flavor="...Don't follow me." ―Lone Rider
+
+< CARD_HYPER_MERCHANT >
+name=Zealous Salesman
+descr=Gain Freight cards equal to your level. With Freight cards in your hand, this card can be played as a Battle card: During this battle, gain +1 ATK for every Freight card in your hand.
+flavor="Breaking the load regulations, you say? I have a permit right here!" ―Merchant
+
+< CARD_BATTLE_FREIGHT >
+name=Freight
+descr=If the opponent has not played a Battle card, give them a Freight card and cancel the battle. May only be used by the defender.\nWhen stopping on your Home panel, discard this card and gain 5 Stars.
+flavor="You may keep all that freight, yes you may." ―Merchant
+
+< CARD_HYPER_HIMEV2 >
+name=Dance in the Moonlit Night
+descr=On successful Evasion, deal damage to the opponent equal to what you would have taken from them.\nIf used by Hime (Moonlight) during full moon (every 5 chapters), deal double that damage but cannot use the Defend command.
+flavor="Now let us dance." ―Hime
+
+< CARD_HYPER_FERNET_NOBILITY >
+name=New Nobility
+descr=Stock Effect: All opposing units randomly gain -1 ATK, DEF or EVD during their next battle.\nIf held by Fernet, this card can be transformed into "Affluence (1)" instead.
+flavor="Pleased to make your acquaintance. I hope we can get along well in the future." ―Fernet
+
+< CARD_HYPER_FERNET_AFFLUENCE >
+name=Affluence (X)
+descr=★Cost: (X) x10. If this card is Affluence (4):\nActive players battle you in a random order. They gain -3 ATK. You cannot attack. If you are not KO'd, opponent gives you (their Lvl) x 10 stars.\nIf not Affluence (4): Upgrade this card.\nIf not held by Fernet, this card becomes New Nobility.
+flavor="You wish to ask me for a favor...? My my, of course I'd be ever so happy to help a friend." ―Fernet
+
+< CARD_HYPER_FERNET_AFFLUENCE_V >
+name=Affluence (%d)
+descr=If this card is Affluence (4):\nActive players battle you in a random order. They gain -3 ATK. You cannot attack. If you are not KO'd, opponent gives you (their Lvl) x 10 stars.\nIf not Affluence (4): Upgrade this card.\nIf not held by Fernet, this card becomes New Nobility.
+flavor="You wish to ask me for a favor...? My my, of course I'd be ever so happy to help a friend." ―Fernet
+
+< CARD_HYPER_MALT >
+name=Twilight-Colored Dream
+descr=★Cost: Level x7\nEffect Duration: (Your Lvl) x Chapters\nTurn all Bonus and Draw panels into Encounter panels. If an enemy moves onto an Encounter panel with a Battle card you set as a Trap, they must stop on that panel. 
+flavor="Look at all those countless planes crossing the sky... It's like watching a dream, is it not?" ―Malt
+
+< CARD_HYPER_MESCAL >
+name=Little Magnum
+descr=During this battle, gain +1 ATK. Additionally, gain +X ATK where X is the damage you have taken during this battle.
+flavor="Stop bullying Daddy!" ―Mescal
+
+< CARD_HYPER_SHIFU >
+name=Ideal World
+descr=Place an Invasion trap on each Home panel that has no active trap.\nEach player will battle a robotic wild unit during their next 2 encounters, and this robotic unit will gain +1 ATK. This effect can stack.
+flavor="Everything's under my control." ―Shifu
+
+< CARD_HYPER_REIKA >
+name=Star Collector
+descr=Effect Duration: 3 Chapters.\nWhenever another player gains stars from a panel or battle KO, they gain up to your Lvl fewer stars, and you gain your Lvl stars. Effect expires on KO.
+flavor="Fufufu, look how many stars I have here." ―Reika
+
+< CARD_HYPER_WATTY >
+name=Torrent of Magic
+descr=Effect Duration: 3 Chapters.\nGain +2 DEF. The maximum stacks of Hardened Scales are increased to 10.\nIf you gain 10 stacks of Hardened Scales, all other players suffer KO.
+flavor="Th-that's dangerous... I'm sorry." ―Watty
+
+< CARD_HYPER_POMERANIUS >
+name=Goodest Boy
+descr=Effect duration: 3 Chapters\nImmune to instant KO effects. When staying on a panel with another player at the end of either player's turn, gain a copy of a random card in their hand. You can neither challenge nor be challenged; instead, opponents may stop to Pet you. Effect expires on KO.
+flavor="*Whimper*" ―Pomeranius
+
+< CARD_HYPER_SWEETCREATOR >
+name=Sweet Paradise
+descr=Set "Sweet Indulgence" trap on 3-5 random panels.
+flavor="This is the power of a Sweet God!" ―Sweet Creator
+
+< CARD_HYPER_SWEETCREATOR2 >
+name=Sweet Indulgence
+descr=Turn all your cards into random non-Hyper, Sweets type cards.
+flavor="I am about to stuff you with sweets, whether you like it or not."  ―Sweet Creator
+
+< CARD_HYPER_SWEETMAKER >
+name=Sweet Maker's Magic
+descr=Heal 1 HP and gain +2 ATK per Sweets type card in hand during this battle. Discard all Sweets type cards.
+flavor="Sweets power is the best!" ―Saki
+
+< CARD_HYPER_SWEETBLOGGER >
+name=Operation: A Mountain of Sweets
+descr=Draw 3 Boost cards from the deck. You can play up to 3 more Boost cards this turn for 1/3 of their cost.
+flavor="Ehehe, let's have a lot of delicious sweets." ―Natsumi
+
+< CARD_HYPER_MIOFESTIVE >
+name=Christmas Inferno
+descr=Lower your HP to 1. Deal damage to all other players equal to the HP you lost. Gain a Mio's Christmas Cake card for each player KO'd by this effect.
+flavor="I'll show you all hell." ―Mio
+
+< CARD_BOOST_XMASCAKE >
+name=Mio's Christmas Cake
+descr=Choose one of the following:\n- Eat to gain 1 HP.\n- Share with target player to heal them 2 HP, then you heal the same amount.
+flavor="I'm very proud of this cake that I made. Enjoy ♡" ―Mio
+
+< CARD_HYPER_KRILAPAJAMA1 >
+name=Threats to My Slumber
+descr=When you cancel exactly 1 damage in battle while holding this card, gain a stock of Waking. (Max 4. Does not stack.)\nTransform to When My Slumber Breaks upon use.
+flavor="I suggest you keep quiet for your own safety..." ―Krilalaris
+
+< CARD_HYPER_KRILAPAJAMA2 >
+name=When My Slumber Breaks
+descr=Deal X+1 damage to all other players and the Boss, where X is your Waking count. Remove all Waking stocks. Gain 1 HP for every 2 Waking stock removed.
+flavor="The time is about to come for me to say good morning..." ―Krilalaris
+
+< CARD_HYPER_MIMYUUJAILBIRD >
+name=Make-Believe Prison Break
+descr=Move to your Home panel without activating it. Cannot be challenged or be the target of other players' Boost cards. Immune to Trap cards, instant KO effects, and card damage from other players. Roll 2 dice for movement. Effect ends after traversing 20 panels.
+flavor="Pitter-patter, pitter-patter!" ―Mimyuu
+
+< CARD_HYPER_MOTHERP >
+name=Mother Power
+descr=★Cost: Level x2.\nEffect Duration: Player level.\nGain Lvl x1 stars for every point of damage you take. If the effect ends or is replaced while active, heal all damage taken during the effect.\nEffect ends on KO.
+flavor="This is mother's love, poppo." ―Mother Poppo
+
+< CARD_HYPER_DARKL >
+name=Lulu is an Unlucky Dragon
+descr=Can only be played with 2 HP or less. Trigger one of the following effects at random:\n-Roll a die. All other players lose the die number x (their Lvl) x2 stars.\n-All other players discard a card at random.\n-All other players' HP is lowered to 2.
+flavor="Lulu is... an unlucky dragon..." ―Dark Lulu
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun
@@ -536,7 +731,7 @@ flavor="Mimyuu! Siapa yang melakukan ini padamu..." ―Tomato
 
 < CARD_SUMMER2018_PROTECT >
 name=Protect
-descr=
+descr=Protected by a shield absorbing up to 2 damage.
 flavor=
 
 < CARD_XMAS2018_GROWNUPSNOWBALLFIGHT >
@@ -549,9 +744,48 @@ name=Snowball Reflector
 descr=Saat gilirang bertahan, bola salju apa pun yang akan mengenai kamu akan mengenai unit yang melemparnya. Abaikan efek unit yang akan mencegah kartu ini tidak dipakai.
 flavor="I-itu akan mengembalikannya!" ―Aru
 
-< CARD_XMAS2018_SNOWBALLFIGHTBAN >
-name=Chilly
-descr=
+< CARD_WINTER2022_FALSECAKE >
+name=Mio's False Cake
+descr=Choose one of the following:\n- Eat to gain a random effect.\n- Throw at target enemy to deal 1 damage. (If no target is available, eat it instead.)\nIgnore unit effects that would prevent this card from being played.
+flavor="What the heck! This is disgusting!" ―Tomomo
+
+< CARD_CHAOS_ROOST >
+name=Chaos Roost
+descr=Summon Aggressive Chicken, which allows you to roll an additional die when rolling attack in battle. Reduces your ATK by 2, and DEF by 2 while Aggressive Chicken is on the field. Only one summon can be on the field at a time.
 flavor=
 
+< CARD_CHAOS_PROTECT >
+name=Chaos Protect
+descr=Stock Effect (3): For any damage you take, consume a stack for each up to 2 damage to lower it to 1.
+flavor=
+
+< CARD_CHAOS_ABYSS >
+name=From the Chaotic Abyss
+descr=Summon Chaos Poppo minion into the field. Chaos Poppo deals no combat damage, but will steal 2 stars per damage dealt. Gives 10 stars from the summoner and 2 wins on KO. Only one summon can be on the field at a time.
+flavor=
+
+< CARD_CHAOS_RAMPAGE >
+name=Chaotic Rampage
+descr=Lower Hype to 0. For each 3 points of Hype, deal 1 damage to all enemies, and gain +1 ATK until next KO. For each KOed unit by this card's damage, gain +1 HP.
+flavor=
+
+< CARD_CHAOS_LAUNCH >
+name=Chaotic Launch
+descr=Select a panel to dive on, then leave the field until next turn. That panel will not be revealed to other players. On the next turn, dive to chosen panel, and cannot perform a Norma check on the same turn. Units in 2 panel range take Lvl x1 damage. Units in 1 panel range take Lvl x2 damage instead. For each KOed unit, gain 20 Stars, and 2 Wins.
+flavor=
+
+< CARD_CHAOS_ROULETTE >
+name=Chaos Roulette
+descr=Add a random card between Chaos Roost, Chaos Protect and From the Chaotic Abyss to your hand.\nYou may play another card this turn.
+flavor=
+
+< CARD_CHAOS_POOL >
+name=Chaotic Pool
+descr=Randomly summon either Goalpost, Balloon Jerk, or Swimming Ringer. Only one summon can be on the field at a time. Using this card again after a summon is on the field will replace that summon with a different one.
+flavor=
+
+< CARD_CHAOS_GIFT_HOTPOTATO >
+name=Hold the Gremlin
+descr=An unpredictable Mimyuu has attached herself to you. At the end of your turn, gain Lvl stars. Will lash out after a random amount of turns, reducing your HP to 1 and passing to another player. Use to pass to another player. Cannot be discarded or removed through any other means. Ignore any effects that would prevent this card's effect from being applied.
+flavor=
 [EOF]

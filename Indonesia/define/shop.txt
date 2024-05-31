@@ -1,3 +1,4 @@
+
 < SHOP_LABEL_HOME >
 Beranda
 
@@ -5,7 +6,7 @@ Beranda
 Kartu
 
 < SHOP_LABEL_CHARACTERS >
-karakter
+Karakter
 
 < SHOP_LABEL_CHALLENGES >
 Tantangan
@@ -23,10 +24,10 @@ Natal
 Pigformation
 
 < SHOP_LABEL_COWKIGU >
-Cow Kigurumi
+Kigurumi Sapi
 
 < SHOP_LABEL_TIGERKIGU >
-Tiger Kigurumi
+Kigurumi Macan
 
 < SHOP_LABEL_RETIREDEVENTS >
 Event Sebelumnya
@@ -44,7 +45,7 @@ Emoji
 Pet
 
 < SHOP_LABEL_ARCADE >
-Arcade
+Arkade
 
 < SHOP_LABEL_DLC >
 DLC
@@ -65,7 +66,7 @@ Syura & Nanako
 Saki & Kyousuke
 
 < SHOP_DLC_MIXED >
-Mixed Pack
+Paket Mixed
 
 < SHOP_DLC_KRILAKAE >
 Krila & Kae
@@ -77,10 +78,10 @@ Alte & Kyoko
 Sham & Sherry
 
 < SHOP_DLC_BREAKERPACK >
-Breaker Pack
+Paket Breaker
 
 < SHOP_DLC_ACCELERATIONPACK >
-Acceleration Pack
+Paket Acceleration
 
 < SHOP_DLC_NATHTOMATOMIMYUU >
 Nath & Tomato + Mimyuu
@@ -113,7 +114,7 @@ Tsih & Tequila
 Mei & Natsumi
 
 < SHOP_DLC_NICOARTHUR >
-Toy Store Pack
+Paket Toy Store
 
 < SHOP_DLC_IRUMIRA >
 Iru & Mira
@@ -128,13 +129,13 @@ Ultimate Weapon Girl
 Yuuki & Islay
 
 < SHOP_DLC_PUDDINGPACK >
-Pudding Pack
+Paket Pudding
 
 < SHOP_DLC_SUGURI46SUMIKA >
-Old Guardian Pack
+Paket Old Guardian
 
 < SHOP_DLC_ELLIELULU >
-Wanderer Pack
+Paket Wanderer
 
 < SHOP_DLC_RONETEO >
 Alicianrone & Teotoratta
@@ -149,10 +150,10 @@ Chris & Kyupita
 Halena & Cook
 
 < SHOP_DLC_RIDERMERCHANT >
-Railway Runners Pack
+Paket Railway Runners
 
 < SHOP_DLC_HIMEFERNETRENEWAL >
-Princess Pack
+Paket Princess
 
 < SHOP_DLC_MALTMESCAL >
 Malt & Mescal
@@ -168,6 +169,12 @@ Watty & Pomeranius
 
 < SHOP_DLC_SWEETGODS >
 Sweet Gods
+
+< SHOP_DLC_KRILAMIMYUURENEWAL >
+Paket Waruda Prison Break
+
+< SHOP_DLC_ALTEREGOPACK >
+Paket Alter Ego
 
 < SHOP_TOOLTIP_HOME >
 Atur toko berdasarkan ikon kategori.
@@ -194,10 +201,10 @@ Buka aksesoris Event Natal.
 Buka aksesoris event "Beware Pigformation".
 
 < SHOP_TOOLTIP_COWKIGU >
-Buka kostum Cow Kigurumi.
+Buka kostum Kigurumi Sapi.
 
 < SHOP_TOOLTIP_TIGERKIGU >
-Buka kostum Tiger Kigurumi.
+Buka kostum Kigurumi Macan.
 
 < SHOP_TOOLTIP_RETIREDEVENTS >
 Beli hadiah dari event sebelumnya.
@@ -230,7 +237,7 @@ Lihat semua konten di Toko.
 TIdak ada:
 
 < SHOP_CRATE_LOOT_STARS >
-Stars:
+Bintang:
 
 < SHOP_CRATE_LOOT_HALLOWEEN >
 Aksesoris Halloween:
@@ -239,13 +246,13 @@ Aksesoris Halloween:
 Pakaian Natal:
 
 < SHOP_CRATE_LOOT_SUNGLASSES >
-Summer Sunglasses:
+Kacamata Musim Panas:
 
 < SHOP_CRATE_LOOT_RADPOPPO >
-Rad Poppo:
+Poppo Gokil:
 
 < SHOP_CRATE_LOOT_HOMEMARK >
-Home Marker:
+Penanda Markas:
 
 < SHOP_CRATE_LOOT_POSE >
 Pose:
@@ -257,7 +264,7 @@ Rambut:
 Dadu:
 
 < SHOP_CRATE_LOOT_ORANGES >
-Oranges:
+Jeruk:
 
 < SHOP_CRATE_LOOT_CHARACTER >
 Karakter:
@@ -266,7 +273,7 @@ Karakter:
 ???
 
 < SHOP_FILTER_OWNED >
-Sembunyikan item yang dimiliki
+Sembunyikan Item yang Dimiliki
 
 < SHOP_ERROR_INVENTORY_PURCHASE >
 Tidak dapat membeli. Silahkan coba lagi.

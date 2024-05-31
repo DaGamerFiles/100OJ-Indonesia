@@ -1,14 +1,30 @@
+< CARD_DECEPTIVELYDISARMED_EFFECT >
+name=Deceptively Disarmed
+descr=Skip next action.
+
+< CARD_UNLUCKYBEAST_EFFECT >
+name=Unlucky Beast
+descr=Skip next action.
+
+< CARD_STUFFED_EFFECT >
+name=Stuffed
+descr=Gain -1 ATK pada pertempuran berikutnya.
+
+< CARD_BURNOUT_EFFECT >
+name=Burn Out
+descr=Delay recovery 1 turn for each stack.
+
 < CARD_PROTAGONISTPRIVILEGE_EFFECT >
 name=Protagonist's Privilege
 descr=Always attack first. The enemy unit cannot counterattack (once per combat).
 
 < CARD_AIRSUPPORT_EFFECT >
 name=Air Support
-descr=Gain +2 DEF on next battle.
+descr=Gain +2 DEF pada pertempuran berikutnya.
 
 < CARD_COOP_BLAZING_EFFECT >
 name=Blazing!
-descr=Gain +1 ATK for each stack. Effect expires on KO.
+descr=Gain +1 ATK untuk setiap tumpukan. Efek hilang saat KO.
 
 < CARD_COOP_MELTINGMEMORIES_EFFECT >
 name=Melting Memories
@@ -16,7 +32,7 @@ descr=Skip next action.
 
 < CARD_COOP_EVILSPYWORKEXEC_EFFECT >
 name=Evil Spy Work ― Execution
-descr=On turn end, heal 2 HP.
+descr=Saat giliran berakhir, sembuhkan 2 HP.
 
 < CARD_COOP_BANNEDFORLIFE_GIFT_EFFECT >
 name=Banned for Life
@@ -26,29 +42,57 @@ descr=Can force boss to skip its next action.
 name=Banned for Life
 descr=Skip next action.
 
+< CARD_COOP_GUIDANCE_EFFECT >
+name=Guidance of the Weathercock
+descr=Lempar 2 dadu for everything except for battle. Efek hilang saat KO.
+
+< CARD_COOP_BEASTWITCH_EFFECT >
+name=Beast Witch
+descr=Cannot lose stars by a Boss or minion.
+
 < CARD_COOP_FINALSURGERY_EFFECT >
 name=Final Surgery
-descr=Gain -2 REC until revived.
+descr=Dapat -2 REC sampai dibangkitkan.
+
+< CARD_COOP_STEALTHON_EFFECT >
+name=Stealth On
+descr=Tidak dapat dilawan musuh.\nDo not trigger Encounter or Boss panels.\nEffect expires on entering battle.\nGain +2 ATK when entering battle.
+
+< CARD_COOP_SPECIALSTAGE_EFFECT >
+name=Live Mode
+descr=Gain -3 MOV, can only trigger movement type panels and cannot use cards. Cannot be challenged by enemies. If an opponent ends their turn in 2 panel radius, steal (your Lvl) x5 stars from them. Ends on KO.
+
+< CARD_COOP_IDEALWORLD_EFFECT >
+name=Robo Pals
+descr=Robotic units will fight in battle on behalf of the player. These robotic units will gain +1 ATK during battle.
+
+< CARD_COOP_GOODESTBOY_EFFECT >
+name=Goodest Boy
+descr=Ignore Boss panels.\nWhen staying on a panel with another player at the end of either of your turns, both draw a card.\nYou can neither challenge nor be challenged.\nPlayers may stop to Pet you.
+
+< CARD_COOP_PRISONBREAK_EFFECT >
+name=Make-Believe Prison Break
+descr=Tidak dapat dilawan. Kebal terhadap kartu Trap, efek KO instan, dan damage kartu dari Boss. Lempar 2 dadu untuk bergerak. Hilang 1 tumpukan untuk setiap panel yang dilewati.
 
 < CARD_BOSS_HYPE_EFFECT >
 name=Hype
-descr=When 10 stacks are reached, boss will use "Rampage".
+descr=Jika mencapai 10 tumpukan, boss akan menggunakan "Rampage".
 
 < CARD_BOSS_RUMBLE_EFFECT >
 name=Rumble
-descr=Gain +1 ATK for each stack.
+descr=Dapat +1 ATK untuk setiap tumpukan.
 
 < CARD_BOSS_DANCEOFSEAGULLS_EFFECT >
 name=Dance of the Seagulls
-descr=Gain -2 ATK on next battle.
+descr=Dapat -2 ATK pada pertempuran berikutnya.
 
 < CARD_BOSS_BEAKOFGODBIRD_EFFECT >
 name=Beak of the Godbird
-descr=Gain +1 ATK.
+descr=Dapat +1 ATK.
 
 < CARD_BOSS_BEAKOFDEMIBIRD_EFFECT >
 name=Beak of the Demi-Bird
-descr=Gain +2 ATK.
+descr=Dapat +2 ATK.
 
 < CARD_BOSS_FLIGHT_EFFECT >
 name=Flight
@@ -172,7 +216,7 @@ descr=Until next battle, skip movement roll and gain 2 Hype.
 
 < CARD_BOSS_PSYCHEDUP_EFFECT >
 name=Psyched Up
-descr=Gain +2 MOV.
+descr=Dapat +2 MOV.
 
 < CARD_BOSS_WATERMELONSPLIT_EFFECT >
 name=Watermelon Splitting
@@ -184,11 +228,11 @@ descr=Gain +1 ATK, +1 DEF and -1 EVD.\nLose 1 Hype when taking damage in battle.
 
 < CARD_BOSS_RAMPAGE_EFFECT >
 name=Rampage
-descr=Max HP is increased by 1 for each stack.
+descr=Max HP bertambah 1 untuk setiap tumpukan.
 
 < CARD_BOSS_RAMPAGEHYPER_EFFECT >
 name=Rampage
-descr=ATK and Max HP are increased by 1 for each stack.
+descr=ATK dan Max HP bertambah 1 untuk setiap tumpukan.
 
 < CARD_BOSS_HYPEMODE_EFFECT >
 name=Hype Mode
@@ -205,6 +249,10 @@ descr=Gain +2 EVD.
 < CARD_BOSS_TURBOCHICKEN_EFFECT >
 name=Turbo Chicken
 descr=Gain an additional movement dice and do not stop when challenging an enemy.\nGain +1 ATK for each additional stack.\nGain 25 stars when fighting an enemy.
+
+< CARD_BOSS_SWARM_EFFECT >
+name=Swarm
+descr=In next battle, gain +2 ATK and if attacking first, the enemy cannot counterattack (once per combat).
 
 < CARD_SKILL_COOP_FURY_EFFECT >
 name=Fury
@@ -228,22 +276,22 @@ descr=Next damage taken in battle is reduced by 2.
 
 < CARD_SKILL_COOP_FROMBEYOND_EFFECT >
 name=From Beyond
-descr=If KO'd during battle, revive with 1 HP for each stack.
+descr=Jika KO saat bertempur, bangkit dengan 1 HP untuk setiap tumpukan
 
 < CARD_COOP_HYPER_AVENGER_EFFECT >
 name=Unforgiving Avenger
-descr=If KO'd during battle, revive with 1 HP for each stack.
+descr=Jika KO saat bertempur, bangkit dengan 1 HP untuk setiap tumpukan.
 
 < CARD_COOP_RANSOMNOTE_EFFECT >
 name=Ransom Note
-descr=On turn end, suffer KO.
+descr=KO saat giliran berakhir.
 
 < CARD_COOP_DEMAND_EFFECT >
 name=Demand
-descr=Treat the next panel you step onto as a Draw panel.
+descr=Anggap pemberhentian panel berikutnya sebagai panel Draw.
 
 < CARD_COOP_HYPER_DEALER_EFFECT >
 name=Summer Games
-descr=Treat any panel you would land on this turn as a 2x Draw panel.
+descr=Anggap pemberhentian panel berikutnya sebagai panel 2x Draw.
 
 [EOF]

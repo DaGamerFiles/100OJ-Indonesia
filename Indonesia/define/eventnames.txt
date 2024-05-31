@@ -7,4 +7,25 @@ Master of the Minions
 < EVENTNAME_BOUNTY_HUNTERS >
 Bounty Hunter
 
+< EVENTNAME_MASTER_ANGLERS >
+Master Anglers
+
+< EVENTNAME_BEACH_PARTY >
+Beach Party
+
+< EVENTNAME_SHROOM_ZOOM >
+Shroom Zoom
+
+< EVENTNAME_BOUNTY_HUNGERS >
+Bounty Hungers
+
+< EVENTNAME_POOL_PARTY >
+Pool Party
+
+< EVENTNAME_SCHOOL_CRASHERS >
+School Crashers
+
+< EVENTNAME_CHAOS_MODE >
+Chaos Mode
+
 [EOF]

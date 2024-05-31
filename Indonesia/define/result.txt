@@ -1,9 +1,9 @@
 
 < RESULT_HEADER >
-Bintang
+Hasil dari Bintang yang Didapat
 
 < RESULT_SCORE_OWNEDSTARS >
-Bintang saat ini
+Bintang Saat Ini
 
 < RESULT_SCORE_LEVELBONUS >
 Bonus Level
@@ -12,13 +12,13 @@ Bonus Level
 Bonus Musuh
 
 < RESULT_SCORE_RANKBONUS >
-Rank Bonus
+Bonus Peringkat
 
 < RESULT_SCORE_CAMPAIGNBONUS >
-Campaign Bonus
+Bonus Kampanye
 
 < RESULT_SCORE_BOSSBONUS >
-Boss Bonus
+Bonus Boss
 
 < RESULT_SCORE_CARDMASTER >
 Card Master

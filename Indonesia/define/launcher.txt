@@ -1,6 +1,6 @@
 ﻿
 < LAUNCHER_FONTNAME >
-ＭＳ Ｐゴシック
+Tahoma
 
 < LAUNCHER_TITLE >
 Setelan 100% Orange Juice
@@ -51,7 +51,7 @@ Cepat
 Sangat cepat
 
 < LAUNCHER_GAMEINFO_BUTTON >
-Info permainan
+Info Game
 
 < LAUNCHER_PLAY_BUTTON >
 Mainkan

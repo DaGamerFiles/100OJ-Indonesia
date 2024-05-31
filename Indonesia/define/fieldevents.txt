@@ -86,3 +86,27 @@ descr=Pergi ke panel Playground untuk bermain minigame.\n\nFrekuensi: Setiap 5 c
 < FIELDEVENT_TERROR >
 name=Terror dari langit
 descr=Beberapa panel akan berubah yang memungkinkan kamu untuk melawan Jonathan.\nFrekuensi: Variabel.\nDurasi: 1 chapter.
+
+< FIELDEVENT_FISHING >
+name=Fish-a-Fish
+descr=Tantang pemain lain dalam minigame memancing.\n\nFrekuensi: Setiap 9 chapter.
+
+< FIELDEVENT_GOO >
+name=Goo
+descr=1/3 dari panel biasa di papan dilumuri lumpur selama 1 chapter.\n\nFrekuensi: Setiap 5 chapter.
+
+< FIELDEVENT_SPORES >
+name=Spores
+descr=Jamur akan bermunculan di papan.\n\nFrekuensi: Setiap 3 chapter.
+
+< FIELDEVENT_CHAOS_BATTLEFIELD >
+name=Chaos Battlefield
+descr=
+
+< FIELDEVENT_CHAOS_STARVATION >
+name=Starvation
+descr=
+
+< FIELDEVENT_CHAOS_OVERINDULGENCE >
+name=Overindulgence
+descr=

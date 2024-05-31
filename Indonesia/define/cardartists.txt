@@ -92,4 +92,46 @@ Axes
 < CARD_ARTIST_AIRIE >
 Airie
 
+< CARD_ARTIST_AME >
+Miyazaki Shiyuri
+
+< CARD_ARTIST_KAGAWA_YUSAKU >
+Kagawa Yusaku
+
+< CARD_ARTIST_SIUMAI >
+Siumai112
+
+< CARD_ARTIST_PASU >
+Pasu
+
+< CARD_ARTIST_TAMAKI >
+Tamaki
+
+< CARD_ARTIST_YASUMEYUKITO >
+YasumeYukito
+
+< CARD_ARTIST_LVMNOT >
+LVmNoT
+
+< CARD_ARTIST_EOKAMI >
+EOkami
+
+< CARD_ARTIST_TSUKINO >
+Tsukino
+
+< CARD_ARTIST_490 >
+490
+
+< CARD_ARTIST_TIANNYA >
+tian nya
+
+< CARD_ARTIST_KOKOROTEN >
+Kokoroten
+
+< CARD_ARTIST_SENCA >
+Senca
+
+< CARD_ARTIST_USANEKORIN >
+Usanekorin
+
 [EOF]

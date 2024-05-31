@@ -4,7 +4,7 @@ descr=All units will take 1 damage at the beginning of the Chapter.
 
 < MIXER_AMPLIFY >
 name=Amplify
-descr=All units will randomly receive a +1 bonus to their attack, defense, or dodge stat. This effect lasts for 2 Chapters.
+descr=All units will randomly receive a +1 bonus to their ATK, DEF, or EVD stat. This effect lasts for 2 Chapters.
 
 < MIXER_BACKTRACK >
 name=Backtrack
@@ -24,7 +24,7 @@ descr=All player's cards are rearranged and put face-down, making the cards unre
 
 < MIXER_FREEZE >
 name=Freeze
-descr=1/3 of the board's panels become frozen panels.
+descr=1/3 dari panel di papan menjadi panel beku.
 
 < MIXER_MINELAYER >
 name=Minelayer
@@ -52,27 +52,27 @@ descr=Places a chest on a random panel.
 
 < MIXER_HEALTHY_BOSS >
 name=Healthy Boss
-descr=Boss has an additional 10 HP.
+descr=Boss memiliki tambahan 10 HP.
 
 < MIXER_STAR_CHASER >
 name=Star-chaser
-descr=Gain double stars on Bonus panels.
+descr=Mendapatkan bintang dua kali lipat pada panel Bonus.
 
 < MIXER_BEGGAR >
 name=Beggar
-descr=Drop double stars on Drop panels.
+descr=Menjatuhkan bintang dua kali lipat pada panel Drop.
 
 < MIXER_AGGRESSIVE_HEROES >
 name=Aggressive Heroes
-descr=All allies gain an additional +1 to ATK.
+descr=Semua pemain mendapatkan tambahan +1 ATK.
 
 < MIXER_DEFENSIVE_HEROES >
 name=Defensive Heroes
-descr=All allies gain an additional +1 to DEF.
+descr=Semua pemain mendapatkan tambahan +1 DEF.
 
 < MIXER_EVASIVE_HEROES >
 name=Evasive Heroes
-descr=All allies gain an additional +1 to EVD.
+descr=Semua pemain mendapatkan tambahan +1 EVD.
 
 < MIXER_BLAZING >
 name=Blazing
@@ -84,20 +84,28 @@ descr=Unit stats will be reversed at the start of battle.
 
 < MIXER_MENACING_BOSS >
 name=Menacing Boss
-descr=Boss has +1 ATK.
+descr=Boss memiliki +1 ATK.
 
 < MIXER_HARD_SHELLED_BOSS >
 name=Hard-shelled Boss
-descr=Boss has +1 DEF.
+descr=Boss memiliki +1 DEF.
 
 < MIXER_SLIPPERY_BOSS >
 name=Slippery Boss
-descr=Boss has +1 EVD.
+descr=Boss memiliki +1 EVD.
 
 < MIXER_JOKER >
 name=Joker
-descr=All cards can be played for no cost.
+descr=Semua kartu dapat dipakai tanpa biaya apapun.
 
 < MIXER_BANKRUPT >
 name=Bankrupt
-descr=Card costs are increased by 10 stars.
+descr=Dasar harga kartu naik menjadi 10 bintang.
+
+< MIXER_GOO >
+name=Goo
+descr=1/3 dari panel biasa di papan dilumuri lumpur selama 1 chapter.
+
+< MIXER_SPORES >
+name=Spores
+descr=Jamur akan bermunculan di papan.

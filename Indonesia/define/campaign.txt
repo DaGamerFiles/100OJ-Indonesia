@@ -15,7 +15,7 @@ QP Episode 4
 QP Episode 5
 
 < CAMPAIGN_QP_FINAL >
-QP Final Episode
+QP Episode Akhir
 
 < CAMPAIGN_SUGURI_ONE >
 Suguri Episode 1
@@ -33,7 +33,7 @@ Suguri Episode 4
 Suguri Episode 5
 
 < CAMPAIGN_SUGURI_FINAL >
-Suguri Final Episode
+Suguri Episode Akhir
 
 < CAMPAIGN_MARC_ONE >
 Marc Episode 1
@@ -51,7 +51,7 @@ Marc Episode 4
 Marc Episode 5
 
 < CAMPAIGN_MARC_FINAL >
-Marc Final Episode
+Marc Episode Akhir
 
 < CAMPAIGN_KAI_ONE >
 Kai Episode 1
@@ -69,7 +69,7 @@ Kai Episode 4
 Kai Episode 5
 
 < CAMPAIGN_KAI_FINAL >
-Kai Final Episode
+Kai Episode Akhir
 
 < CAMPAIGN_EXTRA_ONE >
 Midnight = Kemonomimi
@@ -89,6 +89,9 @@ Tomomo Hell
 < CAMPAIGN_EXTRA_SIX > 
 Mio's Dark Citadel
 
+< CAMPAIGN_EXTRA_SEVEN > 
+Secret Santa
+
 < CAMPAIGN_STARBREAKER_ONE >
 Star Breaker Episode 1
 
@@ -105,7 +108,7 @@ Star Breaker Episode 4
 Star Breaker Episode 5
 
 < CAMPAIGN_STARBREAKER_FINAL >
-Star Breaker Final Episode
+Star Breaker Episode Akhir
 
 < CAMPAIGN_SWEETBREAKER_ONE >
 Sweet Breaker Episode 1
@@ -123,7 +126,7 @@ Sweet Breaker Episode 4
 Sweet Breaker Episode 5
 
 < CAMPAIGN_SWEETBREAKER_FINAL >
-Sweet Breaker Final Episode
+Sweet Breaker Episode Akhir
 
 < CAMPAIGN_BREAKER_EXTRA >
 Chaos of the Sweet Gods
@@ -156,7 +159,7 @@ Girl Power Episode 8
 Girl Power Episode 9
 
 < CAMPAIGN_MIUCEORE_FINAL >
-Girl Power Final Episode
+Girl Power Episode Akhir
 
 < CAMPAIGN_CHRISTMAS_2017 >
 Waruda Christmas Party
@@ -177,7 +180,7 @@ Crossed Christmases Episode 4
 Crossed Christmases Episode 5
 
 < CAMPAIGN_NICOARTHUR_FINAL >
-Crossed Christmases Final Episode
+Crossed Christmases Episode Akhir
 
 
 < CAMPAIGN_SUGURISUMIKA_ONE >
@@ -211,22 +214,42 @@ Old Guardians Episode 9
 Old Guardians Episode 10
 
 < CAMPAIGN_SUGURISUMIKA_FINAL >
-Old Guardians Final Episode
+Old Guardians Episode Akhir
+
+
+< CAMPAIGN_ELLIELULU_NUMBER >
+Wanderers Episode %d
+
+< CAMPAIGN_ELLIELULU_FINAL >
+Wanderers Episode Akhir
+
+< CAMPAIGN_RONETEO >
+Game Night of the Witches
+
+< CAMPAIGN_WARUDAPRISONBREAK_NUMBER >
+Waruda Prison Break Episode %d
+
+< CAMPAIGN_WARUDAPRISONBREAK_FINAL >
+Waruda Prison Break Episode Akhir
 
 < CAMPAIGN_DIFFICULTY_CASUAL >
-Lowered performance for all CPU characters.
+Performa diturunkan untuk seluruh bot.
 
 < CAMPAIGN_DIFFICULTY_NORMAL >
-Tidak ada penyesuaian apapun.
+Tidak ada penyesuaian apapun pada bot.
 
 < CAMPAIGN_DIFFICULTY_ORIGINAL >
-Performa setiap karakter telah disesuaikan.
+Performa setiap bot disesuaikan masing-masing.
 
 < CAMPAIGN_DIFFICULTY_EXTREME >
-Semua karakter mendapatkan peningkatan kinerja.
+Semua bot mendapatkan peningkatan kinerja.
 
 < CAMPAIGN_RETURN >
 Kembali
+
+< CAMPAIGN_RONETEO_MESSAGE >
+Misi tambahan tersedia! Disarankan untuk menyelesaikan kampanye Girl Power dan Old Guardians sebelum memainkannya.
+
 
 [EOF]
 

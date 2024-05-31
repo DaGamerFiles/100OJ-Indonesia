@@ -43,6 +43,10 @@ descr=Pemain dapat 2x bonus bintang per chapter. Saat kena serangan, dapat +1 DE
 name=Big Poppo
 descr=Menangani no combat damage dan mencuri 3 bintang per damage yang diberikan. Saat dikalahkan, dapat REC 10 dan berikan 25 bintang dan 3 Win.
 
+< CARD_UNIT_BIG_POPPO_NM >
+name=Big Poppo
+descr=
+
 < CARD_UNIT_BOSS_ROBOBALL >
 name=M10 Robot
 descr=Pada giliran Bos, jangan berhenti saat menantang pemain. Ketika Protect dan Scrambled tidak aktif, gunakan Protect.
@@ -58,6 +62,26 @@ descr=Saat Po-tect dan Scrambled tidak aktif, gunakan Po-tect. Dapatkan -2 ATK d
 < CARD_UNIT_BOSS_ROPOCHI_HYPER >
 name=RoPoChi
 descr=Saat Po-tect dan Scrambled tidak aktif, gunakan Po-tect. Dapatkan -2 ATK dan +1 die saat serangan bergulir untuk setiap minion yang ada. Gunakan Roost Boost setiap 6 chapter. Dapatkan 5 bintang per damage combat yang diberikan.
+
+< CARD_UNIT_BOSS_COACH >
+name=Swimming Coach
+descr=Every 2 chapters, use Goalpost.\nIf there is no Balloon Jerk, use Balloon Jerk.\nIf there are less than 2 Swimming Ringers, use Swimming Ringer.
+
+< CARD_UNIT_BOSS_COACH_HYPER >
+name=Swimming Coach
+descr=Every 2 chapters, use Goalpost.\nIf there is no Balloon Jerk, use Balloon Jerk.\nIf there are less than 2 Swimming Ringers, use Swimming Ringer.\nCannot be damaged in battle.
+
+< CARD_UNIT_GOALPOST >
+name=Goalpost
+descr=Never moves or evades. Can only be damaged by attacks that deal 1 damage.
+
+< CARD_UNIT_BALLOON_JERK >
+name=Balloon Jerk
+descr=
+
+< CARD_UNIT_SWIMMING_RINGER >
+name=Swimming Ringer
+descr=Gain -1 MOV.
 
 < CARD_UNIT_CHICKEN >
 name=Chicken
@@ -103,6 +127,10 @@ descr=Cannot challenge other players when meeting them on the field.
 name=Kae
 descr=Membalikkan nilai Pertahanan ke Serangan\n-1 DEF saat menyerang.
 
+< CARD_COOP_UNIT_KAE >
+name=Kae
+descr=Add reverse value of DEF to ATK.
+
 < CARD_UNIT_KAI >
 name=Kai
 descr=
@@ -123,6 +151,10 @@ descr=Tidak bisa menggunakan Evade saat pertarungan.
 name=Kyousuke
 descr=
 
+< CARD_UNIT_MALT >
+name=Malt
+descr=Give 3 Wins when KO'd in battle. Cannot challenge to battle. Can set a Battle card without special use requirements as a Trap card without paying its cost. When another enemy steps on it, they will battle you and both player units gain the card's effect. No other battle cards can be played in this battle.
+
 < CARD_UNIT_MANAGER >
 name=Manajer toko
 descr=
@@ -139,6 +171,10 @@ descr=
 name=Mei
 descr=Dapatkan "Merah & Biru" saat tidak memegang kartu di akhir giliran.
 
+< CARD_UNIT_MESCAL >
+name=Mescal
+descr=When challenged to a battle, there is a 50% chance a Pirate Crew Member will fight in your place. If this Pirate Crew Member is KO'd in battle, it will not fight for you for 3 chapters. Pirate Crew Member gives 1 Win on KO and gives stars gained in battle to your unit.
+
 < CARD_UNIT_MIMYUU >
 name=Mimyuu
 descr=Bangkit sebagai Tomato dan siap beraksi ketika bangkit. Hilang 1/4 bintang dan berikan 1 Kemenangan saat KO dalam pertarungan.
@@ -150,6 +186,10 @@ descr=Perangkapmu yang dipicu oleh musuh menambah efek tambahan: Binding Smoke (
 < CARD_UNIT_MIUSAKI >
 name=Miusaki
 descr=Saat menggunakan Defend di pertarungan, jangan sampai kena lebih dari 2 damage sekaligus.
+
+< CARD_COOP_UNIT_MIUSAKI >
+name=Miusaki
+descr=When using Defend in battle, never take more than half your max HP in damage at once (rounded up).
 
 < CARD_UNIT_MIXEDPOPPO >
 name=Marie Poppo (Mixed)
@@ -170,6 +210,10 @@ descr=Dapat 1 tumpukan Ekstensi Aktif di setiap pertarungan di mana kartu Battle
 < CARD_UNIT_NATSUMI >
 name=Natsumi
 descr=Jika belum KO dan berdiri di panel yang sama dengan pemain lain di akhir giliran, setiap unit di panel pulih 1 HP.\nUntuk setiap pemain lain yang kamu pulihkan, dapatkan 5 bintang.
+
+< CARD_UNIT_NATSUMI_BH >
+name=Natsumi
+descr=If not KO'd and standing on the same panel with other active units at the end of your turn, each active unit on the panel recovers 1 HP.\nFor each other unit you heal, gain 5 stars.
 
 < CARD_UNIT_NICO >
 name=Nico
@@ -235,6 +279,10 @@ descr=
 name=Shifu Robot
 descr=Mulai dan Bangkit dengan 1 HP\nAuto-Repair
 
+< CARD_COOP_UNIT_SHIFUROBOT >
+name=Shifu Robot
+descr=Start and Auto-Revive after 2 turns with 1 HP and a 1 HP Absorptive Shell.\nAuto-Repair: At the start of your turn, every 3rd chapter, heal 1 HP and remove Absorptive Shell.\nGain a stack of Burn Out every time you revive.\nStock Effect: Recovery is delayed 1 turn for each stack.
+
 < CARD_UNIT_SORA >
 name=Sora
 descr=
@@ -242,6 +290,10 @@ descr=
 < CARD_UNIT_SORAMILITARY >
 name=Sora (Military)
 descr=Saat KO dalam pertarungan, bangkit kembali secara otomatis dengan 2 HP pada giliran berikutnya.
+
+< CARD_COOP_UNIT_SORAMILITARY >
+name=Sora (Military)
+descr=When KO'd in battle, revive with 2 HP on the next turn.\nGain a stack of Burn Out every time you revive from a battle KO.\nStock Effect: Recovery is delayed 1 turn for each stack.
 
 < CARD_UNIT_STARBREAKER >
 name=Star Breaker
@@ -259,6 +311,10 @@ descr=Bisa menampung 2 Kartu.\nKembalikan 1 HP di awal semua giliran.
 name=Sweet Breaker
 descr=Saat melawan pemain dengan kartu terbalik, dapatkan +1 untuk ATK, DEF, dan EVD.
 
+< CARD_COOP_UNIT_SWEETBREAKER >
+name=Sweet Breaker
+descr=When battling a unit under the effects of Melting Memories, gain +1 to ATK, DEF and EVD.
+
 < CARD_UNIT_SYURA >
 name=Syura
 descr=Saat HP 1, dapatkan +1 ATK dan EVD.
@@ -270,6 +326,10 @@ descr=Bangkit sebagai Mimyuu dan siap beraksi ketika bangkit.\nAmbil kartu Evil 
 < CARD_UNIT_TEQUILA >
 name=Tequila
 descr=Seorang anggota bajak laut muncul sebagai unit musuh.\nDapatkan +1 ATK untuk setiap kehabisan HP selama battle.
+
+< CARD_UNIT_TEQUILA_BH >
+name=Tequila
+descr=A Pirate Crew Member appears as an enemy unit.\nGain +1 ATK in a battle where you lose HP.
 
 < CARD_UNIT_TEQMINION >
 name=Anggota Bajak Laut
@@ -307,7 +367,6 @@ descr=Ubah setiap kartu yang dipegang dengan nama "Puding menjadi Tragedi di Ten
 name=Yuuki
 descr=Saat chapter ganjil, dapatkan -1 ATK dan +2 DEF. \nSaat chapter genap, dapatkan +2 ATK dan -1 DEF.
 
-
 < CARD_UNIT_SUGURI46 >
 name=Suguri (46 Miliar Tahun)
 descr=Saat memilih damage yang berkaitan dengan kartu Boost/Event untuk dimainkan, kamu dapat membayar dua kali lipat biayanya untuk menggandakan damage saat digunakan.
@@ -315,5 +374,193 @@ descr=Saat memilih damage yang berkaitan dengan kartu Boost/Event untuk dimainka
 < CARD_UNIT_SUMIKA >
 name=Sumika
 descr=
+
+< CARD_UNIT_ELLIE >
+name=Ellie
+descr=
+
+< CARD_UNIT_LULU >
+name=Lulu
+descr=
+
+< CARD_UNIT_MARC_PILOT >
+name=Marc (Pilot)
+descr=
+
+< CARD_UNIT_ALICIANRONE >
+name=Alicianrone
+descr=When battling an opponent with +1 or more ATK, gain +1 EVD until end of battle. If they have +2 or more ATK, gain an additional +1 EVD.
+
+< CARD_UNIT_TEOTORATTA >
+name=Teotoratta
+descr=Do not trigger Encounter panels.
+
+< CARD_UNIT_ARNELLE >
+name=Arnelle
+descr=Can see the card on the top of the deck when holding Intelligence Officer in hand.
+
+< CARD_UNIT_MAYNIE >
+name=Maynie
+descr=When not in Raging Mode, gain a Rage Counter upon taking damage and lose a Rage Counter upon healing.
+
+< CARD_UNIT_KYUPITA >
+name=Kyupita
+descr=
+
+< CARD_UNIT_CHRIS >
+name=Chris
+descr=Can hold 4 cards. Cannot challenge to battles without Chef or Store Manager active. Gain a Store Manager Counter upon using a Max 1 copy limit non-Gift card.
+
+< CARD_UNIT_CHEF >
+name=Chef
+descr=
+
+< CARD_UNIT_GOLEM >
+name=Moss Golem
+descr=
+
+< CARD_UNIT_GUARDIAN >
+name=Guardian
+descr=Cannot challenge other players. Shares the held bounties of the summoner.
+
+< CARD_UNIT_GUARDIAN_CHAOS >
+name=Guardian
+descr=Gain Lvl x 1 additional stars upon defeating units from Encounter panels.
+
+< CARD_UNIT_EVILGUARDIAN >
+name=The Harbinger
+descr=Cannot be damaged or KO'd outside of battle. Challenge other units when passing by them. If the opponent is defeated in battle, steal 1 fame, gain a stack of Soul Eater and heal 1 HP if not Awakened. Give 2 fame + stolen fame when KO'd.
+
+< CARD_UNIT_EVILMOUSSE >
+name=Dark Chocolate Mousse
+descr=Cannot be damaged or KO'd outside of battle. If the opponent is defeated in battle, steal 1 fame, gain a stack of Star Eater and heal 1 HP if not Awakened. Give 2 fame + stolen fame when KO'd. After battle, warp to a random panel.
+
+< CARD_UNIT_FAE >
+name=Aurora
+descr=+1 MOV. Cannot challenge other players. Heal the summoner by 1 HP, or revive them with half HP every even-numbered chapters.
+
+< CARD_UNIT_FAE_CHAOS >
+name=Aurora
+descr=+1 MOV. Heal self by 1 HP, or revive self with half HP every even-numbered chapters. If not KO'd and standing on the same panel with other active players at the end of your turn, each active player on the panel recovers 1 HP.\nFor each other player you heal, gain 5 stars.
+
+< CARD_UNIT_MERCENARY >
+name=Mercenary
+descr=Challenges other players when passing by them. 50% of the stars gained in battle are given to the summoner.
+
+< CARD_UNIT_HALENA >
+name=Halena
+descr=Gain Lvl x2 stars after landing on your own home.
+
+< CARD_UNIT_COOK >
+name=Cook
+descr=Gain a stack of Hungry when using Evade (max 3). With 3 Hungry, gain -1 EVD. Lose all Hungry when landing on your own home.
+
+< CARD_UNIT_LONERIDER >
+name=Lone Rider
+descr=If your Move roll result is higher than 6, gain +1 ATK, +1 DEF and +2 EVD until the start of your next turn.
+
+< CARD_UNIT_MERCHANT >
+name=Merchant
+descr=Can hold 4 cards.\nGain a Freight card when stopping on another player's Home panel.
+
+< CARD_UNIT_HIMEV2 >
+name=Hime (Moonlight)
+descr=During full moon (every 5 chapters), base attributes are -1 ATK, -1 DEF, +3 EVD.
+
+< CARD_UNIT_FERNETNOBLE >
+name=Fernet (Noble)
+descr=Any player challenging you on the field must pay their Lvl x Stars to do so.
+
+< CARD_COOP_UNIT_FERNETNOBLE >
+name=Fernet (Noble)
+descr=Any enemy challenging you on the field will pay your Lvl x Stars. 
+
+< CARD_UNIT_SHIFU >
+name=Shifu
+descr=Deal +2 battle damage to robotic wild units. When a robotic wild unit defeats an opposing player, gain 1 Win.
+
+< CARD_UNIT_REIKA >
+name=Hoshino Reika
+descr=Can only choose Stars norma.\nGain +1 star from all sources except for chapter bonus or from Star Collector.
+
+< CARD_UNIT_WATTY >
+name=Watty
+descr=After battle, gain 1 stack of Hardened Scales for each point of damage reduced by using Defend (max 5).\n(For 3 Chapters: gain +1 ATK per stack. Effect expires on KO).
+
+< CARD_UNIT_POMERANIUS >
+name=Pomeranius
+descr=Ignore any Trap card landed on when your HP is full or higher.
+
+< CARD_COOP_UNIT_WATTY >
+name=Watty
+descr=After battle, gain 1 stack of Hardened Scales for every 2 points of damage reduced by using Defend (max 5).\n(For 3 Chapters: gain +1 ATK per stack. Effect expires on KO).
+
+< CARD_UNIT_SWEETCREATOR >
+name=Sweet Creator
+descr=When anyone else plays a Sweets type non-trap card, or activates a Sweets type trap card, gain stars equal to 2x Lvl of the card.
+
+< CARD_UNIT_SWEETMAKER >
+name=Saki (Sweet Maker)
+descr=If active after activating an Encounter panel, draw a Sweets type card of usable level.
+
+< CARD_UNIT_SWEETBLOGGER >
+name=Natsumi (Sweet Blogger)
+descr=All Sweets type cards are free to play. If active after activating a Drop panel, draw a Sweets type card of usable level.
+
+< CARD_UNIT_BOSSJONATHAN_CHAOS >
+name=Big the Jonathan
+descr=
+
+< CARD_UNIT_BOSSHARUO_CHAOS >
+name=Big the Haruo
+descr=
+
+< CARD_UNIT_AGGRESSIVECHICKEN_CHAOS >
+name=Aggressive Chicken
+descr=Grant an additional die to the summoner when rolling attack in battle, while reducing ATK and DEF by 2.\nGain +1 ATK if your opponent in battle has more than 1 base ATK.
+
+< CARD_UNIT_BOSSM10_CHAOS >
+name=M10 Robot
+descr=On your turn, do not stop when challenging a player.
+
+< CARD_UNIT_BOSSSTARDEV_CHAOS >
+name=Star Devourer
+descr=Steal 1 star per damage given to enemies in battle, and give 1 star per damage taken in battle. Automatically win the game if you reach 200 stars, while being on the final norma requirement.
+
+< CARD_UNIT_POPPO_CHAOS >
+name=Chaos Poppo
+descr=Deal no combat damage but steal 2 stars per damage dealt that is given directly to the summoner. When KO in battle, gives 10 Stars from the summoner and 2 Wins.
+
+< CARD_UNIT_BOSSQP_CHAOS >
+name=Summer Beast
+descr=1 Hype is gained when dealing damage, and taking damage in battle. 2 Hype is gained on another player KO. Max 10. Automatically revive with full HP if having 4 Hype or more, which will then be consumed.
+
+< CARD_UNIT_BOSSROPOCHI_CHAOS >
+name=RoPoChi
+descr=
+
+< CARD_UNIT_BOSSCOACH_CHAOS >
+name=Swimming Coach
+descr=If Goalpost is summoned: Gain +2 ATK. If Balloon Jerk is summoned: Gain +2 DEF. If Swimming Ringer is summoned: Gain 3 stars per turn.
+
+< CARD_UNIT_MIOFESTIVE >
+name=Mio (Festive)
+descr=
+
+< CARD_UNIT_KRILAPAJAMAS >
+name=Krilalaris (Pajamas)
+descr=Tidak dapat menggunakan Evade saat bertempur. If you would suffer 1 damage while using the Defend command, cancel that damage and pay your Lvl x stars to the opponent.
+
+< CARD_UNIT_MIMYUUJAILBIRD >
+name=Mimyuu (Jailbird)
+descr=When KO’d in battle, pindah ke panel Rumahmu.
+
+< CARD_UNIT_MOTHERP >
+name=Mother Poppo
+descr=When warping, take 1 damage. If active after warping, draw a card and gain Lvl x1 stars.
+
+< CARD_UNIT_DARKL >
+name=Dark Lulu
+descr=Lose your Lvl x2 stars when declining a challenge.
 
 [EOF]

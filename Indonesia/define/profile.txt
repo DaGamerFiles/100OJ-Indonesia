@@ -14,6 +14,9 @@ Avatar
 < PROFILE_LABEL_GALLERY >
 Galeri
 
+< PROFILE_LABEL_TAUNTS >
+Taunts
+
 < PROFILE_LABEL_STATS >
 Stat
 
@@ -33,7 +36,7 @@ Tipe
 Nama
 
 < PROFILE_CARDSORT_RARITY >
-Rarity
+Kualitas
 
 < PROFILE_CARDS_UNIT >
 Kartu unit
@@ -144,6 +147,33 @@ Ingin mengganti nama? Biaya: %d bintang
 < PROFILE_NAMECHANGE_COST >
 Biaya
 
+< PROFILE_TAUNTS_SAVESLOTS >
+Simpan Slot
+
+< PROFILE_TAUNTS_UNIT >
+Unit
+
+< PROFILE_TAUNTS_TAUNT >
+Taunt
+
+< PROFILE_TAUNTS_CURRENTVOICE >
+Current voiceline:\n%s
+
+< PROFILE_TAUNTS_PLAY >
+Putar
+
+< PROFILE_TAUNTS_EDIT >
+Ubah Suara
+
+< PROFILE_TAUNTS_BUBBLE_EDIT >
+Bentuk Taunt
+
+< PROFILE_TAUNTS_EMOTE_EDIT >
+Emote
+
+< PROFILE_TAUNTS_SOUND_EDIT >
+Efek Suara
+
 <PROFILE_GALLERY_IMAGES>
 Gambar
 
@@ -163,7 +193,7 @@ Suara
 Berhenti
 
 <PROFILE_GALLERY_ORIGINALBOXARTNAME>
-Original Box Art
+Box Art Asli
 
 <PROFILE_GALLERY_NEWBOXARTNAME>
 Box Art Baru
@@ -181,7 +211,7 @@ Pembuat: %s
 Event Sekolah
 
 <PROFILE_GALLERY_SUMMEREVENTENDING>
-Event musim panas 2018
+Event Musim Panas 2018
 
 <PROFILE_GALLERY_HALLOWEENEVENTENDING>
 Event Halloween 2018
@@ -196,7 +226,7 @@ Event Natal 2018
 Event Mio
 
 <PROFILE_GALLERY_MIUCEOREENDING>
-Kekuatan para Gadis
+Kekuatan Para Gadis
 
 <PROFILE_GALLERY_MIUCEOREENDING>
 Crossed Christmases
@@ -206,6 +236,9 @@ Old Guardians
 
 < PROFILE_GALLERY_WANDERERS >
 Wanderers
+
+< PROFILE_GALLERY_WARUDAPRISONBREAK >
+Waruda Prison Break
 
 <PROFILE_GALLERY_XMAS2017EVENT>
 Event Natal 2017
@@ -221,6 +254,27 @@ Event Musim Semi 2019
 
 <PROFILE_GALLERY_SUMMER2019EVENT>
 Event Musim Panas 2019
+
+<PROFILE_GALLERY_HALLOWEEN2021EVENT>
+Tricked Out Event
+
+<PROFILE_GALLERY_CHAOSEVENT>
+Fool's Gambit
+
+<PROFILE_GALLERY_SUMMER2022EVENT>
+Path to Secrets Event
+
+<PROFILE_GALLERY_WINTER2022EVENT>
+Clash of Cakes
+
+<PROFILE_GALLERY_CONTESTWINTER2022_COOLNESS>
+Winter 2022 Art Contest: Coolest Winning Entry
+
+<PROFILE_GALLERY_CONTESTWINTER2022_WHOLESOME>
+Winter 2022 Art Contest: Most Wholesome Winning Entry
+
+<PROFILE_GALLERY_CONTESTWINTER2022_ESSENCE>
+Winter 2022 Art Contest: Essence of 100% Orange Juice Winning Entry
 
 <PROFILE_GALLERY_BGM_MENU>
 Menu
@@ -268,10 +322,16 @@ Ultimate Weapon Girl: Instrumental
 Ultimate Weapon Girl: Poppo
 
 <PROFILE_GALLERY_BGM_FIELD_WINTERTOWN>
-Field Intro: Beginner Town (Musim Dingin)
+Intro: Kota Pemula (Musim Dingin)
 
 <PROFILE_GALLERY_BGM_FIELD_DESERT>
-Field Intro: Lonely Railway
+Intro: Lonely Railway
+
+<PROFILE_GALLERY_BGM_FIELD_POOL>
+Intro: Whirlpool
+
+<PROFILE_GALLERY_BGM_FIELD_CIRCUS>
+Intro: Sirkus
 
 <PROFILE_GALLERY_BGM_HARBINGER>
 The Harbinger
@@ -283,10 +343,10 @@ Hono
 hexun
 
 <PROFILE_GALLERY_ARTIST_AME>
-Ame
+Miyazaki Shiyuri
 
 <PROFILE_GALLERY_ARTIST_KAGAWA_YUSAKU>
-Yusaku Kagawa
+Kagawa Yusaku
 
 <PROFILE_GALLERY_ARTIST_MO>
 Mo
@@ -318,11 +378,47 @@ Sora
 <PROFILE_GALLERY_ARTIST_TSUKINO>
 Tsukino
 
+<PROFILE_GALLERY_ARTIST_490>
+490
+
+<PROFILE_GALLERY_ARTIST_NEKOY>
+Nekoy
+
+<PROFILE_GALLERY_ARTIST_POPPUCHAN>
+Poppuchan
+
+<PROFILE_GALLERY_ARTIST_YASUMEYUKITO>
+YasumeYukito
+
+<PROFILE_GALLERY_ARTIST_PENCILCHEWING>
+pencilchewing
+
+<PROFILE_GALLERY_ARTIST_PEAFISH>
+_peafish
+
+<PROFILE_GALLERY_ARTIST_9HF>
+9HF
+
+<PROFILE_GALLERY_ARTIST_KAZEVER>
+Kazever
+
+<PROFILE_GALLERY_ARTIST_SEIKATANIGUCHI>
+Seika Taniguchi
+
+<PROFILE_GALLERY_ARTIST_MI3LI>
+mi3li
+
+<PROFILE_GALLERY_ARTIST_SCORPIONCARD>
+ScorpionCard
+
+<PROFILE_GALLERY_ARTIST_JO>
+jo
+
 <PROFILE_GALLERY_VOICES_DICE_ROLL>
-Lepmar Dadu
+Lempar dadu
 
 <PROFILE_GALLERY_VOICES_USE_CARD>
-Menggunakan Kartu
+Pakai kartu
 
 <PROFILE_GALLERY_VOICES_USE_TRAP>
 Kartu Trap
@@ -340,7 +436,7 @@ Bangkit kembali
 Gagal bangkit
 
 <PROFILE_GALLERY_VOICES_ATTACK>
-Serang
+Menyerang
 
 <PROFILE_GALLERY_VOICES_EFFECT_DAMAGE>
 Efek Damage
@@ -349,7 +445,7 @@ Efek Damage
 Heal
 
 <PROFILE_GALLERY_VOICES_WARP>
-Terlempar
+Berpindah
 
 <PROFILE_GALLERY_VOICES_KO>
 Kalah
@@ -373,10 +469,10 @@ Damage besar
 Menghindar
 
 <PROFILE_GALLERY_VOICES_BATTLE_WIN>
-Menang
+Menang battle
 
 <PROFILE_GALLERY_VOICES_BATTLE_LOSE>
-Kalah
+Kalah battle
 
 <PROFILE_GALLERY_VOICES_BONUS>
 Panel bonus
@@ -391,10 +487,10 @@ Kena trap
 Bertemu boss
 
 <PROFILE_GALLERY_VOICES_STAR_NORMA>
-Norma bintang
+Norma Star
 
 <PROFILE_GALLERY_VOICES_WIN_NORMA>
-Norma menang
+Norma Win
 
 <PROFILE_GALLERY_VOICES_CHARACTER_SELECT>
 Pemilihan karakter
@@ -409,16 +505,16 @@ Kemanangan
 Dapat barang baru
 
 <PROFILE_GALLERY_VOICES_GENERIC>
-Jalur Generik
+Baris Biasa
 
 <PROFILE_GALLERY_VOICES_ENEMY_HYPER>
-Musuh Hyper
+Hyper Musuh
 
 <PROFILE_GALLERY_VOICES_USE_HYPER_ALTERNATIVE>
 Kartu Hyper Versi Alternatif
 
 <PROFILE_GALLERY_VOICES_SPECIAL>
-Jalur Khusus
+Baris Spesial
 
 <PROFILE_GALLERY_CUTSCENES_EPISODE>
 Episode
@@ -436,7 +532,7 @@ Jeda
 Dibersihkan
 
 <PROFILE_STATS_MOST_USED>
-Sering dipakai
+Sering Dipakai
 
 <PROFILE_STATS_GAMES_PLAYED>
 Jumlah\nMain
@@ -454,7 +550,7 @@ Menang
 Menang %
 
 <PROFILE_STATS_SIGN_IN_MESSAGE>
-Harap login ke Steam untuk bisa melihat statmu.
+Harap masuk ke Steam untuk melihat statistikmu.
 
 [EOF]
 

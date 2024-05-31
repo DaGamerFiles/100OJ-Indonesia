@@ -138,56 +138,56 @@
 // ========= Scene: Summer 2021 Event Ending =========
 
 // (tomomo)
-<0044> "Alright! We beat the monster! And I got my swim ring back!"
+<0044> "Akhirnya! Kita mengalahkan makhluk besar itu! Dan aku dapat ban renangku kembali!"
 
 // (yuki)
-<0045> "He wasn't as strong as he looked."
+<0045> "Itu tak sekuat yang aku kira."
 
 // (kai)
-<0046> "What did I do to deserve this..."
+<0046> "Aku salah apa sampai jadi begini..."
 
 // (mio)
-<0047> "How was it, Tomomo? Did you have fun?"
+<0047> "Bagaimana, Tomomo? Apa kamu bersenang-senang?"
 
 // (tomomo)
-<0048> "No way! I could've learned how to swim by now if it weren't for you!"
+<0048> "Mana ada! Aku harusnya bisa berenang sekarang kalau bukan karena kamu!"
 
 // (yuki)
-<0049> "Didn't you realize, Tomomo?"
+<0049> "Kamu gak sadar, Tomomo?"
 
 // (kai)
-<0050> "You were swimming when we were fighting that monster."
+<0050> "Kamu tadi berenang saat kita melawan makhluk raksasa itu."
 
 // (tomomo)
-<0051> "Really?! I was way too focused to notice..."
+<0051> "Lah iyakah?! I was way too focused to notice..."
 
 // (mio)
-<0052> "I told you I'd help you♥"
+<0052> "Kan kubilang aku mau membantumu♥"
 
 // (tomomo)
-<0053> "Mio, you actually are a goo-..."
+<0053> "Mio, kamu ternyata orang ba-..."
 
 // (mio)
-<0054> "That said, you don't need that swim ring anymore, right?"
+<0054> "Omong-omong, kamu gak perlu ban renang itu lagi, kan?"
 
 // (tomomo)
-<0055> "Huh, I guess not..."
+<0055> "Hah, nggak juga sih..."
 
 // (mio)
-<0056> "To celebrate your growth, I'll create a stronger monster for you to swim with!"
+<0056> "Untuk merayakannya, aku akan membuat makhluk besar lagi yang lebih kuat untuk jadi rekan renang kalian!"
 
 // (tomomo)
-<0057> "What, wait, what?"
+<0057> "Eh, lah, ngapain?"
 
 // (kai)
-<0058> "What the heck is she saying...?"
+<0058> "Dia ngomong apaan woi...?"
 
 // (yuki)
-<0059> "I didn't see that coming. That girl never gets boring."
+<0059> "Aku tak menduganya. Gadis itu tak ada bosannya."
 
 // (mio)
-<0060> "And it's done. Now you can swim with him to your heart's content, Tomomo♥"
+<0060> "Dan selesai sudah. Sekarang kamu bisa renang sepuasnya bersama makhluk itu, Tomomo♥"
 
 // (tomomo)
-<0061> "That's why no one wants to be friends with you!"
+<0061> "Inilah sebabnya tidak ada yang mau berteman denganmu!"
 

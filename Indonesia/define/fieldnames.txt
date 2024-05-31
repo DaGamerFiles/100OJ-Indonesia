@@ -9,10 +9,10 @@ Tidak diketahui
 Latihan
 
 < FIELD_SPACEWANDERER >
-Space Wanderer
+Pengembara Luar Angkasa
 
 < FIELD_PUDDINGCHASE >
-Pudding Chase
+Pengejaran Pudding
 
 < FIELD_CHRISTMASMIRACLE >
 Keajaiban Natal
@@ -36,13 +36,13 @@ Arsip Tertutup
 Matahari Terbenam
 
 < FIELD_TOMOMOABYSS >
-Tomomo's Abyss
+Jurang Tomomo
 
 < FIELD_WHITEWINTER >
 Putihnya Musim Dingin
 
 < FIELD_NIGHTFLIGHT >
-Night Flight
+Penerbangan Malam
 
 < FIELD_CLOVER >
 Semanggi
@@ -57,31 +57,31 @@ Sirkuit Bintang
 Program pelatihan
 
 < FIELD_VORTEX >
-Vortex
+Pusaran
 
 < FIELD_SWEETHEAVEN >
-Sweet Heaven
+Surga Manisan
 
 < FIELD_STARSHIP >
 Starship
 
 < FIELD_FROSTCAVE >
-Frost Cave
+Gua Beku
 
 < FIELD_SHIPYARD >
 Shipyard
 
 < FIELD_TREASUREISLAND >
-Pulau harta karun
+Pulau Harta Karun
 
 < FIELD_TREASUREISLANDNIGHT >
-Pulau harta karun (Night)
+Pulau Harta Karun (Malam)
 
 < FIELD_WITCHFOREST >
 Hutan Penyihir
 
 < FIELD_ICYHIDEOUT >
-Icy Hideout
+Persembunyian Es
 
 < FIELD_SAKURA >
 Sakura Smackdown
@@ -99,41 +99,55 @@ Over the Sea
 Dark Citadel
 
 < FIELD_BEGINNERTOWN >
-Beginner Town
+Kota Pemula
 
+< FIELD_SCARREDLAND >
+Scarred Land
+
+< FIELD_FUNGUSCAVE >
+Gua Berjamur
+
+< FIELD_WINTERTOWN >
+Kota Pemula (Musim Dingin)
+
+< FIELD_DESERT >
+Lonely Railway
+
+< FIELD_CIRCUS >
+Sirkus
 
 < FIELD_COOP_LAGOONFLIGHT >
-Penerbangan Lagoon CO
+Penerbangan Laguna CO
 
 < FIELD_COOP_SUNSET >
 Matahari Terbenam CO
 
 < FIELD_COOP_POPPOABYSS >
-Poppo's Abyss
+Jurang Poppo
 
 < FIELD_COOP_STARCIRCUIT >
 Sirkuit Bintang CO
 
 < FIELD_COOP_SPACEWANDERER >
-Space Wanderer CO
+Pengembara Luar Angkasa CO
 
 < FIELD_COOP_HIGHWAYHEIST >
 Highway Heist CO
 
 < FIELD_COOP_FARM >
-Tanah pertanian CO
+Tanah Pertanian CO
 
 < FIELD_COOP_SHIPYARD >
 Shipyard CO
 
 < FIELD_COOP_TRAININGPROGRAM >
-Program pelatihan CO
+Program Pelatihan CO
 
 < FIELD_COOP_NIGHTFLIGHT >
-Night Flight CO
+Penerbangan Malam CO
 
 < FIELD_COOP_VORTEX >
-Vortex CO
+Pusaran CO
 
 < FIELD_COOP_CYBERSPACE >
 Cyberspace
@@ -151,13 +165,13 @@ Santa's Workshop CO
 Sakura Smackdown CO
 
 < FIELD_COOP_PUDDINGCHASE >
-Pudding Chase CO
+Pengejaran Pudding CO
 
 < FIELD_COOP_TREASUREISLAND >
-Pulau harta karun CO
+Pulau Harta Karun CO
 
 < FIELD_COOP_TREASUREISLANDNIGHT >
-Pulau harta karun CO (Night)
+Pulau Harta Karun CO (Malam)
 
 < FIELD_COOP_OCEANDIVE >
 Ocean Dive CO
@@ -169,19 +183,43 @@ Over the Sea CO
 Semanggi CO
 
 < FIELD_COOP_FROSTCAVE >
-Frost Cave CO
+Gua Beku CO
 
 < FIELD_COOP_ICYHIDEOUT >
-Icy Hideout CO
+Persembunyian Es CO
 
 < FIELD_COOP_STARSHIP >
 Starship CO
 
 < FIELD_COOP_TOMOMOABYSS >
-Tomomo's Abyss CO
+Jurang Tomomo CO
 
 < FIELD_COOP_WHITEWINTER >
 Putihnya Musim Dingin CO
+
+< FIELD_COOP_BEGINNERTOWN >
+Kota Pemula CO
+
+< FIELD_COOP_CHRISTMASMIRACLE >
+Keajabian Natal CO
+
+< FIELD_COOP_DARKCITADEL >
+Dark Citadel CO
+
+< FIELD_COOP_FUNGUSCAVE >
+Gua Berjamur CO
+
+< FIELD_COOP_PRACTICEFIELD >
+Practice Field CO
+
+< FIELD_COOP_SEALEDARCHIVE >
+Sealed Archive CO
+
+< FIELD_COOP_SWEETHEAVEN >
+Surga Manisan CO
+
+< FIELD_COOP_WHIRLPOOL >
+Pusaran Air
 
 [EOF]
 

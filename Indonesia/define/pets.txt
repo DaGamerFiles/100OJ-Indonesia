@@ -8,8 +8,8 @@ descr=Makhluk yang sangat sulit di tangkap dengan tatapan sombong.
 
 
 < PET_CHICKEN >
-name=Chicken
-descr=Menghindar saat tidak ada lagi yang mendekat.
+name=Ayam
+descr=Menghindar saat yang lain tidak berani.
 
 
 < PET_FRUITBAT >
@@ -29,21 +29,21 @@ descr=Binatang kegelapan yang suka menari.
 
 < PET_NAVI >
 name=Navi
-descr=Makhluk apa ini?
+descr=Makhluk macam apa ini?
 
 < PET_PLANT >
-name=Plant
+name=Tanaman
 descr=Menggigit tangan siapapun yang memberinya makan.
 
 
 < PET_RABBITPLUSH >
-name=Kelinci Mewah
-descr=Kemewahan ini mungkin dimiliki dia.
+name=Boneka Kelinci
+descr=Boneka ini mungkin ada penunggunya.
 
 
 < PET_RACCOON >
 name=Racoon
-descr=Apakah itu rakun? atau anjing? Bisakah itu berubah?
+descr=Apakah itu rakun? Ataukah anjing? Bisakah itu berubah?
 
 
 < PET_RBIT >
@@ -58,12 +58,12 @@ descr=White Christsmasher!
 
 < PET_ROBOBALL >
 name=Roboball
-descr=Mekanisme kecil di hati setiap orang.
+descr=Mekanis kecil di hati setiap orang.
 
 
 < PET_SB_BOMB >
 name=SB Bomb
-descr=Jangan jatuhkan ini.
+descr=Jangan dijatuhkan.
 
 
 < PET_SEAGULL >
@@ -71,7 +71,7 @@ name=Burung Camar
 descr=Nomor favoritnya adalah tujuh.
 
 < PET_SEARCHLIGHT >
-name=Lampu sorot
+name=Lampu Sorot
 descr=Terlihat sedang mencari seseorang.
 
 
@@ -80,8 +80,8 @@ name=Shiba Inu
 descr=Setia pada suatu kesalahan.
 
 < PET_SNOWBUNNY >
-name=Kelinci salju
-descr=Jaga tetap dingin.
+name=Kelinci Salju
+descr=Jaga agar tetap dingin.
 
 
 < PET_THINKBUBBLE >
@@ -90,7 +90,7 @@ descr=Apa yang kamu pikirkan?
 
 < PET_EVENT_REIN >
 name=Rein
-descr=Pembantu Aru yang bisa dipercaya. Berlibur 364 hari dalam setahun.
+descr=Pembantu Aru yang terpercaya. Berlibur selama 364 hari dalam setahun.
 
 
 < PET_EVENT_PRESENT >
@@ -109,15 +109,15 @@ descr=Mungkin atau tidak bisa hidup di dasar bumi.
 
 < PET_DWARF>
 name=Dwarf
-descr=Sekarang benar-benar memenuhi namanya.
+descr=Sekarang benar-benar sesuai namanya.
 
 < PET_PIYO_EGGSHELL>
 name=Piyo (Eggshell)
-descr=Yang mana yang lebih dulu - piyo atau telur?
+descr=Yang mana yang lebih dulu muncul - piyo atau telur?
 
 < PET_PIYO>
 name=Piyo
-descr=Piyo yang datang pertama.
+descr=Piyo yang muncul paling pertama.
 
 < PET_TORTOISE>
 name=Tortoise
@@ -148,8 +148,8 @@ name=Telur Emas
 descr=Telur spesial yang bisa menetas lebih dari satu kali.
 
 < PET_M10EYE >
-name=M10 Eye
-descr=Itu bisa melihat angka imajinasi, kah ?
+name=Mata M10
+descr=Itu bisa melihat angka imajinasi, kah?
 
 < PET_STAR >
 name=Elusive Star
@@ -166,7 +166,7 @@ descr=50% Kupu, 50% Kupu.
 
 < PET_CUPCAKE >
 name=Cupcake
-descr=Di panggang dengan suhu 176 derajat Celcius (350 F).
+descr=Dipanggang dengan suhu 176 derajat Celcius (350 F).
 
 < PET_BOSS_HARUO >
 name=Haruo
@@ -174,11 +174,11 @@ descr=Memiliki hati emas.
 
 < PET_BOSS_JONATHAN >
 name=Big the Jonathan
-descr=Tidak terlalu besar.
+descr=Tidak sepenuhnya besar.
 
 < PET_BOSS_M10 >
 name=M10
-descr=Natural 7 keluar dari M10.
+descr=Peringkat 7 dari M10.
 
 < PET_BOSS_ROPOCHI >
 name=RoPoChi
@@ -214,7 +214,7 @@ descr=Santa laut.
 
 < PET_ROBOFISH >
 name=Robofish
-descr=Di program untuk terus berenang.
+descr=Diprogram untuk terus berenang.
 
 < PET_WATERMELON >
 name=Watermelon
@@ -232,3 +232,63 @@ descr=Makanan favorit anjing dan penyihir di seluruh alam semesta.
 name=Pufferfish
 descr=Sombong karena bangga.
 
+
+< PET_FUNKYFUNGUS >
+name=Funky Fungus
+descr=A fungus in trying times.
+
+< PET_ROBOCRAB >
+name=Robocrab
+descr=It's got the moves.
+
+< PET_PONYCORN >
+name=Ponycorn
+descr=Menyebarkan sihir pertemanan.
+
+< PET_WOLLIL>
+name=Wolli'l
+descr=Saking lembutnya kamu bisa pingsan.
+
+< PET_GLOBLET >
+name=Globlet
+descr=Globlet of fire.
+
+< PET_TROLLITE >
+name=Trol-lite
+descr=Satu ketakutan.
+
+< PET_SPOOKYDOLL >
+name=Boneka Berhantu
+descr=Keimutannya akan menghantui mimpimu.
+
+< PET_HELISEEDLING >
+name=Heliseedling
+descr=Gone with the wind.
+
+< PET_TERRAWORMER >
+name=Terrawormer
+descr=Terrably cute.
+
+< PET_MINIMOSS >
+name=Mini Moss
+descr=Berhati emas.
+
+< PET_GEMERANGLER >
+name=Gemerangler
+descr=A hidden gem.
+
+< PET_WUFFSHROOM >
+name=Wuffshroom
+descr=Man's best fungi.
+
+< PET_TURNISLIM >
+name=Turnislim
+descr=Took one turn too many.
+
+< PET_PUNYZARD >
+name=Punyzard	
+descr=It has been asleep for many long ears.
+
+< PET_MASHIRO >
+name=Masshiro
+descr=No longer unlucky.

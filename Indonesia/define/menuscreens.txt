@@ -2,7 +2,7 @@
 Tekan
 
 < MENU_CONTROLLER_PROCEED >
-memproses
+untuk memulai
 
 < MENU_CLICKPROCEED >
 Klik untuk memulai
@@ -38,7 +38,7 @@ SIAP
 MULAI
 
 < MENU_BUTTON_RETRY >
-LANJUTKAN
+ULANG
 
 < MENU_BUTTON_NEXT >
 MAJU
@@ -58,6 +58,8 @@ TIDAK
 < MENU_BUTTON_STORY >
 CERITA
 
+< MENU_BUTTON_SKIPALL >
+LEWATI SEMUA
 
 < MENU_BUTTON_REFRESH >
 SEGARKAN
@@ -78,16 +80,16 @@ GABUNG
 INTIP
 
 < MENU_BUTTON_DIFFICULTY_CASUAL >
-CASUAL
+KASUAL
 
 < MENU_BUTTON_DIFFICULTY_NORMAL >
 NORMAL
 
 < MENU_BUTTON_DIFFICULTY_ORIGINAL >
-ORIGINAL
+ASLI
 
 < MENU_BUTTON_DIFFICULTY_EXTREME >
-EXTREME
+EKSTREM
 
 
 < MENU_BUTTON_LOBBYLIST_LOBBYNAME >
@@ -121,10 +123,10 @@ Bounty Hunt
 Fish-a-Fish
 
 < MENU_ON >
-Aktif
+Hidup
 
 < MENU_OFF >
-Nonaktif
+Mati
 
 
 < MENU_LOBBYSETTING_EVENT >
@@ -155,10 +157,10 @@ Chaos Mutator
 KEMBALI
 
 < MENU_BUTTON_GAME_CONFIG >
-ATUR
+SUNTING
 
 < MENU_BUTTON_GAME_RETIRE >
-MUNDUR
+KELUAR
 
 
 < MENU_BUTTON_GAME_MOVE >
@@ -174,7 +176,7 @@ INFO
 LINDUNGI
 
 < MENU_BUTTON_GAME_GIFT >
-HADIAH
+BERI
 
 < MENU_BUTTON_GAME_THROW >
 LEMPAR
@@ -210,7 +212,7 @@ BERLINDUNG
 MEGNHINDAR
 
 < MENU_BUTTON_GAME_FIGHT >
-BERTARUNG
+LAWAN
 
 < MENU_BUTTON_GAME_END >
 SELESAI
@@ -225,10 +227,13 @@ JUAL KARTU
 BOM
 
 < MENU_BUTTON_GAME_DASH >
-HINDAR
+BERLARI
 
 < MENU_BUTTON_GAME_EAT >
 MAKAN
+
+< MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
+Break Out!
 
 < PLAYMENU_FREEBATTLE >
 ONLINE
@@ -270,7 +275,7 @@ Lihat statistikmu, terlusuri kartu dan atur Avatarmu.
 Lihat profil karakter dan lainnya.
 
 < PLAYMENU_TOOLTIP_MANUAL >
-Buka bagaimana cara bermain game ini.
+Buka panduan permainan.
 
 < PLAYMENU_TOOLTIP_WIKI >
 Kunjungi komunitas wiki yang diatur oleh fans untuk informasi lebih rinci.
@@ -306,19 +311,19 @@ Menyelesaikan skenario tambahan: %s.
 Perayaan Natal telah tersimpan!\n(Tapi apakah Waruda telah mengubah caranya masih harus dipantau...)
 
 < PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_MAIN >
-Collect a total of %s Chocolate to complete your mission!
+Kumpulkan sebanyak %s Cokelat untuk menyelesaikan misimu!
 
 < PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_01 >
-Collect Chocolate from panels and by defeating enemies.
+Kumpulkan Cokelat dari panel dan saat mengalahkan musuh.
 
 < PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_02 >
-Defeat enemy players to steal half of their Held chocolate.
+Kalahkan pemain lain untuk mencuri setengah dari cokelat mereka.
 
 < PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_03 >
-When carrying at least 500 Chocolate, store them at a home stop to prevent them from getting stolen.
+Jika kamu membawa 500 Chocolate, simpan di perhentianmu agar tidak dicuri pemain lain.
 
 < PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
-The sweets of the world have been saved!\n(For now, at least...)
+Manisan di seluruh dunia telah diselamatkan!\n(Yah, untuk sekarang...)
 
 < PLAYMENU_EVENT_GAMESPLAYED >
 Game dimainkan: %d
@@ -327,25 +332,25 @@ Game dimainkan: %d
 Bonus item: %d/%d
 
 < PLAYMENU_EVENT_VIEWPROGRESS >
-Lihat kemajuan
+Lihat Kemajuan
 
 < PLAYMENU_EVENT_MILESTONE >
 Milestone berikutnya:
 
 < RANDOMFILTER_EVENTS >
-Pilih event secara "Acak"
+Pilih Event secara "Acak"
 
 < RANDOMFILTER_MAPS >
-Pilih peta secara "Acak"
+Pilih Peta secara "Acak"
 
 < RANDOMFILTER_CHARACTERS >
-Pilih karakter secara "Acak"
+Pilih Karakter secara "Acak"
 
 < POPPOMARCH_CLICKTHESE >
 Klik %d ini!
 
 < PEEKSHROOM_MEMORIZE >
-Memorize!
+Hafalkan!
 
 < PEEKSHROOM_ORDER >
 Pesan!
@@ -785,16 +790,16 @@ Moreover, a mysterious Harbinger may appear after chapter 15 and begin to hunt t
 Cook has been fed and the journey is beginning! But you can still keep playing Bounty Hunt to unlock bonus event rewards on your way.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_MAIN >
-Let's enjoy Mio's coaching and learn to swim! A new Co-op boss, the Swimming Coach, is now available!
+Mari nikmati latihan dari Mio serta bagaimana caranya berenang! Boss Co-op baru, Swimming Coach, sekarang tersedia!
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
-All the damage you deal to Swimming Coach advances the event for everyone.
+Semua damage yang diberikan ke Swimming Coach masuk dalam kemajuan event untuk semua orang.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
-You can also fight any other Co-op boss to contribute to the event.
+Kamu juga bisa melawan boss Co-op lainnya untuk berkontribusi dalam event.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
-The event has been cleared, and Tomomo has learned to swim! You can still take more training sessions with the Swimming Coach, though.
+Event telah diselesaikan, dan Tomomo sekarang bisa berenang! Kamu masih bisa berlatih renang dengan Swimming Coach.
 
 < PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_MAIN >
 It's time to scramble for decorations to trick out the house!
@@ -886,6 +891,30 @@ To unlock the event's ending, you must reach your personal goal of event games p
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
 A new cake trend is here! Everyone can enjoy Mio's fashionable creations around the world! You can still keep searching for more cakes if you haven't had your fill. 
 
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_MAIN >
+We're surrounded! Help Ellie and Lulu fight off hordes of aggressive Mousse to get your hands on the promised treasure!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_01 >
+Play games in the Treasure Tails event mode or Bounty Hunt mode to fight Mousse!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_02 >
+Treasure Tails is an adjusted version of Bounty Hunt game mode with several key differences including lower Norma, 50% cheaper shop prices, and extra +1 hand size.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_03 >
+The 3 Bounties available are always Mousse (easy), Key Lime Mousse (medium) and Strawberry Mousse (hard).\nDefeat any of them to progress in the event!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_04 >
+In addition, completing a Quest will trigger a bounty fight against a 2 HP Mousse instead of granting 2 fame immediately. 
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
+Finally, a new invader, Dark Chocolate Mousse, will doom players' stars instead of their lives...\nDefeating Dark Chocolate Mousse grants 3 points of progress in the event.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
+What are the Mousse guarding, and why...?
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
+You have found the "treasure" Ellie was seeking for... but what is going on now?
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Tujuan berikitnya:
 
@@ -908,13 +937,16 @@ Fame: %d
 Kamu mendapatkan pita Lulu!
 
 < PLAYMENU_LOADING_TEXT > 
-Tunggu...
+Memuat...
 
 < PLAYMENU_CONNECTING_TEXT > 
 Menghubungkan...
 
 < PLAYMENU_INVENTORY_STACKING_TEXT >
 Menyusun item inventory...
+
+< PLAYMENU_2MDOWNLOADS_MESSAGE >
+Terima kasih untuk 2 juta lebih unduhan!\nMisi Extra baru telah tersedia!\nApa yang sedang Mio rencanakan...?
 
 < MENU_BOSS_DIFFICULTY_CASUAL >
 Kasual
@@ -923,7 +955,7 @@ Kasual
 Normal
 
 < MENU_BOSS_DIFFICULTY_EXTREME >
-Extreme
+Ekstrem
 
 < MENU_BOSS_DIFFICULTY_HYPER >
 Hyper
@@ -954,7 +986,7 @@ Kemampuan: %s\n%s
 Orange +%d
 
 < MENU_COOPUNLOCK_DECKPOINT >
-Deck point +%d
+Poin dek +%d
 
 < MENU_COOPUNLOCK_ROLEHYPER >
 Role hyper 
@@ -969,35 +1001,35 @@ Tantangan Hyper telah tersedia untuk %s di tantangan mode co-op!
 Role baru telah tersedia di mode co-op: %s!
 
 < MENU_SHOP_RETIREDEVENTITEM >
-Hadiah even untuk %s sudah ditambahkan ke toko!
+Hadiah event untuk %s sudah ditambahkan ke toko!
 
 < MENU_WEEKLY_FREE_LABEL >
 GRATIS MINGGU INI
 
 < MENU_WEEKLY_FREE_TOOLTIP >
-Kamu bisa memainkan 2 DLC atau bonus karakter ini secara gratis untuk minggu ini.\nKarakter dan suara dialog juga tersedia.
+Kamu bisa memainkan 2 DLC atau karakter bonus berikut secara gratis untuk minggu ini.\nSuara untuk menu juga dapat digunakan.
 
 < MENU_WORKSHOP_THUMBNAIL_REQUIRED >
-Thumbnail custom diperlukan untuk mengirim mod.\n\nPeriksa dokumentasi modding untuk informasi lebih lanjut.
+Pratinjau buatan diperlukan untuk mengirim mod kamu.\n\nPeriksa dokumentasi modding untuk informasi lebih lanjut.
 
 < MENU_WORKSHOP_CONTEST_UNAVAILABLE >
 Kamu tidak bisa mengirim item ini:\nTidak ada konten yang aktif untuk saat ini.
 
 < MENU_WORKSHOP_AGREEMENT_ERROR >
-Kamu tidak bisa mengirim item ini:\nSteam Workshop legal agreement tidak menerimanya.
+Kamu tidak bisa mengirim item ini:\nKesepakatan hukum Steam Workshop tidak diterima.
 
 < MENU_WORKSHOP_PUBLISH >
-Kirim
+Unggah
 
 < MENU_WORKSHOP_WORKSHOP_BTN >
 Workshop
 
 < MENU_WORKSHOP_PUBLISHING >
-Upload mod kamu ke Steam Workshop...
+Mengupload mod kamu ke Steam Workshop...
 
 // The website will be below this message as a link
 < MENU_WORKSHOP_PREMESSAGE >
-Dengan mengupload, atau memperbarui mod kamu ke Steam Workshop, kamu menyetujui persyaratan layanan yang ditentukan oleh web berikut:
+Dengan mengupload, atau memperbarui mod kamu ke Steam Workshop, kamu menyetujui persyaratan layanan yang ditentukan oleh laman berikut:
 
 < MENU_WORKSHOP_ERROR >
 Layanan Steam Workshop mengalami kesalahan. \n\n %s
@@ -1006,10 +1038,10 @@ Layanan Steam Workshop mengalami kesalahan. \n\n %s
 Tidak memiliki hak untuk melakukan tindakan ini.
 
 < MENU_WORKSHOP_ERROR_2 >
-Kamu telah di banned dari mengupload konten ke Workshop.\nHarap coba hubungi Steam Support.
+Kamu telah dilarang mengupload konten ke Workshop.\nHarap hubungi Steam Support.
 
 < MENU_WORKSHOP_ERROR_3 >
-Koneksi timeout. Harap coba lagi.
+Sambungan berakhir. Harap coba lagi.
 
 < MENU_WORKSHOP_ERROR_4 >
 Tidak terhubung ke Steam.
@@ -1042,7 +1074,7 @@ Akses ditolak.
 Error tidak diketahui.
 
 < MENU_PLATE_FIRSTTIMEUNLOCK >
-Kamu sekarang bisa mengatur plate pemain!\nBeberapa yang terbuka akan mengikuti dari pesan ini saat kamu menyelesaikan event sebelumnya, tantangan, atau memenuhi Level tertentu.\nKamu bisa mengatur plate di info pemain -> Avatar.
+Kamu sekarang bisa mengatur plate pemainmu!\nBeberapa yang terbuka akan mengikuti dari pesan ini saat kamu menyelesaikan event sebelumnya, kampanye, atau memenuhi Level tertentu.\nKamu bisa mengatur plate di Info Pemain -> Avatar.
 
 < MENU_PREVIEW >
 Tampilan
@@ -1092,7 +1124,7 @@ Normal
 Spesial
 
 < MENU_ENDGAME_REWARDS_DISABLED >
-Hadiah permainan terakhir dimatikan.
+Hadiah di akhir permainan dimatikan.
 
 < MENU_ACHIEVEMENTS_DISABLED >
 Achievement dimatikan.
@@ -1107,12 +1139,12 @@ Unit lainnya segera hadir!
 Selamat datang di OJDex!\nMenu pengetahuan tidak terbatas ini memungkinkan untuk menelusuri informasi setiap karakter, dan masih banyak lagi yang akan datang di masa mendatang.
 
 < MENU_CODEX_INSTRUCTION_2 >
-Untuk membuka informasi karakter, kamu perlu memainkan satu game online dengan karakter tersebut di mode game apa pun. Perlu diperhatikan bahwa game online mode Normal yang dilacak sebelumnya akan ditambahkan ke progress saat ini.
+Untuk membuka informasi karakter, kamu perlu memainkan beberapa jumlah game online dengan karakter tersebut dalam mode apa saja. Untuk diingat bahwa game online dalam mode Normal sebelumnya sudah ditambahkan ke pelacak kemajuan.
 
 < MENU_CODEX_INSTRUCTION_3 >
-Setelah mencapai 50 game online dengan satu unit, kamu akan membuka pin plate karakter masing-masing.
+Setelah mencapai 50 game online dengan satu unit, kamu akan mendapatkan pin karakter masing-masing.
 
 < MENU_CODEX_INSTRUCTION_4 >
-Kami harap kamu menikmati fitur baru ini. Jangan ragu untuk memposting umpan balik di forum Steam, atau server Discord kami!
+Kami harap kamu menikmati fitur baru ini. Jangan ragu untuk mengirimkan umpan balik di forum Steam, atau server Discord kami!
 
 [EOF]
