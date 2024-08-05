@@ -45,7 +45,7 @@ Acak
 Unik
 
 < CONFIG_SYSTEM_PROFANITYFILTER >
-Saring Kata kasar
+Saring Kata Kasar
 
 < CONFIG_SYSTEM_RICH_PRESENCE >
 Rich Presence (Steam dan Discord)
@@ -63,7 +63,7 @@ Kecepatan Pergerakan Animasi
 Kecepatan
 
 < CONFIG_SYSTEM_FIELD_LUMINOSITY >
-Tingkat Kecerahan Field
+Tingkat Kecerahan Papan
 
 < CONFIG_SYSTEM_FIELD_LUMINOSITY_LABEL >
 Kecerahan
@@ -156,7 +156,7 @@ Daftar Mod - %d mod terinstall.
 Dibuat oleh: %s
 
 < CONFIG_MODS_MODLIST_DOCUMENTATION >
-Dokumentasi Online
+Dokumentasi Daring
 
 < CONFIG_MODS_NONE >
 Tidak ada mod yang terinstall.

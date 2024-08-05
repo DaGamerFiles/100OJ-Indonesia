@@ -2,10 +2,10 @@
 Tekan
 
 < MENU_CONTROLLER_PROCEED >
-untuk memulai
+untuk melanjutkan
 
 < MENU_CLICKPROCEED >
-Klik untuk memulai
+Klik untuk melanjutkan
 
 < MAINMENU_NEWGAME >
 GAME BARU
@@ -86,7 +86,7 @@ KASUAL
 NORMAL
 
 < MENU_BUTTON_DIFFICULTY_ORIGINAL >
-ASLI
+ORISINIL
 
 < MENU_BUTTON_DIFFICULTY_EXTREME >
 EKSTREM
@@ -123,7 +123,7 @@ Bounty Hunt
 Fish-a-Fish
 
 < MENU_ON >
-Hidup
+Nyala
 
 < MENU_OFF >
 Mati
@@ -133,7 +133,7 @@ Mati
 Event Musiman
 
 < MENU_LOBBYSETTING_PASSWORD >
-Password
+Kata Sandi
 
 < MENU_LOBBYSETTING_HIDEPASSWORD >
 Sembunyikan
@@ -153,6 +153,12 @@ Timer
 < MENU_LOBBYSETTING_CHAOSMUTATOR >
 Chaos Mutator
 
+< MENU_LOBBYSETTING_INVADER >
+Invader
+
+< MENU_LOBBYSETTING_PVPBOUNTIES >
+Player Bounties
+
 < MENU_BUTTON_GAME_RETURN >
 KEMBALI
 
@@ -164,7 +170,7 @@ KELUAR
 
 
 < MENU_BUTTON_GAME_MOVE >
-PINDAH
+JALAN
 
 < MENU_BUTTON_GAME_CARD >
 KARTU
@@ -229,8 +235,14 @@ BOM
 < MENU_BUTTON_GAME_DASH >
 BERLARI
 
+< MENU_BUTTON_GAME_FORECAST >
+FORECAST
+
 < MENU_BUTTON_GAME_EAT >
 MAKAN
+
+< MENU_BUTTON_GAME_BOUNTY >
+BOUNTY
 
 < MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
 Break Out!
@@ -263,10 +275,10 @@ KELUAR
 Bermain online melawan pemain lain.
 
 < PLAYMENU_TOOLTIP_SHOP >
-Beli kumpulan kartu baru, unit, peralatan kosmetik dan masih banyak lagi.
+Beli kumpulan kartu baru, karakter, kustomisasi dan masih banyak lagi.
 
 < PLAYMENU_TOOLTIP_CAMPAIGN >
-Pilih karakter dan dadu ke storyline di single player.
+Pilih karakter dan masuk ke dalam cerita mereka dalam single player.
 
 < PLAYMENU_TOOLTIP_PROFILE >
 Lihat statistikmu, terlusuri kartu dan atur Avatarmu.
@@ -619,7 +631,7 @@ You can help the struggle by fighting against any of the bosses.
 Tomomo is giving the players a magical boost! Co-op abilities are now much faster to acquire!
 
 < PLAYMENU_EVENT_MIO_INSTRUCTION_06 >
-You will now start with all co-op attribute bonuses, and unlock all abilities by level 10. Co-op role level cap has also been lifted.
+You will now start with all Co-op attribute bonuses, and unlock all abilities by level 10. Co-op role level cap has also been lifted.
 
 < PLAYMENU_EVENT_MIO_INSTRUCTION_COMPLETE >
 RoPoChi has been defeated, but the true mastermind awaits! Experience the finale of the story in the newly unlocked extra mission.
@@ -632,32 +644,47 @@ New quests await in our new Bounty Hunt game mode! Help Ellie and Lulu reach ran
 
 // Instruction about the game mode button
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_01 >
-To play the Bounty Hunt mode, toggle between Normal and Bounty Hunt when creating a new lobby or starting a single player game.
+To play the Bounty Hunt mode, toggle between Normal, Co-op and Bounty Hunt when creating a new lobby or starting a single player game.
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_02 >
-Quest locations and shops with various useful items appear over the field, and are refreshed every 6 chapters.
+A new Norma type has been added, which is the only Norma available for this mode: Fame. (Note: characters with Norma restrictions can still complete Fame Norma in this mode).
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_03 >
-You can stop at any home, shop, and quest location - though only if you have the corresponding quest related to it!
+You can increase your Fame by completing quests or bounties. Quests and bounties are acquired by stopping at any Home panel, where you will have the option to select a contract.
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_04 >
-A new Norma type has been added, and is the only Norma available for this mode: the Fame. (Note: characters with Norma restrictions can still gain Fame Normas in this mode).
+Quests require you to go to the location shown on the contract in order to fetch an item, then delivering the item to a shop marked with an arrow.
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_05 >
-You can increase your Fame by completing quests or bounties. Bounties give a varying amount of Fame depending on their difficulty!
+Bounties require you to hunt the monster shown on the contract and will give a varying amount of Fame depending on their difficulty.
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_06 >
-Bounty Battles will last for up to 10 rounds. Make sure to gear up before you get into the fight!
+Monsters can be found all over the field, and Bounty battles will last for up to 10 rounds. Make sure to gear up before you get into the fight!
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_07 >
-To help you fight the monsters infesting the land, in this mode all characters have a permanent +1 MOV and +1 hand size and gain additional stars every chapter!
+To help you fight the monsters infesting the land, in this mode all characters have a permanent +1 MOV and gain additional stars every chapter!
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_08 >
-A new and unique boss will appear when a player reaches level 4. Beware of its power! 6 Fame will be given to whoever brings it down!
+Quest locations and shops with various useful items appear over the field. You can stop at any shop in order to buy items and even sell cards!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
+Note that your characters' stats affect your shop prices - the less powerful characters get big discounts you can utilize for different strategies!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_10 >
+A hazy Mirage will appear somewhere on the field, marking the panel the next cleared location will move to. The move instantly happens if a bounty monster is defeated or a shop gets sold out. Then a new panel is marked.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_11 >
+Upon completing your Norma, you'll be able to select one of several perks presented at random. These are permanent and vary from stat bonuses to lower shop prices, etc.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_12 >
+The first time a player reaches Norma 3, an Invader will hit the field. Invaders are enemies with unique abilities that disrupt the game in various ways. Taking them down gives you a bonus!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_13 >
+A strong new boss will appear when a player reaches Norma 4. Beware of its power! 6 Fame will be given to whoever brings it down!
 
 // Final introduction msg
-< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
-It's time for you to become the most famous (and rich) Bounty Hunter!
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_14 >
+It's time for you to become the most famous (and richest) Bounty Hunter in the land!
 
 // Completed.
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_COMPLETE >
@@ -738,6 +765,9 @@ The outcome of the mushroom hunt was a draw(?) this time... but you can still ke
 < PLAYMENU_1MILLIONCHARA_UNLOCK >
 Congratulations! The 1 million download bonus character Mio is now available to use!\nHer character and announcer voice options have also been unlocked!
 
+< PLAYMENU_TOOLTIP_10YEARANNIVERSARY >
+10-Year Steam Anniversary Gift!\nYou can switch the card back by clicking on its icon on the avatar screen.
+
 < PLAYMENU_SUMMER2019_RERUN_REVIVE >
 QP wants to play more! Summer Beast has been revived!
 
@@ -745,7 +775,7 @@ QP wants to play more! Summer Beast has been revived!
 Cook is supposed to help Ellie find what she's looking for once she's been fed enough...? In case it turns out useful, let's go around and collect a bunch of food for her!
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_01 >
-To play the Bounty Hunt mode, toggle between Normal, CO-OP and Bounty Hunt when creating a new lobby or starting a single player game.
+To play the Bounty Hunt mode, toggle between Normal, Co-op and Bounty Hunt when creating a new lobby or starting a single player game.
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_02 >
 When playing the Bounty Hunt mode, food markers may appear on Shops. Stop at a marked Shop to collect a delicacy.
@@ -888,6 +918,9 @@ The two event counters correspond to the method of disposing of the cakes, and e
 < PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
 To unlock the event's ending, you must reach your personal goal of event games played, which will also give you a prize independent of the global event progress.
 
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_01 >
+The world has been saved! Everyone can happily enjoy tasty Christmas cakes again instead of whatever that was! You can still keep searching for leftover cakes. 
+
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
 A new cake trend is here! Everyone can enjoy Mio's fashionable creations around the world! You can still keep searching for more cakes if you haven't had your fill. 
 
@@ -915,6 +948,33 @@ What are the Mousse guarding, and why...?
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
 You have found the "treasure" Ellie was seeking for... but what is going on now?
 
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN >
+A new foe appears! The god of the world demands a bad ending! Recall those memories of the time you spent together to resist her.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_01 >
+Play games in any game mode to receive Memory Fragments, then use them to progress on the event map!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_02 >
+You will gain 3 Memory Fragments for your first game of the day, and an additional Memory Fragment every game.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_03 >
+One Memory Fragment allows you to progress one panel on the event map.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_04 >
+Memory Fragments will automatically be used to travel along the chosen path until a crossroads.\nIt's up to you which path you will take on the journey.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
+Passing certain panels will grant you stars, oranges, or a random cosmetic!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
+Can you recall those memories and help Lulu conquer her darkness?
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN2 >
+The final battle awaits! Defeat Mio in the Extra Mission "Divine Punishment"!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_COMPLETE >
+You have overcome the bad ending laid out by the god of the world! An endless journey lies ahead! You may continue on to collect more rewards.
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Tujuan berikitnya:
 
@@ -929,6 +989,9 @@ Awalan
 
 < PLAYMENU_EVENT_STORYREPLAYBUTTON_ENDING >
 Akhiran
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_INTERLUDE >
+Interlude
 
 < PLAYMENU_EVENT_BOUNTYHUNTERS_FAME > 
 Fame: %d
@@ -1025,11 +1088,11 @@ Unggah
 Workshop
 
 < MENU_WORKSHOP_PUBLISHING >
-Mengupload mod kamu ke Steam Workshop...
+Mengunggah mod kamu ke Steam Workshop...
 
 // The website will be below this message as a link
 < MENU_WORKSHOP_PREMESSAGE >
-Dengan mengupload, atau memperbarui mod kamu ke Steam Workshop, kamu menyetujui persyaratan layanan yang ditentukan oleh laman berikut:
+Dengan mengunggah, atau memperbarui mod kamu ke Steam Workshop, kamu menyetujui persyaratan layanan yang ditentukan oleh laman berikut:
 
 < MENU_WORKSHOP_ERROR >
 Layanan Steam Workshop mengalami kesalahan. \n\n %s
@@ -1038,10 +1101,10 @@ Layanan Steam Workshop mengalami kesalahan. \n\n %s
 Tidak memiliki hak untuk melakukan tindakan ini.
 
 < MENU_WORKSHOP_ERROR_2 >
-Kamu telah dilarang mengupload konten ke Workshop.\nHarap hubungi Steam Support.
+Kamu telah dilarang untuk mengunggah konten ke Workshop.\nHarap hubungi Steam Support.
 
 < MENU_WORKSHOP_ERROR_3 >
-Sambungan berakhir. Harap coba lagi.
+Menyambung terlalu lama. Harap coba lagi.
 
 < MENU_WORKSHOP_ERROR_4 >
 Tidak terhubung ke Steam.
@@ -1056,28 +1119,28 @@ Sepertinya satu bidang pengiriman tidak valid.
 Kamu telah melampaui kuota upload.\nHapus beberapa item workshop dan coba lagi.
 
 < MENU_WORKSHOP_ERROR_8 >
-File tidak ditemukan.\nCoba hapus workshop.dat di lokasi mod dan coba lagi.
+Berkas tidak ditemukan.\nCoba hapus berkas workshop.dat di lokasi mod dan coba lagi.
 
 < MENU_WORKSHOP_ERROR_9 >
-Item ini sudah disubmit\nCoba segarkan kembali.
+Item ini sudah dikirim\nCoba segarkan kembali.
 
 < MENU_WORKSHOP_ERROR_10 >
 Sudah ada item dengan nama yang sama\nCoba buat dengan nama yang unik.
 
 < MENU_WORKSHOP_ERROR_11 >
-Berkaitan dengan password atau email yang diubah, kamu tidak bisa mengupload konten baru.
+Berkaitan dengan password atau email yang diubah, kamu tidak bisa mengunggah konten baru.
 
 < MENU_WORKSHOP_ERROR_12 >
 Akses ditolak.
 
 < MENU_WORKSHOP_ERROR_13 >
-Error tidak diketahui.
+Galat tidak diketahui.
 
 < MENU_PLATE_FIRSTTIMEUNLOCK >
 Kamu sekarang bisa mengatur plate pemainmu!\nBeberapa yang terbuka akan mengikuti dari pesan ini saat kamu menyelesaikan event sebelumnya, kampanye, atau memenuhi Level tertentu.\nKamu bisa mengatur plate di Info Pemain -> Avatar.
 
 < MENU_PREVIEW >
-Tampilan
+Pratinjau
 
 < MENU_PLATEBG_UNLOCK >
 Plate latar belakang baru telah terbuka!
@@ -1097,6 +1160,9 @@ Hadiah Event Yang Selesai
 
 < MENU_PLATE_CAMPAIGNCLEAR_REWARD >
 Hadiah Tantangan Yang Selesai
+
+< MENU_PLATE_DLCPURCHASE_REWARD >
+Hadiah Pembelian DLC
 
 < MENU_NOW_SAVING >
 Menyimpan...
@@ -1127,7 +1193,7 @@ Spesial
 Hadiah di akhir permainan dimatikan.
 
 < MENU_ACHIEVEMENTS_DISABLED >
-Achievement dimatikan.
+Pencapaian dimatikan.
 
 < MENU_CODEX_INFO_LABEL >
 Informasi
@@ -1142,9 +1208,18 @@ Selamat datang di OJDex!\nMenu pengetahuan tidak terbatas ini memungkinkan untuk
 Untuk membuka informasi karakter, kamu perlu memainkan beberapa jumlah game online dengan karakter tersebut dalam mode apa saja. Untuk diingat bahwa game online dalam mode Normal sebelumnya sudah ditambahkan ke pelacak kemajuan.
 
 < MENU_CODEX_INSTRUCTION_3 >
-Setelah mencapai 50 game online dengan satu unit, kamu akan mendapatkan pin karakter masing-masing.
+Setelah memainkan 50 game online dengan suatu karakter, kamu akan mendapatkan pin karakter tersebut.
 
 < MENU_CODEX_INSTRUCTION_4 >
 Kami harap kamu menikmati fitur baru ini. Jangan ragu untuk mengirimkan umpan balik di forum Steam, atau server Discord kami!
+
+< MENU_NORMABOARD >
+Norma Upgrade
+
+< MENU_HIDE_UI >
+Sembunyikan UI
+
+< MENU_SHOW_UI >
+Tampilkan UI
 
 [EOF]

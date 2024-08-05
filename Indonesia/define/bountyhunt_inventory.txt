@@ -36,7 +36,7 @@ descr=Göst lesu yang lucu.
 
 < INVENTORY_WOLLY >
 name=Wolly Milk
-descr=Susu segar dari Wolly.
+descr=Susu segar dari Wolly. Sky Baker memerlukannya untuk adonan roti.
 
 < INVENTORY_BUCKET >
 name=Empty Bucket
@@ -48,11 +48,11 @@ descr=Sarung tangan yang mampu bertahan pada suhu tinggi.
 
 < INVENTORY_GLOBBU >
 name=Globbu
-descr=Magmatic iseng yang suka membakar siapapun.
+descr=Magmatic iseng yang suka membakar siapapun. Alchemist memerlukannya sebagai sumber panas.
 
 < INVENTORY_SANDALS >
 name=Wooden Sandals
-descr=Sendal yang memungkinkan berlari cepat tanpa melukai kaki. Menambahkan +1 MOV.
+descr=Sendal yang memungkinkanmu untuk berlari cepat tanpa melukai kaki. Menambahkan +1 MOV.
 
 < INVENTORY_LEATHERBOOTS >
 name=Leather Boots
@@ -60,9 +60,69 @@ descr=Karya terbaru seorang pengrajin dimana itu merupakan peningkatan dari sand
 
 < INVENTORY_GALESHOES >
 name=Gale Shoes
-descr=Memiliki sihir yang kuat, kamu tidak akan merasa lelah saat memakai sepatu ini. Menambahkan +1 MOV, dan 2 tambahan jika tidak membawa item dari misi dan memiliki kartu kurang dari 2.
+descr=Memiliki sihir yang kuat. Kamu tidak akan merasa lelah saat memakai sepatu ini. Menambahkan +2 MOV, dan +1 tambahan jika menerima 2 kontrak atau kurang.
+
+< INVENTORY_CURSEDSHOES >
+name=Enhanced Gale Shoes
+descr=Menambah +4 MOV, namun hanya dapat menerima satu kontrak aktif.
 
 // Winter 2020 Event Special Item
 < INVENTORY_DELICACY >
 name=Delicacy
-descr=Morsel lezat untuk masakan. Kumpulkan hingga 3 dalam 1 permainan.
+descr=Morsel lezat untuk Cook. Kumpulkan hingga 3 dalam permainan.
+
+< INVENTORY_ATK1 >
+name=Cookie
+descr=Gunakan untuk memperoleh +1 ATK dalam 2 pertarungan selanjutnya. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_ATK2 >
+name=Muffin
+descr=Gunakan untuk memperoleh +2 ATK dalam 2 pertarungan selanjutnya. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_ATK3 >
+name=Pastry
+descr=Gunakan untuk memperoleh +3 ATK dalam 2 pertarungan selanjutnya. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_DEF1 >
+name=Candy
+descr=Gunakan untuk memperoleh +1 DEF dalam 2 pertarungan selanjutnya. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_DEF2 >
+name=Caramel
+descr=Gunakan untuk memperoleh +2 DEF dalam 2 pertarungan selanjutnya. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_DEF3 >
+name=Chocolate
+descr=Gunakan untuk memperoleh +3 DEF dalam 2 pertarungan selanjutnya. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_EVD1 >
+name=Ice Cream
+descr=Gunakan untuk memperoleh +1 EVD dalam 2 pertarungan selanjutnya. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_EVD2 >
+name=Sorbet
+descr=Gunakan untuk memperoleh +2 EVD dalam 2 pertarungan selanjutnya. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_EVD3 >
+name=Gelato
+descr=Gunakan untuk memperoleh +3 EVD dalam 2 pertarungan selanjutnya. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_ASSASSINBADGE >
+name=Assassin's Badge
+descr=A badge signifying membership in a guild of skilled assassins. Its holder is rewarded for targeting other players.
+
+< INVENTORY_ELIXIR >
+name=Elixir
+descr=Use to fully heal yourself. Also cures the user from status effects inflicted by Invaders and removes curses from held contracts.
+
+< INVENTORY_HARBINGERSHIELD >
+name=Dauntless Shield
+descr=Proof of defeating The Harbinger. Wearing this shield increases your bravery, reducing all incoming battle damage by 1.
+
+< INVENTORY_ROGUEBLADE >
+name=Rogue's Twin Blades
+descr=Proof of defeating The Lost Rogue. Wielding these blades allows you to perform critical hits at a 20% rate. (A Critical Hit doubles the result of the unit's attack roll.)
+
+< INVENTORY_DARKCHOCOMOUSSE >
+name=Dark Chocolate Star
+descr=Proof of defeating Dark Chocolate Mousse. Its mysterious power and sweetness grants you 3 stars for each point of damage dealt in battle. Your enemies will also lose 3 stars for each point of damage received in battle.

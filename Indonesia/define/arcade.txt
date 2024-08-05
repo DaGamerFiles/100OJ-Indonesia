@@ -20,14 +20,14 @@ Langka
 Sangat Langka
 
 < PET_SELECT_NOPET >
-Tanpa Pet
+Tanpa Piaraan
 
 
 < ARCADE_ORANGE_GET >
 Mendapatkan Orange!
 
 < ARCADE_PET_GET >
-Mendapatkan Pet!
+Mendapatkan Piaraan!
 
 < ARCADE_COMMON_GET >
 Mendapatkan Item!
@@ -46,10 +46,10 @@ Tunggu...
 
 
 < ARCADE_EXCHANGE_NOPET >
-Tidak ada Pet yang dipilih.
+Tidak ada Piaraan yang dipilih.
 
 < ARCADE_EXCHANGE_CONFIRM >
-Tukar Pet ini?
+Tukar Piaraan ini?
 
 < ARCADE_ERROR_STEAM >
 Tidak terkoneksi ke Steam.
@@ -61,37 +61,37 @@ Ada masalah. Coba lagi nanti.
 Token tidak cukup.
 
 < ARCADE_ERROR_EXCHANGE_QUANTITY >
-Tidak cukup pet untuk di tukar.
+Tidak cukup Piaraan untuk di tukar.
 
 < ARCADE_ERROR_TIMEOUT >
 Batas waktu telah habis. Coba lagi nanti.
 
 < ARCADE_TOOLTIP_PETCATCHER >
-Pakai 3 token untuk mendapatkan pet atau item biasa!
+Pakai 3 token untuk mendapatkan Piaraan atau item biasa!
 
 < ARCADE_TOOLTIP_EXCHANGE >
-Tukar 2 dari pet yang sama untuk mendapatkan warna baru!
+Tukar 2 dari piaraan yang sama untuk mendapatkan warna baru!
 
 < ARCADE_TOOLTIP_EMOTES >
-Mendapatkan chat emoji baru!
+Mendapatkan emotikon obrolan baru!
 
 < ARCADE_TOOLTIP_CONSUMABLES >
 Beli beberapa item untuk digunakan di game!
 
 < ARCADE_TOOLTIP_GAMEMACHINE >
-Mainkan minigames dari event sebelumnya!
+Mainkan minigame dari event sebelumnya!
 
 < ARCADE_MACHINE_PETCATCHER >
 Mencari Piaraan
 
 < ARCADE_MACHINE_SUMMER >
-Mencari Pet Summer
+Mencari Piaraan Musim Panass
 
 < ARCADE_MACHINE_BOUNTYHUNT >
-Mencari Bounty Hunt Pet
+Mencari Piaraan Bounty Hunt
 
 < ARCADE_MACHINE_EXCHANGE >
-Tukar Pet
+Tukar Piaraan
 
 < ARCADE_MACHINE_EMOTES >
 Gachapon Emotikon
