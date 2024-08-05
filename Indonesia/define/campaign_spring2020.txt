@@ -14,19 +14,19 @@
 <0003> Kita kehabisan uang untuk perjalanan...
 
 // (lulu)
-<0004> Kehabisan apa ?
+<0004> Kehabisan apa?
 
 // (ellie)
 <0005> Uang untuk perjalanan! Kita nggak bisa tinggal di penginapan atau beli makanan kalau nggak ada itu!
 
 // (lulu)
-<0006> Kita nggak bisa makan ?! I-ini krisis banget!
+<0006> Kita nggak bisa makan?! I-ini krisis banget!
 
 // (ellie)
 <0007> Uhh, aku nggak punya pilihan selain mancari uang!
 
 // (lulu)
-<0008> Kamu yakin mau melakukan hal itu ?
+<0008> Kamu yakin mau melakukan hal itu?
 
 // (ellie)
 <0009> Nggak apa-apa. aku kan gadis yang sangat imut, aku yakin aku bisa menghasilkan cukup uang untuk membeli suatu negara dalam sehari...!
@@ -35,16 +35,16 @@
 <0010> Mungkin rumah anjing bisa kamu dapatkan.
 
 // (ellie)
-<0011> Hah ? Kamu menghina aku?
+<0011> Hah? Kamu menghina aku?
 
 // (lulu)
 <0012> Nggak mungkin lah.
 
 // (ellie)
-<0013> Hmm, seriusan nih, kita harus ngapain ? Nggak bakal bisa dapat makanan berarti nggak bisa mempertahankan tubuhku yang menakjubkan ini.
+<0013> Hmm, seriusan nih, kita harus ngapain? Nggak bakal bisa dapat makanan berarti nggak bisa mempertahankan tubuhku yang menakjubkan ini.
 
 // (lulu)
-<0014> Hei, Ellie, apaan tuh yang tertulis di kertas itu ?
+<0014> Hei, Ellie, apaan tuh yang tertulis di kertas itu?
 
 // (ellie)
 <0015> Hmm? itu...
@@ -56,7 +56,7 @@
 <0017> Okelah... Aku bisa mengalahkan semua monster ini dengan mudah!
 
 // (lulu)
-<0018> Apa yang akan terjadi kalau kamu mengalahkan mereka ?
+<0018> Apa yang akan terjadi kalau kamu mengalahkan mereka?
 
 // (ellie)
 <0019> Kita akan dapat hadiah berupa uang!
@@ -68,7 +68,7 @@
 <0021> Kita bisa dapat makanan yang mewah dan tidur di kasur yang nyaman!
 
 // (ellieandlulu)
-<0022> Ahaaa!"
+<0022> Ahaaa!
 
 // (ellie)
 <0023> Oke deh, Lulu, kita berburu monster sekarang juga!
@@ -97,7 +97,7 @@
 <0030> Iyaa, Lulu bekerja sangat keras!
 
 // (ellie)
-<0031> Kamu mau apa ?
+<0031> Kamu mau apa?
 
 // (lulu)
 <0032> Hmm... Lulu mau makanan yang enak, itu saja.
@@ -109,7 +109,7 @@
 <0034> Tapi aku ingin sesuatu sebagai hadiah.
 
 // (lulu)
-<0035> Hadiah ? Hmm, Lulu mungkin mau...
+<0035> Hadiah? Hmm, Lulu mungkin mau...
 
 // (lulu)
 <0036> Dia nggak bisa memikirkan apapun.
