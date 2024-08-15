@@ -3,10 +3,10 @@
 Acak
 
 < FIELD_UNKNOWN >
-Tidak diketahui
+Awanama
 
 < FIELD_PRACTICE >
-Latihan
+Lapangan Berlatih
 
 < FIELD_SPACEWANDERER >
 Pengembara Luar Angkasa
@@ -21,13 +21,13 @@ Keajaiban Natal
 Planet Bumi
 
 < FIELD_LAGOONFLIGHT >
-Penerbangan Lagoon
+Penerbangan Laguna
 
 < FIELD_WARFARE >
-Warfare
+Peperangan
 
 < FIELD_HIGHWAYHEIST >
-Highway Heist
+Perampokan Jalan Raya
 
 < FIELD_SEALEDARCHIVE >
 Arsip Tertutup
@@ -48,13 +48,13 @@ Penerbangan Malam
 Semanggi
 
 < FIELD_FARM >
-Tanah pertanian
+Tanah Pertanian
 
 < FIELD_STARCIRCUIT >
 Sirkuit Bintang
 
 < FIELD_TRAININGPROGRAM >
-Program pelatihan
+Program Pelatihan
 
 < FIELD_VORTEX >
 Pusaran
@@ -63,13 +63,13 @@ Pusaran
 Surga Manisan
 
 < FIELD_STARSHIP >
-Starship
+Kapal Luar Angkasa
 
 < FIELD_FROSTCAVE >
 Gua Beku
 
 < FIELD_SHIPYARD >
-Shipyard
+Galangan
 
 < FIELD_TREASUREISLAND >
 Pulau Harta Karun
@@ -84,25 +84,25 @@ Hutan Penyihir
 Persembunyian Es
 
 < FIELD_SAKURA >
-Sakura Smackdown
+Arena Tinju Sakura
 
 < FIELD_WORKSHOP >
-Santa's Workshop
+Bengkel Santa
 
 < FIELD_OCEANDIVE >
-Ocean Dive
+Penyelaman Samudra
 
 < FIELD_OVERTHESEA >
-Over the Sea
+Di Atas Laut
 
 < FIELD_DARKCITADEL >
-Dark Citadel
+Kastel Gelap
 
 < FIELD_BEGINNERTOWN >
 Kota Pemula
 
 < FIELD_SCARREDLAND >
-Scarred Land
+Dataran Retak
 
 < FIELD_FUNGUSCAVE >
 Gua Berjamur
@@ -111,10 +111,13 @@ Gua Berjamur
 Kota Pemula (Musim Dingin)
 
 < FIELD_DESERT >
-Lonely Railway
+Rel Kereta yang Sepi
 
 < FIELD_CIRCUS >
 Sirkus
+
+< FIELD_VOID >
+Kehampaan
 
 < FIELD_COOP_LAGOONFLIGHT >
 Penerbangan Laguna CO
@@ -132,13 +135,13 @@ Sirkuit Bintang CO
 Pengembara Luar Angkasa CO
 
 < FIELD_COOP_HIGHWAYHEIST >
-Highway Heist CO
+Perampokan Jalan Raya CO
 
 < FIELD_COOP_FARM >
 Tanah Pertanian CO
 
 < FIELD_COOP_SHIPYARD >
-Shipyard CO
+Galangan CO
 
 < FIELD_COOP_TRAININGPROGRAM >
 Program Pelatihan CO
@@ -150,7 +153,7 @@ Penerbangan Malam CO
 Pusaran CO
 
 < FIELD_COOP_CYBERSPACE >
-Cyberspace
+Ruang Maya
 
 < FIELD_COOP_PLANETEARTH >
 Planet Bumi CO
@@ -159,10 +162,10 @@ Planet Bumi CO
 Hutan Penyihir CO
 
 < FIELD_COOP_WORKSHOP >
-Santa's Workshop CO
+Bengkel Santa CO
 
 < FIELD_COOP_SAKURA >
-Sakura Smackdown CO
+Arena Tinju Sakura CO
 
 < FIELD_COOP_PUDDINGCHASE >
 Pengejaran Pudding CO
@@ -174,10 +177,10 @@ Pulau Harta Karun CO
 Pulau Harta Karun CO (Malam)
 
 < FIELD_COOP_OCEANDIVE >
-Ocean Dive CO
+Penyelaman Samudra CO
 
 < FIELD_COOP_OVERTHESEA >
-Over the Sea CO
+Di Atas Laut CO
 
 < FIELD_COOP_CLOVER >
 Semanggi CO
@@ -189,7 +192,7 @@ Gua Beku CO
 Persembunyian Es CO
 
 < FIELD_COOP_STARSHIP >
-Starship CO
+Kapal Luar Angkasa CO
 
 < FIELD_COOP_TOMOMOABYSS >
 Jurang Tomomo CO
@@ -204,16 +207,16 @@ Kota Pemula CO
 Keajabian Natal CO
 
 < FIELD_COOP_DARKCITADEL >
-Dark Citadel CO
+Kastel Gelap CO
 
 < FIELD_COOP_FUNGUSCAVE >
 Gua Berjamur CO
 
 < FIELD_COOP_PRACTICEFIELD >
-Practice Field CO
+Lapangan Berlatih CO
 
 < FIELD_COOP_SEALEDARCHIVE >
-Sealed Archive CO
+Arsip Tertutup CO
 
 < FIELD_COOP_SWEETHEAVEN >
 Surga Manisan CO

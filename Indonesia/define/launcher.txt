@@ -1,6 +1,6 @@
 ﻿
 < LAUNCHER_FONTNAME >
-Tahoma
+Arial
 
 < LAUNCHER_TITLE >
 Setelan 100% Orange Juice
@@ -21,22 +21,22 @@ Layar Full-Color
 Tekstur Full-Color
 
 < LAUNCHER_SCREENMODE_LABEL >
-Mode layar
+Mode Layar
 
 < LAUNCHER_SCREENMODE_WINDOWED >
-Layar bingkai
+Layar Bingkai
 
 < LAUNCHER_SCREENMODE_FULLSCREEN >
-Layar penuh
+Layar Penuh
 
 < LAUNCHER_SCREENMODE_BORDERLESS >
-Layar tanpa bingkai
+Layar Tanpa Bingkai
 
 < LAUNCHER_RESOLUTION_LABEL >
 Resolusi
 
 < LAUNCHER_GAMESPEED_LABEL >
-Kecepatan permainan
+Kecepatan Permainan
 
 < LAUNCHER_GAMESPEED_SLOW >
 Pelan
@@ -48,7 +48,7 @@ Normal
 Cepat
 
 < LAUNCHER_GAMESPEED_SUPERFAST >
-Sangat cepat
+Sangat Cepat
 
 < LAUNCHER_GAMEINFO_BUTTON >
 Info Game

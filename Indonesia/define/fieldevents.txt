@@ -16,63 +16,63 @@ name=Bertemu dengan Bos
 descr=
 
 < FIELDEVENT_REGENERATION >
-name=Regenerasi
-descr=Semua pemain mendapatkan Heal sebanyak 1 HP.\n\nFrekuensi: Setiap 5 chapter
+name=Regeneration
+descr=Semua unit disembuhkan sebanyak 1 HP.\n\nFrekuensi: Setiap giliran ke-5.
 
 < FIELDEVENT_RANDOMWARP >
-name=Pemindahan acak
-descr=Semua pemain dipindahkan ke panel acak.\n\nFrekuensi: Setiap 5 chapter.
+name=Random Warp
+descr=Semua unit dipindahkan ke panel acak.\n\nFrekuensi: Setiap giliran ke-5.
 
 < FIELDEVENT_CHARITY >
 name=Charity
-descr=Semua pemain mendapatkan kartu tambahan.\n\nFrekuensi: Setiap 5 chapter.
+descr=Semua pemain mendapatkan kartu tambahan.\n\nFrekuensi: Setiap giliran ke-5.
 
 < FIELDEVENT_AIRRAID >
-name=Serangan udara
-descr=Semua pemain mendapatkan 1 serangan (-1 HP).\n\nFrekuensi: Setiap 5 chapter.
+name=Air Raid
+descr=Semua unit menerima 1 damage.\n\nFrekuensi: Setiap giliran ke-5.
 
 < FIELDEVENT_MINELAYER >
 name=Minelayer
-descr=Trap dipasang pada panel acak.\n\nFrekuensi: Setiap 3 chapter.
+descr=Jebakan dipasang pada panel acak.\n\nFrekuensi: Setiap giliran ke-3.
 
 < FIELDEVENT_MIRACLE >
-name=Keajaiban
-descr=Semua pertarungan, bonus, draw, drop dan move panel mempunyai efek 2x lipat.\n\nFrekuensi: Setiap 3 chapter.\nDurasi: 1 chapter.
+name=Miracle
+descr=Semua panel Battle, Bonus, Draw, Drop dan Move mempunyai efek 2x lipat.\n\nFrekuensi: Setiap giliran ke-5.\nDurasi: 1 giliran.
 
 < FIELDEVENT_BATTLEFIELD >
-name=Perang
-descr=Semua bonus dan drop panel berubah menjadi panel pertarungan.\n\nFrekuensi: Setiap 3 chapter.\nDurasi: 3 chapter.
+name=Battlefield
+descr=Semua panel Bonus dan Drop berubah menjadi panel Battle.\n\nFrekuensi: Setiap giliran ke-6.\nDurasi: 3 giliran.
 
 < FIELDEVENT_CONFUSION >
 name=Confusion
-descr=Semua kartu pemain diacak dan tidak dapat dilihat oleh pemain.\n\nFrekuensi: Setiap 3 chapter.\nDurasi: 1 chapter.
+descr=Semua kartu pemain diacak dan tidak dapat dilihat oleh pemain.\n\nFrekuensi: Setiap giliran ke-7.\nDurasi: 1 giliran.
 
 < FIELDEVENT_BACKTRACK >
-name=Gerak Mundur
-descr=Arah gerakan dibalik untuk semua pemain.\n\nFrekuensi: Setiap 3 chapter.\nDurasi: 1 chapter.
+name=Backtrack
+descr=Arah gerakan dibalik untuk semua unit.\n\nFrekuensi: Setiap giliran ke-8.\nDurasi: 1 giliran.
 
 < FIELDEVENT_SPRINT >
 name=Sprint
-descr=Mendapatkan 2x dadu.\n(Maksimal 4 dadu.)\n\nFrekuensi: Setiap 3 chapter.\nDurasi: 1 chapter.
+descr=Bergerak dengan 2x dadu.\n(Maksimal 4 dadu.)\n\nFrekuensi: Setiap giliran ke-6.\nDurasi: 1 giliran.
 
 < FIELDEVENT_HOMEROULETTE >
 name=Home Roulette
-descr=Semua home panel dipindahkan secara acak.\n\nDurasi: 1 chapter.
+descr=Semua home panel dipindahkan secara acak.\n\nDurasi: 1 giliran.
 
 < FIELDEVENT_BOMBER >
 name=Bomber
 descr=Bom ditempatkan pada panel acak yang akan meledak setelah 1-4 chapter,\nmenimbulkan 2 serangan pada semua unit di area yang berbentuk seperti tanda + (-2 HP).\n\nFrekuensi: Setiap 2 chapter.
 
 < FIELDEVENT_MYSTERY >
-name=Misteri
+name=Mystery
 descr=Eventfield yang dipilih secara acak diluncurkan.\n\nFrekuensi: Setiap 5 chapter.
 
 < FIELDEVENT_FREEZE >
-name=Beku
+name=Freeze
 descr=1/3 panel yang tidak dibekukan di field menjadi beku selama 1 chapter.\n\nFrekuensi: Setiap 5 chapter.
 
 < FIELDEVENT_TREASURE >
-name=Harta karun
+name=Treasure
 descr=Peti harta karun berisi bonus ditempatkan pada panel acak.\npergi ke panel tersebut untuk membuka peti.\n\nFrekuensi: Semua chapter.
 
 < FIELDEVENT_AMP >
@@ -110,3 +110,7 @@ descr=
 < FIELDEVENT_CHAOS_OVERINDULGENCE >
 name=Overindulgence
 descr=
+
+< FIELDEVENT_CONVERGENCE >
+name=Convergence
+descr=Current field will change to another random one.\n\nFrequency: Every 6th chapter.

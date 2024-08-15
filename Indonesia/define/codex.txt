@@ -261,3 +261,59 @@
 2=Likes: Live concerts with spectators, loyal fans\nDislikes: Internet flaming
 3=After meeting Saki, Sham ascended to the next level of cuteness and forced Sora to form an idol group with her.
 4=Pulled along by the pushy Sham, Sora was hesitant about being an idol at first, but now enjoys being one and getting encouragement from all of their fans.
+
+< LORE_YUUKI >
+1=Yuuki is a 17 year old girl who wears an angel puppet on one hand and a devil on the other. 
+2=Likes: Plushies, children\nDislikes: Party poopers, buzzkills
+3=She does all her talking in the form of ventriloquism through the two puppets, though the inexperienced ventriloquist often stumbles and mixes one puppet with the other.
+4=Yuuki does her performance for many reasons - first and foremost, she wants to perform on a stage for the entertainment of children. Unfortunately since she's awkward and self-taught, people often find her weird and the children she wants to perform for are terrified of her. However, such things don't happen to her in the cheerful world of 100% Orange Juice.
+
+< LORE_ISLAY >
+1=As a 23 year old female pilot, Islay is in her prime. She belongs to the Guild, and loves nothing more than flying her beloved white plane, White Cross.
+2=Likes: Flying\nDislikes: Hustle and bustle, trouble
+3=Islay is Marc's senior and works as her mentor and occasional partner. She has a serious and responsible personality, but rarely shows initiative. Islay is respectful toward those with skill, but doesn't want to waste time rubbing shoulders and is selective in who she associates with.
+4=Her ex-partner Sherry is one of her few friends and rivals, but they parted ways after she left the Guild. After the collapse of the Guild, they work together once more as business partners. Islay likes to avoid troublesome things, but is sometimes pushed around by Sherry who can push right past her indifferent attitude with her blunt approach and get a rise out of her.
+
+< LORE_SUGURI46 >
+1=Even after she finished her job of rejuvenating wartorn Earth, the immortal girl kept contributing to humanity until the end of the planet itself.
+2=Likes: Candy, games\nDislikes: Long trips
+3=Ever since the end of Earth, Suguri and her only immortal friend, Sumika, have been aimlessly traveling in outer space.
+4=Suguri now has severe communication issues because she has nothing left to accomplish after successfully carrying her long, long mission to its end and no one but Sumika to talk to.
+
+< LORE_SUMIKA >
+1=The final boss of Acceleration of SUGURI 2, Sumika was named after a spaceship in which the human race drifted in outer space for 10.000 years.
+2=Likes: Herself, tinkering\nDislikes: Long trips, punishment
+3=She is an unfinished artificial human built to replace Hime, the most powerful resident and guardian of the ship.
+4=Because Sumika was left unfinished when the spaceship crashed to Earth, she has a cheerful and happy-go-lucky personality, but a deranged sense of morality which had her reanimate fighters from the war 10.000 years ago.
+5=After being made to reflect on her actions, she became omnipotent, and even after the destruction of the earth, she continued to aimlessly travel the universe with Suguri for about 46 billion years.
+
+< LORE_MIO >
+1=With the appearance of a woman in her late twenties, Mio is the mastermind behind Tomomo's powers.
+2=Likes: Cheating, parties\nDislikes: Moral arguments, lectures, losing
+3=As a devil with glowing hands and wings, she is the embodiment of chuunibyou, AKA eighth-grade syndrome.
+4=Mio is super haughty when holding an advantage, but turns into a teary-eyed blob at the slightest disadvantage.
+5=Mio saw everyone having fun and wanted to join in too, but being unable to act honest she put on the role of an evil mastermind. She tries to play the archetypical sexy villain lady, but loses character easily.
+
+< LORE_LULU >
+1=A girl who appears to be about 13 years old, Lulu has a somewhat menacing aspect to her, reminiscent of a devil or a dragon. 
+2=Likes: Ellie\nDislikes: Scary people, annoying people 
+3=Lulu is a timid person who speaks in a strange accent. After waking up without any memories, Lulu meets Ellie, makes friends with her, and then decides to travel together with her.
+4=When Lulu is near someone who has affection toward her, she can sense it and is able to lay an egg with a useful item inside.
+
+< LORE_ELLIE >
+1=Ellie is a 12 year old girl on a journey to find her mama, whom she can't remember anything about but can sense is somewhere out there.
+2=Likes: Lulu, getting praised, suckers\nDislikes: Annoying people, rats
+3=On her journey, an instinct she doesn't understand makes Ellie lash out at any Mousse she encounters, calling them rats.
+4=Ellie is a precocious kid who gets bossy whenever she holds the advantage. The high-pitched "Ahaa!" laughter is her signature move.
+
+< LORE_ALICIANRONE >
+1=A seemingly 16 year old girl who can use magic to run at great speed, Alicianrone is known as the Speed Witch. However, she's more commonly called by the nickname "Rone".
+2=Likes: Tea, contests\nDislikes: Spicy things, losing
+3=Rone has a high-handed and self-serving personality, and she has a habit of speaking her mind without hesitation.
+4=Rone doesn't think twice to tell people to their face that she likes them or dislikes them. However, it's hard to actually find people she dislikes, and she's well liked by the denizens of the forest.
+
+< LORE_TEOTORATTA >
+1=Teotoratta is a roughly 11 year old girl with the ability to command animals. She is also known as the Beast Witch - or Teo between friends.
+2=Likes: Beasts, games\nDislikes: Things that smell of iron
+3=Teotoratta herself also has the immediacy of a beast - she does what she wants, as soon as she wants to do it, often dragging everyone around her into the mix of things.
+4=When emotional, Teo makes all kinds of animal sounds.

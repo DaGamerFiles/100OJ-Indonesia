@@ -20,6 +20,12 @@ Aktif
 < CONFIG_DISABLE >
 Nonaktif
 
+< CONFIG_SHOW >
+Perlihatkan
+
+< CONFIG_HIDE >
+Sembunyikan
+
 < CONFIG_SYSTEM_GAMESPEED_LABEL >
 Kecepatan Game
 
@@ -34,6 +40,15 @@ Cepat
 
 < CONFIG_SYSTEM_GAMESPEED_SUPERFAST >
 Sangat Cepat
+
+< CONFIG_SYSTEM_STREAMERMODE_HEADER >
+Setelan Streaming
+
+< CONFIG_SYSTEM_STREAMERMODE_USERNAMES >
+Nama Pemain
+
+< CONFIG_SYSTEM_STREAMERMODE_LOBBYNAMES >
+Nama Lobi
 
 < CONFIG_SYSTEM_CPU_LABEL >
 Karakter CPU
@@ -53,20 +68,44 @@ Rich Presence (Steam dan Discord)
 < CONFIG_SYSTEM_CPU_COSMETICS >
 Kosmetik acak (Hanya host)
 
+< CONFIG_SYSTEM_ALT_MINIGAME_CONTROLS >
+Gunakan Kontrol Minigame Alternatif
+
 < CONFIG_SYSTEM_REDUCED_CLICKS >
-Mengurangi setiap klik
+Klik Dikurangi
 
 < CONFIG_SYSTEM_MOVEMENT_ANIMATION_SPEED >
-Kecepatan Pergerakan Animasi
+Kecepatan Animasi Bergerak
 
 < CONFIG_SYSTEM_MOVEMENT_ANIMATION_SPEED_LABEL >
 Kecepatan
 
 < CONFIG_SYSTEM_FIELD_LUMINOSITY >
-Tingkat Kecerahan Field
+Tingkat Kecerahan Papan
 
 < CONFIG_SYSTEM_FIELD_LUMINOSITY_LABEL >
 Kecerahan
+
+< CONFIG_SYSTEM_TAUNTS >
+Taunt
+
+< CONFIG_SYSTEM_PLAYERINFO >
+Info Pemain
+
+< CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_LABEL >
+Statistik Pemain
+
+< CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_SHOWALL >
+Perlihatkan Semua
+
+< CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_SHOWLEVELONLY >
+Hanya Level Online
+
+< CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_SHOWWINSONLY >
+Hanya Win Online
+
+< CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_HIDEALL >
+Sembunyikan Semua
 
 < CONFIG_SCREEN_SCREENMODE_LABEL >
 Mode Layar
@@ -89,6 +128,12 @@ Tekstur Full-Color
 < CONFIG_SCREEN_BACKGROUNDANIMATION_LABEL >
 Pergerakan Animasi
 
+< CONFIG_SCREEN_LANGUAGE_LABEL >
+Bahasa/Language
+
+< CONFIG_SCREEN_RESOLUTION_LABEL >
+Resolusi
+
 < CONFIG_SCREEN_ENABLERESIZE_LABEL >
 Aktifkan Pengubahan Ukuran Jendela
 
@@ -96,13 +141,31 @@ Aktifkan Pengubahan Ukuran Jendela
 Atur Ulang Jendela
 
 < CONFIG_SCREEN_RESTARTNOTICE >
-Beberapa perubahan akan muncul setelah di mulai ulang.
+Beberapa perubahan akan diterapkan setelah dimulai ulang.
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY >
+Aksesibilitas Visual
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_NONE >
+Tidak Ada
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_PROTANOPIA >
+Protanopia
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_DEUTERANOPIA >
+Deuteranopia
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_TRITANOPIA >
+Tritanopia
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_INTENSITY >
+Intensity
 
 < CONFIG_SOUND_SOUNDVOLUME_LABEL >
 Volume Audio
 
 < CONFIG_SOUND_SOUNDVOLUME_MASTER >
-Audio Master
+Master Audio
 
 < CONFIG_SOUND_SOUNDVOLUME_MUSIC >
 Musik
@@ -129,40 +192,40 @@ Tipe C
 Tipe D
 
 < CONFIG_SOUND_SYSTEMSOUND_VA >
-(Suara : %s)
+(VA : %s)
 
 < CONFIG_SOUND_FOCUSMUTE_LABEL >
-Matikan saat Kehilangan Fokus
+Bisukan saat Kehilangan Fokus
 
 < CONFIG_VOICE_CHARACTER_VOLUME >
 Volume Karakter
 
 < CONFIG_SOUND_SOUNDVOLUME_CHARACTERVOICE >
-Semua
+Semua Suara
 
 < CONFIG_VOICE_CHARACTER_ONLYME >
-Hanya Suara Karakter
+Hanya Suara Karakter Sendiri
 
 < CONFIG_VOICE_DISPLAY_TEXT >
-Tampilan Textbox
+Tampilan Kotak Teks
 
 < CONFIG_VOICE_AVOID_OVERLAP >
 Hindari Narration Overlapping
 
 < CONFIG_MODS_MODLIST_HEADER >
-Daftar Mod - %d mod terinstall.
+Daftar Mod - %d mod terpasang.
 
 < CONFIG_MODS_MODLIST_AUTHOR >
 Dibuat oleh: %s
 
 < CONFIG_MODS_MODLIST_DOCUMENTATION >
-Dokumentasi Online
+Dokumentasi Daring
 
 < CONFIG_MODS_NONE >
-Tidak ada mod yang terinstall.
+Tidak ada mod terpasang.
 
 < CONFIG_MODS_STEAMWORKSHOP >
-Steam Workshop
+Kunjungi Steam Workshop
 
 [EOF]
 

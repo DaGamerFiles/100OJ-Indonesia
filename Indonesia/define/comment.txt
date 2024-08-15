@@ -1,15 +1,15 @@
 
 < COM_CONFIG_SYSTEM >
-Pengaturan Sistem
+Pengaturan sistem.
 
 < COM_CONFIG_SCREEN >
-Pengaturan Layar
+Pengaturan layar.
 
 < COM_CONFIG_AUDIO >
-Pengaturan Audio
+Pengaturan audio.
 
 < COM_CONFIG_VOICE >
-Pengaturan Suara
+Pengaturan suara.
 
 < COM_CONFIG_MODS >
 Mod yang terpasang.
@@ -21,7 +21,7 @@ Pilih slot penyimpanan.
 Kamu yakin ingin menggunakan slot ini?
 
 < COM_NEWGAME_ENTERNAME >
-Masukkan nama kamu
+Masukkan nama pemainmu.
 
 < COM_NEWGAME_SELECTCHARACTER >
 Pilih karakter.
@@ -30,10 +30,10 @@ Pilih karakter.
 Kamu yakin ingin menggunakan karakter ini?
 
 < COM_LOADGAME_SELECTSLOT >
-Pilih slot penyimpanan untuk di buka.
+Pilih slot penyimpanan untuk dimuat.
 
 < COM_LOADGAME_LOADCONFIRM >
-Kamu yakin ingin membuka penyimpanan ini?
+Kamu yakin ingin memuat penyimpanan ini?
 
 < COM_SHOP_SELECTITEM >
 Pilih item untuk dibeli.
@@ -45,16 +45,16 @@ Kamu yakin ingin membeli item ini?
 Buka kemajuan event dengan %s?
 
 < COM_SHOP_ITEMSOLDOUT >
-Item terjual habis.
+Item ini terjual habis.
 
 < COM_SHOP_ITEMNOTINSTOCK >
-Item tidak tersedia.
+Item ini belum tersedia.
 
 < COM_SHOP_NOTENOUGHCURRENCY >
-Tidak bisa membeli barang ini.
+Kamu belum bisa membeli barang ini.
 
 < COM_SHOP_REACHEDCURRENCYCAP >
-Kamu tidak bisa memiliki lebih dari yang tersimpan.
+Kamu tidak dapat memiliki mata uang yang lebih dari saat ini.
 
 < COM_SHOP_NOSTEAMCONNECTION >
 Item ini membutuhkan sambungan ke Steam.
@@ -69,7 +69,7 @@ Kamu sudah memiliki DLC ini.
 Item ini diberikan kepada semua pemilik %s di Steam.
 
 < COM_SHOP_CHARACTERITEM >
-Item ini milik karakter yang tidak kamu miliki.
+Item ini milik karakter yang tidak kamu punyai.
 
 < COM_SHOP_LEVELTOOLOW >
 Level kamu tidak cukup untuk membeli item ini.
@@ -78,13 +78,13 @@ Level kamu tidak cukup untuk membeli item ini.
 Kamu membeli paket kartu!
 
 < COM_SHOP_BOUGHTCARD >
-Kamu membeli kartu single!
+Kamu membeli kartu satuan!
 
 < COM_SHOP_BOUGHTDISCOUNT >
-Kamu membeli tiket diskon!
+Kamu membeli tiket diskon toko!
 
 < COM_SHOP_BOUGHTCHARACTER >
-Kamu membeli karakter yang dapat dimainkan!
+Kamu membeli karakter baru yang dapat dimainkan!
 
 < COM_SHOP_BOUGHTFIELD >
 Kamu membeli field baru!
@@ -111,40 +111,40 @@ Kamu membeli 10 permen!
 Kamu membeli peti!
 
 < COM_SHOP_BOUGHTPET >
-Kamu membeli pet baru!
+Kamu membeli piaraan baru!
 
 < COM_SHOP_BOUGHTHOMEMARK >
-You bought a new homemark!
+Kamu membeli penanda rumah baru!
 
 < COM_SHOP_BOUGHTGENERICITEM >
-You bought a new item!
+Kamu membeli item baru!
 
 < COM_SHOP_BOUGHTEMOTE >
-You bought a new emote!
+Kamu membeli emoji baru!
 
 < COM_SHOP_BOUGHTCOSTUME >
-You bought a new costume!
+Kamu membeli kostum baru!
 
 < COM_SHOP_CONVERTCURRENCY >
-Converted currency!
+Mata uang dikonversikan!
 
 < COM_USERINFO_PLAYERINFO >
-Lihat info pemain.
+Lihat informasi pemain.
 
 < COM_USERINFO_GAMEINFO >
-Lihat info permainan.
+Lihat informasi permainan.
 
 < COM_USERINFO_BROWSECARDS >
-Telusuri kartu.
+Telusuri kartumu.
 
 < COM_USERINFO_CARDSINFO >
-Periksa info koleksi kartu kamu. 
+Periksa informasi koleksi kartumu. 
 
 < COM_USERINFO_AVATAR >
 Ubah avatar yang ingin ditampilkan.
 
 < COM_USERINFO_TAUNTS >
-Customize taunts per unit for use in-game.
+Kustomisasi taunt setiap unit untuk dipakai dalam permainan.
 
 < COM_USERINFO_GALLERY >
 Nikmati berbagai gambar dan BGM.
@@ -156,7 +156,7 @@ Lihat statmu dengan berbagai karakter pada pertandingan online.
 Pilih skenario.
 
 < COM_CAMPAIGN_SELECTSTAGE >
-Pilih bagian.
+Pilih stage.
 
 < COM_CAMPAIGN_BREAKERPACKONLY >
 Kampanye ini hanya dapat dimainkan jika memiliki Breaker Pack.
@@ -177,10 +177,10 @@ Kampanye ini hanya dapat dimainkan jika memiliki Wanderer Pack.
 Kampanye ini hanya dapat dimainkan jika memiliki Waruda Prison Break Pack.
 
 < COM_FREEBATTLE_CHOOSEGAMETYPE >
-Pilih mode game.
+Pilih mode permainan.
 
 < COM_FIELDSELECT >
-Pilih field.
+Pilih field permainan.
 
 < COM_RANDOMFIELD_MINIMUMREQUIRED >
 Kamu perlu mengatur setidaknya 3 level acak yang tersedia.
@@ -204,10 +204,10 @@ Kartu ini hanya dapat digunakan oleh pemilik DLC.
 Menunggu pemain lain untuk bersiap-siap...
 
 < COM_DECK_READY >
-Siap memainkan game!
+Siap untuk bermain!
 
 < COM_GAME_PAUSED >
-Jeda.
+Dijeda.
 
 < COM_GAME_QUITCONFIRM >
 Kamu yakin ingin keluar dari permainan?
@@ -219,25 +219,25 @@ Bintang yang kamu peroleh dari game ini.
 Atur opsi lobi.
 
 < COM_CREATELOBBY_CREATING >
-Membuat lobi...
+Membuat lobi Steam...
 
 < COM_CREATELOBBY_FAILED >
-Tidak dapat membuat lobi.
+Tidak dapat membuat lobi Steam.
 
 < COM_CREATELOBBY_NAMEEMPTY >
-Nama lobi tidak boleh kosong.
+Kolom Nama Lobi tidak boleh kosong.
 
 < COM_LOBBYLIST_SELECTLOBBY >
-Pilih lobi. Teman dari Steam akan muncul bintang hijau.
+Pilih lobi. Teman dari Steam akan muncul dengan bintang hijau.
 
 < COM_LOBBYLIST_JOINLOBBY >
-Gabung dengan lobi yang dipilih atau hubungi pemilik lobi.
+Gabung dalam lobi yang dipilih atau hubungi pemilik lobi.
 
 < COM_LOBBYLIST_PASSWORDEMPTY >
-Kata Sandi tidak boleh kosong.
+Kolom Kata Sandi tidak boleh kosong.
 
 < COM_LOBBYLIST_SEARCHEMPTY >
-Pencarian tidak boleh kosong.
+Kolom pencarian tidak boleh kosong.
 
 < COM_LOBBYLIST_CONNECTFAILED >
 Tidak dapat terhubung ke lobi.
@@ -252,10 +252,10 @@ Tidak dapat menghubungi pemilik lobi - data lobi tidak diambil.
 Tidak dapat bergabung - data lobi tidak diambil.
 
 < COM_LOBBY_WAITINGFORPARTICIPANTS >
-Menunggu peserta lain...
+Menunggu peserta lainnya...
 
 < COM_LOBBY_WAITINGFORPLAYERS >
-Menunggu pemain lain...
+Menunggu pemain lainnya...
 
 < COM_LOBBY_PLAYERSNOTREADY >
 Tidak dapat memulai game sampai semuanya sudah siap.
@@ -267,10 +267,10 @@ Tidak dapat mengusir pemain yang sudah siap.
 Tidak dapat mengusir pemain tersebut.
 
 < COM_LOBBY_MIDGAME_JOINED >
-Telah bergabung dalam game! Kamu dapat masuk pada chapter berikutnya.
+Telah bergabung dalam permainan! Kamu dapat masuk pada giliran berikutnya.
 
 < COM_LOBBY_SPECTATOR_WAITINGDECKS >
-Permainan segera dimulai! Menunggu pemain lain menyelesaikan deck mereka...
+Permainan segera dimulai! Menunggu pemain lain menyelesaikan dek kartu mereka...
 
 [EOF]
 
