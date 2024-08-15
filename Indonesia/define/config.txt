@@ -60,7 +60,7 @@ Acak
 Unik
 
 < CONFIG_SYSTEM_PROFANITYFILTER >
-Saring Kata kasar
+Saring Kata Kasar
 
 < CONFIG_SYSTEM_RICH_PRESENCE >
 Rich Presence (Steam dan Discord)

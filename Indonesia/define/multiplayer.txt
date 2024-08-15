@@ -1,18 +1,18 @@
 
 < FREEBATTLE_CREATELOBBY >
-Buat lobi
+Buat Lobi
 
 < FREEBATTLE_JOINLOBBY >
-Gabung lobi
+Gabung Lobi
 
 < FREEBATTLE_SINGLEPLAYER >
-Single Player
+Pemain Tunggal
 
 < FREEBATTLE_RETURN >
 Kembali
 
 < LOBBYLIST_RETRIEVINGLOBBIES >
-Memuat lobi game.\nTunggu sebentar...
+Memuat lobi permainan.\nTunggu sebentar...
 
 < LOBBYLIST_RETRIEVINGDATA >
 Memuat data lobi...
@@ -48,7 +48,7 @@ Permainan telah dibatalkan.
 Menunggu tanggapan dari server...
 
 < LOBBY_JOINFAILED >
-Tidak dapat gabung ke game.
+Tidak dapat bergabung ke permainan.
 
 < LOBBY_FULL >
 Lobi penuh.
@@ -146,25 +146,25 @@ Sistem
 --------
 
 < CHAT_MUTE_SELF_ERROR >
-Tidak bisa mute ke diri sendiri.
+Tidak bisa membisukan diri sendiri.
 
 < CHAT_MUTED_USER > 
-Kamu telah mute %s.
+Kamu telah membisukan %s.
 
 < CHAT_UNMUTED_USER > 
-Kamu mematikan mute %s
+Kamu mematikan pembisuan %s
 
 < CHAT_SYSTEM_LOBBYCREATED >
 %s telah dibuat!
 
 < CHAT_SYSTEM_LOBBYJOINED >
-Bergabung di %s!
+Bergabung ke %s!
 
 < CHAT_SYSTEM_PLAYERJOINEDLOBBY >
 %s telah bergabung ke lobi!
 
 < CHAT_SYSTEM_GAMEENDED >
-Game berakhir! kembali ke lobi.
+Permainan berakhir! Kembali ke lobi.
 
 < CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
 Meminta dari Host untuk bergabung...
@@ -179,7 +179,7 @@ Permintaan kamu telah kehabisan waktu.
 Permintaan kamu telah kehabisan waktu.
 
 < CHAT_SYSTEM_PLAYERTAKEOVER >
-%s ditetapkan sebagai player %d.
+%s ditetapkan sebagai pemain %d.
 
 < CHAT_SYSTEM_SWITCHEDTOPLAYER >
 Beralih ke pemain!

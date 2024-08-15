@@ -28,7 +28,7 @@ descr=1/3 dari panel di papan menjadi panel beku.
 
 < MIXER_MINELAYER >
 name=Minelayer
-descr=A Trap Card will be set on a randomly determined panel.
+descr=Sebuah kartu Trap akan dipasang pada suatu panel secara acak.
 
 < MIXER_MIRACLE >
 name=Miracle
@@ -40,7 +40,7 @@ descr=All units will be warped to a randomly chosen panel at the beginning of th
 
 < MIXER_REGENERATION >
 name=Regeneration
-descr=All units recover 1 HP at the beginning of the Chapter.
+descr=Semua unit menerima 1 HP pada awal mulai Chapter.
 
 < MIXER_SPRINT >
 name=Sprint
@@ -48,7 +48,7 @@ descr=All units roll a base two dice for movement.
 
 < MIXER_TREASURE >
 name=Treasure
-descr=Places a chest on a random panel.
+descr=Menempatkan sebuah peti pada suatu panel secara acak.
 
 < MIXER_HEALTHY_BOSS >
 name=Healthy Boss
@@ -76,7 +76,7 @@ descr=Semua pemain mendapatkan tambahan +1 EVD.
 
 < MIXER_BLAZING >
 name=Blazing
-descr=All units will gain +1 ATK and -1 DEF.
+descr=Semua unit mendapatkan +1 ATK dan -1 DEF.
 
 < MIXER_FLIPPED >
 name=Flipped

@@ -10,7 +10,7 @@ artist=Sora
 
 < PIN_FLYING_KAI >
 name=Kai Terbang
-desc=Diberikan kepada pemain yang menggunakan Kai berulang kali.\nKapan dompetnya akan kembali?
+desc=Diberikan kepada pemain yang menggunakan Kai berulang kali.\nKapankah dompetnya akan kembali?
 artist=Sora
 
 < PIN_FLYING_QP >
@@ -100,7 +100,7 @@ artist=Sora
 
 < PIN_FLYING_KRILA >
 name=Krilalaris Terbang
-desc=Diberikan kepada pemain yang menggunakan Krilalaris berulang kali.\nMenuju Darkness yang abadi.
+desc=Diberikan kepada pemain yang menggunakan Krilalaris berulang kali.\nMenuju Darkness yang Abadi.
 artist=Sora
 
 < PIN_FLYING_KAE >
@@ -130,12 +130,12 @@ artist=Sora
 
 < PIN_FLYING_SWEETBREAKER >
 name=Sweet Breaker Terbang
-desc=Diberikan kepada pemain yang menggunakan Sweet Breaker berulang kali.\nMemory melting in progress!
+desc=Diberikan kepada pemain yang menggunakan Sweet Breaker berulang kali.\nPencairan memori sedang berlangsung!
 artist=Sora
 
 < PIN_FLYING_STARBREAKER >
 name=Star Breaker Terbang
-desc=Diberikan kepada pemain yang menggunakan Star Breaker berulang kali.\nBeware of explosions.
+desc=Diberikan kepada pemain yang menggunakan Star Breaker berulang kali.\nAwas mudah meledak.
 artist=Sora
 
 < PIN_FLYING_NATH >
@@ -200,16 +200,16 @@ artist=Sora
 
 < PIN_IDLE_CUTIES >
 name=Cuties Diam
-desc=Diberikan kepada pemain yang menggunakan Cuties berulang kali.\nA career on the stage awaits!
+desc=Diberikan kepada pemain yang menggunakan Cuties berulang kali.\nPertunjukkan di atas panggung menanti!
 artist=Sora
 
 < PIN_FLYING_IRU >
 name=Iru Terbang
-desc=Diberikan kepada pemain yang menggunakan Iru berulang kali.\nHow about some exercise?
+desc=Diberikan kepada pemain yang menggunakan Iru berulang kali.\nBagaimana kalau sedikit latihan?
 artist=Sora
 
 < PIN_FLYING_MIRA >
 name=Mira Terbang
-desc=Diberikan kepada pemain yang menggunakan Mira berulang kali.\nThis pin is the mark of a hero.
+desc=Diberikan kepada pemain yang menggunakan Mira berulang kali.\nPin ini melambangkan seorang pahlawan.
 artist=Sora
 

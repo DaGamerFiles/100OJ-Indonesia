@@ -21,7 +21,7 @@ Bonus Kampanye
 Bonus Boss
 
 < RESULT_SCORE_CARDMASTER >
-Card Master
+Master Kartu
 
 < RESULT_SCORE_TRAPMEISTER >
 Trap Meister
